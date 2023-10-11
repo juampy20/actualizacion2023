@@ -384,27 +384,6 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd
 
 
 
-MUCH MUSIC
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/1200px-MuchMusicLA_%282007%29.svg.png" group-title="MUSICA", 40 MUCH MUSIC ss
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://csc-ptn-edge01.sensa.com.ar/live/eds/MuchMusic/live_dash_cld/MuchMusic.mpd
-
-
-HTV
-
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/htv.webp" group-title="MUSICA", 41 HTV ss
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://csc-ptn-edge01.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd
-
-
-
-
-
 ------------------ -------------------CINE -----------------------------------------------
 ------------------------------------------------------------------------------------------
 
