@@ -22,8 +22,6 @@ https://s3asjkbd.101streams.co/scripts/MTQxNTg=/caxi.m3u8
 https://thegentleclass.xyz/hls/class17_hd/index.m3u8
 
 
-
-
 --------------------------------------------------------
 -------------------------------------------------------------
 
@@ -354,7 +352,6 @@ MTV
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtv.webp" group-title="MUSICA", 37 MTV lpq
 https://sitsastr.qvixsolutions.com/stsa_mtvhd/index.m3u8
-
 
 
 MTV HITS
@@ -1128,17 +1125,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.m
 -------------------------------------------------------------------------------------------------
 
 
-DIRECTV SPORTS ?
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ac8dd7d48545bc881091ee1bbecaf42:9787ea06df2f063245bbda4a738e51cc
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="SPORTS DIRECTV",199 DIRECTV SPORTS ?
-https://dtvott-abc.akamaized.net/dash_live_1066/manifest.mpd
 
 DIRECTV SPORTS COLOMBIA
 
@@ -1166,30 +1153,7 @@ DIRECTV SPORTS 2 ARGENTINA
 https://1063-vos.dtvott.com/DASH/manifest.mpd
 
 
-DIRECTV SPORTS PLUS
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="SPORTS DIRECTV",206 DIRECTV SPORTS PLUS
-https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
-
-
-DIRECTV SPORTS FIGHT
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d677a19db3a05a019d8683b9250cbc0f:e2756e96d7d9d63729b645a6139cb513
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="SPORTS DIRECTV",207 DIRECTV SPORTS FIGHT
-https://dtvott-abc.akamaized.net/dash_live_1065/manifest.mpd
 
 
 
