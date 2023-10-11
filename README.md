@@ -2794,3 +2794,270 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1100022.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1100023.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Intrépidos forajidos: Arma Joven II (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfZxNJiNepAV1Cy0P1b3RJohqkf.jpg" group-title="VOD - WESTERN",Intrépidos forajidos: Arma Joven II (1990)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1100025.mkv
+
+
+COMEDIA-----
+------------
+
+#EXTINF:-1 tvg-id="" tvg-name="2 Guns (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTQlsFIqcL26eu73gJvau9a00pZ.jpg" group-title="VOD - COMEDIA",2 Guns (2013)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2 Minutes of Fame (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzDyNVRMGinYFxblbIlpVY5nE6.jpg" group-title="VOD - COMEDIA",2 Minutes of Fame (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="3 idiotas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZB9NvNLcxdmoiAh58ZfG8vdXjf.jpg" group-title="VOD - COMEDIA",3 idiotas (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="3 Ninjas Contraatacan (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kIVvJJpzc4BNms8wBzB9GPvfdE.jpg" group-title="VOD - COMEDIA",3 Ninjas Contraatacan (1994)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="5 Weddings (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftgiAskwz67dDg9a39204otCK1p.jpg" group-title="VOD - COMEDIA",5 Weddings (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="6 en la sombra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug4XukdNLwD9Ygyw4V0L5DjoNAp.jpg" group-title="VOD - COMEDIA",6 en la sombra (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="7 horas para enamorarte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMU3x21O7NZT142Q65JCgSp01NI.jpg" group-title="VOD - COMEDIA",7 horas para enamorarte (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Milagro en la celda 7 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scxBIHaT1ZiPDPJu3vKd9Yn5gBA.jpg" group-title="VOD - COMEDIA",Milagro en la celda 7 (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10 razones para odiarte (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg" group-title="VOD - COMEDIA",10 razones para odiarte (1999)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="16 deseos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ej5vw4lbGdG8V5lbkP6mgXA6EcT.jpg" group-title="VOD - COMEDIA",16 deseos (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="17 otra vez (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTexZp56ANG28Q6t5NFPeyeCsBo.jpg" group-title="VOD - COMEDIA",17 otra vez (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="20 años no importan (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZiGVzM1j2HdXNjXsGOjy9YIVTW.jpg" group-title="VOD - COMEDIA",20 años no importan (2013)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mujeres del siglo XX (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5dyHnqVCakXluzw5ZM81QZrNa7.jpg" group-title="VOD - COMEDIA",Mujeres del siglo XX (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche de marcha (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33g7cePX7F2BvvxfjrTwSVCseol.jpg" group-title="VOD - COMEDIA",Noche de marcha (2013)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infiltrados en clase (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnznvBLkpin6L8D4plfAS8EbJx3.jpg" group-title="VOD - COMEDIA",Infiltrados en clase (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="22 balas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dibfoJ21beM3IF9AR74NP5Wy5D3.jpg" group-title="VOD - COMEDIA",22 balas (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infiltrados en la universidad (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KNIG63EGYe6BmhGi7e7OfSDJcy.jpg" group-title="VOD - COMEDIA",Infiltrados en la universidad (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="27 vestidos (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0v9lvloyAtIj2Hf8a6w6JlBxeI.jpg" group-title="VOD - COMEDIA",27 vestidos (2008)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="27: El club de los malditos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoiISMdxbHIG6jqp3pFNLd4O50M.jpg" group-title="VOD - COMEDIA",27: El club de los malditos (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="30 minutos o menos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkCO4bf8kDxF4wsUOMzhYk3Pgz2.jpg" group-title="VOD - COMEDIA",30 minutos o menos (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="40 días y 40 noches (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24RIC1zqkWn4YB1LagpczSFbKvY.jpg" group-title="VOD - COMEDIA",40 días y 40 noches (2002)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="48 deseos de Navidad (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrcA62O9j8y4gsSpftMKVcvrzCI.jpg" group-title="VOD - COMEDIA",48 deseos de Navidad (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Límite: 48 horas (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QL19nliH4xLxQC55CwRalpnkuA.jpg" group-title="VOD - COMEDIA",Límite: 48 horas (1982)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="50 primeras citas (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTqeVMNlpuukCiSM9n1uI5MK56Y.jpg" group-title="VOD - COMEDIA",50 primeras citas (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="50 a 1 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIbniwxSlHyvGECiBMkTeWI0pib.jpg" group-title="VOD - COMEDIA",50 a 1 (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="68 Kill (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80ifMmWcNMQ8uD4DTyMFEuJbEJG.jpg" group-title="VOD - COMEDIA",68 Kill (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="100 cosas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdETd9rRfFawO6tVy2haKC0nV2m.jpg" group-title="VOD - COMEDIA",100 cosas (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="100 metros (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tSFaWi4CGnwBMYD429ocKVeoIM.jpg" group-title="VOD - COMEDIA",100 metros (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="303 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUxVmctU9gZG7YEhUChpBZTYtrV.jpg" group-title="VOD - COMEDIA",303 (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(500) días juntos (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHzgvcbLQxyym58r5N0VKL6c8RS.jpg" group-title="VOD - COMEDIA",(500) días juntos (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1941 (1941)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/py82INBB23kuulFLvdcu9pAqqCr.jpg" group-title="VOD - COMEDIA",1941 (1941)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="50/50 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZPvALAWTLwKB1RE1CDT3Npa0Am.jpg" group-title="VOD - COMEDIA",50/50 (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A.R.C.H.I.E. 2: Mission Impawsible (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5B3mkYMxEq5PXiZHtAb2Js4NHVb.jpg" group-title="VOD - COMEDIA",A.R.C.H.I.E. 2: Mission Impawsible (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Consejos de una canguro para cazar monstruos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJvuUUhHM3FtoXL0qlHPtsfwq8n.jpg" group-title="VOD - COMEDIA",Consejos de una canguro para cazar monstruos (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Bad Idea Gone Wrong (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGA4aQzypmHiAa1xmpCynwWFHcD.jpg" group-title="VOD - COMEDIA",A Bad Idea Gone Wrong (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gran desmadre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnuqww5UXvvcqGh4NuEWt9g2qJa.jpg" group-title="VOD - COMEDIA",El gran desmadre (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un niño grande (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AQlj4fIeZoDO74xhBKsEVPUa8m.jpg" group-title="VOD - COMEDIA",Un niño grande (2002)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lz5PqgxoBVadfhB8GBxfT35Wbg.jpg" group-title="VOD - COMEDIA",Abracadabra (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Absolutamente todo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dV1aYFiTEnV9Hjco38bKE4ANRTq.jpg" group-title="VOD - COMEDIA",Absolutamente todo (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Absolutamente fabulosas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYyjy9MaHWPoFKPAJHhYhQfmWsz.jpg" group-title="VOD - COMEDIA",Absolutamente fabulosas (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En casa todo está bien (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j92GNi6ooPKEDj44VdrkVM6rV1f.jpg" group-title="VOD - COMEDIA",En casa todo está bien (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Accidentally in Love (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xB5mr7498U3hOJ1WRKcULFwy87w.jpg" group-title="VOD - COMEDIA",Accidentally in Love (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura Jr.: Detective de Mascotas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XPL9tqC0ux7lyLjYZdZ3F3llAX.jpg" group-title="VOD - COMEDIA",Ace Ventura Jr.: Detective de Mascotas (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura: operación África (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/899yWih4ic8AyczedYiX41g7TvQ.jpg" group-title="VOD - COMEDIA",Ace Ventura: operación África (1995)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cenicienta se enamora (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD4SvhjDKi7ppsceMbxXKgMBtUi.jpg" group-title="VOD - COMEDIA",Cenicienta se enamora (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Action Point (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg" group-title="VOD - COMEDIA",Action Point (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adam Sandler: 100% Fresh (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykIpbOWvqx3Jz6oMFss5ldIVkfU.jpg" group-title="VOD - COMEDIA",Adam Sandler: 100% Fresh (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una pizca de amor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBuQPAO9RZmtrycr1n7ZI8ObsiH.jpg" group-title="VOD - COMEDIA",Una pizca de amor (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia Addams: La tradición continúa (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZcXBJq9DRxEXHEtgZTiwBERqW4.jpg" group-title="VOD - COMEDIA",La familia Addams: La tradición continúa (1993)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una boda en diciembre (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSMbRlQkMrHyB71B4gA5oEK5Uh.jpg" group-title="VOD - COMEDIA",Una boda en diciembre (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tu mejor amigo: Un nuevo viaje (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cq7oRDzpSSldtyUuhW8aDL53OCV.jpg" group-title="VOD - COMEDIA",Tu mejor amigo: Un nuevo viaje (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tu mejor amigo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vz34upg09Hh9p4aV2Uau19g2bv.jpg" group-title="VOD - COMEDIA",Tu mejor amigo (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Síndrome postdivorcio (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iU5DZVXV8br0dnYl0ngu1Ih5WaS.jpg" group-title="VOD - COMEDIA",Síndrome postdivorcio (2013)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adventureland (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8022LbeOnc4mlmtPcWW9rXdlj7.jpg" group-title="VOD - COMEDIA",Adventureland (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adventures in Babysitting (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Adventures in Babysitting (1989)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un pez llamado Wanda (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXcUJZzfM4fl5X1bhywRQcBLoF7.jpg" group-title="VOD - COMEDIA",Un pez llamado Wanda (1988)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A fondo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riPC6Zk6uvpfbVnExWGLRe754uQ.jpg" group-title="VOD - COMEDIA",A fondo (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="After Everything (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fwosV84f3BOV2h4kqcbpQplFLY.jpg" group-title="VOD - COMEDIA",After Everything (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un gesto estúpido e inútil (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVExTwKXN8sbkBRYhaNcCCouuly.jpg" group-title="VOD - COMEDIA",Un gesto estúpido e inútil (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superagente Cody Banks (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4cXY2pPzRTR4e5sknVbVzJisJH.jpg" group-title="VOD - COMEDIA",Superagente Cody Banks (2003)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superagente Cody Banks 2: Destino Londres (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iESxrWZcA43ljcgy6xIf4ckvZ0n.jpg" group-title="VOD - COMEDIA",Superagente Cody Banks 2: Destino Londres (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Age of Summer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5jloyTyJMJUSwK4zJYrphTIu1J.jpg" group-title="VOD - COMEDIA",Age of Summer (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosas de tíos (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpLNAkJqAxzkIChwOJyBLr2MJsB.jpg" group-title="VOD - COMEDIA",Cosas de tíos (2003)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Happening of Monumental Proportions (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0OfNAgYtogZagFfpKTryDpk05I.jpg" group-title="VOD - COMEDIA",A Happening of Monumental Proportions (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ahí está el detalle (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WPBWuH2DuXICkmIYhCLN1eaoJ4.jpg" group-title="VOD - COMEDIA",Ahí está el detalle (1940)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ahí te encargo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v230KtHmd261EA4OSMMSC2TCiA8.jpg" group-title="VOD - COMEDIA",Ahí te encargo (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cascarrabias (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTLMYDgnkvc3258HjJBGLAOF5vl.jpg" group-title="VOD - COMEDIA",Cascarrabias (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esperando al rey (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4yQmPvMtSrQTQlu43LIp8sMVJa.jpg" group-title="VOD - COMEDIA",Esperando al rey (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cabezas Huecas (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Us9yWtxAzl7WrcjXPZ9NrjaM3T.jpg" group-title="VOD - COMEDIA",Cabezas Huecas (1994)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aterriza como puedas 2 (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmIDnlq8Q81OM4egSZ7Dn6Ea3uL.jpg" group-title="VOD - COMEDIA",Aterriza como puedas 2 (1982)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A la mala (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqnrSonCqTpsCdI9a9I1IS0e3Gp.jpg" group-title="VOD - COMEDIA",A la mala (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alelí (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gtcPLk0qEGghqIW1g7DJ4Jydf3.jpg" group-title="VOD - COMEDIA",Alelí (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alexander y el día terrible, horrible, espantoso, horroroso (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNWPCQE48Vt2FMb77RMtzoebc66.jpg" group-title="VOD - COMEDIA",Alexander y el día terrible, horrible, espantoso, horroroso (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alex Strangelove (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OemqmvthXswt5KFmtXBCMMloJ4.jpg" group-title="VOD - COMEDIA",Alex Strangelove (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens Ate My Homework (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5whmTsqUItnPkZDz4NGMLi0Ra8.jpg" group-title="VOD - COMEDIA",Aliens Ate My Homework (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Little Bit of Heaven (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",A Little Bit of Heaven (1940)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nina al desnudo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcOV7ALpm0CiIyeTxP3Ncjrc7HA.jpg" group-title="VOD - COMEDIA",Nina al desnudo (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Mejor Regalo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmRfayq8RxZzvAt5JO2Y77ZQisj.jpg" group-title="VOD - COMEDIA",El Mejor Regalo (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy todas ellas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAzX5TSKREp3Mhq7nqew4DcXjRZ.jpg" group-title="VOD - COMEDIA",Yo soy todas ellas (2021)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casi Navidad (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oy7Hqtqb56x5zvfUOlaXPFZmvTa.jpg" group-title="VOD - COMEDIA",Casi Navidad (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aloha (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmTchyxSeCWc24vZAYT37cSL1pa.jpg" group-title="VOD - COMEDIA",Aloha (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Y entonces llegó ella (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PlwxWjrxDauWM8h6XnHfzUvTSZ.jpg" group-title="VOD - COMEDIA",Y entonces llegó ella (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al son que me toquen bailo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAjLMeHzgVMy44XkUCTClzVpFkz.jpg" group-title="VOD - COMEDIA",Al son que me toquen bailo (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvin and the Chipmunks: Batmunk (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8B0OhnECOGO6CMZ30JnAfZVlNFi.jpg" group-title="VOD - COMEDIA",Alvin and the Chipmunks: Batmunk (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvin and the Chipmunks: Batmunk (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8B0OhnECOGO6CMZ30JnAfZVlNFi.jpg" group-title="VOD - COMEDIA",Alvin and the Chipmunks: Batmunk (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvin y las ardillas 3 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lg6mc7D7QFB24rKoyQIeCa6En43.jpg" group-title="VOD - COMEDIA",Alvin y las ardillas 3 (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvin y las ardillas: Fiesta sobre ruedas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IiWy0nfNSrQGuXDmAKf4eaTmc9.jpg" group-title="VOD - COMEDIA",Alvin y las ardillas: Fiesta sobre ruedas (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quizás para siempre (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fk7AOg1gSt41FUUsW01v28jXhwO.jpg" group-title="VOD - COMEDIA",Quizás para siempre (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amalia, la secretaria (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4qbrUh7vXBXpgd0jOO46k1WJTy.jpg" group-title="VOD - COMEDIA",Amalia, la secretaria (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amanda & Jack Go Glamping (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmokEVZDkn9bofvJ0KjANtfZf5E.jpg" group-title="VOD - COMEDIA",Amanda & Jack Go Glamping (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amateur Night (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Amateur Night (1986)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amelie (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYvUib00miJWxWkiXhy3QnrCj96.jpg" group-title="VOD - COMEDIA",Amelie (2001)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vCYQf5zQUFnG2dZptuvZlO0alE.jpg" group-title="VOD - COMEDIA",American Pie 2 (2001)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Band Camp (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aH2DwyuUi63o65Ciw9sUfmNMFZg.jpg" group-title="VOD - COMEDIA",American Pie presenta: Band Camp (2005)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Fraternidad Beta (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE99yrphO0UsQRd9bFn8zu4HXuc.jpg" group-title="VOD - COMEDIA",American Pie presenta: Fraternidad Beta (2007)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Las chicas mandan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UQOaKfjogSrfKFztgNOaDUKKVB.jpg" group-title="VOD - COMEDIA",American Pie presenta: Las chicas mandan (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: El libro del amor (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WDbcnxUdhBNtMv8BzO1agc1ozp.jpg" group-title="VOD - COMEDIA",American Pie presenta: El libro del amor (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Una fiesta de pelotas (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18uUWwuAK4B56Cwf1sEY5OzYAUM.jpg" group-title="VOD - COMEDIA",American Pie presenta: Una fiesta de pelotas (2006)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnuUgdlpB6gVEqieR7TrEtYL23T.jpg" group-title="VOD - COMEDIA",American Pie (1999)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie: El reencuentro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HyHcHP17VU5QCPbiFbZEtMKSis.jpg" group-title="VOD - COMEDIA",American Pie: El reencuentro (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Ultra (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi2MCDYvrZQPf1uXyvfVYPE57Mz.jpg" group-title="VOD - COMEDIA",American Ultra (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie ¡Menuda boda! (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg" group-title="VOD - COMEDIA",American Pie ¡Menuda boda! (2003)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La pareja del año (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt8HQdE3LnskMip9FKjToqOgEJB.jpg" group-title="VOD - COMEDIA",La pareja del año (2001)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigos en apuros (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAgh4PBtTXHSjzd7Axly6Mz6tu9.jpg" group-title="VOD - COMEDIA",Amigos en apuros (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigo Undead (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dRdw20BUiiiOP9pdkkTMYzSWrD.jpg" group-title="VOD - COMEDIA",Amigo Undead (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mil maneras de morder el polvo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vm0dutP6EqrVf1w7qZPYKkXpkn5.jpg" group-title="VOD - COMEDIA",Mil maneras de morder el polvo (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ammore e malavita (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49q4CTKlHX5Y8pzSsr27akt6lhR.jpg" group-title="VOD - COMEDIA",Ammore e malavita (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor de Película (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYq7h1HmrbB5gfHKtVs5Rkox2v3.jpg" group-title="VOD - COMEDIA",Amor de Película (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juliet, desnuda (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8GRMGDB1yvVOMINsyo2WckkQSf.jpg" group-title="VOD - COMEDIA",Juliet, desnuda (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amores modernos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irhfIjrDiEQR8BSqIvFpn6CVkdZ.jpg" group-title="VOD - COMEDIA",Amores modernos (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor sin cita previa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuThabdFimUj4G9zYib8TAduqzS.jpg" group-title="VOD - COMEDIA",Amor sin cita previa (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor urgente (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWflfNHdaDSijwrKlCYH0aq1FZa.jpg" group-title="VOD - COMEDIA",Amor urgente (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Viajero (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWflfNHdaDSijwrKlCYH0aq1FZa.jpg" group-title="VOD - COMEDIA",Amor Viajero (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una terapia peligrosa (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8H3BLEgmPFsRMHjUaCh3RkvxdlE.jpg" group-title="VOD - COMEDIA",Una terapia peligrosa (1999)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un hombre lobo americano en París (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49qfumITDLKoqfaovwVKujczpFf.jpg" group-title="VOD - COMEDIA",Un hombre lobo americano en París (1997)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El reportero: la leyenda de Ron Burgundy (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm3PZJgeqUgAt8Y4wZCaHmabZ54.jpg" group-title="VOD - COMEDIA",El reportero: la leyenda de Ron Burgundy (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ejecutivo agresivo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUukygoCwJTbecqFdYLho7Zyr67.jpg" group-title="VOD - COMEDIA",Ejecutivo agresivo (2003)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Movida en el Roxbury (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a01ADTGfR6Z8WjTzTohHDtlOBzm.jpg" group-title="VOD - COMEDIA",Movida en el Roxbury (1998)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A pesar de todo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a01ADTGfR6Z8WjTzTohHDtlOBzm.jpg" group-title="VOD - COMEDIA",A pesar de todo (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Second Chance: Rivals! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a01ADTGfR6Z8WjTzTohHDtlOBzm.jpg" group-title="VOD - COMEDIA",A Second Chance: Rivals! (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El pequeño espacio entre el odio y el amor (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo9AGi5LlFXZUj8MDPq3eKCUMpd.jpg" group-title="VOD - COMEDIA",El pequeño espacio entre el odio y el amor (1996)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A ti te quería encontrar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo9AGi5LlFXZUj8MDPq3eKCUMpd.jpg" group-title="VOD - COMEDIA",A ti te quería encontrar (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A volar, joven (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo9AGi5LlFXZUj8MDPq3eKCUMpd.jpg" group-title="VOD - COMEDIA",A volar, joven (1947)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Crackers (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h3mttgqxN2RJy3Oakrp7QZhOKX.jpg" group-title="VOD - COMEDIA",Animal Crackers (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Crossing: La película (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEv6gX5a6ciVOqzDsdNBsqTF4qV.jpg" group-title="VOD - COMEDIA",Animal Crossing: La película (2006)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ana y el apocalipsis (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lCfWsCiWjlq5S2jItRUbF5QM0.jpg" group-title="VOD - COMEDIA",Ana y el apocalipsis (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annie (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lCfWsCiWjlq5S2jItRUbF5QM0.jpg" group-title="VOD - COMEDIA",Annie (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annie Hall (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zsJ5bgIjOBc9YGFE7jVffDom0Z.jpg" group-title="VOD - COMEDIA",Annie Hall (1977)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annie, una aventura real (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXSZSwjHf8NZ0d6pnfS7dVhifVf.jpg" group-title="VOD - COMEDIA",Annie, una aventura real (1995)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anomalisa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg" group-title="VOD - COMEDIA",Anomalisa (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antboy 3 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wThFeVFNhZM5sSaPsIxN2hQ1KmP.jpg" group-title="VOD - COMEDIA",Antboy 3 (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100158.mkv
