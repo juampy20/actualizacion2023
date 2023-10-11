@@ -992,11 +992,7 @@ ESPN 3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="SPORTS ESPN",102 ESPN 3 lpq
 https://sitsastr.qvixsolutions.com/stsa_espn3hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="SPORTS ESPN",102 ESPN 3 ss
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
+
 
 
 
@@ -1006,11 +1002,7 @@ ESPN EXTRA
 https://sitsastr.qvixsolutions.com/stsa_espnextrahd/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="SPORTS ESPN",103 ESPN EXTRA ss
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPNMAS/live_dash_cld/ESPNMAS.mpd
+
 
 
 
