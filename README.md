@@ -2083,14 +2083,80 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1173483.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1173906.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Noches de verano en Taipéi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6TMfQn6RsWmJVtCoCKk04sQcID.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Noches de verano en Taipéi (2023)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1173909.mkv
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="El club de los lectores criminales (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idew42l7ILdyR97XC9yG4hFUy1Z.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El club de los lectores criminales (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Between Us (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnWNEBlajJxbUDZQF9PfgCJrLt4.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Between Us (2022)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Day as a Lion (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxSKca4dNlk7O7PMiEYT203vlIw.jpg" group-title="VOD - ESTRENOS Y RECIENTES",One Day as a Lion (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casi muerta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSezYOBs7H3RG8rDcjsK3MqluxN.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Casi muerta (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los bastardos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffDHUOjHNfqSizXFA7oymCCckE8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Los bastardos (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El medico aleman " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5FaEJgVrl2xf9FOuQ99svRCGC9.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El medico aleman 
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja presenta: La zona intermareal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rozwpOPiTEYnXygWGvUPST4lVQa.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Bob Esponja presenta: La zona intermareal (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hypnotic (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IhGkkalwXguTlceGSl8XUJZOVI.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Hypnotic (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hijos De Perra (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FLIPmNE9SihcD0ui5yqmS6kKjV.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Hijos De Perra (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vida adulta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vn77J4IsECDqdPUALpLNFJzJxa.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Vida adulta (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Birth/Rebirth (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Birth/Rebirth (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misión Panamá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMAB7LkYdtFHlQwQxGK8gEfj1Ek.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Misión Panamá (2022)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1174905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perpetrator (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjTI6czy62GCsoI7G7fKghSrH2x.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Perpetrator (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cincuenta tartas para Jane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaZnrX0FIScPXC5nYacBLpv8tuL.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Cincuenta tartas para Jane (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sentinelle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFg0Q1kqfOhxlRvb8Dle7WF58F.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Sentinelle (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sound of Freedom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Sound of Freedom (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Más allá de la ley " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQmql1Ob3j3OzxtcJHiR7s9BlfR.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Más allá de la ley 
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las cintas de Rosa Peral (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jAnsIm4qzy28IBJeJsTQCdnORE.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Las cintas de Rosa Peral (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="9/11: Minute by Minute " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FSmD5bCBFpXosIzT0OJDcYVwFM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",9/11: Minute by Minute 
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Háblame (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Háblame (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barbie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Barbie (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mercy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8voINwqMlscROrjhN97fGkmhvEV.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Mercy (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jules (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Bm02TOMf9kJ0bIxlW8W2SLJbg.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Jules (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Consagración" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Mmg06UfGL6T38UCnInMTgRfv7K.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Consagración
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Crime (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4j7w8X4cE7rC3Ri2j46Lllkj4Cy.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Once Upon a Crime (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los otros " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6L1ciqLE0V9Q4l2N24lchXIYR.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Los otros 
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Conde (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyKY1DlogKQ8coiTuJs3uRsV4NX.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El Conde (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOeuGFopH4VE1YxURNZsQqy7xCr.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Equalizer 3 (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Theater Camp (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2osbLk1MMt9qjXPKSB2hMcBUyrw.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Theater Camp (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A millones de kilómetros (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hrkceHqhMbxfZNb570NzjQWGI7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",A millones de kilómetros (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La probabilidad estadística del amor a primera vista (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrVNYtEUU9TCsteJGIQ3MSjHjLi.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La probabilidad estadística del amor a primera vista (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El atracador perfecto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ByGtLdfznHrs3DkZMYFZKrlmfv.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El atracador perfecto (2022)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elevator Game (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKQBtrhl4Fnpd0620FeCtX7EpnK.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Elevator Game (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1175895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Retribution (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBl0qexSJrQiUTvcXgQpGFUmP7a.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Retribution (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1176116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rotting in the Sun (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2UhXsV5W2IlVdCRSxtK7hNa83s.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Rotting in the Sun (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1176175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flamin'Hot: La historia de los Cheetos picantes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHghpc8mhVi7P5YilodDt7NLEtU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Flamin'Hot: La historia de los Cheetos picantes (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1176243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La monja II (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La monja II (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1176348.mkv
 
 
 
