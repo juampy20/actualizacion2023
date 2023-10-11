@@ -427,6 +427,20 @@ HBO SIGNATURE
 https://sitsastr.qvixsolutions.com/stsa_hbosignaturehd/index.m3u8
 
 
+
+UNIVERSAL
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universal.webp" group-title="CINE", 59 UNIVERSAL
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd
+
+
 UNIVERSAL CINEMA
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -437,7 +451,7 @@ UNIVERSAL CINEMA
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalcinema.webp" group-title="CINE", 59 UNIVERSAL CINEMA
-https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
+
 
 
 UNIVERSAL COMEDY
@@ -450,7 +464,7 @@ UNIVERSAL COMEDY
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalcomedy.webp" group-title="CINE", 60 UNIVERSAL COMEDY
-https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
+
 
 
 UNIVERSAL PREMIERE
@@ -463,7 +477,7 @@ UNIVERSAL PREMIERE
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalpremiere.webp" group-title="CINE", 61 UNIVERSAL PREMIERE
-https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
+
 
 
 UNIVERSAL CRIME
@@ -476,7 +490,7 @@ UNIVERSAL CRIME
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalcrime.webp" group-title="CINE", 62 UNIVERSAL CRIME
-https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
+
 
 
 UNIVERSAL REALITY
@@ -489,20 +503,7 @@ UNIVERSAL REALITY
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalreality.webp" group-title="CINE", 63 UNIVERSAL REALITY
-https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
 
-
-UNIVERSAL
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universal.webp" group-title="CINE", 64 UNIVERSAL
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
 
 SPACE
