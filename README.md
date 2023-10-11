@@ -1777,74 +1777,11 @@ https://webudit.vipboxtv.stream/lb/premium555/index.m3u8?|referer=https://widevi
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raiz.es/wp-content/uploads/2020/04/antena3-1-1.png" group-title="Espanha", 599 ANTENA 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webdicdn.lol/lb/premium531/index.m3u8?|referer=https://widevine.licenses4.me/
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://www.atrescine.com/public/img/atrescine/android-chrome-192x192.png",601 🇪🇸 ➾ AtreCine Internacionalᴴᴰ
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png" group-title="Espanha",602 LA UNO
 https://ztnr.rtve.es/ztnr/1688876.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/LaSexta.png" group-title="Espanha", 603 LA SEXTA
-https://bit.ly/3NbhtVf?/manifest.m3u8
-
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/LaSexta.png",606
-🇪🇸 ➾ La Sextaᴴᴰ
-https://bit.ly/3NbhtVf?/manifest.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/El-Pa%C3%ADs-TV-en-directo-Online.png",607 🇪🇸 ➾ EL PAIS
-https://bit.ly/3pXfx9q?/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/RTVE.png",608 🇪🇸 ➾ rtve Playᴴᴰ
-https://ztnr.rtve.es/ztnr/6108703.m3u8
-
-
-#EXTINF:-1 group-title="Espanha" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",611 🇪🇸 ➾ DKiss
-https://bit.ly/3WDi0Cc?/manifest.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/sc9k",613 🇪🇸 ➾ Galicia Americaᴴᴰ
-http://america-crtvg.flumotion.com:80/crtvg/america_high/chunks.m3u8?wowzasessionid=inspiration
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://sck.pm/sc9k",614 🇪🇸 ➾ Galicia Europaᴴᴰ
-http://europa-crtvg.flumotion.com:80/crtvg/europa_high/chunks.m3u8?wowzasessionid=inspiration
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png",615 🇪🇸 ➾ Aragon tv Internacional
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://statics.ccma.cat/img/logos/tvi_colorBgNegre.svg",616 🇪🇸 ➾ TV3CATᴴᴰ
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://8lamarinatv.com/wp-content/uploads/2018/05/8lamarinatv.png",617 🇪🇸 ➾ 8 La Marina
-https://streaming005.gestec-video.com/hls/canal24.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",619 TeleSurᴴᴰ
-https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/chunklist_w384365430.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Espanha" tvg-logo="https://cope-cdnmed.agilecontent.com/resources/svg/5/3/1543939977835.svg",621 Treceᴴᴰ
-https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="Espanha", 622 Negocios
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/El-Toro-TV-en-DIRECTO-Online-y-en-vivo-1.png?resize=696%2C392&ssl=1" group-title="Espanha",623 El toro TV
-https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/TRECE-TV-en-directo-Online-.png?resize=696%2C392&ssl=1" group-title="Espanha",624 El trece directo
-https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/800px-TV3.svg.png" group-title="Espanha",625 canal tv 3
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/bitrate_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/324_%28CCMA%29_logo.svg" group-title="Espanha", 626 canal 3/24
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/bitrate_1.m3u8
 
 
 ------------------------------------- MEXICO ------------------------------------
