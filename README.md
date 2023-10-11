@@ -242,9 +242,9 @@ CANAL 26
 #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9b16848f75455e38de2e5147630d649:36b5197a88db652d63e50211fa5e05d1
+#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/canal26.webp" group-title="NOTICIAS",  18 CANAL 26
-https://dtvott-abc.akamaized.net/dash_live_1031/manifest.mpd
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/canal26.webp" group-title="NOTICIAS",  18 CANAL 26 lpq
