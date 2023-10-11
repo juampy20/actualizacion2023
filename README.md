@@ -557,19 +557,6 @@ CINECANAL
 https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
 
 
-STAR CHANELL
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c38d9310d3c5b46a37a39bbec6dd68a:f4333dfb0e708ec9865b9a6ff2a8e068
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/star.webp" group-title="CINE",  69 STAR 
-https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
-
-
 TNT
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -581,20 +568,6 @@ TNT
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tnt.webp" group-title="CINE", 70 TNT
 https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
-
-
-TNT SERIES
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "p+vgzB2mncwwDxn3tKYoxw","kid": "jMuK9Kh4Vw2IeJIbhKvuGQ"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE", 71 TNT SERIES
-https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
-
 
 
 FX  
@@ -636,20 +609,6 @@ TBS
 https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 
-SY FY
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "mx5B6KVaGC9pAAvckwTjzA","kid": "P5Cq/Qq4XG2S6TEU4niRew"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Syfy-logo.png" group-title="CINE", 76 SYFY
-https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
-
-
-
 AXN
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -663,10 +622,6 @@ AXN
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 
-57 USA
-
-#EXTINF:-1 tvg-logo="https://noticias57.com/wp-content/uploads/2021/02/Canal57-Logo-Color-Slogan.png" group-title="CINE", 79 CANAL 57 USA
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
 
 
