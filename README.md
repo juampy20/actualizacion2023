@@ -418,6 +418,11 @@ HBO SIGNATURE
 https://sitsastr.qvixsolutions.com/stsa_hbosignaturehd/index.m3u8
 
 
+STAR CHANELL
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/star.webp" group-title="CINE", STAR CHANELL lpq
+https://sitsastr.qvixsolutions.com/stsa_starhd/index.m3u8
+
 
 UNIVERSAL
 
