@@ -2364,6 +2364,49 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1099357.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1099358.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Buenas noches, mamá (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zM7NEOrDJiCtn79yxfSXXbytutb.jpg" group-title="VOD - SUSPENSO",Buenas noches, mamá (2014)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1099359.mkv
-
+#EXTINF:-1 tvg-id="" tvg-name="El Silbón: Orígenes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFyPxJH7DUbIKIB6x3Wwc1kw2JF.jpg" group-title="VOD - SUSPENSO",El Silbón: Orígenes (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último exorcismo 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJGWoq45CQmy5Rz5AHBZKsl90DS.jpg" group-title="VOD - SUSPENSO",El último exorcismo 2 (2013)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ever After (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSkHHE6OaCPd2LLoQNKe7Ru2SRI.jpg" group-title="VOD - SUSPENSO",Ever After (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En la boca del miedo (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uzMRiZ6pM1bdsGP5WxbhnzDlE8.jpg" group-title="VOD - SUSPENSO",En la boca del miedo (1995)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El enviado (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLncs8FEzKupj19wCqZ3sPmg3eU.jpg" group-title="VOD - SUSPENSO",El enviado (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escalofríos (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WBsedQJwuQ3JGiBugl0E4xK6WC.jpg" group-title="VOD - SUSPENSO",Escalofríos (2007)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9Q1CY5c8q8lzj1uzDduXFf05QA.jpg" group-title="VOD - SUSPENSO",Escape Room (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eso (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Eso (1997)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espectro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyj4uH6PJzXlchTZyvSpjVAltyP.jpg" group-title="VOD - SUSPENSO",Espectro (2013)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reflejos (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bP5cmzflg0SrebT2QeFNYzxtw4M.jpg" group-title="VOD - SUSPENSO",Reflejos (2008)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espiritus (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Espiritus (1995)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Estigma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ej2zqmxPn6db6btUD0slmrh3PME.jpg" group-title="VOD - SUSPENSO",Estigma (2021)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Posesión infernal (Evil Dead) (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8MW6lsIzFsc5u53sO9JeestH0B.jpg" group-title="VOD - SUSPENSO",Posesión infernal (Evil Dead) (2013)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mal de ojo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVwganYfJgrLXu26BuW82BJo73.jpg" group-title="VOD - SUSPENSO",Mal de ojo (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista II: El hereje (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CRJen2ZgHylKf8uOdbyCNlmfsb.jpg" group-title="VOD - SUSPENSO",El exorcista II: El hereje (1977)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los exterminadores del más allá contra la rubia del baño (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLsVyAJuFZPlQQPaC3LFpK750k1.jpg" group-title="VOD - SUSPENSO",Los exterminadores del más allá contra la rubia del baño (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Extinción (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erDbN0WQfWlqt1HJwepjU4zb73V.jpg" group-title="VOD - SUSPENSO",Extinción (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Family Blood (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg" group-title="VOD - SUSPENSO",Family Blood (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fantasy Island (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2vgIg9essoPYnyEdmdPqxZC3kp.jpg" group-title="VOD - SUSPENSO",Fantasy Island (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fender Bender (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92VjZqSkaUDpXvrAiMZRGIxBFLU.jpg" group-title="VOD - SUSPENSO",Fender Bender (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Encuentros paranormales (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6XxYgUhnlPmBu1miP19pnizWg0.jpg" group-title="VOD - SUSPENSO",Encuentros paranormales (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Feral (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ72SsxEP9XSx3StaazsMwBi9C0.jpg" group-title="VOD - SUSPENSO",Feral (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099414.mkv
 
 
