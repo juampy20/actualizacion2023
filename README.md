@@ -337,41 +337,24 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/chunklist_w384365430.m3u8
 
 QUIERO
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=870e324e46175362b1de8a492cbdb383:684e104109841eb5f7cd645efc977011
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/quiero.webp" group-title="MUSICA", 35 QUIERO MUSICA
-https://dtvott-abc.akamaized.net/dash_live_1183/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/quiero.webp" group-title="MUSICA", 35 QUIERO MUSICA lpq
+https://sitsastr.qvixsolutions.com/stsa_quierohd/index.m3u8
 
 
 CM CANALDELAMUSICA
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cm.webp" group-title="MUSICA", 36 CM
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cm.webp" group-title="MUSICA", 36 CM lpq
+https://sitsastr.qvixsolutions.com/stsa_cmhd/index.m3u8
 
 
 MTV
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "Zr+/pESeuLwbz3V31b/6rQ","kid": "DJ6z6tOKEirEYK2WqOv9Lg"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtv.webp" group-title="MUSICA", 37 MTV
-https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtv.webp" group-title="MUSICA", 37 MTV lpq
+https://sitsastr.qvixsolutions.com/stsa_mtvhd/index.m3u8
+
 
 
 MTV HITS
@@ -383,89 +366,41 @@ MTV HITS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtvhits.webp" group-title="MUSICA", 38 MTV HITS
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtvhits.webp" group-title="Musica", 38 MTV Hits flow
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd
 
 
 MTV 00
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "gCyJxrrmokWqr89AwZhvwQ","kid": "HwwJ7Z5YQc+Ge6brPN/WHQ"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_7394a0d9278c40188243a8f4a0e75ea2~mv2.png/v1/fill/w_90,h_90/34a0d2_7394a0d9278c40188243a8f4a0e75ea2~mv2.png" group-title="MUSICA", 39 MTV 00
-https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="-",39 MTV 00 flow
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd
+
 
 
 MUCH MUSIC
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "woRfTFVPyvlqE9pKNzhoxA","kid": "HLBVj53dSCC8mYLOSD5YiA"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/1200px-MuchMusicLA_%282007%29.svg.png" group-title="MUSICA", 40 MUCH MUSIC
-https://cdn.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_2A/Much_Music.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/1200px-MuchMusicLA_%282007%29.svg.png" group-title="MUSICA", 40 MUCH MUSIC ss
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+https://csc-ptn-edge01.sensa.com.ar/live/eds/MuchMusic/live_dash_cld/MuchMusic.mpd
 
 
 HTV
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "1CJ/JDiam6dykyFLk+sNfQ","kid": "2uzvX+MvTOCDxqDGknVdag"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/htv.webp" group-title="MUSICA", 41 HTV
-https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/htv.webp" group-title="MUSICA", 41 HTV ss
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+https://csc-ptn-edge01.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd
 
-
-VORTERIX
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "OfoGg27A+B2N2bbgGjBw4w","kid": "6r4sIjUMJsfwrYSzSTLwjQ"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://shop.vorterix.com/wp-content/uploads/sites/8/2022/04/logo_vtx2@2x.png" group-title="MUSICA", 42 VORTERIX
-https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd
-
-POP MUSIS INTERNACIONAL
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20190727/czf/kisspng-itunes-icon-logo-icon-media-icon-5d3bcfddd34088.4345172615642009258653.jpg" group-title="MUSICA",43 POP MUSIC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2108
-
-MUSICA BRASIL
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/914/604/png-clipart-computer-icons-music-music-speaker-logo-sound.png" group-title="MUSICA",44 MUSICA BRASIL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3298
-
-TRACE URBAN
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/914/604/png-clipart-computer-icons-music-music-speaker-logo-sound.png" group-title="MUSICA",45 TRACE URBAN
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3294
-
-TRACE LATINA
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/914/604/png-clipart-computer-icons-music-music-speaker-logo-sound.png" group-title="MUSICA",46 TRACE LATINA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3297
-
-STRING MUSIC
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/914/604/png-clipart-computer-icons-music-music-speaker-logo-sound.png" group-title="MUSICA",47 STRING MUSIC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2242
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/914/604/png-clipart-computer-icons-music-music-speaker-logo-sound.png" group-title="MUSICA",48  MUSIC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2243
 
 
 
