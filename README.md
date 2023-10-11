@@ -320,12 +320,10 @@ LA NACION
 https://sitsastr.qvixsolutions.com/stsa_ln/index.m3u8
 
 
-
 TELESUR
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="NOTICIAS" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",27 TeleSurᴴᴰ  app
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/chunklist_w384365430.m3u8
-
 
 
 
@@ -386,13 +384,11 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd
 
 HBO
 
-
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo.webp" group-title="CINE", 52 HBO lpq
 https://sitsastr.qvixsolutions.com/stsa_hbohd/index.m3u8
 
 
 HBO 2
-
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo2.webp" group-title="CINE", 53 HBO 2 lpq
 https://sitsastr.qvixsolutions.com/stsa_hbo2hd/index.m3u8
@@ -412,13 +408,11 @@ https://sitsastr.qvixsolutions.com/stsa_hboplushd/index.m3u8
 
 HBO XTREME
 
-
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hboxtreme.webp" group-title="CINE", 56 HBO XTREME lpq
 https://sitsastr.qvixsolutions.com/stsa_hboxtremehd/index.m3u8
 
 
 HBO SIGNATURE
-
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbosig.webp" group-title="CINE", 58 HBO SIGNATURE lpq
 https://sitsastr.qvixsolutions.com/stsa_hbosignaturehd/index.m3u8
@@ -436,7 +430,6 @@ UNIVERSAL
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universal.webp" group-title="CINE", 59 UNIVERSAL flow
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd
-
 
 
 SPACE
@@ -559,8 +552,6 @@ https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 
 
-
-
 ------------------------------------ DOCUMENTALES/CIENCIA/CULTURA--------------------------------------
 -------------------------------------------------------------------------------------------------------
 
@@ -595,7 +586,6 @@ TRU TV
 https://edge-vod03-hr.cvattv.com.ar/live/c7eds/TruTV/SA_Live_dash_enc/TruTV.mpd
 
 
-
 DISCOVERY INVESTIGATION
 
 
@@ -605,7 +595,6 @@ https://sitsastr.qvixsolutions.com/stsa_idhd/index.m3u8
 
 
 TCL
-
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tlc.webp" group-title="DOCUMENTALES Y CULTURA",90 TLC
 https://sitsastr.qvixsolutions.com/stsa_tlchd/index.m3u8
@@ -843,9 +832,9 @@ https://edge-live17-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr
 
 DISCOVERY KIDS
 
-
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/diskids.webp" group-title="INFANTILES",129 DISCOVERY KIDS lpq
 https://sitsastr.qvixsolutions.com/stsa_discoverykidshd/index.m3u8
+
 
 
 TOONCAST
@@ -920,7 +909,6 @@ https://sitsastr.qvixsolutions.com/stsa_espnextrahd/index.m3u8
 
 ESPN CLARO
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -967,7 +955,6 @@ FOX SPORTS 3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SPORTS FOX SPORTS",178 FOX SPORTS 3 lpq
 https://sitsastr.qvixsolutions.com/stsa_foxsports3hd/index.m3u8
-
 
 
 FOX SPORTS claro
@@ -1105,29 +1092,10 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 DEPORTV
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00a775d1b96b5951b3c3ab5799f9868e:3a56df0047dd709388c606f9ff2fbadd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="SPORTS DEPORTES VARIOS", 219 DEPORTV
-https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="SPORTS DEPORTES VARIOS", 219 DEPORTV lpq
+https://sitsastr.qvixsolutions.com/stsa_deportvhd/index.m3u8
 
-WIN SPORTS
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstream.adaptive.license_key=f195c02916303b2691090ca545933afb:774d7a8fae5e6bde902c5b33bc33ce01
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="SPORTS DEPORTES VARIOS",221 WIN SPORTS
-https://1250-vos.dtvott.com/DASH/manifest.mpd
 
 
 TENNIS CHANNEL
@@ -1135,19 +1103,6 @@ TENNIS CHANNEL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36"
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Tennis_Channel_2004_horizontal.svg/revision/latest/scale-to-width-down/1200?cb=20221201165609" group-title="SPORTS DEPORTES VARIOS",223 TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8 
-
-
-EL CANAL DEL FUTBOL
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C2uGIpiRBPabLbkWMO0Orw","kid":"ZXXiy4SbWBSAqyYLcMz6tg"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_del_F%C3%BAtbol_-_logo_2015.png" group-title="SPORTS DEPORTES VARIOS",227 EL CANAL DEL FUTBOL
-https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
 
 
 AMERICA SPORTS
@@ -1189,45 +1144,6 @@ GOLF  CHANNEL
 https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
 
 
-SPORTV
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f62db627bd93b718154cc8629e92976:09e37739a090140734904513ee2f4ce3
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NWKjquy4gd0/Xvl0yjPXx8I/AAAAAAAAKEQ/7siOfX3gLYsnM9rL0wOeD_GvwbJ9Q9GxACLcBGAsYHQ/s1600/sportv.png" group-title="SPORTS DEPORTES VARIOS",232 SPORTV
-https://0068-vos.dtvott.com/DASH/manifest.mpd
-
-
-SPORTV 2
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2d6a8c7c95b376db64b06896d730a2f:66e956cb531a00d163da476535b90339
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NWKjquy4gd0/Xvl0yjPXx8I/AAAAAAAAKEQ/7siOfX3gLYsnM9rL0wOeD_GvwbJ9Q9GxACLcBGAsYHQ/s1600/sportv.png" group-title="SPORTS DEPORTES VARIOS",233 SPORT TV 2
-https://0069-vos.dtvott.com/DASH/manifest.mpd
-
-
-CDO PREMIUM
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "ZfgC1Anifc3hxJpzcYSRBA","kid":"eFn5l4WTMi+Q1vRx0lgn+A"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="SPORTS DEPORTES VARIOS",235 CDO PREMIUM
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1039
-
-
 TIGO SPORTS CENTROAMERICA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="SPORTS DEPORTES VARIOS",237 TIGO SPORTS 
@@ -1252,12 +1168,12 @@ VTV PLUS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b23302438ff324dab2eeaca5ea9f554:cd59eb711c8ac4ee0bf0c66f3e967a9c
+#KODIPROP:inputstream.adaptive.license_key=da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" group-title="SPORTS DEPORTES VARIOS",239 VTV PLUS 
-https://1246-vos.dtvott.com/DASH/manifest.mpd
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd
 
 
 TOROS TV
@@ -1297,19 +1213,6 @@ MLB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-026/stream.mpd
-
-
-GOL TV
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3303b4c6982f381ea9e309009fbb3f27:a7fd49808f890c2500bf2180aaf42307
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="SPORTS DEPORTES VARIOS",247 GOL TV
-https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 
 CLARO SPORTS
