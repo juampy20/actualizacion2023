@@ -3969,7 +3969,7 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1097999.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1098000.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Las mil caras de Dunjia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlvGMtVfYyX4hQJhyIuHs3YalsK.jpg" group-title="VOD - ACCION",Las mil caras de Dunjia (2017)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1098001.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los tres mosqueteros (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKMB498JwFzKiEfcJ5Vao8A1no7.jpg" group-title="VOD - ANIMACION",Los tres mosqueteros (2011)
+
 http://tv.fullytv.com:8080/movie/pulgas/pata/1098002.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Time Machine (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",The Time Machine (1949)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1098003.mkv
@@ -4075,8 +4075,7 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1098057.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1098058.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Wings: Sky Force Heroes (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVip6poOTYVwVxZ8WfQdutarjEG.jpg" group-title="VOD - ACCION",Wings: Sky Force Heroes (2014)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1098059.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tp3FVzADUWl5dlfdc1cEVCLhgMG.jpg" group-title="VOD - UNIVERSO DC",Wonder Woman (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098061.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Los magos de Waverly Place: Vacaciones en el Caribe (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFNuFVL1CGrGovO7ja4Hb7hz5F6.jpg" group-title="VOD - ACCION",Los magos de Waverly Place: Vacaciones en el Caribe (2009)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1098062.mkv
 #EXTINF:-1 tvg-id="" tvg-name="熊出没之雪岭熊风 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdBdHCSRSdOlupoINRFlRrQNfxO.jpg" group-title="VOD - ACCION",熊出没之雪岭熊风 (2015)
