@@ -117,14 +117,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://csc-ptn-edge01.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 
-
 TV PUBLICA
-
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tvpublica.webp" group-title="ARGENTINA", 5 TV PUBLICA ss
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://csc-ptn-edge01.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tvpublica.webp" group-title="ARGENTINA", 5 TV PUBLICA lpq
@@ -156,14 +149,9 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
 
 VOLVER
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jVgLSr0D1E17Fb3-f3Vf1A","kid":"dNF6SSG5XQKVHBfRc9HFfA"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/volver.webp" group-title="ARGENTINA", 7 VOLVER
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/volver.webp" group-title="ARGENTINA", 7 VOLVER lpq
+https://sitsastr.qvixsolutions.com/stsa_volverhd/index.m3u8
 
 
 
@@ -177,7 +165,7 @@ DIPUTADOS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/dtv.webp" group-title="ARGENTINA", 8 DIPUTADOS TV
-
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd
 
 
 ENCUENTRO
@@ -185,12 +173,12 @@ ENCUENTRO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b6e2119fa3a548da0bc8a7b206f5174:53981eea62b6a6da1a3a4958dc57436c
+#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/encuentro.webp" group-title="ARGENTINA", 9 ENCUENTRO
-https://dtvott-abc.akamaized.net/dash_live_1096/manifest.mpd
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd
 
 
 TELEMAX
