@@ -2603,3 +2603,57 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1099616.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1099617.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mimic 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13tSI83ucR7XuQcr7muAjNIgH91.jpg" group-title="VOD - TERROR",Mimic 2 (2001)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1099618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secuestrados (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dKFwbh5fxDIy0tSkdjobCZnsDw.jpg" group-title="VOD - TERROR",Secuestrados (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seven in Heaven (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elReufFR4NYFiBVRsD0wB2F6FDf.jpg" group-title="VOD - TERROR",Seven in Heaven (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sharknado (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atEmHkVFTSGRYt2PeCiziQqbZnI.jpg" group-title="VOD - TERROR",Sharknado (2013)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shutter (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9bG1SOCHHVidLI746RyJKqY4AG.jpg" group-title="VOD - TERROR",Shutter (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Lullaby (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anYYzYYUgoEYsMnITf3LOUnKnLC.jpg" group-title="VOD - TERROR",The Lullaby (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El silencio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgaTtU4NA9r0lRKSUqPOnL9gtG7.jpg" group-title="VOD - TERROR",El silencio (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El estigma del mal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98KAHP8vxAX4jJiK7kd4QkA25EG.jpg" group-title="VOD - TERROR",El estigma del mal (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silent Hill (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg" group-title="VOD - TERROR",Silent Hill (2006)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silent Hill 2: Revelación (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JOujdpYUeGg3886gigTAQq0na6.jpg" group-title="VOD - TERROR",Silent Hill 2: Revelación (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silent Night (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnU29XeVF0hRAJ5QUiEpH66lXR4.jpg" group-title="VOD - TERROR",Silent Night (2002)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siniestro (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjVMVtgq7tFielcG3C31PeHUOvU.jpg" group-title="VOD - TERROR",Siniestro (2001)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siniestro (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjVMVtgq7tFielcG3C31PeHUOvU.jpg" group-title="VOD - TERROR",Siniestro (2001)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De espaldas a Dios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG0JC0XKZXHKkrp9oPZOVbksefk.jpg" group-title="VOD - TERROR",De espaldas a Dios (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siren (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FT1gPTP5SccMZ4baTjOKAMbkXg.jpg" group-title="VOD - TERROR",Siren (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Slender Man (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg" group-title="VOD - TERROR",Slender Man (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Slither: La plaga (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBhCbdxWnJXVmByixeifIiYEAKB.jpg" group-title="VOD - TERROR",Slither: La plaga (2006)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smiley (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO8jANmASmul1tWi53mudn1V9IA.jpg" group-title="VOD - TERROR",Smiley (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snatchers (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PcCffhPbHqPjCQOYJCB5bnHRTV.jpg" group-title="VOD - TERROR",Snatchers (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy la bonita criatura que vive en esta casa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcZrsT7JNpHjgkh1rGaqeWefkYk.jpg" group-title="VOD - TERROR",Soy la bonita criatura que vive en esta casa (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy tóxico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fua9a5vtoIBjpCCh4RhFgyJsHtG.jpg" group-title="VOD - TERROR",Soy tóxico (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spawn (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfvH5YKXtMiBgkj0FNozQj4TQyp.jpg" group-title="VOD - TERROR",Spawn (1997)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Species (Especie mortal) (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byYoe9m4dSWM5xYLwWq5OV8KgPX.jpg" group-title="VOD - TERROR",Species (Especie mortal) (1995)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Species II (Especie mortal II) (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5MAlIvhjYiB8Z59YQP9bXs5k.jpg" group-title="VOD - TERROR",Species II (Especie mortal II) (1998)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Species III (Especie mortal III) (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BelHo8qmaurZjPS9hipSQ79Rr6.jpg" group-title="VOD - TERROR",Species III (Especie mortal III) (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Species IV: El despertar (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYWGq17sQ2Th0v77tVK6yteA37P.jpg" group-title="VOD - TERROR",Species IV: El despertar (2007)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Splice: Experimento mortal (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIYJsichDJbxGFGMyNRwIsQ144P.jpg" group-title="VOD - TERROR",Splice: Experimento mortal (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spring (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2ncaxeGf5cQOjhWbp4FxFDE1BA.jpg" group-title="VOD - TERROR",Spring (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099754.mkv
