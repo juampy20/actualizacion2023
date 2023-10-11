@@ -700,12 +700,12 @@ FOOD NETWORK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=756032fd73ed536f93a6d187a7956999:d1ab5f25f977c0dc01785b44d91cdb9c
+#KODIPROP:inputstream.adaptive.license_key=6ca0fbad21a0e908c0280dcc27e6ee0e:62670eedbafdf9360b4ecaed738e26cd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/food.webp" group-title="COCINA Y MODA", 112 FOOD NETWORK
-https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/food.webp" group-title="COCINA Y MODA", 112 FOOD NETWORK flow
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd
 
 
 EL GOURMET
@@ -717,21 +717,8 @@ EL GOURMET
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/gourmet.webp" group-title="COCINA Y MODA", 113 EL GOURMET
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/gourmet.webp" group-title="COCINA Y MODA", 113 EL GOURMET flow
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
-
-
-HGTV
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "jEbk4IkHgNeBbjiIt8c4xw","kid": "vfrEhtUlXSOWlFEC0dOITw"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hgtv.webp" group-title="COCINA Y MODA",114 HGTV
-https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd
 
 
 HOLA TV
@@ -907,7 +894,6 @@ https://sitsastr.qvixsolutions.com/stsa_espnhd/index.m3u8
 https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
 
 
-
 ESPN 2
 
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="SPORTS ESPN",101 ESPN 2 lpq
@@ -926,19 +912,13 @@ ESPN 3
 https://sitsastr.qvixsolutions.com/stsa_espn3hd/index.m3u8
 
 
-
-
-
 ESPN EXTRA
 
 #EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="SPORTS ESPN",103 ESPN EXTRA lpq
 https://sitsastr.qvixsolutions.com/stsa_espnextrahd/index.m3u8
 
 
-
-
-
-
+ESPN CLARO
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -968,7 +948,6 @@ https://sitsastr.qvixsolutions.com/stsa_foxsportshd/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
-
 
 
 FOX SPORTS 2 
