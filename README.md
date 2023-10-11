@@ -3598,5 +3598,8 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1099220.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1099221.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street (El origen) (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kXLpOOMLx4FYb9opougusk0hfg.jpg" group-title="VOD - SAGAS",Pesadilla en Elm Street (El origen) (2010)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1099222.mkv
-
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg" group-title="VOD - UNIVERSO MARVEL",Ant-Man (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man y la Avispa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrbMKgCwOv5REZ7ou1DWXu3bSse.jpg" group-title="VOD - UNIVERSO MARVEL",Ant-Man y la Avispa (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100160.mkv
 
