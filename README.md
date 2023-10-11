@@ -2061,12 +2061,28 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1172386.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1172387.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un guardabosque (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VPl1p4oIWlZgA0fk6XsDuhQcia.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Un guardabosque (2023)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1172388.mkv
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Inside Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3u1idRG0En5tilIhsgiHl9D06OL.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Inside Man (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1172582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The List: Rienda suelta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eN6AKmTX4E5F7mLT4c6Zia9MKkR.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The List: Rienda suelta (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1172660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juntos pero no revueltos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9v4h3j0zwDDOQasBC2kJPpXVGck.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Juntos pero no revueltos (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1172661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La maldición del Queen Mary (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quPOHWBMlzd5EMtyhwylIX6ywao.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La maldición del Queen Mary (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1173196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trap Jazz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96UfwAPXozsoYYFCEcUNhSBVntV.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Trap Jazz (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1173200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rimini (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyaS0VivKaht856D345S2MAea3A.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Rimini (2022)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1173292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigos pasajeros 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qq1ujRhDyv5ulDaNexOxze8sgx7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Amigos pasajeros 2 (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1173325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Megalodón 2: La fosa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBgynPDplmo5JTY9VfGqY35OjDu.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Megalodón 2: La fosa (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1173326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dive (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anAg7fgpOmQQlgRbtjiJqoDRzMU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Dive (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1173483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boogeyman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBLx1AWWn1hUCrWaH5QfOxI6Hh7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Boogeyman (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1173906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noches de verano en Taipéi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6TMfQn6RsWmJVtCoCKk04sQcID.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Noches de verano en Taipéi (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1173909.mkv
 
 
 
