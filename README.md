@@ -434,56 +434,18 @@ HBO PLUS
 https://sitsastr.qvixsolutions.com/stsa_hboplushd/index.m3u8
 
 
-HBO POP
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "a74gYrFQsRSWzdX73ZyJ1g","kid": "9OHOXO9+mhEP6Wj4iBsh+g"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbopop.webp" group-title="CINE", 55 HBO POP
-http://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd
-
-
 HBO XTREME
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "M0ED4qvhb6p/mrLjCXxaWA","kid": "1QQBG770Z8DeOnU04wKm1A"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hboxtreme.webp" group-title="CINE", 56 HBO XTREME
-http://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
 
-
-HBO MUNDI
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "rkPz4lRSN+vaWLE4E7XTKA","kid": "eCGyZiFI/jM9UZGsu4pcHw"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbomundi.webp" group-title="CINE", 57 HBO MUNDI
-http://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hboxtreme.webp" group-title="CINE", 56 HBO XTREME lpq
+https://sitsastr.qvixsolutions.com/stsa_hboxtremehd/index.m3u8
 
 
 HBO SIGNATURE
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "tKbS+M3TK+ZlN/GmL/pi1g","kid": "cjSOB2JUUNOAY5cbhVsyJA"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbosig.webp" group-title="CINE", 58 HBO SIGNATURE
-https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbosig.webp" group-title="CINE", 58 HBO SIGNATURE lpq
+https://sitsastr.qvixsolutions.com/stsa_hbosignaturehd/index.m3u8
 
 
 UNIVERSAL CINEMA
