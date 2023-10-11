@@ -2485,3 +2485,121 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1099545.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La mujer de negro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg" group-title="VOD - SUSPENSO",La mujer de negro (2012)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1099546.mkv
 
+
+TERROR------------
+-------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="Ladronas de Almas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYRia8oAQHOxpDTEGnTExsibROU.jpg" group-title="VOD - TERROR",Ladronas de Almas (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La marca del demonio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhcoI9Ww6dx6YV041IUlL72nYQi.jpg" group-title="VOD - TERROR",La marca del demonio (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La monja (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNJzVDTgr0ihebEaQU4xlxc2VT5.jpg" group-title="VOD - TERROR",La monja (2005)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La niña de la mina (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFlP4HlqCbtEdUygc8XMYUCvJY8.jpg" group-title="VOD - TERROR",La niña de la mina (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche del demonio (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIA9DDGNysv5BMPv8k3qCUc3Vuk.jpg" group-title="VOD - TERROR",La noche del demonio (1957)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche del demonio (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIA9DDGNysv5BMPv8k3qCUc3Vuk.jpg" group-title="VOD - TERROR",La noche del demonio (1957)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche devora el mundo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRyv9dTfxIC69APlLGkr4cJ1z56.jpg" group-title="VOD - TERROR",La noche devora el mundo (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia de Chucky (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh99wVo11U6vbyePjl7EcGabVHs.jpg" group-title="VOD - TERROR",La novia de Chucky (1998)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La pirámide (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oZdP70fQcCiajv7SVmy6ZXYYrs.jpg" group-title="VOD - TERROR",La pirámide (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1974: la posesión de Altair (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFuRzagV4CNwB8ixSK7N6XUgnDC.jpg" group-title="VOD - TERROR",1974: la posesión de Altair (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verónica (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8iFWosh3NJiZG27AXX1uzKwRLO.jpg" group-title="VOD - TERROR",Verónica (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La profecía (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0u95VL153ywMlzc7MmBO8ATV4L.jpg" group-title="VOD - TERROR",La profecía (2006)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La región salvaje (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OzoG5dfRdEq9X20iBUYKuQSDWb.jpg" group-title="VOD - TERROR",La región salvaje (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las brujas de Zugarramurdi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwPuQoA4osxJvgKcd8JRvwVDynG.jpg" group-title="VOD - TERROR",Las brujas de Zugarramurdi (2013)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Reglas de la Ruina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znFC6ftSMkxgY2o5f6WfVCHcWbp.jpg" group-title="VOD - TERROR",Las Reglas de la Ruina (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las tinieblas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrePzVxbgiWfDlgxy00VC9z62VZ.jpg" group-title="VOD - TERROR",Las tinieblas (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Last Shift (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lId3nglmnaEzxCzbBiHeW4srKYx.jpg" group-title="VOD - TERROR",Last Shift (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La última casa a la izquierda (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTT7XocGdSHs4WDtzZ1a1YnVk42.jpg" group-title="VOD - TERROR",La última casa a la izquierda (1972)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La visita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2olNTwUgIAi0nk0yP5hFIt3BbrJ.jpg" group-title="VOD - TERROR",La visita (2021)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leatherface (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nV7LPlyhUxKn5y0nuItCr8D1OSu.jpg" group-title="VOD - TERROR",Leatherface (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Legion (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ro4BujCD9aFaTI1YMH76Fj9Fgr.jpg" group-title="VOD - TERROR",Legion (1998)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Le Jumeau (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA6MFbWuIIkan2UMQ72ny9zE7qN.jpg" group-title="VOD - TERROR",Le Jumeau (1984)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Mansión (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yOzYmYvRyS2Ibg2e3wVVYTl9N0.jpg" group-title="VOD - TERROR",La Mansión (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 2 (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnCLZ3rpy3enYSHrzcBxnx3fozK.jpg" group-title="VOD - TERROR",Leprechaun 2 (1994)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun: El origen (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyZ7folrZTqEJFD7wUuGf84CmPK.jpg" group-title="VOD - TERROR",Leprechaun: El origen (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun Returns (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kToQsV04Jel1ob7VJ471LDz7wD.jpg" group-title="VOD - TERROR",Leprechaun Returns (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Les affamés (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LH7DlJeIykHQVfog6IUWQ1fXVP.jpg" group-title="VOD - TERROR",Les affamés (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Déjame entrar (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mw1Iv9o4BVCtfScCL0nhzolOdO.jpg" group-title="VOD - TERROR",Déjame entrar (2008)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lifechanger (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocNctwT6ePRtzWPi3Tqqog5h7NM.jpg" group-title="VOD - TERROR",Lifechanger (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nunca apagues la luz (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4v1GYLMM9UDRVjkLzapHZUFhVfo.jpg" group-title="VOD - TERROR",Nunca apagues la luz (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pequeño demonio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7uovTeP1c6OmNvhxWzKqBF4ohE.jpg" group-title="VOD - TERROR",Pequeño demonio (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Llamada Siniestra (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO7yMRrHo1ruBa291b0pKhifqUx.jpg" group-title="VOD - TERROR",Llamada Siniestra (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia Addams (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RqnaUcDH2dpR2kmdnmSEHTcS0V.jpg" group-title="VOD - TERROR",La familia Addams (1991)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jóvenes ocultos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4MzXvQmf9LYbdN1Lv9pBCekfn0.jpg" group-title="VOD - TERROR",Jóvenes ocultos (1987)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los ojos de Julia (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvqsMRvGowmQZP485YXqhiLYZaB.jpg" group-title="VOD - TERROR",Los ojos de Julia (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los olvidados (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LJqMc5nM48O18iNSrbSbMCKQu7.jpg" group-title="VOD - TERROR",Los olvidados (1950)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los que vuelven (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NbjpUf2WzfrPVvXH7JoWLBxYHj.jpg" group-title="VOD - TERROR",Los que vuelven (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luciferina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDjiT5dVwL0B3CgBHhBQo9yB1Yv.jpg" group-title="VOD - TERROR",Luciferina (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El sótano de Ma (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUPZu9stlOUHqT9FCRYwiKkFtMo.jpg" group-title="VOD - TERROR",El sótano de Ma (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maggie (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twa9gXjocLM629sJrQYVtmF306R.jpg" group-title="VOD - TERROR",Maggie (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malevolent (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm29Sf2uI69CmbCsUkWFn7sbvL6.jpg" group-title="VOD - TERROR",Malevolent (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malicious (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD0mJvBCBkDekYQ5Hf15Tq4sFRD.jpg" group-title="VOD - TERROR",Malicious (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mandíbulas 6: El legado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNu1tZ89yhrFSDgfzQ6P0FJRUF2.jpg" group-title="VOD - TERROR",Mandíbulas 6: El legado (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mandy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVyE79nFdo2lFtKA5J7ziFAeKhP.jpg" group-title="VOD - TERROR",Mandy (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maniac (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbDkRvhmbYnHDXkoq0sF0PLeo8j.jpg" group-title="VOD - TERROR",Maniac (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mara (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rENBUXn22af18NkTkchHtoCWuIq.jpg" group-title="VOD - TERROR",Mara (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Martyrs (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkBWgdlFClVrr39iLpUTdzqvgz8.jpg" group-title="VOD - TERROR",Martyrs (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La posesión de Mary (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4js1nTDelM4dEtJNUDmUOZMEM9K.jpg" group-title="VOD - TERROR",La posesión de Mary (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mas Negro que la Noche (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1oWm54hQI6EuJJw0fNU6eMs3VU.jpg" group-title="VOD - TERROR",Mas Negro que la Noche (1975)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El escondite (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzpCwz8KoVzb0yIr7BI6W4LQjM2.jpg" group-title="VOD - TERROR",El escondite (2005)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La posesión de Mercy Black (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJCTV6wl896rF1sJ6yTho87dtVY.jpg" group-title="VOD - TERROR",La posesión de Mercy Black (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mermaid Down (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGj4i7Tas6HDFgajb0LKOkaCtC7.jpg" group-title="VOD - TERROR",Mermaid Down (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Messengers 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xav4wnkLQiVAUTVxNPMKrXTBdkf.jpg" group-title="VOD - TERROR",Messengers 2 (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="México Bárbaro 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilkBLFYzOdGHqxO1Og4SQk7c6O9.jpg" group-title="VOD - TERROR",México Bárbaro 2 (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Midsommar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lQZUYk25WBpHT9J2PKVfDe1iGl.jpg" group-title="VOD - TERROR",Midsommar (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mientras El Lobo No Está (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y2SvYTYQeCNoEEOD26wjr3Nx1N.jpg" group-title="VOD - TERROR",Mientras El Lobo No Está (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mimic 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13tSI83ucR7XuQcr7muAjNIgH91.jpg" group-title="VOD - TERROR",Mimic 2 (2001)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099618.mkv
