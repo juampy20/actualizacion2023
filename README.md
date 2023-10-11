@@ -2157,7 +2157,20 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1176175.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1176243.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La monja II (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La monja II (2023)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1176348.mkv
-
+#EXTINF:-1 tvg-id="" tvg-name="Sospechoso X (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wydlTcs1Op0DEKTfAsJOfi0bGQ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Sospechoso X (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1176693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El tutor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qpcD9vIB7MWkLeA4UKkYkEHAB.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El tutor (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1176694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cassandro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Cassandro (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1176695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue Beetle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5mkvXYNRauSzHdZgxAj6MzrLTY.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Blue Beetle (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1176696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ninja Turtles: Caos mutante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Ninja Turtles: Caos mutante (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1176697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spy Kids: El armagedón (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juWq5f91rhWrxVThNwdpbhRLoQK.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Spy Kids: El armagedón (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1176771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nadie te salvará (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teNc18dv3Dd5lZQGgbP9GzK35P4.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Nadie te salvará (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1176796.mkv
 
 
 
