@@ -3576,3 +3576,27 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1099072.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1099073.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Fountain (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwbod2uXYZKH7ZrqDM6712xQG0s.jpg" group-title="VOD - ROMANCE",The Fountain (2007)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1099074.mkv
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="La saga Crepúsculo: Eclipse (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjfrg4H8sCst4Z5gAW0Asn7506T.jpg" group-title="VOD - SAGAS",La saga Crepúsculo: Eclipse (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La saga Crepúsculo: Luna nueva (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyzlDaHtB15PnRMFsd9jmMJ73pO.jpg" group-title="VOD - SAGAS",La saga Crepúsculo: Luna nueva (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien³ (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvT2FoGChCeifaMwx6Ubc8Loixp.jpg" group-title="VOD - SAGAS",Alien³ (1992)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 2: La venganza de Freddy (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D837ivB8EHQMRTlvUBe7ahbUCP.jpg" group-title="VOD - SAGAS",Pesadilla en Elm Street 2: La venganza de Freddy (1985)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 3: Los guerreros del sueño (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyKFg5KMD8QIzIn2Uc48nZAzbXi.jpg" group-title="VOD - SAGAS",Pesadilla en Elm Street 3: Los guerreros del sueño (1987)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 4: El amo del sueño (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssHmDBdbNDtWpVuZ9Zk4W0VWm1c.jpg" group-title="VOD - SAGAS",Pesadilla en Elm Street 4: El amo del sueño (1988)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 5: El niño de los sueños (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2Vys942SiZIMYf1jckOj9nI6n8.jpg" group-title="VOD - SAGAS",Pesadilla en Elm Street 5: El niño de los sueños (1989)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Nightmare on Elm Street (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAAuKnkqF8svhqtabTsEu8dA8wA.jpg" group-title="VOD - SUSPENSO",A Nightmare on Elm Street (2021)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street (El origen) (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kXLpOOMLx4FYb9opougusk0hfg.jpg" group-title="VOD - SAGAS",Pesadilla en Elm Street (El origen) (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099222.mkv
+
+
