@@ -2657,3 +2657,140 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1099752.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1099753.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spring (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2ncaxeGf5cQOjhWbp4FxFDE1BA.jpg" group-title="VOD - TERROR",Spring (2014)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1099754.mkv
+
+
+WESTERN------
+-------------
+
+#EXTINF:-1 tvg-id="" tvg-name="El tren de las 3:10 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etmnvALqhRmG8oa061VUODSUiwK.jpg" group-title="VOD - WESTERN",El tren de las 3:10 (2007)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un hombre llamado Caballo (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frObHVH8sh7mvkHttNhpilakg15.jpg" group-title="VOD - WESTERN",Un hombre llamado Caballo (1970)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="blazing saddles 1974" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frObHVH8sh7mvkHttNhpilakg15.jpg" group-title="VOD - WESTERN",blazing saddles 1974
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nevada Express (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Jt8JECxJUWgfJQmgR3tFDyMvHz.jpg" group-title="VOD - WESTERN",Nevada Express (1975)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brimstone. La hija del predicador (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwYqE1qifeMJphFINmvs9SrTS4S.jpg" group-title="VOD - WESTERN",Brimstone. La hija del predicador (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bullitt (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hwFxbwhAmRoW62FyzcbDfKGKgG.jpg" group-title="VOD - WESTERN",Bullitt (1968)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casa de mi padre (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71pKGrwzk99CpIy2ncpgKHn5248.jpg" group-title="VOD - WESTERN",Casa de mi padre (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Damsel (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zr5K4sGtdYcBk6MNA2268NpqCs.jpg" group-title="VOD - WESTERN",Damsel (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bailando con lobos (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37494KV3kIck7moJ3JVEPAZQT68.jpg" group-title="VOD - WESTERN",Bailando con lobos (1990)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El jinete del amanecer (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXc15iWmXoMf6bYIJfivljkjphq.jpg" group-title="VOD - WESTERN",El jinete del amanecer (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Again in Tombstone (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qCQLZWLRotE5BSUVMN4ZWSIshc.jpg" group-title="VOD - WESTERN",Dead Again in Tombstone (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadwood: La película (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crF3Q7tFEOeRWfmuSwj4ZkIryH9.jpg" group-title="VOD - WESTERN",Deadwood: La película (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diablo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uAVDyWhkXfaMo09hNpyqR0xkFp.jpg" group-title="VOD - WESTERN",Diablo (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dodge, ciudad sin ley (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHHJ83B8ij4oG78IrPB4fKCopSC.jpg" group-title="VOD - WESTERN",Dodge, ciudad sin ley (1939)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dorado (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCA1Zb1Kw1Zo6wSodCIlZPVfwpo.jpg" group-title="VOD - WESTERN",El Dorado (1966)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Siete Machos (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stghzuBSuhiBbvAIxrm8D0G8m1z.jpg" group-title="VOD - WESTERN",El Siete Machos (1951)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Topo (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAPQMH2TBBIcoGPQ7hf2jE0zL1l.jpg" group-title="VOD - WESTERN",El Topo (1970)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frontera (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miAWbPJLzPRGP4QaJFkklSZe2gZ.jpg" group-title="VOD - WESTERN",Frontera (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frontier (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lQSV4unaYdFBE8iLi7JxSMGRIV.jpg" group-title="VOD - WESTERN",Frontier (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGBmTiNomYCk6Lr4Gkhbssg0m82.jpg" group-title="VOD - WESTERN",Cazador de demonios (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infierno en la frontera (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlQURJswWQyJhjDeLCQQIOAgRkF.jpg" group-title="VOD - WESTERN",Infierno en la frontera (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hondo (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ID1Zl2TIflgd5yVErroaT3Podg.jpg" group-title="VOD - WESTERN",Hondo (1953)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hostiles (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FxhTzubzDdFE6ZyzbxgTwIyx7l.jpg" group-title="VOD - WESTERN",Hostiles (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy la ley (1938)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WMxoxWwXeKypqB3im2A6q3xgrD.jpg" group-title="VOD - WESTERN",Yo soy la ley (1938)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El bueno, el feo y el malo (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSWnIXsxA47smMLwRELSWkxbVJ.jpg" group-title="VOD - WESTERN",El bueno, el feo y el malo (1966)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El valle de la venganza (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koXt9UM6AkK0XPMJrnXrGcdJiA0.jpg" group-title="VOD - WESTERN",El valle de la venganza (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indio Black - Adiós Sabata (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHNrXCZxQByjOhWUsJc6casFzjG.jpg" group-title="VOD - WESTERN",Indio Black - Adiós Sabata (1970)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVpJcOQsR2wBCY9xMJXWCURxSMS.jpg" group-title="VOD - WESTERN",Jeepers Creepers 3 (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras de Jeremiah Johnson (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFiA48c0pqDAv34r9TB4OVGntZz.jpg" group-title="VOD - WESTERN",Las aventuras de Jeremiah Johnson (1972)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jesse James, Jr. (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64hcwJuJPIM305yrIr7OBUje5ZA.jpg" group-title="VOD - WESTERN",Jesse James, Jr. (1942)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La balada de Buster Scruggs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxl654m7p36y8FLu8oQD7dfwwK.jpg" group-title="VOD - WESTERN",La balada de Buster Scruggs (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La balada de Lefty Brown (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5IJMOUST8kTysFHaC05vnF5y4I.jpg" group-title="VOD - WESTERN",La balada de Lefty Brown (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lawman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIs4ykDjKD2zpDVO9AIy1FUyCBx.jpg" group-title="VOD - WESTERN",Lawman (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="McQuade, lobo solitario (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHXPDgkBUrT8FKs0VktfNjUo7vY.jpg" group-title="VOD - WESTERN",McQuade, lobo solitario (1983)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los siete magníficos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6fvtfBKs83iVT9EZDcRPWLXCRU.jpg" group-title="VOD - WESTERN",Los siete magníficos (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14XhPx337J2qoJ7UiiDXVX4Lgph.jpg" group-title="VOD - WESTERN",Luz (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maverick (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11cvSYvUALq0xHg9PKEtNXUqztS.jpg" group-title="VOD - WESTERN",Maverick (1994)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mis demonios nunca juraron soledad (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mWzMRgWNDaEZycAUnYZ8E4YcUY.jpg" group-title="VOD - WESTERN",Mis demonios nunca juraron soledad (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mexicano (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oY0Yqsj4TwkjELkIHXJimjdbV8M.jpg" group-title="VOD - WESTERN",El mexicano (2003)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pariente (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tU4DcityKcI0NVLIYksgLb919tG.jpg" group-title="VOD - WESTERN",Pariente (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pistolero (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaKPX5RqBN0caYGFPzEkqXAFqLG.jpg" group-title="VOD - WESTERN",Pistolero (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Texas, 1870 (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4012O3AKnxkpirEjOhAdZ1SXmp4.jpg" group-title="VOD - WESTERN",Texas, 1870 (1971)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de los siete magníficos (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnt41Z5MXQ2PzgzKGpwgKIDQlke.jpg" group-title="VOD - WESTERN",El regreso de los siete magníficos (1966)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oro sangriento (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EZILJc75G61UMq5hpVwRmvRlIU.jpg" group-title="VOD - WESTERN",Oro sangriento (1969)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Santa Clara (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g89BTEUUeijo41M0OLIR753YutM.jpg" group-title="VOD - WESTERN",Santa Clara (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonora (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5JoieisiLZLm814K81oRK7pNBA.jpg" group-title="VOD - WESTERN",Sonora (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los comancheros (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnB9mmDipbfExU0cCJljqoQnnrc.jpg" group-title="VOD - WESTERN",Los comancheros (1961)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los cowboys (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPy99rk3Bxz9KcNzEwTz0iGa5Se.jpg" group-title="VOD - WESTERN",Los cowboys (1972)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dalton Gang (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jV4dQgMfj47TK1TrUnrOB2XT0dZ.jpg" group-title="VOD - WESTERN",The Dalton Gang (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Tower (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x03f5ZRe563wy43rGGTFoJzEE7c.jpg" group-title="VOD - WESTERN",The Dark Tower (1999)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Duel (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOnFN1WvhoWk6zdf7sWZmIyjuGl.jpg" group-title="VOD - WESTERN",The Duel (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misión de audaces (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8vDRoSLzRCiOr34OPHcW3dg4fh.jpg" group-title="VOD - WESTERN",Misión de audaces (1959)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En defensa propia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XuVrzyFGPQw9pWWRocVqOZunY.jpg" group-title="VOD - WESTERN",En defensa propia (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los siete magníficos (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu7dxZWlufFOkDV99IzS7Xd7tp.jpg" group-title="VOD - WESTERN",Los siete magníficos (1960)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El desafío de los siete magníficos (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMFS7d8XxaNcoOUML0oAK9tbe8t.jpg" group-title="VOD - WESTERN",El desafío de los siete magníficos (1972)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El fuera de la ley (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whduc0mVvMZLQ0dnxsAHHhZPZwd.jpg" group-title="VOD - WESTERN",El fuera de la ley (1976)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Quick and the Dead (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - WESTERN",The Quick and the Dead (1963)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Revenant (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bECzzYkRFlCZZAjQ9wboMGyWFcL.jpg" group-title="VOD - WESTERN",The Revenant (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Centauros del desierto (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmnGvL8GRP0hEG7Uph0FxXS9aiK.jpg" group-title="VOD - WESTERN",Centauros del desierto (1956)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ladrones de trenes (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpTsS2eO9XUZBpzdU7Z1mbjNpUH.jpg" group-title="VOD - WESTERN",Ladrones de trenes (1973)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="the wild bunch (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpTsS2eO9XUZBpzdU7Z1mbjNpUH.jpg" group-title="VOD - WESTERN",the wild bunch (1969)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La verdadera historia de la banda de Kelly (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dumUhmSjAF4tDwejXkr39P1dcT.jpg" group-title="VOD - WESTERN",La verdadera historia de la banda de Kelly (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Valley of Bones (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRaOLJumjzBq6xFNZMVZdnKlI0W.jpg" group-title="VOD - WESTERN",Valley of Bones (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Almas de metal (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSk1lLjY479xtTC9GXCBb5ljZb.jpg" group-title="VOD - WESTERN",Almas de metal (1973)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wild Bill (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5sQTDwc4BcvRCBAhnujhBPIEO1.jpg" group-title="VOD - WESTERN",Wild Bill (1995)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intrépidos forajidos: Arma Joven II (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfZxNJiNepAV1Cy0P1b3RJohqkf.jpg" group-title="VOD - WESTERN",Intrépidos forajidos: Arma Joven II (1990)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1100025.mkv
