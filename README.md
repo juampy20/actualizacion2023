@@ -917,15 +917,9 @@ https://edge-live17-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr
 
 DISCOVERY KIDS
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3b91f95dc9152ce8fa34a7fed103b70:694eb12c6ca401b454bd742c374a50c0
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/diskids.webp" group-title="INFANTILES",129 DISCOVERY KIDS
-https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/diskids.webp" group-title="INFANTILES",129 DISCOVERY KIDS lpq
+https://sitsastr.qvixsolutions.com/stsa_discoverykidshd/index.m3u8
 
 
 TOONCAST
