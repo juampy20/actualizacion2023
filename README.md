@@ -1493,73 +1493,6 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-027/stream.mpd
 
 
 
--------------------------------------------- DEPORTES BEIN SPORTS --------------------------------------------
---------------------------------------------------------------------------------------------------------------
-
-
-BEIN SPORTS EXTRA ESPAÑOL
-
-#EXTINF:-2001 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SPORTS BEIN SPORTS", 299 BEIN SPORTS XTRA ESPAÑOL
-https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
-
-
-BEIN SPORTS 1
-
-#EXTINF:-1 group-title="SPORTS BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" ,300 BEIN SPORTS 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd
-
-
-BEIN SPORTS 2
-
-#EXTINF:-1 group-title="SPORTS BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" ,301 BEIN SPORTS 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-040/stream.mpd
-
-
-BEIN SPORTS 3
-
-#EXTINF:-1 group-title="SPORTS BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" ,302 BEIN SPORTS 3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-042/stream.mpd
-
-
-BEIN SPORTS 3 dH
-
-#EXTINF:-1 group-title="SPORTS BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" ,303 BEIN SPORTS 3 DH
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-041/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/eleven4.png" group-title="SPORTS BEIN SPORTS", TEST
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=das
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-041/stream.mpd|User-Agent=
 
 
 -------------------------------------------- ADULTOS ----------------------------------------------
@@ -1986,54 +1919,6 @@ https://5bff1bf18a887.streamlock.net/rtvla/rtvla/playlist.m3u8
 
 
 
-
-  -------------------------------- DEPORTES MOVISTAR----------------------------------
-  ------------------------------------------------------------------------------------
-
-
-
-
-MOVISTAR + 1
-
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/M/movistar-logo-51C507757F-seeklogo.com.png" group-title="SPORTS MOVISTAR",800 MOVISTAR +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium528/index.m3u8?|referer=https://widevine.licenses4.me/
-
-MOVISTAR +2
-
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/M/movistar-logo-51C507757F-seeklogo.com.png" group-title="SPORTS MOVISTAR",801 MOVISTAR +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium527/index.m3u8?|referer=https://widevine.licenses4.me/
-
-
-MOVISTAR + 3
-
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/M/movistar-logo-51C507757F-seeklogo.com.png" group-title="SPORTS MOVISTAR",802 MOVISTAR +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium526/index.m3u8?|referer=https://widevine.licenses4.me/
-
-
-MOVISTAR LA LIGA
-
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/M/movistar-logo-51C507757F-seeklogo.com.png" group-title="SPORTS MOVISTAR",803 MOVISTAR LA LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium84/index.m3u8?|referer=https://widevine.licenses4.me/
-
-
-MOVISTAR LIGA DE CAMPEONES 1
-
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/M/movistar-logo-51C507757F-seeklogo.com.png" group-title="SPORTS MOVISTAR",804 MOVISTAR LIGA DE CAMPEONES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium435/index.m3u8?|referer=https://widevine.licenses4.me/
-
-
-MOVISTAR LIGA DE CAMPEONES 2
-
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/M/movistar-logo-51C507757F-seeklogo.com.png" group-title="SPORTS MOVISTAR",805 MOVISTAR LIGA DE CAMPEONES 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium436/index.m3u8?|referer=https://widevine.licenses4.me/
-
-
 ------------------------------ RADIOS -------------------------------
 ---------------------------------------------------------------------
 
@@ -2127,8 +2012,6 @@ https://servidor2.hostradios.com/proxy/sc_larad?mp=/stream
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 1050 SAN FRANCISCO
 https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
-
-
 
 
 
