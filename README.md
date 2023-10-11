@@ -2171,11 +2171,199 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1176697.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1176771.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nadie te salvará (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teNc18dv3Dd5lZQGgbP9GzK35P4.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Nadie te salvará (2023)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1176796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último objetivo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLfpOkPlMowMIxOC99Q21Sqgxp7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El último objetivo (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1177133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Point (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1CgpYTydE7Uj83e1jgEUfeTNvu.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Breaking Point (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1177134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuerza Bruta Sin Salida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbremGnsRR4XZMDj97YHt20isRP.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Fuerza Bruta Sin Salida (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1177135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La emboscada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYejOZfJpza6nQDOhLpji7IK80o.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La emboscada (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1177136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gran Turismo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Gran Turismo (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1177137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hombre del saco (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EdqlGB2ACpnqsrtKhyacaPhzHK.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El hombre del saco (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1177332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los mercenarios 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6bfq26jmzEGNGMw768Fwu6OmdZ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Los mercenarios 4 (2023)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1177334.mp4
 
 
+SUSPENSO-------
+---------------
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Boys in the Trees (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiCiC59hTgQT01M9ug2SGAWiUz4.jpg" group-title="VOD - SUSPENSO",Boys in the Trees (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boy: La maldición de Brahms (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYUqYZwWmLCZ5G6FihLwK2dvhkh.jpg" group-title="VOD - SUSPENSO",The Boy: La maldición de Brahms (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hijo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQmRemkGS3SMAexgZND6ey02lYW.jpg" group-title="VOD - SUSPENSO",El hijo (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Curse of Buckout Road (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS47NI9UqtO17TvW6KTjiAT5Fd.jpg" group-title="VOD - SUSPENSO",The Curse of Buckout Road (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buffy, la cazavampiros (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irVHcRIANEW62k7hwCWQKO5TsBF.jpg" group-title="VOD - SUSPENSO",Buffy, la cazavampiros (1992)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bulbbul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irVHcRIANEW62k7hwCWQKO5TsBF.jpg" group-title="VOD - SUSPENSO",Bulbbul (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Metamorphosis (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EphHAIU36cIeFxHAwjdET3ibDp.jpg" group-title="VOD - SUSPENSO",Metamorphosis (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camera Obscura (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EphHAIU36cIeFxHAwjdET3ibDp.jpg" group-title="VOD - SUSPENSO",Camera Obscura (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrie (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EphHAIU36cIeFxHAwjdET3ibDp.jpg" group-title="VOD - SUSPENSO",Carrie (2002)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infectados (Carriers) (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clHUkgNspzSi4v88jYFgZ7SE965.jpg" group-title="VOD - SUSPENSO",Infectados (Carriers) (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Expediente 39 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qT3IxgoA8aDZyKPIFLEWqshwLLR.jpg" group-title="VOD - SUSPENSO",Expediente 39 (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cell (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c721WxCCzeLJS99BOMBYAzicnJF.jpg" group-title="VOD - SUSPENSO",Cell (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cementerio General 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yR6mczVWkhhRCBXPjC026bZ0ErF.jpg" group-title="VOD - SUSPENSO",Cementerio General 2 (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atrapados en Chernóbil (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6P8gpu35NIjIxwcB7h4FfP0MpBw.jpg" group-title="VOD - SUSPENSO",Atrapados en Chernóbil (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cherry Tree (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhLagkPThEz2fqpXQwnEC3VqqIX.jpg" group-title="VOD - SUSPENSO",Cherry Tree (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Children of the Corn (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh09REcNcCPFKNIQ09NzAo3aVlY.jpg" group-title="VOD - SUSPENSO",Children of the Corn (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los chicos del maíz II: El sacrificio final (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6reoso5qwKE9HexRZi5EZ9XsvwM.jpg" group-title="VOD - SUSPENSO",Los chicos del maíz II: El sacrificio final (1992)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los chicos del maíz IV: La reunión (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRjeV9AZgCXGTqyvlp7Ui55Yb3l.jpg" group-title="VOD - SUSPENSO",Los chicos del maíz IV: La reunión (1996)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los chicos del maíz V: Campos de terror (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC6wip2EXdCYQwDDs9FnoakUZQL.jpg" group-title="VOD - SUSPENSO",Los chicos del maíz V: Campos de terror (1998)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muñeco diabólico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3u6WnH55OvtZKyFHVY984vGprG.jpg" group-title="VOD - SUSPENSO",Muñeco diabólico (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monstruoso (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/askiyHKCuf8qL0VqbZsgMCscfzE.jpg" group-title="VOD - SUSPENSO",Monstruoso (2008)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clown (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geB2KS8nJ2HZpT6ao259wYKK4CW.jpg" group-title="VOD - SUSPENSO",Clown (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ClownTown (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Uqx7NitLn4CO1syvTqN6Bb3F6A.jpg" group-title="VOD - SUSPENSO",ClownTown (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La piel fría (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFq8b2uFmCNRzpqAOGXw1M9eRe3.jpg" group-title="VOD - SUSPENSO",La piel fría (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Come Play (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smk9DmUlRMphVyx8J21OqBGCXCJ.jpg" group-title="VOD - SUSPENSO",Come Play (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Compulsion (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fPZ50FDA0J3EamkP3g371rewNg.jpg" group-title="VOD - SUSPENSO",Compulsion (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El vacío (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0WLRyT0AmUi41nVXBnqmJshIBn.jpg" group-title="VOD - SUSPENSO",El vacío (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Constantine: Ciudad de Demonios (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dboNLFpCn4BBFUuFXNvOtf9Ty8J.jpg" group-title="VOD - SUSPENSO",Constantine: Ciudad de Demonios (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Containment (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMyudM6LM9VfIsR8ZRghlSpAdfv.jpg" group-title="VOD - SUSPENSO",Containment (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cooties (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gv18iqlKrDLSfYqYC8zFjeBL0Q.jpg" group-title="VOD - SUSPENSO",Cooties (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ejecutivos agresivos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbybvPuDm7WcqhhNV1ALivoRqwS.jpg" group-title="VOD - SUSPENSO",Ejecutivos agresivos (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Countdown: La hora de tu muerte (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCIPxSmXcZUJ0ZEi8B9Emf8xj6a.jpg" group-title="VOD - SUSPENSO",Countdown: La hora de tu muerte (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infierno bajo el agua (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPCQHc1LqLEC2ozuFQngqvc2SIO.jpg" group-title="VOD - SUSPENSO",Infierno bajo el agua (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creep (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5oxV6MDEfL48FMK9BmYTD2wQRm.jpg" group-title="VOD - SUSPENSO",Creep (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creep (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35HrfAuVmpFibPeeRzlRUXHOaJ1.jpg" group-title="VOD - SUSPENSO",Creep (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Critters ¡Al ataque! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQEMFZHU9pLuhu49piOUkqIeKlo.jpg" group-title="VOD - SUSPENSO",Critters ¡Al ataque! (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crucifixion (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Crucifixion (2008)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cucuy: The Boogeyman (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi7yCzIPFek5tLY4coe4178SANJ.jpg" group-title="VOD - SUSPENSO",Cucuy: The Boogeyman (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cam (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hA2zgMyHGOUSf8iO7atblBvKuVt.jpg" group-title="VOD - SUSPENSO",Cam (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuidado con lo que deseas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG6Wx5tWOEHkOuexEvNYha3ofvM.jpg" group-title="VOD - SUSPENSO",Cuidado con lo que deseas (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuidado con los extraños (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tj2cWlKMKRm1t6MtvBGFWeZ99y.jpg" group-title="VOD - SUSPENSO",Cuidado con los extraños (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cujo (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNBt2YxrQdyOjnm2rDQ5QiCmQ0K.jpg" group-title="VOD - SUSPENSO",Cujo (1983)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cult of Chucky (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/on2Q5qroYiJ8MxhuZmdBd7rYNOa.jpg" group-title="VOD - SUSPENSO",Cult of Chucky (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cortinas (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik2mmDHesbZT1GtqNsHGjISE8vu.jpg" group-title="VOD - SUSPENSO",Cortinas (1983)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mentiras Peligrosas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csH6GfdO8TI6M6W5U0PChtRBpvC.jpg" group-title="VOD - SUSPENSO",Mentiras Peligrosas (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dark Was the Night (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLJPuZltlAJ9E4OTGYLYh5LDjsB.jpg" group-title="VOD - SUSPENSO",Dark Was the Night (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dark Water (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neYWgWIXzFK43sxn8RnKH1ekTDT.jpg" group-title="VOD - SUSPENSO",Dark Water (2001)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amanecer de los muertos (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlpvAnlkNG98qtK0poqSJ35KHVZ.jpg" group-title="VOD - SUSPENSO",Amanecer de los muertos (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Day of the Dead: Bloodline (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnQbbFIt6ZDtiTS88v9mXLYwMK6.jpg" group-title="VOD - SUSPENSO",Day of the Dead: Bloodline (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Ant (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NoqvEpApbcnSWFpbHAswOYufSQ.jpg" group-title="VOD - SUSPENSO",Dead Ant (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Awake (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apBhaUivEub9Ghx7sj7UqQCFYH4.jpg" group-title="VOD - SUSPENSO",Dead Awake (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Body (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hI4sNhgBIaqYEkHs19S0NwONcHP.jpg" group-title="VOD - SUSPENSO",Dead Body (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muerte en el Mar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evn7F3Y04GI2NGiQ4L08wYgVBND.jpg" group-title="VOD - SUSPENSO",Muerte en el Mar (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Night (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaBNJEr6LJA9cg7Ht4I9WqiFBDy.jpg" group-title="VOD - SUSPENSO",Dead Night (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadsight (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1g9mqAoRtnNZTHvccgbNjwoba7.jpg" group-title="VOD - SUSPENSO",Deadsight (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Silence (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDvKWjlyYuSaha2LSZkSLR64DM.jpg" group-title="VOD - SUSPENSO",Dead Silence (1997)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DeadTectives (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DTcWoo8wWl2f2YPp21hfGAAD7O.jpg" group-title="VOD - SUSPENSO",DeadTectives (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg" group-title="VOD - SUSPENSO",Deep Blue Sea 3 (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTfSYIf4abjcv5hgz53m5QH6oFC.jpg" group-title="VOD - SUSPENSO",Deep Blue Sea 2 (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Déjame entrar (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mw1Iv9o4BVCtfScCL0nhzolOdO.jpg" group-title="VOD - SUSPENSO",Déjame entrar (2008)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Delirium (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2jIkjrASnjtwCmCNDwh9LDWvq9.jpg" group-title="VOD - SUSPENSO",Delirium (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="But Deliver Us from Evil (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9L5d9IZ55Eo3EGpQJlMppcBzyZ.jpg" group-title="VOD - SUSPENSO",But Deliver Us from Evil (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dementia 13 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68nkM0GZfNS3MZsCezFNulg1hPe.jpg" group-title="VOD - SUSPENSO",Dementia 13 (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demonic (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ne0wAvbmzk72svslxjuFySrXEKw.jpg" group-title="VOD - SUSPENSO",Demonic (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desde el infierno (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fv29GwNS1NOgsr4NAdghOlQXkup.jpg" group-title="VOD - SUSPENSO",Desde el infierno (2001)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deseo Deseo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7S4aqpEHsxotkDh6u4xyjaPOgOi.jpg" group-title="VOD - SUSPENSO",Deseo Deseo (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Posesión infernal (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82ezls062PrIaSzds2JKqZ5UYiC.jpg" group-title="VOD - SUSPENSO",Posesión infernal (1981)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detrás de las paredes (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72vzjyq8YMfL2ktIkeeZne7D3iH.jpg" group-title="VOD - SUSPENSO",Detrás de las paredes (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La trampa del mal (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utiMhBWoBGf8iQ0l0yDHDlpTA60.jpg" group-title="VOD - SUSPENSO",La trampa del mal (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La trampa del mal (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utiMhBWoBGf8iQ0l0yDHDlpTA60.jpg" group-title="VOD - SUSPENSO",La trampa del mal (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Devil in the Dark (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4w9FcFDVQLecmYZtfTUr8Qt31h.jpg" group-title="VOD - SUSPENSO",Devil in the Dark (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Devil's Gate (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlguwriLf7PkG6jAzpnClkZKmHi.jpg" group-title="VOD - SUSPENSO",Devil's Gate (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diablo Rojo PTY (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZ3HwJyLnckq0k6VhimnjBir04.jpg" group-title="VOD - SUSPENSO",Diablo Rojo PTY (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diario de un exorcista (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKqTwTE8c7inpQz0Jflr0RMSMb6.jpg" group-title="VOD - SUSPENSO",Diario de un exorcista (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Sueño (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYx5zclp0WHZ0gVQ9nyDIwDcgxd.jpg" group-title="VOD - SUSPENSO",Doctor Sueño (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No tengas miedo a la oscuridad (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htH3kWAEEW0RLhgA2P8LTBea3mk.jpg" group-title="VOD - SUSPENSO",No tengas miedo a la oscuridad (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don't Knock Twice (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxiz9zHLrqC5JfKVPbkKBboiSzI.jpg" group-title="VOD - SUSPENSO",Don't Knock Twice (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Voces (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kB1jM3vsbkWBxLo4esCDvgrsZVj.jpg" group-title="VOD - SUSPENSO",Voces (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Downhill (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOACVnxwVKmD21wbFQQAen4DgbP.jpg" group-title="VOD - SUSPENSO",Downhill (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drácula (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRlA6ZW4xUiHk0acUXfjx7LfZEn.jpg" group-title="VOD - SUSPENSO",Drácula (1958)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drácula de Bram Stoker (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D4UhX6dzfBTHdVWkgjadcl8YkW.jpg" group-title="VOD - SUSPENSO",Drácula de Bram Stoker (1992)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drácula II: Resurrección (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2Jle2c7wTq2yyArV7CdNZk5HDZ.jpg" group-title="VOD - SUSPENSO",Drácula II: Resurrección (2003)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drácula, la leyenda jamás contada (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dflq9mJ99PC3I3piHYFmEzwW1q1.jpg" group-title="VOD - SUSPENSO",Drácula, la leyenda jamás contada (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arrástrame al infierno (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ubtl4phLy5iisPWVF5RAP2grow.jpg" group-title="VOD - SUSPENSO",Arrástrame al infierno (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dreamkatcher (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg" group-title="VOD - SUSPENSO",Dreamkatcher (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El automóvil gris (versión restaurada) (1919)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twlMi6J5LgPrfbOqHbDMLkMMgoC.jpg" group-title="VOD - SUSPENSO",El automóvil gris (versión restaurada) (1919)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buenas noches, mamá (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zM7NEOrDJiCtn79yxfSXXbytutb.jpg" group-title="VOD - SUSPENSO",Buenas noches, mamá (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099359.mkv
 
 
 
