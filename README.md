@@ -479,7 +479,6 @@ UNIVERSAL PREMIERE
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalpremiere.webp" group-title="CINE", 61 UNIVERSAL PREMIERE
 
 
-
 UNIVERSAL CRIME
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -492,7 +491,6 @@ UNIVERSAL CRIME
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalcrime.webp" group-title="CINE", 62 UNIVERSAL CRIME
 
 
-
 UNIVERSAL REALITY
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -503,7 +501,6 @@ UNIVERSAL REALITY
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universalreality.webp" group-title="CINE", 63 UNIVERSAL REALITY
-
 
 
 SPACE
@@ -633,43 +630,20 @@ https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 NAT GEO
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="DOCUMENTALES Y CULTURA", NAT GEO 
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="DOCUMENTALES Y CULTURA", 85 NAT GEO lpq
+https://sitsastr.qvixsolutions.com/stsa_natgeohd/index.m3u8
 
 
 HISTORY
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history.webp" group-title="DOCUMENTALES Y CULTURA", 89 HISTORY
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
-
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history.webp" group-title="DOCUMENTALES Y CULTURA", 86 HISTORY lpq
+https://sitsastr.qvixsolutions.com/stsa_historyhd/index.m3u8
 
 
 H 2
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history2.webp" group-title="DOCUMENTALES Y CULTURA", 90 H2
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
-
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history2.webp" group-title="DOCUMENTALES Y CULTURA", 87 H2 lpq
+https://sitsastr.qvixsolutions.com/stsa_h2hd/index.m3u8
 
 
 TRU TV
@@ -681,36 +655,24 @@ TRU TV
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/trutv.webp" group-title="DOCUMENTALES Y CULTURA", 93 TRUTV
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/trutv.webp" group-title="DOCUMENTALES Y CULTURA", 88 TRUTV
 https://edge-vod03-hr.cvattv.com.ar/live/c7eds/TruTV/SA_Live_dash_enc/TruTV.mpd
 
 
 
 DISCOVERY INVESTIGATION
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5Cw3X4MEvgVjrqmzjtofdg","kid":"qra0_bLhW--O8Hw5ewV-YA"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
+
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/id.webp" group-title="DOCUMENTALES Y CULTURA", 
- 95 INVESTIGATION DISCOVERY
-https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
+ 89 INVESTIGATION DISCOVERY lpq
+https://sitsastr.qvixsolutions.com/stsa_idhd/index.m3u8
 
 
 TCL
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IVjc-L7gN6S-e-vVvi8-mg","kid":"Y20CYfHnUIaHkeQmLIP0SA"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tlc.webp" group-title="DOCUMENTALES Y CULTURA",96 TLC
-https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tlc.webp" group-title="DOCUMENTALES Y CULTURA",90 TLC
+https://sitsastr.qvixsolutions.com/stsa_tlchd/index.m3u8
 
 
 
@@ -719,12 +681,12 @@ DISCOVERY WORLD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "VnV9ZWpperei5eCDtdIbtQ","kid": "NO6UwiYzRfejpZBmEmTkkA"}],"type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key=34ee94c2263345f7a3a590661264e490:56757d656a697ab7a2e5e083b5d21bb5
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/disworld.webp" group-title="DOCUMENTALES Y CULTURA",98 DISCOVERY WORLD
-https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/disworld.webp" group-title="DOCUMENTALES Y CULTURA",98 DISCOVERY WORLD flow
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd
 
 
 FILM ARTS
