@@ -363,7 +363,7 @@ MTV HITS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtvhits.webp" group-title="Musica", 38 MTV Hits flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtvhits.webp" group-title="MUSICA", 38 MTV Hits flow
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd
 
 
@@ -376,7 +376,7 @@ MTV 00
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="-",39 MTV 00 flow
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA",39 MTV 00 flow
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd
 
 
