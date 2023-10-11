@@ -410,28 +410,28 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd
 
 HBO
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=99eefc068db3509b9f0cf5b34114219d:6c23e31a4d83b568e84aec609a63ebc9
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo.webp" group-title="CINE", 52 HBO
-https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo.webp" group-title="CINE", 52 HBO lpq
+https://sitsastr.qvixsolutions.com/stsa_hbohd/index.m3u8
 
 
 HBO 2
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "usWBim4RNds8nyT7dS9pnw","kid": "KirtF9xgUPud7m5loGs5JQ"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo2.webp" group-title="CINE", 53 HBO 2
-https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo2.webp" group-title="CINE", 53 HBO 2 lpq
+https://sitsastr.qvixsolutions.com/stsa_hbo2hd/index.m3u8
+
+
+HBO FAMILY
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbofam.webp" group-title="CINE", 54 HBO FAMILY lpq
+https://sitsastr.qvixsolutions.com/stsa_hbofamilyhd/index.m3u8
+
+
+HBO PLUS
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hboplus.webp" group-title="CINE", 54 HBO FAMILY lpq
+https://sitsastr.qvixsolutions.com/stsa_hboplushd/index.m3u8
 
 
 HBO POP
