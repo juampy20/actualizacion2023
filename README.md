@@ -3459,3 +3459,120 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1100459.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1100460.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bucky Larson: Nacido para ser una estrella (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avCsg52549PHT5nVXIW7c3BEZ7b.jpg" group-title="VOD - COMEDIA",Bucky Larson: Nacido para ser una estrella (2011)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1100462.mkv
+
+
+ROMANCE-----
+-----------
+
+#EXTINF:-1 tvg-id="" tvg-name="Ni en sueños (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFWxPE8mXiOmqLc8bfncOuJqbw5.jpg" group-title="VOD - ROMANCE",Ni en sueños (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si decido quedarme (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsWeIZ5Z3W2xAEr4oEj25jC9vMC.jpg" group-title="VOD - ROMANCE",Si decido quedarme (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inmersión (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZaecd428OQyHbfYhNi5BAhHbsn.jpg" group-title="VOD - ROMANCE",Inmersión (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sierra Burgess es una perdedora (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjnHRySiVM4YcBYzjCxw344y9g.jpg" group-title="VOD - ROMANCE",Sierra Burgess es una perdedora (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El lado bueno de las cosas (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YXWHl2oP8OFT5CtG3EoeMQtAAD.jpg" group-title="VOD - ROMANCE",El lado bueno de las cosas (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sing Street (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKoje7m27iCOAxvfhQQKNolXts7.jpg" group-title="VOD - ROMANCE",Sing Street (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin reservas (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzcRicYNm301idmRwJJZJIHAGHv.jpg" group-title="VOD - ROMANCE",Sin reservas (2007)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo para recordar (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psRLR2UFkcU1SHIXWcrIX7yCwQO.jpg" group-title="VOD - ROMANCE",Algo para recordar (1993)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El sueño de mi vida (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgiY4CxDEFDcCfsLWLqLr4ezs6n.jpg" group-title="VOD - ROMANCE",El sueño de mi vida (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dieciséis velas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vT5KySjMhb9yTApyQFSyuMvQB9Y.jpg" group-title="VOD - ROMANCE",Dieciséis velas (1984)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nunca entre amigos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLk9lb21GpQeKENUkjIOBV59acR.jpg" group-title="VOD - ROMANCE",Nunca entre amigos (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Slumdog Millionaire (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub7iEniSi23Ms3RcF551Sozb1MH.jpg" group-title="VOD - ROMANCE",Slumdog Millionaire (2008)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sobredosis de Amor (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUJrGpA3qkddYonre6DFePfFeAY.jpg" group-title="VOD - ROMANCE",Sobredosis de Amor (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sobre ruedas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw8FG7VXZfUtCAGbygyEYWcYJLn.jpg" group-title="VOD - ROMANCE",Sobre ruedas (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Proceso de admisión (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkTcnobD4Vnc1m5e7xX6YCpWN77.jpg" group-title="VOD - ROMANCE",Proceso de admisión (2013)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sólo amigos (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tn0PgQKC29aIHA0ube945IhEI3J.jpg" group-title="VOD - ROMANCE",Sólo amigos (2005)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solteras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xAcWQhSd5ANs9ipsXoac8yeW2p.jpg" group-title="VOD - ROMANCE",Solteras (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Novia por contrato (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5YAzMCDc4tLXXnTnHKvYMgbzXT.jpg" group-title="VOD - ROMANCE",Novia por contrato (2006)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alguien especial (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QW7qjnJPPIDGTCqYThooeiTSYE.jpg" group-title="VOD - ROMANCE",Alguien especial (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tú y yo somos tres (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7quckeRWtVDxsIjhWhaJSPtwHMP.jpg" group-title="VOD - ROMANCE",Tú y yo somos tres (1962)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La vida en una canción (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEzfpEFAhU8jv7pfVQdUCZCC7Ca.jpg" group-title="VOD - ROMANCE",La vida en una canción (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Song to Song (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZ1tHVE8KW1OnemlRSVulpgvejd.jpg" group-title="VOD - ROMANCE",Song to Song (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo El Sol De Riccione (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ly1zIjlj1MuV7zHJ9NaPu0Xp2rR.jpg" group-title="VOD - ROMANCE",Bajo El Sol De Riccione (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michelle & Obama (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ktA7D8Xgxw4QkWNSvRgEedHWn5.jpg" group-title="VOD - ROMANCE",Michelle & Obama (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy el número cuatro (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8Wg5RBAcsDjSKi3Et571MbsBFw.jpg" group-title="VOD - ROMANCE",Soy el número cuatro (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spanglish (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkA4yVXUGIUFzaGlm5opeq9OFj4.jpg" group-title="VOD - ROMANCE",Spanglish (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las vueltas del amor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpOuwvWHvcWJFIoac1NSU8Tl3YO.jpg" group-title="VOD - ROMANCE",Las vueltas del amor (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Splash (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXoK5g9Abg1rAh5MTpqngAxrLfo.jpg" group-title="VOD - ROMANCE",Splash (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sr. y Sra. Smith (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNi7Axc8U4cI9BgryeuF5tpi0I1.jpg" group-title="VOD - ROMANCE",Sr. y Sra. Smith (2005)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stardust (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsCrevARwF6eCrF2v8zpLdn0gth.jpg" group-title="VOD - ROMANCE",Stardust (2007)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/B4jUoUth9PfIjjKCOfKplxaBoF.jpg" group-title="VOD - ROMANCE",Stargirl (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guatdefoc (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfADwQlaZTqh5PgTznpeg9LnuV1.jpg" group-title="VOD - ROMANCE",Guatdefoc (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Home Alabama (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ng6B9qRfOiYcGeaYuUq6CoEw2uI.jpg" group-title="VOD - ROMANCE",Sweet Home Alabama (2002)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Home Carolina (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdwo6Ix3syZub6atY8EStKkn01v.jpg" group-title="VOD - ROMANCE",Sweet Home Carolina (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noviembre dulce (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etZBiCuTbCsAPbdLzLMBfdGik61.jpg" group-title="VOD - ROMANCE",Noviembre dulce (2001)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasó anoche? (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3dVYQtxXldDawz7d15wqt2PQLe.jpg" group-title="VOD - ROMANCE",¿Qué pasó anoche? (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Más allá del tiempo (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GtFVW8MIx6DQ1p7FmXbEMSWwzd.jpg" group-title="VOD - ROMANCE",Más allá del tiempo (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Te juro que yo no fui (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnUzAymfRq5yriq8mVzXuQtkpuu.jpg" group-title="VOD - ROMANCE",Te juro que yo no fui (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tengo ganas de ti (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z13I3sWzOoKBDAEpJ7iK9bSznQn.jpg" group-title="VOD - ROMANCE",Tengo ganas de ti (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Te pido un taxi (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18gB2rF9WAd14qL2TyjMsJZF4yX.jpg" group-title="VOD - ROMANCE",Te pido un taxi (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conexión Tequila (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lU57nwsR2I7uIah1XnbIF15krmM.jpg" group-title="VOD - ROMANCE",Conexión Tequila (1988)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Testamento de juventud (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yt0J2mmby3E9Ffnouf6LjR2KiM4.jpg" group-title="VOD - ROMANCE",Testamento de juventud (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino oculto (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ALDdje4SLdZCEWTIxWpAqMEFZX.jpg" group-title="VOD - ROMANCE",Destino oculto (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Way Back (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KXzKUDFEVqaIq8lUL022yN54rE.jpg" group-title="VOD - ROMANCE",The Way Back (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE BEST OF ME (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQWtoXkrax8TbOkthwaWBkHpllm.jpg" group-title="VOD - ROMANCE",THE BEST OF ME (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La gran enfermedad del amor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YrYtRJApTEuJQ7UDLLe4BpVN64.jpg" group-title="VOD - ROMANCE",La gran enfermedad del amor (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bounce Back (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JsEu5imj7Ya0eyLoe7gTu7Cu0b.jpg" group-title="VOD - ROMANCE",The Bounce Back (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Exposados - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwVwxmzTdeVm4otgh1UiwM1NjqS.jpg" group-title="VOD - ROMANCE",Exposados - 2010
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boy Downstairs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyevkDeoS2EZjmB8qEk6hyzQYlB.jpg" group-title="VOD - ROMANCE",The Boy Downstairs (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los puentes de Madison (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeNvfQ6kyfH2l2LKtFQ6XYxFIsm.jpg" group-title="VOD - ROMANCE",Los puentes de Madison (1995)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pasión por el triunfo (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8tMoxZydFedzOfjL1cWKKcOlSb.jpg" group-title="VOD - ROMANCE",Pasión por el triunfo (1992)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Discovery (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLIDouFvreSrs8xK62zuvpEPDw0.jpg" group-title="VOD - ROMANCE",The Discovery (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La serie Divergente: Insurgente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9tT7J3wrZa2KJ7v4vbgITshNgp.jpg" group-title="VOD - ROMANCE",La serie Divergente: Insurgente (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la misma estrella (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWtK2Kg4afUaQ2LVzQKsdcvJnLa.jpg" group-title="VOD - ROMANCE",Bajo la misma estrella (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The First Time (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tG6jUndWd9FRuvI4j5Z2bhTuq0V.jpg" group-title="VOD - ROMANCE",The First Time (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Fountain (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwbod2uXYZKH7ZrqDM6712xQG0s.jpg" group-title="VOD - ROMANCE",The Fountain (2007)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1099074.mkv
