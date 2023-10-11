@@ -3919,3 +3919,185 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1098377.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1098378.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Caza bajo el sol (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nybo6597UJuYlKVx1SeoHq4poK.jpg" group-title="VOD - DRAMA",Caza bajo el sol (2014)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1098379.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="La tormenta perfecta (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75aRoXgG74D5wbSqEQAYFpFFJ0V.jpg" group-title="VOD - ACCION",La tormenta perfecta (2000)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="the physician" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75aRoXgG74D5wbSqEQAYFpFFJ0V.jpg" group-title="VOD - ACCION",the physician
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La aventura del Poseidón (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3Ozx85FSgiHZl1LgmxhRMkVTSz.jpg" group-title="VOD - ACCION",La aventura del Poseidón (1972)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Egipto (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKY3R88Tod1tlj4QfpudqKpXKC0.jpg" group-title="VOD - ACCION",El príncipe de Egipto (1998)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La princesa prometida (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg" group-title="VOD - ACCION",La princesa prometida (1987)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El renacido (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3Jh7J5GGMx1lmr7qmynRxOvOK5.jpg" group-title="VOD - ACCION",El renacido (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elegidos para la gloria (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCM5AF6kaL86aW4udTe22SAqMk6.jpg" group-title="VOD - ACCION",Elegidos para la gloria (1983)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tesoro del Amazonas (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32vcJ7Fz03cNWGZt8FD75Z9pCO3.jpg" group-title="VOD - ACCION",Tesoro del Amazonas (2003)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Santo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6l79hqAWJHrJDnDLCeQUZaGr1YD.jpg" group-title="VOD - ACCION",El Santo (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey escorpión: el libro de las almas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fZL6ONUz0o8nvnHpeA8zj3nEvs.jpg" group-title="VOD - ACCION",El rey escorpión: el libro de las almas (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey Escorpión 4: La búsqueda del poder (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg" group-title="VOD - ACCION",El rey Escorpión 4: La búsqueda del poder (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey Escorpión 2: El nacimiento del guerrero (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sifKzZSF0slc353Q3c02YmUTFtF.jpg" group-title="VOD - ACCION",El rey Escorpión 2: El nacimiento del guerrero (2008)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El jardín secreto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/figneljeYCOBLAyyi1odZxz8h5g.jpg" group-title="VOD - ACCION",El jardín secreto (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mascotas 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqGsG2uNV9JGgrfODbTafPUukci.jpg" group-title="VOD - ACCION",Mascotas 2 (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El secreto de la última luna (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaB0Sohz40GMi704CNcUngPKwh0.jpg" group-title="VOD - ACCION",El secreto de la última luna (2008)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nimh, el mundo secreto de la Sra. Brisby (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knBSHvgA3c48W7QqusHhrF8cfL7.jpg" group-title="VOD - ACCION",Nimh, el mundo secreto de la Sra. Brisby (1982)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Shallows (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",The Shallows (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La reina de las nieves en la tierra de los espejos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ilrj2p5GG63nxvtPcVYLoTzBdJ.jpg" group-title="VOD - ACCION",La reina de las nieves en la tierra de los espejos (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las crónicas de Spiderwick (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhMu6dyNMU711aihDMjKRofJhpY.jpg" group-title="VOD - ACCION",Las crónicas de Spiderwick (2008)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Spirit (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9qawfzR3LWRC8r8YZ9w2yaQi5W.jpg" group-title="VOD - ACCION",The Spirit (2008)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inside 'The Spy Who Loved Me' (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LpG4a7pFo0y5YsJ2OP3VYiKuZL.jpg" group-title="VOD - ACCION",Inside 'The Spy Who Loved Me' (2000)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stronghold, el gigante de piedra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XPmp8ATUJyl0XmiyHcdGtmhCx2.jpg" group-title="VOD - ACCION",Stronghold, el gigante de piedra (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1097999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z! (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOtvIOc65gmDdrAk3Eg01oH4gZY.jpg" group-title="VOD - ACCION",Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z! (1993)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las mil caras de Dunjia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlvGMtVfYyX4hQJhyIuHs3YalsK.jpg" group-title="VOD - ACCION",Las mil caras de Dunjia (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los tres mosqueteros (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKMB498JwFzKiEfcJ5Vao8A1no7.jpg" group-title="VOD - ANIMACION",Los tres mosqueteros (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Time Machine (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",The Time Machine (1949)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El camino del guerrero (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkXo3NZhx2cASS1cjMKnsjJ1ftI.jpg" group-title="VOD - ACCION",El camino del guerrero (2010)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El maestro del agua (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izgxihtqAFM3Z9DGBNXrgCVa2xt.jpg" group-title="VOD - ACCION",El maestro del agua (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Wizard of Oz (1933)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5sfxM2sDv7SwMh4GAGLgLOSl8R.jpg" group-title="VOD - ACCION",The Wizard of Oz (1933)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Año uno (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RdmUfWqmt7SnYaBR89NoYTVQZc.jpg" group-title="VOD - ACCION",Año uno (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shetan, el caballo del desierto (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/earW79xMyzcioZMm7hqpFC75oxn.jpg" group-title="VOD - ACCION",Shetan, el caballo del desierto (2003)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thomas & Friends: Big World! Big Adventures! The Movie (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cs9S4WDmuwtz8qQu3wC5UqVGhR.jpg" group-title="VOD - ACCION",Thomas & Friends: Big World! Big Adventures! The Movie (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfjJLZK9JvflsKM3gVMnX7QJzKJ.jpg" group-title="VOD - UNIVERSO MARVEL",Thor (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg" group-title="VOD - UNIVERSO MARVEL",Thor: Ragnarok (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Tales of Asgard (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh8jjEBbL0BEGT3Fy2DKhbE2D58.jpg" group-title="VOD - ACCION",Thor: Tales of Asgard (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: el mundo oscuro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg" group-title="VOD - UNIVERSO MARVEL",Thor: el mundo oscuro (2013)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquellos chalados en sus locos cacharros (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KJAF7vY88FILt6QscGLKDFu7Wj.jpg" group-title="VOD - ACCION",Aquellos chalados en sus locos cacharros (1965)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Thunderball (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",Mr. Thunderball (1965)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tigre y dragón 2: La espada del destino (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpL1IFXLqAI9s4RteijCtzQ6s7Z.jpg" group-title="VOD - ACCION",Tigre y dragón 2: La espada del destino (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Time Trap (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qIBGXM6oXOu3wBYH6QpamXdXuB.jpg" group-title="VOD - ACCION",Time Trap (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Titán A.E. (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFtHKAqpxRmwyaJydZ7YyK1dzP0.jpg" group-title="VOD - ACCION",Titán A.E. (2000)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hundimiento del Titanic (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22Fh4UoxP6ejL2IFws76TJ8oYlj.jpg" group-title="VOD - ACCION",El hundimiento del Titanic (1953)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Togo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg" group-title="VOD - ACCION",Togo (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orzPlWUbf0S5HeWmpP3TeHvduwn.jpg" group-title="VOD - ACCION",Tom y Jerry (2021)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry. El tesoro del galeón pirata (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b964RtitRMbUSwTnv4qdbRzUwug.jpg" group-title="VOD - ACCION",Tom y Jerry. El tesoro del galeón pirata (2006)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invasores de tumbas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTz0qaYuXIHBAUiwAqJZQxOgWlZ.jpg" group-title="VOD - ACCION",Invasores de tumbas (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKMrC8fR9exkdykazvuZU3BDfTy.jpg" group-title="VOD - ACCION",Tomb Raider (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tomorrowland 2014 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",Tomorrowland 2014 (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CHIKARA Tomorrow Never Dies (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",CHIKARA Tomorrow Never Dies (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z! (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOtvIOc65gmDdrAk3Eg01oH4gZY.jpg" group-title="VOD - ACCION",Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z! (1993)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Troya (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rthioP0Xgfl818DJeHcyiHxWHPN.jpg" group-title="VOD - ACCION",Troya (2004)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UglyDolls: Extraordinariamente Feos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpSUclx8IJ6yrDxG54JSP03JmPq.jpg" group-title="VOD - ACCION",UglyDolls: Extraordinariamente Feos (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="una loca aventura medieval" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpSUclx8IJ6yrDxG54JSP03JmPq.jpg" group-title="VOD - ACCION",una loca aventura medieval
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche en el museo 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KmzAIkylNYJogVUUriELhlyK79.jpg" group-title="VOD - ACCION",Noche en el museo 2 (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche en el museo 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KmzAIkylNYJogVUUriELhlyK79.jpg" group-title="VOD - ACCION",Noche en el museo 2 (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche en el museo 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KmzAIkylNYJogVUUriELhlyK79.jpg" group-title="VOD - ACCION",Noche en el museo 2 (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un paseo por el bosque (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5wLafcCD4nNtQLKdQLg4rhynEt.jpg" group-title="VOD - ACCION",Un paseo por el bosque (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="upside-down magic 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5wLafcCD4nNtQLKdQLg4rhynEt.jpg" group-title="VOD - ACCION",upside-down magic 2020
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vacaciones (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFLrSjp8e3ncbJvzM31sDQLw5pG.jpg" group-title="VOD - ACCION",Vacaciones (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Valley of Bones (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRaOLJumjzBq6xFNZMVZdnKlI0W.jpg" group-title="VOD - ACCION",Valley of Bones (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Límite vertical (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YH7kCWyJCLSwWBreggNmxvRxzn.jpg" group-title="VOD - ACCION",Límite vertical (2000)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viaje al centro de la Tierra 2: La isla misteriosa (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAy2yUav8QPnDzfOGihNI527NjY.jpg" group-title="VOD - ACCION",Viaje al centro de la Tierra 2: La isla misteriosa (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viaje al centro de la Tierra (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OzZiKbSlycCYxaBvEAU2EwlgP5.jpg" group-title="VOD - ACCION",Viaje al centro de la Tierra (1977)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ovejas y Lobos: La Hazaña Mágica (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkrBQjrA35wXxUk6WKdiJorWR5a.jpg" group-title="VOD - ACCION",Ovejas y Lobos: La Hazaña Mágica (2019)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Walking Out (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wK3l4ZfcRXFph6uop7yr7scM2SP.jpg" group-title="VOD - ACCION",Walking Out (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Warcraft: El origen (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXi7ahEIH8gdVGZ6emjWbg3exrF.jpg" group-title="VOD - ACCION",Warcraft: El origen (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Warriors of the Rainbow: Seediq Bale (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIOtUX4S65fhntcE8nIXjN8ij54.jpg" group-title="VOD - ACCION",Warriors of the Rainbow: Seediq Bale (2011)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Waterworld (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKsWkGTEZ93hdQjEWQm5Ns1baDT.jpg" group-title="VOD - ACCION",Waterworld (1995)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superniños (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AcJFpvxcqjLNADrCNAUYOsIrQP.jpg" group-title="VOD - ACCION",Superniños (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Welcome to the Jungle (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMh71ZP23oTKtNY1cHNUWH7XMOR.jpg" group-title="VOD - ACCION",Welcome to the Jungle (2007)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wendy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naFzu4rjzu7FIsXJ6rM76iHFTvg.jpg" group-title="VOD - ACCION",Wendy (2020)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Where the Wild Things Are (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",Where the Wild Things Are (1975)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vuelve Colmillo Blanco (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51dXdeFjQrf5dPRU220cOroRC9Z.jpg" group-title="VOD - ACCION",Vuelve Colmillo Blanco (1994)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ralph rompe Internet (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfff5XoLdGQzCt2Nb4ZF6WYNLAq.jpg" group-title="VOD - ACCION",Ralph rompe Internet (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jugada salvaje (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6j8F7zOwBxpJP5AlVbe1FWx1Cm7.jpg" group-title="VOD - ACCION",Jugada salvaje (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Willow (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tXkG9r7Lt1w7tmOguJdYcRbyYO.jpg" group-title="VOD - ACCION",Willow (1988)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wings: Sky Force Heroes (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVip6poOTYVwVxZ8WfQdutarjEG.jpg" group-title="VOD - ACCION",Wings: Sky Force Heroes (2014)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tp3FVzADUWl5dlfdc1cEVCLhgMG.jpg" group-title="VOD - UNIVERSO DC",Wonder Woman (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los magos de Waverly Place: Vacaciones en el Caribe (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFNuFVL1CGrGovO7ja4Hb7hz5F6.jpg" group-title="VOD - ACCION",Los magos de Waverly Place: Vacaciones en el Caribe (2009)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="熊出没之雪岭熊风 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdBdHCSRSdOlupoINRFlRrQNfxO.jpg" group-title="VOD - ACCION",熊出没之雪岭熊风 (2015)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xXx (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewGhwS8dbAfFDJBEpbsWOuwS4Ov.jpg" group-title="VOD - ACCION",xXx (2002)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xXx2: Estado de emergencia (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjHfn4YuH3MNMwhfQ9ZphQ3R8yP.jpg" group-title="VOD - ACCION",xXx2: Estado de emergencia (2005)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="xXx: Reactivated (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc830XBY2h8HBtHeISpR9qb2PU6.jpg" group-title="VOD - ACCION",xXx: Reactivated (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yanka y el espíritu del volcán (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1JVWhnjuvS3HTTh9oo5rGwLw6m.jpg" group-title="VOD - ACCION",Yanka y el espíritu del volcán (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo Soy Pepito (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x72byZ2sfGfy8Z21bKlleWRUgq6.jpg" group-title="VOD - ACCION",Yo Soy Pepito (2018)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inside 'You Only Live Twice' (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phlZz3iuUmGnRoxe9AN8zN7jHwi.jpg" group-title="VOD - ACCION",Inside 'You Only Live Twice' (2000)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zarafa (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vJZzASME7DEQeHMdYZ7tYzvIe1.jpg" group-title="VOD - ACCION",Zarafa (2012)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuWtgYKs9EsKQHIv3mJTBbFZddi.jpg" group-title="VOD - ACCION",Guardianes (2017)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zathura: Una aventura espacial (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svCwqsP9UDr14fYDLawJfDgEsSD.jpg" group-title="VOD - ACCION",Zathura: Una aventura espacial (2005)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zipi Y Zape y la isla del capitán (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itBqyhOuyMitRIEXdWerRIvojRx.jpg" group-title="VOD - ACCION",Zipi Y Zape y la isla del capitán (2016)
+http://tv.fullytv.com:8080/movie/pulgas/pata/1098073.mkv
