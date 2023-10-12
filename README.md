@@ -4114,3 +4114,167 @@ http://tv.fullytv.com:8080/movie/pulgas/pata/1098071.mkv
 http://tv.fullytv.com:8080/movie/pulgas/pata/1098072.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Zipi Y Zape y la isla del capitán (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itBqyhOuyMitRIEXdWerRIvojRx.jpg" group-title="VOD - ACCION",Zipi Y Zape y la isla del capitán (2016)
 http://tv.fullytv.com:8080/movie/pulgas/pata/1098073.mkv
+
+
+series----------
+---------------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50CKQvJWbf5YFaVSfrq5imwZs1q.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E01
+http://tv.fullytv.com:8080/series/pulgas/pata/1145072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LEAI056kA38MvY4qzCWvvIATrt.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E02
+http://tv.fullytv.com:8080/series/pulgas/pata/1145073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1DtLWohynR3RNgfRUQczt9uATY.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E03
+http://tv.fullytv.com:8080/series/pulgas/pata/1145074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cgxnLU4BKSRnZLKj7BhRbWzuxQp.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E04
+http://tv.fullytv.com:8080/series/pulgas/pata/1146002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/bAwugUknyAE3EnCYRfscg7aHo5v.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E05
+http://tv.fullytv.com:8080/series/pulgas/pata/1146349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/jqUQ8JbzfaMJnbnHbqA84D8V6Sd.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E06
+http://tv.fullytv.com:8080/series/pulgas/pata/1146867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/qgzbR35agVG1pB4VSDBdk3ZBf6.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E07
+http://tv.fullytv.com:8080/series/pulgas/pata/1147328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/4QyRI3nUKB5hWuC81bEvqEbxiNx.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E08
+http://tv.fullytv.com:8080/series/pulgas/pata/1147329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzlqDti0LrO5FKECZN3rxbhtIdZ.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E01
+http://tv.fullytv.com:8080/series/pulgas/pata/1145144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgolBNQ3qWbWVKEvuiABDEtslvS.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E02
+http://tv.fullytv.com:8080/series/pulgas/pata/1145145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT2cYx4PdbDOZSgn1FOwLoj9Ixn.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E03
+http://tv.fullytv.com:8080/series/pulgas/pata/1145146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxc7NMihQTmUmk3sdJp8cbYbOiN.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E04
+http://tv.fullytv.com:8080/series/pulgas/pata/1145147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BFoNsfcvj0j4U0bRCaO26eHvQj.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E05
+http://tv.fullytv.com:8080/series/pulgas/pata/1145148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK39HfDf05hQbbsixWv4Og4LArF.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E06
+http://tv.fullytv.com:8080/series/pulgas/pata/1145149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wX3ydfrhU9Hee5JhAcL9UzvkXR.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E07
+http://tv.fullytv.com:8080/series/pulgas/pata/1145150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsMS7dcaqmUodHA9vnNm6E35iKy.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E08
+http://tv.fullytv.com:8080/series/pulgas/pata/1145151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI0DEiPmO9A2PGIAQ4YYCkGf3fh.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E01
+http://tv.fullytv.com:8080/series/pulgas/pata/1145333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmjMR2eykpUTPiJdZyhOsg5QwPW.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E02
+http://tv.fullytv.com:8080/series/pulgas/pata/1145334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5plgzskoTkXC1kuHb5Neehh3GZY.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E03
+http://tv.fullytv.com:8080/series/pulgas/pata/1145335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrpSmKHoY5O7poSAjdjgMWXMt8I.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E04
+http://tv.fullytv.com:8080/series/pulgas/pata/1145336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB7UMBHWOSXVMJDTknZI5Veyb8s.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E05
+http://tv.fullytv.com:8080/series/pulgas/pata/1145337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndXL88MxndvROXjiEdbdBAiHXg1.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E06
+http://tv.fullytv.com:8080/series/pulgas/pata/1145338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3Evm7CxhaTxZAXkjm6Gj3ML2qr.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E07
+http://tv.fullytv.com:8080/series/pulgas/pata/1145339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gdW382UCMOjMKlfYi9XzCpHHZY.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E08
+http://tv.fullytv.com:8080/series/pulgas/pata/1145340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbKu5AwKXLhzqvWuEKAisokeJ4v.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E01
+http://tv.fullytv.com:8080/series/pulgas/pata/1145507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PuvPV36Ls5NXMJzVSz22LrD7E3.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E02
+http://tv.fullytv.com:8080/series/pulgas/pata/1145508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsvCAONp2pSz0gF55TdN7wkR8TQ.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E03
+http://tv.fullytv.com:8080/series/pulgas/pata/1145509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uVOt9WIfiErBXoa0zzNpbI5NHB.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E04
+http://tv.fullytv.com:8080/series/pulgas/pata/1145510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1E43XtcAkn9ikdVj4E3NKtcTJQh.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E05
+http://tv.fullytv.com:8080/series/pulgas/pata/1145511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S2teXTb9Kudv0CpIDMjocmzH1x.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E06
+http://tv.fullytv.com:8080/series/pulgas/pata/1145512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijPTLSfR8s0VPt3AlmzwIcTM3j1.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E07
+http://tv.fullytv.com:8080/series/pulgas/pata/1145513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1yt0NvjOPNYNNEbQTFWKtwiEUm.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E08
+http://tv.fullytv.com:8080/series/pulgas/pata/1145514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wYcFWYpOgUQemirFdDNJDgZg8X.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E09
+http://tv.fullytv.com:8080/series/pulgas/pata/1145515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZOPdjXxo0xSGnmj4MmjhfWbvsy.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E10
+http://tv.fullytv.com:8080/series/pulgas/pata/1145516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E01
+http://tv.fullytv.com:8080/series/pulgas/pata/1145517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E02
+http://tv.fullytv.com:8080/series/pulgas/pata/1145518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E03
+http://tv.fullytv.com:8080/series/pulgas/pata/1145519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E04
+http://tv.fullytv.com:8080/series/pulgas/pata/1145520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E05
+http://tv.fullytv.com:8080/series/pulgas/pata/1145521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E06
+http://tv.fullytv.com:8080/series/pulgas/pata/1145522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E07
+http://tv.fullytv.com:8080/series/pulgas/pata/1145523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E08
+http://tv.fullytv.com:8080/series/pulgas/pata/1145524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gNX24yBpKRD4J1x9fTLIUfwYPP.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E01
+http://tv.fullytv.com:8080/series/pulgas/pata/1145824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qFPulSwVuzAcr2cyyeB6wyWzTe.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E02
+http://tv.fullytv.com:8080/series/pulgas/pata/1145825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY1Y9RToolTAg7NycxLonHeSIyd.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E03
+http://tv.fullytv.com:8080/series/pulgas/pata/1145826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kU03n4MKinL9ByiZxXsrCItSPOv.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E04
+http://tv.fullytv.com:8080/series/pulgas/pata/1145827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9uVJB2nUhLFkeB4yvDbSbwgiZS.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E05
+http://tv.fullytv.com:8080/series/pulgas/pata/1145828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuDy9dmubXH9agVTPV7KV2gEB5.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E06
+http://tv.fullytv.com:8080/series/pulgas/pata/1145829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Jd09TeCEGmGAtO6R09la7UZ9BT.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E01
+http://tv.fullytv.com:8080/series/pulgas/pata/1145830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sek2dSV0eWDsKkKuqqGiD6pp4jJ.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E02
+http://tv.fullytv.com:8080/series/pulgas/pata/1145831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdWpN3KqYFGBdMD7jEVe2o395XG.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E03
+http://tv.fullytv.com:8080/series/pulgas/pata/1145832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAIyda6Tsmm0O4jDBfCLK39NZi3.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E04
+http://tv.fullytv.com:8080/series/pulgas/pata/1145833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WZaVPQe7IrPJOeFAH9QOeXVIyY.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E05
+http://tv.fullytv.com:8080/series/pulgas/pata/1145834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Jr1M9qJTlsS5U95jUNEnnYHFdn.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E06
+http://tv.fullytv.com:8080/series/pulgas/pata/1145835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LdtFJ1strlUTMIPRkhTIk9B3jG.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E07
+http://tv.fullytv.com:8080/series/pulgas/pata/1145836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Jr1M9qJTlsS5U95jUNEnnYHFdn.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E08
+http://tv.fullytv.com:8080/series/pulgas/pata/1145837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umJGl9UqTtiICqsho7U3FK3O44y.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E01
+http://tv.fullytv.com:8080/series/pulgas/pata/1145838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhAMySMD9e7E9mocL4X4pUo5Y6H.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E02
+http://tv.fullytv.com:8080/series/pulgas/pata/1145839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phRFVKxWM08VHpzYq3VJ916kHIt.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E03
+http://tv.fullytv.com:8080/series/pulgas/pata/1145840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7uHothPVEz2UViIIRPSPpWKBLp.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E04
+http://tv.fullytv.com:8080/series/pulgas/pata/1145841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlZMOEt0pouwe6Ooxp2FxoZH7AH.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E05
+http://tv.fullytv.com:8080/series/pulgas/pata/1145842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vohfpE8HkrhRqi0qF2vFOPsPzAw.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E06
+http://tv.fullytv.com:8080/series/pulgas/pata/1145843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afYeSp6a8cNzqe6RIbxLQPZukeS.jpg" group-title="SERIES - DRAMA",El primer amor S01 E01
+http://tv.fullytv.com:8080/series/pulgas/pata/1146018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYSKlWR0Xx3uNrCAG1lBjJjeGUl.jpg" group-title="SERIES - DRAMA",El primer amor S01 E02
+http://tv.fullytv.com:8080/series/pulgas/pata/1146019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghI6gwzLNQLyfHLTaJBe9Y3QqBB.jpg" group-title="SERIES - DRAMA",El primer amor S01 E03
+http://tv.fullytv.com:8080/series/pulgas/pata/1146020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7HZvUSkkCl9aY0LQZYLN8ehhgJ.jpg" group-title="SERIES - DRAMA",El primer amor S01 E04
+http://tv.fullytv.com:8080/series/pulgas/pata/1146021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYJP33IbsjpLvYhA5G0suGj4irF.jpg" group-title="SERIES - DRAMA",El primer amor S01 E05
+http://tv.fullytv.com:8080/series/pulgas/pata/1146022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8nK1yZgS6ONhAqpsa0eHErUfgP.jpg" group-title="SERIES - DRAMA",El primer amor S01 E06
+http://tv.fullytv.com:8080/series/pulgas/pata/1146023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QqgWz44Pd7wQ1Wy1SZGZZDYxrp.jpg" group-title="SERIES - DRAMA",El primer amor S01 E07
+http://tv.fullytv.com:8080/series/pulgas/pata/1146024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8eKHXenDKDhHC4gEtbLBE6kWVR.jpg" group-title="SERIES - DRAMA",El primer amor S01 E08
+http://tv.fullytv.com:8080/series/pulgas/pata/1146025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcsesD9EWxkeNcyJE3Mn8oArwAO.jpg" group-title="SERIES - DRAMA",El primer amor S01 E09
+http://tv.fullytv.com:8080/series/pulgas/pata/1146026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jn2Jrd8cVPwNtcQ3zG2pJxieO7S.jpg" group-title="SERIES - COMEDIA",Reboot S01 E01
+http://tv.fullytv.com:8080/series/pulgas/pata/1146027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k53iScQuo8msMHXg5UJVFLTlAnu.jpg" group-title="SERIES - COMEDIA",Reboot S01 E02
+http://tv.fullytv.com:8080/series/pulgas/pata/1146028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MvftdMUEEePauALEN9NYc3BY29.jpg" group-title="SERIES - COMEDIA",Reboot S01 E03
+http://tv.fullytv.com:8080/series/pulgas/pata/1146029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QoJs3BlAbBdmVHvqp5aTdu3v0p.jpg" group-title="SERIES - COMEDIA",Reboot S01 E04
+http://tv.fullytv.com:8080/series/pulgas/pata/1146030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRQx7DBSdxDKEd02bFmsfVnYsCH.jpg" group-title="SERIES - COMEDIA",Reboot S01 E05
+http://tv.fullytv.com:8080/series/pulgas/pata/1146031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jUcI9wvETtl4jrAjBs3QesmOL9.jpg" group-title="SERIES - COMEDIA",Reboot S01 E06
+http://tv.fullytv.com:8080/series/pulgas/pata/1146032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtONUT6fbk38E9PWtWNP2TLGQBT.jpg" group-title="SERIES - COMEDIA",Reboot S01 E07
+http://tv.fullytv.com:8080/series/pulgas/pata/1146033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHqioWMijHijbeUHfvDXnlWByEv.jpg" group-title="SERIES - COMEDIA",Reboot S01 E08
+http://tv.fullytv.com:8080/series/pulgas/pata/1146034.mkv
