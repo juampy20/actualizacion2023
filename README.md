@@ -4622,3 +4622,523 @@ http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/185591.mkv
 http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/185592.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El arte de matar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnFw9YuMfuRRzKXcmyQAsI8gy3x.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El arte de matar (2023)
 http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/185593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tracers (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHg1JMq3W3cK7NjLKHRPCz2BQWD.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Tracers (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/137946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viaje a la prehistoria (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6nbgmdjtJZydXPX3EEUjNceVVb.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Viaje a la prehistoria (1955)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/137947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El LUGAR más CALUROSO del MUNDO | Documental National Geographic" tvg-logo="https://rcdn.rolloid.net/uploads/2017/08/los-lugares-mas-calurosos-del-planeta-banner.jpg" group-title="⭐️Documentales⭐️",El LUGAR más CALUROSO del MUNDO | Documental National Geographic
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/137948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noviembre dulce (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etZBiCuTbCsAPbdLzLMBfdGik61.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Noviembre dulce (2001)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/137950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kimetsu No Yaiba: Guardianes de la noche - Tren infinito (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3f4ETSwknZs74lmUYC7ENIMRBMP.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Kimetsu No Yaiba: Guardianes de la noche - Tren infinito (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/137952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las mil y una (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDEH0UskbrTEOXgDk6H1k0btWUz.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Las mil y una (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/137953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nunca me abandones (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5t2lzqqR2IsFJb7VWvbx7HBas6R.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Nunca me abandones (2010)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/137956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucas Sugo - En vivo Concierto (Antel Arena 2020)" tvg-logo="https://i.scdn.co/image/ab67616d0000b27344d86a63ae0ab83dbc404fd6" group-title="♩ ♪ ♫ ♬Conciertos ¡en Vivo!♩ ♪ ♫ ♬",Lucas Sugo - En vivo Concierto (Antel Arena 2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/137965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bang! Bang! (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aK4gFQC46DLxjttqWU22WX5St32.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Bang! Bang! (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zM12bfL2TEqVRXjiQIFUWUMLcCg.jpg" group-title="Cine: Drama, Thriller, Romance❤️",The Dry (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Fast 2 Furious: A todo gas 2 (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZUSbYbUXol5AezpNIJwwENdyE0.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",2 Fast 2 Furious: A todo gas 2 (2003)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A todo gas (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg" group-title="⚡Todas las Sagas Épicas⚡",A todo gas (2001)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A todo gas: Tokyo Race (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9Wu4u2FkGFgT0K9pxUX4IH8UYh.jpg" group-title="⚡Todas las Sagas Épicas⚡",A todo gas: Tokyo Race (2006)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 5 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7OwxVxXdkfUOwh5VvW6JpY0Ot9.jpg" group-title="⚡Todas las Sagas Épicas⚡",Fast & Furious 5 (2011)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 7 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWG5W4tKCQweHEdnKV4YEvqOBGx.jpg" group-title="⚡Todas las Sagas Épicas⚡",Fast & Furious 7 (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 8 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5b1zDwWxoDG8p8aHoRYfzOd7Lvy.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Fast & Furious 8 (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious: Hobbs & Shaw (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5REralbYRALUnTpICY3TBMyXYGW.jpg" group-title="⚡Todas las Sagas Épicas⚡",Fast & Furious: Hobbs & Shaw (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Djinn (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kE4j7XP64RvTFNvamhOrf6ZYkb9.jpg" group-title="Cine: Drama, Thriller, Romance❤️",The Djinn (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ejército de los muertos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVXLDoEskRVUl8SaRh2lieY5STg.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Ejército de los muertos (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Expiry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aX3C0CR3fnW2TwVLj5SvVWeDgXd.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Expiry (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Inferno 3: The Castle of Screams (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mv34Q5viprJBW6y2JevR1e8R1oW.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Hotel Inferno 3: The Castle of Screams (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shoplifters of the World (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ipOamF9JbPbmaIM9zEaektJwUp.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Shoplifters of the World (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El año en el que el mundo cambió (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4xzB5sRufxwIigL20JFbZGxGmh.jpg" group-title="Cine: Drama, Thriller, Romance❤️",El año en el que el mundo cambió (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No hay dos sin tres (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psmDfJmQdezIdviAlBRKPjGL2gh.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",No hay dos sin tres (2014)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ladrones (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y19SicM0TfVx7VwCb2SVw5r2VoR.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Ladrones (2010)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ejecutivos agresivos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbybvPuDm7WcqhhNV1ALivoRqwS.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Ejecutivos agresivos (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La última jugada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g10vrfED6SZmHBFiTBKyvR7y6K.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",La última jugada (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patients of a Saint (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uSR3687xtyS207S8nYp1voT9mR.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Patients of a Saint (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insidious: La última llave (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy1zyHNxhiGCoFIlptOpdtEyDak.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Insidious: La última llave (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Insidious: Capítulo 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPjn09um3hvGOfd1zYoUp4aDvMJ.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Insidious: Capítulo 2 (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milla 22 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/butXolfzlkbVL07HuIZeBmjuTyn.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Milla 22 (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Winter Ridge (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAIaeLJ8oAwIcFygWbpC4mNeGtK.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Winter Ridge (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruega por nosotros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPoOn553ARmSQl0ChKTlGDvYq9x.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Ruega por nosotros (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hall (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mASY93G2Cy9Xphk5obpT3hN5aqG.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Hall (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Brother’s Keeper (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SJsEwa1pwL7FMmsgSvebxBZT9b.jpg" group-title="Cine: Drama, Thriller, Romance❤️",My Brother’s Keeper (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despierta la furia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emM894kjspdQsHyTAF7sjRNlbTr.jpg" group-title="✪English Blockbusters✪",Despierta la furia (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Cruella (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Estado de alarma (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNpJUYA3X4VQcU6se6zlSnhICO9.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Estado de alarma (1965)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Friends: La reunión (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Friends: La reunión (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trust (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsJSjE0gJkhwKBwoo0JsuJ0fSAA.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Trust (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagro azul (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU6962lzuC26fVbKPAWHBKiuk2N.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Milagro azul (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colors of Love (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMsJanDCFJLPloxURLPOSMOTPT8.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Colors of Love (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El experimento fantasma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eLNJYehI3VwIe5S7Yz3uxVWVOa.jpg" group-title="Cine: Drama, Thriller, Romance❤️",El experimento fantasma (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un último deseo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piBdQGTFMNzFYEUkmGRR3n2EZeU.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Un último deseo (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spitak (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHk9KyAaaVJdAbHmEKTKiMBHnRD.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Spitak (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yamato (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmB5WLqEsG6d3yyQXOzAn0gQ7GL.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Yamato (2005)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lawrence de Arabia (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UmgjvObk7ugIDLLcwJsqNF1TIC.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Lawrence de Arabia (1962)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La guerra de Charlie Wilson (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOg0axtt1u1HlMuKPkpYJGCtbo8.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",La guerra de Charlie Wilson (2007)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJlyA7f4kMus9xK1ZUzq98rwcmz.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Kung Fu Yoga (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La tormenta perfecta (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75aRoXgG74D5wbSqEQAYFpFFJ0V.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",La tormenta perfecta (2000)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dunkerque (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWzrUYxUfnpmLbm0rwyGKuFwpTO.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Dunkerque (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El último superviviente (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kemy7hRdMT2kyf1L9Ajw2eW0qIx.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El último superviviente (1962)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El precio de la gloria (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voyqAhVZnZe7UrgmLGFHtX9iib6.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El precio de la gloria (1952)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ebro, de la cuna a la batalla (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOcR05PQovdDeW8VKcMMseZb2BB.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Ebro, de la cuna a la batalla (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Misión temeraria (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3Mkd9M5Znnkhv0aCjSQm8FfIjE.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Misión temeraria (1954)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El noveno día (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inJciD4dRZ0FSTueOJZTXoxWhL7.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",El noveno día (2004)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interiores (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiA6zGlWIH8BUSdEL5D0Nm5fm5D.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Interiores (1978)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="3 días en Quiberón (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gsNuEpPOYO6sYcNDXSHEYfvQi0.jpg" group-title="Cine: Drama, Thriller, Romance❤️",3 días en Quiberón (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don Gato y su pandilla (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wl3psQd3EkZJYq2DhdPII45GXS3.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Don Gato y su pandilla (2011)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El león del desierto (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRIEXsTbKdHgnv9tkQyneIvbIMY.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",El león del desierto (1981)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Brown (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zthprdjuK7vN4ABBGQXo8RF7qYB.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Harry Brown (2009)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La venganza de la ramera errante (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGVob1nLRbbhfC8AdH3KQUZlReN.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",La venganza de la ramera errante (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Level 16 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCzadjVMGzVL8DafsozIegWlczr.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Level 16 (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operación Chromite (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jiyFYcBhd0dgR0qdATHlyaHEziL.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Operación Chromite (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="San Andrés (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC4uhJuyOxZQhMcJoKQWbe667Sx.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",San Andrés (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mientras la ciudad duerme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRbf4PRFviRotl7I89yBJQKmLmE.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Mientras la ciudad duerme (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Especies en Peligro de Extincion (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Especies en Peligro de Extincion (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In The Earth (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUcWwnm2mHgllN4m95Xj8kSVyzp.jpg" group-title="Cine: Drama, Thriller, Romance❤️",In The Earth (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The night (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHoeIopknC6fCUTJfagDGwr6qmf.jpg" group-title="Cine: Drama, Thriller, Romance❤️",The night (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Minions (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVK35IfqYsk5jasR15aP5XBgKL1.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Los Minions (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La abeja Maya. La película (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkl0G7vYbzfz6MqUa2vwQfXu7xc.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",La abeja Maya. La película (2014)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maya y el Orbe Dorado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFyWyKWvyJVQ5uncgLBjPoSambf.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Maya y el Orbe Dorado (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS03nKZmOJJDwm6jUQVQIl6Teyu.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Peter Pan (1953)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spirit: El corcel indomable (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdaRFy6SL0mcHiH9dXHTwpDHigJ.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Spirit: El corcel indomable (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo el día y una noche (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWEP25l4PiX7DgMOMU5ZReExz1q.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Todo el día y una noche (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tyler Rake (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bYcM4KH5jncH99a2JvXd3yYdNs.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Tyler Rake (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Socias y enemigas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e13bJRPDJe5q0TnCRmDQfWQRZtD.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Socias y enemigas (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacto de fuga (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziao1KWNkw4X5qL7rWCSJ6lyjX9.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Pacto de fuga (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patients of a Saint (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uSR3687xtyS207S8nYp1voT9mR.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Patients of a Saint (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mrs. Serial Killer (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qogeMcCcqilL2PGUUY7KbrpWsj.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Mrs. Serial Killer (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/B4jUoUth9PfIjjKCOfKplxaBoF.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Stargirl (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrevive esta noche (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAzG8J0M5qNF8EQhzYqNZaJUqcs.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Sobrevive esta noche (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Otra vuelta de tuerca (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy588otBtZqI6UBsIrZmXS0nKCH.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Otra vuelta de tuerca (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="You Should Have Left (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",You Should Have Left (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6n1pu9thpCVHILejsuhKf3tNCV.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Ferry (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Gotham a Luz de Gas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGDDCskQyTkbIyD5P6i7qD6cpHl.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Batman: Gotham a Luz de Gas (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terror en Siria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntGDedcwfRUwFcGcvRLFvJJx2fr.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Terror en Siria (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deathstroke: Knights & Dragons - The Movie (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCJGThrH249sLUAzIS80xM7BEKz.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Deathstroke: Knights & Dragons - The Movie (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: Obligado por el demonio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qq4IXzDSdg8VXF2H19Jud6jFnEy.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Expediente Warren: Obligado por el demonio (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supermonstruos: Érase una vez un cuento (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g71R8prEtaYuAYTDyVMZxPA0R3a.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Supermonstruos: Érase una vez un cuento (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Xtremo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ghvx0Q5c57JoBNxFj4gSfXj6wK.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Xtremo (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espontánea (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDlGMcITIIJ1LVFGc0ILcxnHLBt.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Espontánea (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como perros y gatos: La patrulla unida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5I9ZSO42I9Rl3aXh7nMaTLWiUaz.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Como perros y gatos: La patrulla unida (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Woodstock (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejPrzjG17UrYHjUn8xE3EAYnoDl.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Woodstock (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnaval (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Carnaval (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pretty Guardian Sailor Moon Eternal: La película - 1.ª parte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ULCVKQEC6Lq61ILKByNRcffKu.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Pretty Guardian Sailor Moon Eternal: La película - 1.ª parte (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sanctuary (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/219IjM8dwp0RQsvJqqJ70k4Xrr4.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Sanctuary (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adios (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1pSmpQOexCjUQokW3JK4KSe9I7.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Adios (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El secreto de la niñera (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XNk6SG77YyNodXZcR3Z9HPeaTR.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",El secreto de la niñera (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un lugar tranquilo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pairI20KJs1SEa4Z8yAsPR779m.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Un lugar tranquilo (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un robo inesperado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4ZzzFOokK356jf6L6vUp3RKNvM.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Un robo inesperado (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Bourne (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWVaLBdcVrTqSTBKIJLinmuxRso.jpg" group-title="⚡Todas las Sagas Épicas⚡",El legado de Bourne (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El mito de Bourne (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTFFwQHdaTUb5MJmB8KBGO7lh7N.jpg" group-title="⚡Todas las Sagas Épicas⚡",El mito de Bourne (2004)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El ultimátum de Bourne (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OIp3IY2KZO6DehQ29gDW5RRgqs.jpg" group-title="⚡Todas las Sagas Épicas⚡",El ultimátum de Bourne (2007)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jason Bourne (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbpS7t0SwEgpM1QAg4EIWOEJsit.jpg" group-title="⚡Todas las Sagas Épicas⚡",Jason Bourne (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somos Néctar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGOKx7RPqU0gJsv68XymcJZ88DS.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Somos Néctar (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Identity: El caso Bourne (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c346jzMOGmE9ugyEr5WWaVaqA2R.jpg" group-title="⚡Todas las Sagas Épicas⚡",The Bourne Identity: El caso Bourne (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un papá genial (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iD5mbxxy5SPCgsp5qzyS6k2QQrn.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Un papá genial (1999)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuando todo está perdido (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6sWgXefZXMm0fv37wgsKi4Rx4q.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Cuando todo está perdido (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El buque maldito (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGewrxJIhsZ0q6GET6plNUzRKCe.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",El buque maldito (1974)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El misterio de Block Island (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHFfirwnNowh4ELytFnVIzQvAIl.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",El misterio de Block Island (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eureka (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkeXtf4ePBRvrAAtOeytNwsUHxn.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Eureka (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juego de supervivencia (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRtpJFGney5gqHmMb3JjT5WN3FH.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Juego de supervivencia (1994)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La maldición de la momia azteca (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asR9zDsOML3xUqwcseYvveb0PLX.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La maldición de la momia azteca (1957)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las traviesas ninfas (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDsGp8P52is8n06EP31W7tGRsSe.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Las traviesas ninfas (1972)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="StellaStrega (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYiO5WZozpwYitS9Wtjk1Te5QML.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",StellaStrega (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Waxwork: El misterio de los agujeros negros (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dT2V9pZNVGOpzH17LJKg62wl3Pc.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Waxwork: El misterio de los agujeros negros (1992)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oslo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZACZg9CKTIgjP7NdpvQJQBPUV5.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Oslo (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adolescents of Chymera (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s69OQgqekHt3zcR574VlrxFJV7p.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Adolescents of Chymera (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juan Luis Guerra 4.40: Entre Mar Y Palmeras (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNxZRjdT9scyeSmTuzGL6vUPSU5.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Juan Luis Guerra 4.40: Entre Mar Y Palmeras (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El parque mágico (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW6JtZ5cyzfVe5s9DFDKaJay94b.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",El parque mágico (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El fotógrafo de Minamata (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osmpFmDbFUkkBeFWb5ZahAmur3P.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",El fotógrafo de Minamata (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dancing Queens (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Dancing Queens (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dulce y amargo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq7H7KIWBFwQ0kv72pQoSuhaUlr.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Dulce y amargo (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Girl Who Believes in Miracles (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFSr5josSDeOq3vl6NP8e5pghhQ.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",The Girl Who Believes in Miracles (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pumping Iron (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UrsrbcKlhgsz94rxUPLias9I4D.jpg" group-title="⭐️Documentales⭐️",Pumping Iron (1977)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Me 2019 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ab84eV6ByNGkvggq9dExKZH7AuS.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Super Me 2019 (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roberto Baggio, la Divina Coleta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtJobZ2tRf18YcOK6ujnhZJzIPC.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Roberto Baggio, la Divina Coleta (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Midwife (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gidguvUr9TiyjiWO8nctLN4nDvt.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",The Midwife (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tiburón blanco (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1qKnA83dtRaocubZx353j8qQje.jpg" group-title="⚡Todas las Sagas Épicas⚡",Tiburón blanco (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky II (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNnQKfrg1frclfm9sVrvyGOEhR2.jpg" group-title="⚡Todas las Sagas Épicas⚡",Rocky II (1979)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky III (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWiTgedRzBRNeED7Nj7YB4TXBGg.jpg" group-title="⚡Todas las Sagas Épicas⚡",Rocky III (1982)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky IV (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s9nnzKQ9XvVSvrXY0oOiOZXuzw.jpg" group-title="⚡Todas las Sagas Épicas⚡",Rocky IV (1985)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky V (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s39Rz8xkcIoj3JbwRosWwpM8WpV.jpg" group-title="⚡Todas las Sagas Épicas⚡",Rocky V (1990)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1idhSQfaaXZqMKNWxfIc6t9zfL.jpg" group-title="⚡Todas las Sagas Épicas⚡",Rocky Balboa (2006)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geDE4RATUhEftV2pVgBHq16PsQP.jpg" group-title="⚡Todas las Sagas Épicas⚡",Rocky (1976)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Men in Black (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg" group-title="⚡Todas las Sagas Épicas⚡",Men in Black (1997)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro II (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zX1Hi0j7Yn4jv2eDHyIMlHP8lDb.jpg" group-title="⚡Todas las Sagas Épicas⚡",Hombres de negro II (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Men in Black 3 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWFNNnaIjbgml8blv7Nlj3BKfqD.jpg" group-title="⚡Todas las Sagas Épicas⚡",Men in Black 3 (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="✪English Blockbusters✪",Infinite (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park III (Parque Jurásico III) (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GM4Nqc79PFE3IOqNKwmOxAWkX1.jpg" group-title="⚡Todas las Sagas Épicas⚡",Jurassic Park III (Parque Jurásico III) (2001)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Junga de cristal (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m54tK4wKjc1w2dp7QInG0munGao.jpg" group-title="⚡Todas las Sagas Épicas⚡",Junga de cristal (1988)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La jungla 4.0 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZhPQCwfTIv8rkJrd5fOU7jlwJ5.jpg" group-title="⚡Todas las Sagas Épicas⚡",La jungla 4.0 (2007)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La jungla 2: Alerta roja (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19PBdteqhLAgN6rZUDIU0Ka6qLH.jpg" group-title="⚡Todas las Sagas Épicas⚡",La jungla 2: Alerta roja (1990)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jungla de cristal: la venganza (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLVcPispwVVa5LMpAWwQngFcm8.jpg" group-title="⚡Todas las Sagas Épicas⚡",Jungla de cristal: la venganza (1995)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La jungla: un buen día para morir (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBxvKk4COFo78sUgHzhbE5n8hMo.jpg" group-title="⚡Todas las Sagas Épicas⚡",La jungla: un buen día para morir (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park (Parque Jurásico) (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg" group-title="⚡Todas las Sagas Épicas⚡",Jurassic Park (Parque Jurásico) (1993)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mundo perdido: Jurassic Park (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erLaDdOHpYDp8O4utBXlvf8jCf7.jpg" group-title="⚡Todas las Sagas Épicas⚡",El mundo perdido: Jurassic Park (1997)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: El reino caído (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg" group-title="⚡Todas las Sagas Épicas⚡",Jurassic World: El reino caído (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiburón (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1tEt6COHkqq9FwkoG1aNH6i7rS.jpg" group-title="⚡Todas las Sagas Épicas⚡",Tiburón (1975)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiburón 2 (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCrSQ0LbXjUgDq8mZ2v6UJdHYh7.jpg" group-title="⚡Todas las Sagas Épicas⚡",Tiburón 2 (1978)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138496.avi
+#EXTINF:-1 tvg-id="" tvg-name="Tiburón 3: El gran tiburón (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OrqOCcMb2fH7TQYXXU7vdhhEh0.jpg" group-title="⚡Todas las Sagas Épicas⚡",Tiburón 3: El gran tiburón (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hotel de las delicias (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7CxOyR4mMrQrlNoCVZSzCtRyk6.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El hotel de las delicias (1974)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hide and Seek (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MGtTJRYlqqf3oGRnuPPGIBnJa2.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Hide and Seek (2014)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de valor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDajxZLWsdtCvtL0JEKLwt0LDwB.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Hombres de valor (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Serpientes en el avión (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZwd4RtXIlYbwCE31LzKESVvyom.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Serpientes en el avión (2006)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Showtime (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sIooUxXZo2blCVuAYbL2wkdUfD.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Showtime (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En El Barrio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMeMxDRxQN9JlvAadduPDdkpxjh.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",En El Barrio (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Infinite (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Point Break: Sin límites (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q94is4wMyWzDIMbdOzAAhk3oWqE.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Point Break: Sin límites (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Condor (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZv5tIF8CQkuGkZJlQrOhzo1w31.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El Condor (1970)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Edge of the World (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwe29qj6sZzjIfQYHiwuHjqtBnb.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Edge of the World (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juanes: Origen (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNaC3Iv7HKPFQw10Cp13pqRukCX.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Juanes: Origen (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disomnia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8kmQ1lBmeC5oLztNKQUBB6xh8i.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Disomnia (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Skater (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVyKzuaqtciRypdxi3bycqNSa27.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",La Skater (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lassie Come Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82yxvnYtgeRzsq5f9USlrFJI05s.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Lassie Come Home (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Music (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzDXq7ofNkvIovB6Vb8KZpjqkK0.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Music (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres bodas de más (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7IHg3UcePWIXd2DcbLaVnq3Rov.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Tres bodas de más (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Miss Marple: The Mirror Crack'd from Side to Side (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5yPiLTH4ZxMIkS2VxYqXxmfGx2.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Miss Marple: The Mirror Crack'd from Side to Side (2006)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agosto (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1C78uxNBlD8ytMDMeZI2zPe6tR.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Agosto (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alienator (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1oRQtXwYUKC4hfkt6ef3ZBmx08.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Alienator (1990)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor en polvo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1HciMLzAhR9iLsDmMN6kWA2mOQ.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Amor en polvo (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Èxode (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NAz3zcFsz8CEdBlSgkss1SItzG.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Èxode (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bombay (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAEnTMQFrbaPHDd5buJiDU0lRYh.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Bombay (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cada respiro que das (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUxadKYbRH5zt1yg1cf54zIu5qm.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Cada respiro que das (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calibre (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCVOQzV7Z556WnJFNeX7y8BFhyW.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Calibre (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cold Mountain (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvAyro0LMEuctaRJV0Bz5hHP9z3.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Cold Mountain (2003)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuando menos te lo esperas... (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tS97hYu7kqPfYJE0ydCw4293o6l.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Cuando menos te lo esperas... (2003)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure: Last Evolution Kizuna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f38RqBo56RTyFRSnfwmELOKDcya.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Digimon Adventure: Last Evolution Kizuna (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El dragón de los deseos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",El dragón de los deseos (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hijos del Sur (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXWNioS8Su3CbpCr4NNeMUG3Ulv.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Hijos del Sur (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juega Conmigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Juega Conmigo (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manual de la buena esposa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYFzYLI1sNCwcEzWQrSwMgYUihl.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Manual de la buena esposa (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nuevo orden (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agnra2K4NGyn1sskj8UboBziK2B.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Nuevo orden (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Satanic panic (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnxAGrRwBynkQXCs4Dh6zpEVajN.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Satanic panic (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trampa Virtual (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvmMiZGl5keHYhgsy1InHTTd9oc.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Trampa Virtual (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vigilados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8VPeuw5Ly3MtboVWcpmzDQzI2G.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Vigilados (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wildland (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQ304pxbe7NU3xBRZt5NWdYBemz.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Wildland (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Y mañana el mundo entero (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qid8NlS6dbD5UXc6Ysaq8YUnGwr.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Y mañana el mundo entero (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ainbo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyDU092PeGGcd6wUIzlhFoaWcyX.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Ainbo (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The 24th (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5dmmTbsymgZMXCO0HY9AcXogYx.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",The 24th (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El imaginario del doctor Parnassus (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzceuiHbqiOGRkDjzysVQ15DVK7.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",El imaginario del doctor Parnassus (2010)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WITHOUT REMORSE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3A2owG58gqx8fzRWhVOMAO6lbWq.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",WITHOUT REMORSE
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devil's Island (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVamYkW77fGAv2GyFiGYehqj5Ne.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Devil's Island (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El vientre de Europa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAggzMrhsQZ2EfylGvV3ACBN1xX.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",El vientre de Europa (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi amigo pony (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMLJeK8EINckvq8GI8s6kUSnQRc.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Mi amigo pony (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears: Aventura en la prehistoria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56trXlUg8JZp5sLzL7kF2q8kFNd.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Boonie Bears: Aventura en la prehistoria (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmética del enemigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ksLE8wXhKxJEfrjwJa8XmJAKHZ.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Cosmética del enemigo (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Initiation (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT3q1gClsLyDS6kI15FYISy4arw.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Initiation (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTswp6KyDYKtvC52GbHagrZbGvD.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Luca (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camping (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jl5fDWQKVOkqOxxYOWHUBKaCEs.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Camping (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El día llegará (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNUHlL3w31dF1Iyp9knGOUkBkWa.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",El día llegará (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La protagonista (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxI203kO2T6NuU5xAEq7NCOu6yp.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",La protagonista (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lo habrás imaginado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePMFRe7wiGi7pC7BVGwt20MWLFF.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Lo habrás imaginado (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Samurái X: El fin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LZUYPox2Ui59OzvnR06W2sqVXs.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Samurái X: El fin (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Misfits (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3nEaJtOlsWib2vPPt4pCbn1Z4I.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",The Misfits (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Son (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fl6EdtMp6p0RKJgESdFti1J3dC.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Son (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Censor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rSel7TYn7CcVsgJqyfxFIXJ5Jf.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Censor (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Copper Bill (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSZnvJ0olvAss77b01Vf68or8xr.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Copper Bill (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seguridad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuMcn12Us09pmAOuVEHXmFRivjF.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Seguridad (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Templario (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4yUa5ly2DLRLqkp7nEE3n9GUwb.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Templario (2011)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Templario II: Batalla por la sangre (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7WzW9lEHiSeDKsoNPAkNJ2d4cq.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Templario II: Batalla por la sangre (2014)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un mundo complicado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4I7QALdHACyJzVqxLBEyosxA3ZD.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Un mundo complicado (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ser padre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dtOXsz51eMkE40SfmcvKKna1Tk.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Ser padre (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿Por qué me matasteis? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5x95riaxPFC8SUQTit4ZkkqxXh.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",¿Por qué me matasteis? (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/138716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La ventana indiscreta (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fH1MipE8PXGg0rlI5cUdzxKnyA2.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La ventana indiscreta (1954)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monstruo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jds6n8dUaixg0diKYlCta5nS6BV.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Monstruo (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conspiración (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZhtPw3YlrG1MN8300G8s1edwZv.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Conspiración (1997)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Objetivo: Washington D.C. (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Objetivo: Washington D.C. (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuando caiga la noche (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RMyh4qOQJEZKaPaywoWn4pnbCg.jpg" group-title="⭐️Documentales⭐️",Cuando caiga la noche (2014)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El otro guardaespaldas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nZslwtHa8vEF1EmghFY49zgCx8.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",El otro guardaespaldas (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juan Carlos, el ocaso de un Rey (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAaqmVVjlVyaZmCsksxCQbbuwtX.jpg" group-title="⭐️Documentales⭐️",Juan Carlos, el ocaso de un Rey (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa del terror (Haunt) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fuNWZzY0RijO1Xpw46soazDFMb.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",La casa del terror (Haunt) (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi vida empieza en Malasia (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTBNZnQVSn26DuQHdRUTW8a6Aux.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Mi vida empieza en Malasia (1956)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139223.avi
+#EXTINF:-1 tvg-id="" tvg-name="Samurai Musashi Miyamoto (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7baSmUbZ72usyX3XLk1SJvxR5Hl.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Samurai Musashi Miyamoto (1951)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neruda (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9TxIn86o1ABEw9cSrxxObVHUum.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Neruda (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtIIyQyALk57ko5bjac7hi01YQ.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Roma (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Testigo accidental (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2weXF4RaIHopT4SUziDQb6IAdrl.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Testigo accidental (1990)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Under the Skin (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1k9LrMLcot2XsTaGLPblZ8Dmss.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Under the Skin (2014)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antrum (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20de4Rcmy4B0L5zyOc3Nc5F7c0D.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Antrum (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonora (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5JoieisiLZLm814K81oRK7pNBA.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Sonora (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Upsss! 2 ¿Y ahora dónde está Noé? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2jQmEgV7Xdz8oaC8o1iGubMfyT.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",¡Upsss! 2 ¿Y ahora dónde está Noé? (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Evil Twin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiUdO4gEIA07y6RSQKRWShJcUrh.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",The Evil Twin (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWBqTrLeabqRlrb2Psdt2kcRshH.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Amigo (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La famosa invasión de los osos en Sicilia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kklAMksL4jGLHBR1VeW8q3OkCGx.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",La famosa invasión de los osos en Sicilia (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Las Flores: La Película (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taSkrxVRwilWCdQqbwDwsqqa80t.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",La Casa de Las Flores: La Película (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patines de Plata (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tI89oI7FfddMif0S4YoBpBhRRh.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Patines de Plata (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spirit - Indomable (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mptEtOkw906BJuD9rRUKG5sr5E9.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Spirit - Indomable (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Ice Road (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",The Ice Road (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disomnia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8kmQ1lBmeC5oLztNKQUBB6xh8i.jpg" group-title="✪English Blockbusters✪",Disomnia (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bo Burnham: Inside (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Bo Burnham: Inside (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6n1pu9thpCVHILejsuhKf3tNCV.jpg" group-title="✪English Blockbusters✪",Ferry (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenía buena pinta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK0OUYeBMmbPLn25nUxWbT0ZOmj.jpg" group-title="✪English Blockbusters✪",Tenía buena pinta (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenía buena pinta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK0OUYeBMmbPLn25nUxWbT0ZOmj.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Tenía buena pinta (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Lupa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJEjY3F8oHslyEJAwH2sRIH5nsc.jpg" group-title="⭐️Documentales⭐️",La Lupa (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maternal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4go0AbNNOAcBhbdekhPyeWNe9ys.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Maternal (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operación Rosa Rosa (1974)" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5EYz3nMXfNvbbbIs2KMMHdb7EFpaHs0kYg6iA1IhymeXKsrFm" group-title="✪ Clásicos del Cine y del Oeste ✪",Operación Rosa Rosa (1974)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soccer Mom Madam (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGREjvMuvgac6FuJROALC2AFAqV.jpg" group-title="✪English Blockbusters✪",Soccer Mom Madam (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El caso Wanninkhof-Carabantes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkdQ3z1YyJvoy9pCLQzvWh68Nea.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",El caso Wanninkhof-Carabantes (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Attraction to Paris (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yA3JhP78YQRQpXcEAaTzkxONdM.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Attraction to Paris (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muerte en el Mar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evn7F3Y04GI2NGiQ4L08wYgVBND.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Muerte en el Mar (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love (Amor en 3D) (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwSD8oTwL2Dau0gE9pxXY3Zdhh2.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Love (Amor en 3D) (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un lugar tranquilo 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNOCVFyrsykGqT48JNotgFF9XCf.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Un lugar tranquilo 2 (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Alma de Dragón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWAI0b7aWZQwZKr22ET2wB7wqSZ.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Batman: Alma de Dragón (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Castle Freak (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zq5uNCmWB1XnRLxBSq0BRmJYQMf.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Castle Freak (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intrépidos forajidos: Arma Joven II (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfZxNJiNepAV1Cy0P1b3RJohqkf.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Intrépidos forajidos: Arma Joven II (1990)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100% Wolf: Pequeño gran lobo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uyDEzcIn5NDPDsjQVjLHFKCI9L.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",100% Wolf: Pequeño gran lobo (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selva Oscura (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9RRLiwCBVvRjK5cjiDsMjNrxxP.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Selva Oscura (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Toll (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6vV6sSWz9cytmc8L9IEBjjyFmV.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",The Toll (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit 2: A la fuga (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gj4Lwldois15IaNnl4tadesHGC4.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Peter Rabbit 2: A la fuga (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139457.mp4
