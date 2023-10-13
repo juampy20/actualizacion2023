@@ -1986,2295 +1986,2249 @@ https://s2.suenalive.com:7329/stream
 ESTRENOS ----
 ------------
 
-#EXTINF:-1 tvg-id="" tvg-name="Lobo Feroz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oURwoX6p103uvRmz4LgtsgrTcuM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Lobo Feroz (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1164736.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BlackBerry (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neV35lK7em4rIY9QIoH1cruErPA.jpg" group-title="VOD - ESTRENOS Y RECIENTES",BlackBerry (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1164739.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Culpa mía (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp31EwMH5D2bftOjscwkgTmoLAB.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Culpa mía (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1164902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rapidos y Furiosos  10 - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A76udAc8XWmLs1T29Kocw5Go3H.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Rapidos y Furiosos  10 - 2023
-http://tv.fullytv.com:8080/movie/pulgas/pata/1165148.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Misión de rescate 2 - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT0Eyfw0VXlnk8sMKfyFiKj8UsK.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Misión de rescate 2 - 2023
-http://tv.fullytv.com:8080/movie/pulgas/pata/1165626.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Operación Kandahar - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE2EsMv37IjXLjc6ixOU3LeRtZl.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Operación Kandahar - 2023
-http://tv.fullytv.com:8080/movie/pulgas/pata/1165628.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elemental - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMcmZ4bsobOCv210dMUUFnSOD3m.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Elemental - 2023
-http://tv.fullytv.com:8080/movie/pulgas/pata/1166263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El mejor del mundo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giJ6X8za9OeYccavGPvg7Vbeuoq.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El mejor del mundo (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1166750.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Covenant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siO8SNMEuyo25jHO2dqQxY4gWxZ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Covenant (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1166751.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A través del mar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykS1waU5GsEjPbiNnsHG2bl9QvS.jpg" group-title="VOD - ESTRENOS Y RECIENTES",A través del mar (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1166753.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Little Bone Lodge (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Little Bone Lodge (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1167472.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Efecto nocebo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdjdZPgCRFqa0cgXLz8mDsUtiqP.jpg" group-title="VOD - SUSPENSO",Efecto nocebo (2022)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1167473.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Contacto sangriento - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utkAPHidRG4j87vmcA9TfGsD7pz.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Contacto sangriento - 1988
-http://tv.fullytv.com:8080/movie/pulgas/pata/1167518.mkv
-http://tv.fullytv.com:8080/movie/pulgas/pata/1167588.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cash (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x9u5HsxeSJu9SW9Pf6fVVDPwxv.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Cash (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1167677.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un lugar por el que luchar - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egdZEgMhqFsxezztDlDqch5TjVM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Un lugar por el que luchar - 2023
-http://tv.fullytv.com:8080/movie/pulgas/pata/1168182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Warhorse One - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laFhAOqkWFi4sFeGPg8uun2Julw.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Warhorse One - 2023
-http://tv.fullytv.com:8080/movie/pulgas/pata/1168191.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Tres Mosqueteros (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aX9qQabjoDXFI0MysZrt7yvwdrj.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Los Tres Mosqueteros (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1168521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Daughter of the Bride (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXlOdEj9WejodkVgJH511aYAeea.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Daughter of the Bride (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1168562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Leyenda de los Chaneques (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La Leyenda de los Chaneques (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1168652.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tu Jhooti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCcc6pc7PLSoIVdKkU6QzkEIIki.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Tu Jhooti
-http://tv.fullytv.com:8080/movie/pulgas/pata/1168654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una buena persona (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bL5cbrF1ONnDLC2UDOoVYRS6TUy.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Una buena persona (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1169620.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Proyecto Extraccion - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Proyecto Extraccion - 2023
-http://tv.fullytv.com:8080/movie/pulgas/pata/1169831.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oppenheimer - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Oppenheimer - 2023
-http://tv.fullytv.com:8080/movie/pulgas/pata/1170342.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El río de la ira (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnCuJyDxnoTxlQ48yoOXBgVBtnC.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El río de la ira (2022)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1170463.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Happy Ending (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8YaaRIDzvHL4NyHJQxIvm0qDng.jpg" group-title="VOD - ESTRENOS Y RECIENTES",My Happy Ending (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1170465.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Agente Stone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iEjVseteIY8YnryTKWgVB91Uil.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Agente Stone (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171272.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hazme el favor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKlpYtDLBtJEvYVvaUIq39Gh6rI.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Hazme el favor (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171390.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Quicksand (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLfO3CbVg8p5Qcaifq6AidOe2w.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Quicksand (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171401.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zoey 102 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Zoey 102 (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171470.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rojo, blanco y sangre azul (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XGt6CpWpkGnGOrrjfOMhNzDDSS.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Rojo, blanco y sangre azul (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171471.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No tengas miedo (Cobweb) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0ndJZaa9ZFFfpnl1IejajXv0II.jpg" group-title="VOD - ESTRENOS Y RECIENTES",No tengas miedo (Cobweb) (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171472.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Extincion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljo1ocj3rQP6X9lpuxDWsW47iWd.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Extincion (2022)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171473.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Corner Office (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZfqjvxJNZAwUaQLvTPTsDGZWox.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Corner Office (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171474.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Blackening (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Blackening (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171531.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Agárralo como puedas 33 1/3: el insulto final (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFlt9H4PWpK0y8NDysSyl2wjwp5.jpg" group-title="VOD - SAGAS",Agárralo como puedas 33 1/3: el insulto final (1994)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171686.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Foco de contagio 2023" tvg-logo="https://pics.filmaffinity.com/yi_qi-273112443-mmed.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Foco de contagio 2023
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171687.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El rey Mono (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El rey Mono (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1171698.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El ultimo viaje del Demeter - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAImnw2GJNDAEVeGij9HVQNJD2c.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El ultimo viaje del Demeter - 2023
-http://tv.fullytv.com:8080/movie/pulgas/pata/1172185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adipurush (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Adipurush (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1172374.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un Blanco Facil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSMW4FTD7pZr1t1oqG18NulZMQz.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Un Blanco Facil (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1172375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Joy Ride (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRcAeRi1SqlGC2uI1r1ckq9Sx1B.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Joy Ride (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1172384.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pesadilla americana (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWa89Rr95zFYqTKVfDPKpjrofsM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Pesadilla americana (2022)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1172386.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Soundtrack Lado A (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybqAzHQcUn9TaGlZzvJxu59Vjry.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Soundtrack Lado A (2022)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1172387.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un guardabosque (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VPl1p4oIWlZgA0fk6XsDuhQcia.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Un guardabosque (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1172388.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inside Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3u1idRG0En5tilIhsgiHl9D06OL.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Inside Man (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1172582.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The List: Rienda suelta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eN6AKmTX4E5F7mLT4c6Zia9MKkR.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The List: Rienda suelta (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1172660.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Juntos pero no revueltos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9v4h3j0zwDDOQasBC2kJPpXVGck.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Juntos pero no revueltos (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1172661.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La maldición del Queen Mary (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quPOHWBMlzd5EMtyhwylIX6ywao.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La maldición del Queen Mary (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1173196.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Trap Jazz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96UfwAPXozsoYYFCEcUNhSBVntV.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Trap Jazz (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1173200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rimini (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyaS0VivKaht856D345S2MAea3A.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Rimini (2022)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1173292.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amigos pasajeros 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qq1ujRhDyv5ulDaNexOxze8sgx7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Amigos pasajeros 2 (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1173325.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Megalodón 2: La fosa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBgynPDplmo5JTY9VfGqY35OjDu.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Megalodón 2: La fosa (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1173326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Dive (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anAg7fgpOmQQlgRbtjiJqoDRzMU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Dive (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1173483.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boogeyman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBLx1AWWn1hUCrWaH5QfOxI6Hh7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Boogeyman (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1173906.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Noches de verano en Taipéi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6TMfQn6RsWmJVtCoCKk04sQcID.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Noches de verano en Taipéi (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1173909.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El club de los lectores criminales (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idew42l7ILdyR97XC9yG4hFUy1Z.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El club de los lectores criminales (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Between Us (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnWNEBlajJxbUDZQF9PfgCJrLt4.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Between Us (2022)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174142.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Day as a Lion (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxSKca4dNlk7O7PMiEYT203vlIw.jpg" group-title="VOD - ESTRENOS Y RECIENTES",One Day as a Lion (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Casi muerta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSezYOBs7H3RG8rDcjsK3MqluxN.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Casi muerta (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los bastardos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffDHUOjHNfqSizXFA7oymCCckE8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Los bastardos (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El medico aleman " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5FaEJgVrl2xf9FOuQ99svRCGC9.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El medico aleman 
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja presenta: La zona intermareal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rozwpOPiTEYnXygWGvUPST4lVQa.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Bob Esponja presenta: La zona intermareal (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174672.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hypnotic (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IhGkkalwXguTlceGSl8XUJZOVI.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Hypnotic (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174812.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hijos De Perra (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FLIPmNE9SihcD0ui5yqmS6kKjV.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Hijos De Perra (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vida adulta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vn77J4IsECDqdPUALpLNFJzJxa.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Vida adulta (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birth/Rebirth (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Birth/Rebirth (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Misión Panamá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMAB7LkYdtFHlQwQxGK8gEfj1Ek.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Misión Panamá (2022)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1174905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Perpetrator (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjTI6czy62GCsoI7G7fKghSrH2x.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Perpetrator (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cincuenta tartas para Jane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaZnrX0FIScPXC5nYacBLpv8tuL.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Cincuenta tartas para Jane (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175267.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sentinelle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFg0Q1kqfOhxlRvb8Dle7WF58F.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Sentinelle (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sound of Freedom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Sound of Freedom (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175456.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Más allá de la ley " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQmql1Ob3j3OzxtcJHiR7s9BlfR.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Más allá de la ley 
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175576.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las cintas de Rosa Peral (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jAnsIm4qzy28IBJeJsTQCdnORE.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Las cintas de Rosa Peral (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175577.mkv
-#EXTINF:-1 tvg-id="" tvg-name="9/11: Minute by Minute " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FSmD5bCBFpXosIzT0OJDcYVwFM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",9/11: Minute by Minute 
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175643.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Háblame (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Háblame (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175712.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barbie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Barbie (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175713.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mercy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8voINwqMlscROrjhN97fGkmhvEV.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Mercy (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175714.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jules (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Bm02TOMf9kJ0bIxlW8W2SLJbg.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Jules (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175715.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Consagración" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Mmg06UfGL6T38UCnInMTgRfv7K.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Consagración
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175814.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Crime (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4j7w8X4cE7rC3Ri2j46Lllkj4Cy.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Once Upon a Crime (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175829.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los otros " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6L1ciqLE0V9Q4l2N24lchXIYR.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Los otros 
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175842.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Conde (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyKY1DlogKQ8coiTuJs3uRsV4NX.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El Conde (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175885.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOeuGFopH4VE1YxURNZsQqy7xCr.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Equalizer 3 (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Theater Camp (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2osbLk1MMt9qjXPKSB2hMcBUyrw.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Theater Camp (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175887.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A millones de kilómetros (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hrkceHqhMbxfZNb570NzjQWGI7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",A millones de kilómetros (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175888.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La probabilidad estadística del amor a primera vista (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrVNYtEUU9TCsteJGIQ3MSjHjLi.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La probabilidad estadística del amor a primera vista (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175889.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El atracador perfecto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ByGtLdfznHrs3DkZMYFZKrlmfv.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El atracador perfecto (2022)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Elevator Game (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKQBtrhl4Fnpd0620FeCtX7EpnK.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Elevator Game (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1175895.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Retribution (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBl0qexSJrQiUTvcXgQpGFUmP7a.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Retribution (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1176116.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rotting in the Sun (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2UhXsV5W2IlVdCRSxtK7hNa83s.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Rotting in the Sun (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1176175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Flamin'Hot: La historia de los Cheetos picantes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHghpc8mhVi7P5YilodDt7NLEtU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Flamin'Hot: La historia de los Cheetos picantes (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1176243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La monja II (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La monja II (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1176348.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sospechoso X (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wydlTcs1Op0DEKTfAsJOfi0bGQ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Sospechoso X (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1176693.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El tutor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qpcD9vIB7MWkLeA4UKkYkEHAB.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El tutor (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1176694.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cassandro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Cassandro (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1176695.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Blue Beetle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5mkvXYNRauSzHdZgxAj6MzrLTY.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Blue Beetle (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1176696.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ninja Turtles: Caos mutante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Ninja Turtles: Caos mutante (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1176697.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spy Kids: El armagedón (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juWq5f91rhWrxVThNwdpbhRLoQK.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Spy Kids: El armagedón (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1176771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nadie te salvará (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teNc18dv3Dd5lZQGgbP9GzK35P4.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Nadie te salvará (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1176796.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El último objetivo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLfpOkPlMowMIxOC99Q21Sqgxp7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El último objetivo (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1177133.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Point (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1CgpYTydE7Uj83e1jgEUfeTNvu.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Breaking Point (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1177134.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fuerza Bruta Sin Salida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbremGnsRR4XZMDj97YHt20isRP.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Fuerza Bruta Sin Salida (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1177135.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La emboscada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYejOZfJpza6nQDOhLpji7IK80o.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La emboscada (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1177136.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gran Turismo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Gran Turismo (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1177137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El hombre del saco (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EdqlGB2ACpnqsrtKhyacaPhzHK.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El hombre del saco (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1177332.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los mercenarios 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6bfq26jmzEGNGMw768Fwu6OmdZ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Los mercenarios 4 (2023)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1177334.mp4
-
-
-SUSPENSO-------
----------------
-
-#EXTINF:-1 tvg-id="" tvg-name="Boys in the Trees (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiCiC59hTgQT01M9ug2SGAWiUz4.jpg" group-title="VOD - SUSPENSO",Boys in the Trees (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099271.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boy: La maldición de Brahms (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYUqYZwWmLCZ5G6FihLwK2dvhkh.jpg" group-title="VOD - SUSPENSO",The Boy: La maldición de Brahms (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099272.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El hijo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQmRemkGS3SMAexgZND6ey02lYW.jpg" group-title="VOD - SUSPENSO",El hijo (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099273.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Curse of Buckout Road (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS47NI9UqtO17TvW6KTjiAT5Fd.jpg" group-title="VOD - SUSPENSO",The Curse of Buckout Road (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099274.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Buffy, la cazavampiros (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irVHcRIANEW62k7hwCWQKO5TsBF.jpg" group-title="VOD - SUSPENSO",Buffy, la cazavampiros (1992)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099275.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bulbbul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irVHcRIANEW62k7hwCWQKO5TsBF.jpg" group-title="VOD - SUSPENSO",Bulbbul (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099276.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Metamorphosis (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EphHAIU36cIeFxHAwjdET3ibDp.jpg" group-title="VOD - SUSPENSO",Metamorphosis (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099277.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Camera Obscura (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EphHAIU36cIeFxHAwjdET3ibDp.jpg" group-title="VOD - SUSPENSO",Camera Obscura (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099278.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Carrie (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EphHAIU36cIeFxHAwjdET3ibDp.jpg" group-title="VOD - SUSPENSO",Carrie (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099279.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Infectados (Carriers) (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clHUkgNspzSi4v88jYFgZ7SE965.jpg" group-title="VOD - SUSPENSO",Infectados (Carriers) (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099280.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Expediente 39 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qT3IxgoA8aDZyKPIFLEWqshwLLR.jpg" group-title="VOD - SUSPENSO",Expediente 39 (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099281.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cell (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c721WxCCzeLJS99BOMBYAzicnJF.jpg" group-title="VOD - SUSPENSO",Cell (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099282.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cementerio General 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yR6mczVWkhhRCBXPjC026bZ0ErF.jpg" group-title="VOD - SUSPENSO",Cementerio General 2 (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099283.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Atrapados en Chernóbil (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6P8gpu35NIjIxwcB7h4FfP0MpBw.jpg" group-title="VOD - SUSPENSO",Atrapados en Chernóbil (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099284.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cherry Tree (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhLagkPThEz2fqpXQwnEC3VqqIX.jpg" group-title="VOD - SUSPENSO",Cherry Tree (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099285.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Children of the Corn (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh09REcNcCPFKNIQ09NzAo3aVlY.jpg" group-title="VOD - SUSPENSO",Children of the Corn (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099286.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los chicos del maíz II: El sacrificio final (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6reoso5qwKE9HexRZi5EZ9XsvwM.jpg" group-title="VOD - SUSPENSO",Los chicos del maíz II: El sacrificio final (1992)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099287.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los chicos del maíz IV: La reunión (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRjeV9AZgCXGTqyvlp7Ui55Yb3l.jpg" group-title="VOD - SUSPENSO",Los chicos del maíz IV: La reunión (1996)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099288.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los chicos del maíz V: Campos de terror (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC6wip2EXdCYQwDDs9FnoakUZQL.jpg" group-title="VOD - SUSPENSO",Los chicos del maíz V: Campos de terror (1998)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Muñeco diabólico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3u6WnH55OvtZKyFHVY984vGprG.jpg" group-title="VOD - SUSPENSO",Muñeco diabólico (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099290.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monstruoso (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/askiyHKCuf8qL0VqbZsgMCscfzE.jpg" group-title="VOD - SUSPENSO",Monstruoso (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099291.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Clown (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geB2KS8nJ2HZpT6ao259wYKK4CW.jpg" group-title="VOD - SUSPENSO",Clown (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099292.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ClownTown (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Uqx7NitLn4CO1syvTqN6Bb3F6A.jpg" group-title="VOD - SUSPENSO",ClownTown (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099293.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La piel fría (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFq8b2uFmCNRzpqAOGXw1M9eRe3.jpg" group-title="VOD - SUSPENSO",La piel fría (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099294.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Come Play (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smk9DmUlRMphVyx8J21OqBGCXCJ.jpg" group-title="VOD - SUSPENSO",Come Play (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099295.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Compulsion (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fPZ50FDA0J3EamkP3g371rewNg.jpg" group-title="VOD - SUSPENSO",Compulsion (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099296.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El vacío (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0WLRyT0AmUi41nVXBnqmJshIBn.jpg" group-title="VOD - SUSPENSO",El vacío (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099297.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Constantine: Ciudad de Demonios (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dboNLFpCn4BBFUuFXNvOtf9Ty8J.jpg" group-title="VOD - SUSPENSO",Constantine: Ciudad de Demonios (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099298.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Containment (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMyudM6LM9VfIsR8ZRghlSpAdfv.jpg" group-title="VOD - SUSPENSO",Containment (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099299.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cooties (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gv18iqlKrDLSfYqYC8zFjeBL0Q.jpg" group-title="VOD - SUSPENSO",Cooties (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099300.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ejecutivos agresivos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbybvPuDm7WcqhhNV1ALivoRqwS.jpg" group-title="VOD - SUSPENSO",Ejecutivos agresivos (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099301.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Countdown: La hora de tu muerte (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCIPxSmXcZUJ0ZEi8B9Emf8xj6a.jpg" group-title="VOD - SUSPENSO",Countdown: La hora de tu muerte (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099302.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Infierno bajo el agua (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPCQHc1LqLEC2ozuFQngqvc2SIO.jpg" group-title="VOD - SUSPENSO",Infierno bajo el agua (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099303.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Creep (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5oxV6MDEfL48FMK9BmYTD2wQRm.jpg" group-title="VOD - SUSPENSO",Creep (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099304.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Creep (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35HrfAuVmpFibPeeRzlRUXHOaJ1.jpg" group-title="VOD - SUSPENSO",Creep (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099305.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Critters ¡Al ataque! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQEMFZHU9pLuhu49piOUkqIeKlo.jpg" group-title="VOD - SUSPENSO",Critters ¡Al ataque! (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099306.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crucifixion (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Crucifixion (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099307.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cucuy: The Boogeyman (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi7yCzIPFek5tLY4coe4178SANJ.jpg" group-title="VOD - SUSPENSO",Cucuy: The Boogeyman (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099308.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cam (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hA2zgMyHGOUSf8iO7atblBvKuVt.jpg" group-title="VOD - SUSPENSO",Cam (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cuidado con lo que deseas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG6Wx5tWOEHkOuexEvNYha3ofvM.jpg" group-title="VOD - SUSPENSO",Cuidado con lo que deseas (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cuidado con los extraños (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tj2cWlKMKRm1t6MtvBGFWeZ99y.jpg" group-title="VOD - SUSPENSO",Cuidado con los extraños (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099311.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cujo (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNBt2YxrQdyOjnm2rDQ5QiCmQ0K.jpg" group-title="VOD - SUSPENSO",Cujo (1983)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099312.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cult of Chucky (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/on2Q5qroYiJ8MxhuZmdBd7rYNOa.jpg" group-title="VOD - SUSPENSO",Cult of Chucky (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099313.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cortinas (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik2mmDHesbZT1GtqNsHGjISE8vu.jpg" group-title="VOD - SUSPENSO",Cortinas (1983)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099314.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mentiras Peligrosas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csH6GfdO8TI6M6W5U0PChtRBpvC.jpg" group-title="VOD - SUSPENSO",Mentiras Peligrosas (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099315.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dark Was the Night (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLJPuZltlAJ9E4OTGYLYh5LDjsB.jpg" group-title="VOD - SUSPENSO",Dark Was the Night (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099316.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dark Water (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neYWgWIXzFK43sxn8RnKH1ekTDT.jpg" group-title="VOD - SUSPENSO",Dark Water (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099317.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amanecer de los muertos (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlpvAnlkNG98qtK0poqSJ35KHVZ.jpg" group-title="VOD - SUSPENSO",Amanecer de los muertos (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099318.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Day of the Dead: Bloodline (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnQbbFIt6ZDtiTS88v9mXLYwMK6.jpg" group-title="VOD - SUSPENSO",Day of the Dead: Bloodline (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099319.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dead Ant (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NoqvEpApbcnSWFpbHAswOYufSQ.jpg" group-title="VOD - SUSPENSO",Dead Ant (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099320.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dead Awake (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apBhaUivEub9Ghx7sj7UqQCFYH4.jpg" group-title="VOD - SUSPENSO",Dead Awake (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099321.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dead Body (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hI4sNhgBIaqYEkHs19S0NwONcHP.jpg" group-title="VOD - SUSPENSO",Dead Body (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Muerte en el Mar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evn7F3Y04GI2NGiQ4L08wYgVBND.jpg" group-title="VOD - SUSPENSO",Muerte en el Mar (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099323.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dead Night (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaBNJEr6LJA9cg7Ht4I9WqiFBDy.jpg" group-title="VOD - SUSPENSO",Dead Night (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099324.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deadsight (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1g9mqAoRtnNZTHvccgbNjwoba7.jpg" group-title="VOD - SUSPENSO",Deadsight (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099325.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dead Silence (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDvKWjlyYuSaha2LSZkSLR64DM.jpg" group-title="VOD - SUSPENSO",Dead Silence (1997)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DeadTectives (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DTcWoo8wWl2f2YPp21hfGAAD7O.jpg" group-title="VOD - SUSPENSO",DeadTectives (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099327.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg" group-title="VOD - SUSPENSO",Deep Blue Sea 3 (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099328.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTfSYIf4abjcv5hgz53m5QH6oFC.jpg" group-title="VOD - SUSPENSO",Deep Blue Sea 2 (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099329.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Déjame entrar (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mw1Iv9o4BVCtfScCL0nhzolOdO.jpg" group-title="VOD - SUSPENSO",Déjame entrar (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099330.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Delirium (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2jIkjrASnjtwCmCNDwh9LDWvq9.jpg" group-title="VOD - SUSPENSO",Delirium (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099331.mkv
-#EXTINF:-1 tvg-id="" tvg-name="But Deliver Us from Evil (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9L5d9IZ55Eo3EGpQJlMppcBzyZ.jpg" group-title="VOD - SUSPENSO",But Deliver Us from Evil (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099332.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dementia 13 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68nkM0GZfNS3MZsCezFNulg1hPe.jpg" group-title="VOD - SUSPENSO",Dementia 13 (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099333.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Demonic (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ne0wAvbmzk72svslxjuFySrXEKw.jpg" group-title="VOD - SUSPENSO",Demonic (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099334.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Desde el infierno (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fv29GwNS1NOgsr4NAdghOlQXkup.jpg" group-title="VOD - SUSPENSO",Desde el infierno (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deseo Deseo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7S4aqpEHsxotkDh6u4xyjaPOgOi.jpg" group-title="VOD - SUSPENSO",Deseo Deseo (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Posesión infernal (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82ezls062PrIaSzds2JKqZ5UYiC.jpg" group-title="VOD - SUSPENSO",Posesión infernal (1981)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Detrás de las paredes (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72vzjyq8YMfL2ktIkeeZne7D3iH.jpg" group-title="VOD - SUSPENSO",Detrás de las paredes (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La trampa del mal (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utiMhBWoBGf8iQ0l0yDHDlpTA60.jpg" group-title="VOD - SUSPENSO",La trampa del mal (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La trampa del mal (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utiMhBWoBGf8iQ0l0yDHDlpTA60.jpg" group-title="VOD - SUSPENSO",La trampa del mal (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Devil in the Dark (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4w9FcFDVQLecmYZtfTUr8Qt31h.jpg" group-title="VOD - SUSPENSO",Devil in the Dark (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099341.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Devil's Gate (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlguwriLf7PkG6jAzpnClkZKmHi.jpg" group-title="VOD - SUSPENSO",Devil's Gate (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099342.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Diablo Rojo PTY (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZ3HwJyLnckq0k6VhimnjBir04.jpg" group-title="VOD - SUSPENSO",Diablo Rojo PTY (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099343.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Diario de un exorcista (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKqTwTE8c7inpQz0Jflr0RMSMb6.jpg" group-title="VOD - SUSPENSO",Diario de un exorcista (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099344.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Sueño (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYx5zclp0WHZ0gVQ9nyDIwDcgxd.jpg" group-title="VOD - SUSPENSO",Doctor Sueño (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099345.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No tengas miedo a la oscuridad (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htH3kWAEEW0RLhgA2P8LTBea3mk.jpg" group-title="VOD - SUSPENSO",No tengas miedo a la oscuridad (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099347.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Knock Twice (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxiz9zHLrqC5JfKVPbkKBboiSzI.jpg" group-title="VOD - SUSPENSO",Don't Knock Twice (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099348.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Voces (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kB1jM3vsbkWBxLo4esCDvgrsZVj.jpg" group-title="VOD - SUSPENSO",Voces (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099350.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Downhill (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOACVnxwVKmD21wbFQQAen4DgbP.jpg" group-title="VOD - SUSPENSO",Downhill (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099351.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Drácula (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRlA6ZW4xUiHk0acUXfjx7LfZEn.jpg" group-title="VOD - SUSPENSO",Drácula (1958)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099352.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Drácula de Bram Stoker (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D4UhX6dzfBTHdVWkgjadcl8YkW.jpg" group-title="VOD - SUSPENSO",Drácula de Bram Stoker (1992)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099353.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Drácula II: Resurrección (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2Jle2c7wTq2yyArV7CdNZk5HDZ.jpg" group-title="VOD - SUSPENSO",Drácula II: Resurrección (2003)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099354.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Drácula, la leyenda jamás contada (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dflq9mJ99PC3I3piHYFmEzwW1q1.jpg" group-title="VOD - SUSPENSO",Drácula, la leyenda jamás contada (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099355.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrástrame al infierno (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ubtl4phLy5iisPWVF5RAP2grow.jpg" group-title="VOD - SUSPENSO",Arrástrame al infierno (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099356.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dreamkatcher (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg" group-title="VOD - SUSPENSO",Dreamkatcher (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099357.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El automóvil gris (versión restaurada) (1919)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twlMi6J5LgPrfbOqHbDMLkMMgoC.jpg" group-title="VOD - SUSPENSO",El automóvil gris (versión restaurada) (1919)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099358.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Buenas noches, mamá (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zM7NEOrDJiCtn79yxfSXXbytutb.jpg" group-title="VOD - SUSPENSO",Buenas noches, mamá (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099359.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Silbón: Orígenes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFyPxJH7DUbIKIB6x3Wwc1kw2JF.jpg" group-title="VOD - SUSPENSO",El Silbón: Orígenes (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099390.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El último exorcismo 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJGWoq45CQmy5Rz5AHBZKsl90DS.jpg" group-title="VOD - SUSPENSO",El último exorcismo 2 (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099391.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ever After (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSkHHE6OaCPd2LLoQNKe7Ru2SRI.jpg" group-title="VOD - SUSPENSO",Ever After (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099392.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En la boca del miedo (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uzMRiZ6pM1bdsGP5WxbhnzDlE8.jpg" group-title="VOD - SUSPENSO",En la boca del miedo (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099393.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El enviado (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLncs8FEzKupj19wCqZ3sPmg3eU.jpg" group-title="VOD - SUSPENSO",El enviado (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099394.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escalofríos (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WBsedQJwuQ3JGiBugl0E4xK6WC.jpg" group-title="VOD - SUSPENSO",Escalofríos (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099395.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escape Room (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9Q1CY5c8q8lzj1uzDduXFf05QA.jpg" group-title="VOD - SUSPENSO",Escape Room (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099397.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eso (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Eso (1997)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099398.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espectro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyj4uH6PJzXlchTZyvSpjVAltyP.jpg" group-title="VOD - SUSPENSO",Espectro (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099399.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reflejos (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bP5cmzflg0SrebT2QeFNYzxtw4M.jpg" group-title="VOD - SUSPENSO",Reflejos (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099400.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Espiritus (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Espiritus (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099401.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Estigma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ej2zqmxPn6db6btUD0slmrh3PME.jpg" group-title="VOD - SUSPENSO",Estigma (2021)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099402.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Posesión infernal (Evil Dead) (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8MW6lsIzFsc5u53sO9JeestH0B.jpg" group-title="VOD - SUSPENSO",Posesión infernal (Evil Dead) (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099403.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mal de ojo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVwganYfJgrLXu26BuW82BJo73.jpg" group-title="VOD - SUSPENSO",Mal de ojo (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099404.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El exorcista II: El hereje (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CRJen2ZgHylKf8uOdbyCNlmfsb.jpg" group-title="VOD - SUSPENSO",El exorcista II: El hereje (1977)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099406.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los exterminadores del más allá contra la rubia del baño (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLsVyAJuFZPlQQPaC3LFpK750k1.jpg" group-title="VOD - SUSPENSO",Los exterminadores del más allá contra la rubia del baño (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099408.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Extinción (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erDbN0WQfWlqt1HJwepjU4zb73V.jpg" group-title="VOD - SUSPENSO",Extinción (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099409.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Family Blood (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg" group-title="VOD - SUSPENSO",Family Blood (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099410.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy Island (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2vgIg9essoPYnyEdmdPqxZC3kp.jpg" group-title="VOD - SUSPENSO",Fantasy Island (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099411.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fender Bender (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92VjZqSkaUDpXvrAiMZRGIxBFLU.jpg" group-title="VOD - SUSPENSO",Fender Bender (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099412.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Encuentros paranormales (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6XxYgUhnlPmBu1miP19pnizWg0.jpg" group-title="VOD - SUSPENSO",Encuentros paranormales (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099413.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Feral (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ72SsxEP9XSx3StaazsMwBi9C0.jpg" group-title="VOD - SUSPENSO",Feral (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099414.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peregrino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uswFh1UtkV2hkvkTfczQXNodjFz.jpg" group-title="VOD - SUSPENSO",Peregrino (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099509.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Current Occupant (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl2oCYmEB0iKWZIVQWOH5Ao5Mo4.jpg" group-title="VOD - SUSPENSO",The Current Occupant (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099510.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Uncanny Annie (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofJTmVJb3Wz55xkkGeEcIYWQlgS.jpg" group-title="VOD - SUSPENSO",Uncanny Annie (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099511.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La isla de la muerte (1945)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUGWj4Kw65v85Eei72hneLkaTpa.jpg" group-title="VOD - SUSPENSO",La isla de la muerte (1945)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099512.mkv
-#EXTINF:-1 tvg-id="" tvg-name="I Spit Chew on Your Grave (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqq70bJKiUx0foJh0YcbdEShnz9.jpg" group-title="VOD - SUSPENSO",I Spit Chew on Your Grave (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099513.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escupiré sobre tu tumba 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imkTGt5WFXVuYTAOFOucOgrYX4G.jpg" group-title="VOD - SUSPENSO",Escupiré sobre tu tumba 2 (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099514.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Escupiré sobre tu tumba 3 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG5GDIcqiqHXkvINZSjyzBUO2vH.jpg" group-title="VOD - SUSPENSO",Escupiré sobre tu tumba 3 (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099515.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Eres tú, papá? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OJt9BfrwbSDP3VWtC1YUK4XR3G.jpg" group-title="VOD - SUSPENSO",¿Eres tú, papá? (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099516.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aún sé lo que hicisteis el último verano (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i76jwlMItxiv0gtfEuJXs8zvjR1.jpg" group-title="VOD - SUSPENSO",Aún sé lo que hicisteis el último verano (1998)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099517.mkv
-#EXTINF:-1 tvg-id="" tvg-name="It (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf56KSxlBjcR4PFt2UP7KsgCg9f.jpg" group-title="VOD - SUSPENSO",It (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099518.mkv
-#EXTINF:-1 tvg-id="" tvg-name="It Came from the Desert (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZsLtCJW1eJabOxlZrZfaalGIki.jpg" group-title="VOD - SUSPENSO",It Came from the Desert (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099519.mkv
-#EXTINF:-1 tvg-id="" tvg-name="It: Capítulo 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oERKIVyTWpHNum3STVsAGD4ojz.jpg" group-title="VOD - SUSPENSO",It: Capítulo 2 (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099520.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Llega de noche (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Qr6KPW7Z1FXAAMbV0SEOImBctd.jpg" group-title="VOD - SUSPENSO",Llega de noche (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099521.mkv
-#EXTINF:-1 tvg-id="" tvg-name="It Follows (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg" group-title="VOD - SUSPENSO",It Follows (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099522.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jackals (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXRdjUmFW3WO4ms1FkJodbiTlaP.jpg" group-title="VOD - SUSPENSO",Jackals (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099523.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jack Goes Home (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV0Sp2pRGURLPYA4bI1t8WeQR0R.jpg" group-title="VOD - SUSPENSO",Jack Goes Home (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099524.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2fWYlY2Ad2FL2Ad9p1HTgJEi8x.jpg" group-title="VOD - SUSPENSO",Jeepers Creepers (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099525.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVpJcOQsR2wBCY9xMJXWCURxSMS.jpg" group-title="VOD - SUSPENSO",Jeepers Creepers 3 (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099526.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 2 (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6RYpWhrlCtqsBI3VzSsAem5Q8o.jpg" group-title="VOD - SUSPENSO",Jeepers Creepers 2 (2003)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099527.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jennifer's Body (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48G2U0zmBh8mQ7gv8scC9xYIZSk.jpg" group-title="VOD - SUSPENSO",Jennifer's Body (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099528.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jigsaw (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFp3r4kk3cro0pPPdLA9VuESwIx.jpg" group-title="VOD - SUSPENSO",Jigsaw (1962)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099529.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Christine (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYZPZKL1ThCqhUBI1tR3r2wtGnu.jpg" group-title="VOD - SUSPENSO",Christine (1983)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099530.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Karma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsYW9v7MD6d7ztmoLgoxUBa90gJ.jpg" group-title="VOD - SUSPENSO",Karma (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099531.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No dejes de mirar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOQ66sBtm7F2jN0aLnrLAODyFzO.jpg" group-title="VOD - SUSPENSO",No dejes de mirar (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099532.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Killer Commandos (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Killer Commandos (1988)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099533.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Secundaria Mortal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNX58K2R8GKWY0q1hxf3Gcqd6Bj.jpg" group-title="VOD - SUSPENSO",Secundaria Mortal (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="KM 31: Sin retorno (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UhihZIu4krs3TVIqoQevAha0ij.jpg" group-title="VOD - SUSPENSO",KM 31: Sin retorno (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099535.mkv
-#EXTINF:-1 tvg-id="" tvg-name="KM 31: Kilómetro 31 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJemaoRW5LFDvi3p6jWMMMIDR4P.jpg" group-title="VOD - SUSPENSO",KM 31: Kilómetro 31 (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099536.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Km. 666 (Desvío al infierno) (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6IVGK3AGF1OHmAjOE7vonrUYkM.jpg" group-title="VOD - SUSPENSO",Km. 666 (Desvío al infierno) (2003)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099537.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Knock Knock (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBK1pAXm5yXn29mOCmfhgSXjmxi.jpg" group-title="VOD - SUSPENSO",Knock Knock (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099538.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Krampus (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKjCt9eH4mvjUKJUFcVmbdIruUN.jpg" group-title="VOD - SUSPENSO",Krampus (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099539.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Bruja (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qSeMUZCELbisTf0PmU7giu67tn.jpg" group-title="VOD - SUSPENSO",La Bruja (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099540.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La casa acecha (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVGhkh4tT3j86CNFYWWErSYQWs7.jpg" group-title="VOD - SUSPENSO",La casa acecha (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099541.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La casa del fin de los tiempos (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FH2kqhUVSJcQOiILOVbe2t6eSc.jpg" group-title="VOD - SUSPENSO",La casa del fin de los tiempos (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099542.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La casa en la playa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P6nkOajac94vaA2Oio21n2zrvB.jpg" group-title="VOD - SUSPENSO",La casa en la playa (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099543.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Caperucita roja ¿A quién tienes miedo? (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27cmo6xr3IThPZmAF2s4FfGVeUs.jpg" group-title="VOD - SUSPENSO",Caperucita roja ¿A quién tienes miedo? (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099544.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La cripta: el último secreto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0ns5I7OVE1ZPXZHKINYjVV8DPc.jpg" group-title="VOD - SUSPENSO",La cripta: el último secreto (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099545.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La mujer de negro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg" group-title="VOD - SUSPENSO",La mujer de negro (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099546.mkv
-
-
-TERROR------------
--------------------
-
-#EXTINF:-1 tvg-id="" tvg-name="Ladronas de Almas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYRia8oAQHOxpDTEGnTExsibROU.jpg" group-title="VOD - TERROR",Ladronas de Almas (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099556.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La marca del demonio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhcoI9Ww6dx6YV041IUlL72nYQi.jpg" group-title="VOD - TERROR",La marca del demonio (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La monja (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNJzVDTgr0ihebEaQU4xlxc2VT5.jpg" group-title="VOD - TERROR",La monja (2005)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099558.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La niña de la mina (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFlP4HlqCbtEdUygc8XMYUCvJY8.jpg" group-title="VOD - TERROR",La niña de la mina (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099559.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La noche del demonio (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIA9DDGNysv5BMPv8k3qCUc3Vuk.jpg" group-title="VOD - TERROR",La noche del demonio (1957)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099560.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La noche del demonio (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIA9DDGNysv5BMPv8k3qCUc3Vuk.jpg" group-title="VOD - TERROR",La noche del demonio (1957)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099561.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La noche devora el mundo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRyv9dTfxIC69APlLGkr4cJ1z56.jpg" group-title="VOD - TERROR",La noche devora el mundo (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La novia de Chucky (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh99wVo11U6vbyePjl7EcGabVHs.jpg" group-title="VOD - TERROR",La novia de Chucky (1998)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099563.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La pirámide (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oZdP70fQcCiajv7SVmy6ZXYYrs.jpg" group-title="VOD - TERROR",La pirámide (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1974: la posesión de Altair (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFuRzagV4CNwB8ixSK7N6XUgnDC.jpg" group-title="VOD - TERROR",1974: la posesión de Altair (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099565.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Verónica (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8iFWosh3NJiZG27AXX1uzKwRLO.jpg" group-title="VOD - TERROR",Verónica (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099566.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La profecía (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0u95VL153ywMlzc7MmBO8ATV4L.jpg" group-title="VOD - TERROR",La profecía (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099567.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La región salvaje (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OzoG5dfRdEq9X20iBUYKuQSDWb.jpg" group-title="VOD - TERROR",La región salvaje (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099568.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las brujas de Zugarramurdi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwPuQoA4osxJvgKcd8JRvwVDynG.jpg" group-title="VOD - TERROR",Las brujas de Zugarramurdi (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099569.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las Reglas de la Ruina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znFC6ftSMkxgY2o5f6WfVCHcWbp.jpg" group-title="VOD - TERROR",Las Reglas de la Ruina (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099570.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las tinieblas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrePzVxbgiWfDlgxy00VC9z62VZ.jpg" group-title="VOD - TERROR",Las tinieblas (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099571.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Last Shift (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lId3nglmnaEzxCzbBiHeW4srKYx.jpg" group-title="VOD - TERROR",Last Shift (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099572.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La última casa a la izquierda (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTT7XocGdSHs4WDtzZ1a1YnVk42.jpg" group-title="VOD - TERROR",La última casa a la izquierda (1972)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099573.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La visita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2olNTwUgIAi0nk0yP5hFIt3BbrJ.jpg" group-title="VOD - TERROR",La visita (2021)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099574.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Leatherface (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nV7LPlyhUxKn5y0nuItCr8D1OSu.jpg" group-title="VOD - TERROR",Leatherface (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099575.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Legion (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ro4BujCD9aFaTI1YMH76Fj9Fgr.jpg" group-title="VOD - TERROR",Legion (1998)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099576.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Le Jumeau (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA6MFbWuIIkan2UMQ72ny9zE7qN.jpg" group-title="VOD - TERROR",Le Jumeau (1984)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099577.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Mansión (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yOzYmYvRyS2Ibg2e3wVVYTl9N0.jpg" group-title="VOD - TERROR",La Mansión (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099578.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 2 (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnCLZ3rpy3enYSHrzcBxnx3fozK.jpg" group-title="VOD - TERROR",Leprechaun 2 (1994)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099584.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Leprechaun: El origen (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyZ7folrZTqEJFD7wUuGf84CmPK.jpg" group-title="VOD - TERROR",Leprechaun: El origen (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099585.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Leprechaun Returns (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kToQsV04Jel1ob7VJ471LDz7wD.jpg" group-title="VOD - TERROR",Leprechaun Returns (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099586.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Les affamés (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LH7DlJeIykHQVfog6IUWQ1fXVP.jpg" group-title="VOD - TERROR",Les affamés (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099587.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Déjame entrar (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mw1Iv9o4BVCtfScCL0nhzolOdO.jpg" group-title="VOD - TERROR",Déjame entrar (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099588.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lifechanger (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocNctwT6ePRtzWPi3Tqqog5h7NM.jpg" group-title="VOD - TERROR",Lifechanger (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099589.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nunca apagues la luz (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4v1GYLMM9UDRVjkLzapHZUFhVfo.jpg" group-title="VOD - TERROR",Nunca apagues la luz (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099590.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pequeño demonio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7uovTeP1c6OmNvhxWzKqBF4ohE.jpg" group-title="VOD - TERROR",Pequeño demonio (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099591.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Llamada Siniestra (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO7yMRrHo1ruBa291b0pKhifqUx.jpg" group-title="VOD - TERROR",Llamada Siniestra (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099592.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La familia Addams (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RqnaUcDH2dpR2kmdnmSEHTcS0V.jpg" group-title="VOD - TERROR",La familia Addams (1991)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099593.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jóvenes ocultos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4MzXvQmf9LYbdN1Lv9pBCekfn0.jpg" group-title="VOD - TERROR",Jóvenes ocultos (1987)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099594.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los ojos de Julia (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvqsMRvGowmQZP485YXqhiLYZaB.jpg" group-title="VOD - TERROR",Los ojos de Julia (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099595.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los olvidados (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LJqMc5nM48O18iNSrbSbMCKQu7.jpg" group-title="VOD - TERROR",Los olvidados (1950)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099596.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los que vuelven (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NbjpUf2WzfrPVvXH7JoWLBxYHj.jpg" group-title="VOD - TERROR",Los que vuelven (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099597.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Luciferina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDjiT5dVwL0B3CgBHhBQo9yB1Yv.jpg" group-title="VOD - TERROR",Luciferina (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099598.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El sótano de Ma (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUPZu9stlOUHqT9FCRYwiKkFtMo.jpg" group-title="VOD - TERROR",El sótano de Ma (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099599.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maggie (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twa9gXjocLM629sJrQYVtmF306R.jpg" group-title="VOD - TERROR",Maggie (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099600.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Malevolent (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm29Sf2uI69CmbCsUkWFn7sbvL6.jpg" group-title="VOD - TERROR",Malevolent (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099601.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Malicious (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD0mJvBCBkDekYQ5Hf15Tq4sFRD.jpg" group-title="VOD - TERROR",Malicious (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099602.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mandíbulas 6: El legado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNu1tZ89yhrFSDgfzQ6P0FJRUF2.jpg" group-title="VOD - TERROR",Mandíbulas 6: El legado (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099603.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mandy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVyE79nFdo2lFtKA5J7ziFAeKhP.jpg" group-title="VOD - TERROR",Mandy (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099604.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maniac (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbDkRvhmbYnHDXkoq0sF0PLeo8j.jpg" group-title="VOD - TERROR",Maniac (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099605.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mara (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rENBUXn22af18NkTkchHtoCWuIq.jpg" group-title="VOD - TERROR",Mara (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099606.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Martyrs (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkBWgdlFClVrr39iLpUTdzqvgz8.jpg" group-title="VOD - TERROR",Martyrs (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099607.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La posesión de Mary (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4js1nTDelM4dEtJNUDmUOZMEM9K.jpg" group-title="VOD - TERROR",La posesión de Mary (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099608.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mas Negro que la Noche (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1oWm54hQI6EuJJw0fNU6eMs3VU.jpg" group-title="VOD - TERROR",Mas Negro que la Noche (1975)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099609.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El escondite (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzpCwz8KoVzb0yIr7BI6W4LQjM2.jpg" group-title="VOD - TERROR",El escondite (2005)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La posesión de Mercy Black (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJCTV6wl896rF1sJ6yTho87dtVY.jpg" group-title="VOD - TERROR",La posesión de Mercy Black (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099612.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mermaid Down (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGj4i7Tas6HDFgajb0LKOkaCtC7.jpg" group-title="VOD - TERROR",Mermaid Down (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099613.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Messengers 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xav4wnkLQiVAUTVxNPMKrXTBdkf.jpg" group-title="VOD - TERROR",Messengers 2 (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099614.mkv
-#EXTINF:-1 tvg-id="" tvg-name="México Bárbaro 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilkBLFYzOdGHqxO1Og4SQk7c6O9.jpg" group-title="VOD - TERROR",México Bárbaro 2 (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099615.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Midsommar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lQZUYk25WBpHT9J2PKVfDe1iGl.jpg" group-title="VOD - TERROR",Midsommar (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mientras El Lobo No Está (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y2SvYTYQeCNoEEOD26wjr3Nx1N.jpg" group-title="VOD - TERROR",Mientras El Lobo No Está (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099617.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mimic 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13tSI83ucR7XuQcr7muAjNIgH91.jpg" group-title="VOD - TERROR",Mimic 2 (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099618.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Secuestrados (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dKFwbh5fxDIy0tSkdjobCZnsDw.jpg" group-title="VOD - TERROR",Secuestrados (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099728.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Seven in Heaven (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elReufFR4NYFiBVRsD0wB2F6FDf.jpg" group-title="VOD - TERROR",Seven in Heaven (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099729.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sharknado (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atEmHkVFTSGRYt2PeCiziQqbZnI.jpg" group-title="VOD - TERROR",Sharknado (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099730.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shutter (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9bG1SOCHHVidLI746RyJKqY4AG.jpg" group-title="VOD - TERROR",Shutter (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099731.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Lullaby (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anYYzYYUgoEYsMnITf3LOUnKnLC.jpg" group-title="VOD - TERROR",The Lullaby (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099732.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El silencio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgaTtU4NA9r0lRKSUqPOnL9gtG7.jpg" group-title="VOD - TERROR",El silencio (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099733.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El estigma del mal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98KAHP8vxAX4jJiK7kd4QkA25EG.jpg" group-title="VOD - TERROR",El estigma del mal (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099734.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Silent Hill (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg" group-title="VOD - TERROR",Silent Hill (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099735.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Silent Hill 2: Revelación (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JOujdpYUeGg3886gigTAQq0na6.jpg" group-title="VOD - TERROR",Silent Hill 2: Revelación (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099736.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Silent Night (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnU29XeVF0hRAJ5QUiEpH66lXR4.jpg" group-title="VOD - TERROR",Silent Night (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099737.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Siniestro (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjVMVtgq7tFielcG3C31PeHUOvU.jpg" group-title="VOD - TERROR",Siniestro (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099738.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Siniestro (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjVMVtgq7tFielcG3C31PeHUOvU.jpg" group-title="VOD - TERROR",Siniestro (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099739.mkv
-#EXTINF:-1 tvg-id="" tvg-name="De espaldas a Dios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG0JC0XKZXHKkrp9oPZOVbksefk.jpg" group-title="VOD - TERROR",De espaldas a Dios (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099740.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Siren (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FT1gPTP5SccMZ4baTjOKAMbkXg.jpg" group-title="VOD - TERROR",Siren (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099741.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Slender Man (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg" group-title="VOD - TERROR",Slender Man (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099742.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Slither: La plaga (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBhCbdxWnJXVmByixeifIiYEAKB.jpg" group-title="VOD - TERROR",Slither: La plaga (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099743.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Smiley (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO8jANmASmul1tWi53mudn1V9IA.jpg" group-title="VOD - TERROR",Smiley (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099744.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Snatchers (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PcCffhPbHqPjCQOYJCB5bnHRTV.jpg" group-title="VOD - TERROR",Snatchers (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099745.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Soy la bonita criatura que vive en esta casa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcZrsT7JNpHjgkh1rGaqeWefkYk.jpg" group-title="VOD - TERROR",Soy la bonita criatura que vive en esta casa (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099746.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Soy tóxico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fua9a5vtoIBjpCCh4RhFgyJsHtG.jpg" group-title="VOD - TERROR",Soy tóxico (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099747.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spawn (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfvH5YKXtMiBgkj0FNozQj4TQyp.jpg" group-title="VOD - TERROR",Spawn (1997)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Species (Especie mortal) (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byYoe9m4dSWM5xYLwWq5OV8KgPX.jpg" group-title="VOD - TERROR",Species (Especie mortal) (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099749.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Species II (Especie mortal II) (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5MAlIvhjYiB8Z59YQP9bXs5k.jpg" group-title="VOD - TERROR",Species II (Especie mortal II) (1998)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099750.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Species III (Especie mortal III) (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BelHo8qmaurZjPS9hipSQ79Rr6.jpg" group-title="VOD - TERROR",Species III (Especie mortal III) (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099751.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Species IV: El despertar (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYWGq17sQ2Th0v77tVK6yteA37P.jpg" group-title="VOD - TERROR",Species IV: El despertar (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099752.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Splice: Experimento mortal (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIYJsichDJbxGFGMyNRwIsQ144P.jpg" group-title="VOD - TERROR",Splice: Experimento mortal (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099753.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spring (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2ncaxeGf5cQOjhWbp4FxFDE1BA.jpg" group-title="VOD - TERROR",Spring (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099754.mkv
-
-
-WESTERN------
--------------
-
-#EXTINF:-1 tvg-id="" tvg-name="El tren de las 3:10 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etmnvALqhRmG8oa061VUODSUiwK.jpg" group-title="VOD - WESTERN",El tren de las 3:10 (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099954.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un hombre llamado Caballo (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frObHVH8sh7mvkHttNhpilakg15.jpg" group-title="VOD - WESTERN",Un hombre llamado Caballo (1970)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099955.mkv
-#EXTINF:-1 tvg-id="" tvg-name="blazing saddles 1974" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frObHVH8sh7mvkHttNhpilakg15.jpg" group-title="VOD - WESTERN",blazing saddles 1974
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099957.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nevada Express (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Jt8JECxJUWgfJQmgR3tFDyMvHz.jpg" group-title="VOD - WESTERN",Nevada Express (1975)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099959.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Brimstone. La hija del predicador (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwYqE1qifeMJphFINmvs9SrTS4S.jpg" group-title="VOD - WESTERN",Brimstone. La hija del predicador (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099960.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bullitt (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hwFxbwhAmRoW62FyzcbDfKGKgG.jpg" group-title="VOD - WESTERN",Bullitt (1968)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099961.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Casa de mi padre (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71pKGrwzk99CpIy2ncpgKHn5248.jpg" group-title="VOD - WESTERN",Casa de mi padre (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099962.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Damsel (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zr5K4sGtdYcBk6MNA2268NpqCs.jpg" group-title="VOD - WESTERN",Damsel (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099963.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bailando con lobos (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37494KV3kIck7moJ3JVEPAZQT68.jpg" group-title="VOD - WESTERN",Bailando con lobos (1990)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099964.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El jinete del amanecer (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXc15iWmXoMf6bYIJfivljkjphq.jpg" group-title="VOD - WESTERN",El jinete del amanecer (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099965.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dead Again in Tombstone (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qCQLZWLRotE5BSUVMN4ZWSIshc.jpg" group-title="VOD - WESTERN",Dead Again in Tombstone (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099967.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deadwood: La película (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crF3Q7tFEOeRWfmuSwj4ZkIryH9.jpg" group-title="VOD - WESTERN",Deadwood: La película (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099968.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Diablo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uAVDyWhkXfaMo09hNpyqR0xkFp.jpg" group-title="VOD - WESTERN",Diablo (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099969.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dodge, ciudad sin ley (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHHJ83B8ij4oG78IrPB4fKCopSC.jpg" group-title="VOD - WESTERN",Dodge, ciudad sin ley (1939)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099970.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Dorado (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCA1Zb1Kw1Zo6wSodCIlZPVfwpo.jpg" group-title="VOD - WESTERN",El Dorado (1966)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099971.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Siete Machos (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stghzuBSuhiBbvAIxrm8D0G8m1z.jpg" group-title="VOD - WESTERN",El Siete Machos (1951)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099972.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Topo (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAPQMH2TBBIcoGPQ7hf2jE0zL1l.jpg" group-title="VOD - WESTERN",El Topo (1970)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099973.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Frontera (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miAWbPJLzPRGP4QaJFkklSZe2gZ.jpg" group-title="VOD - WESTERN",Frontera (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099974.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Frontier (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lQSV4unaYdFBE8iLi7JxSMGRIV.jpg" group-title="VOD - WESTERN",Frontier (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099975.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGBmTiNomYCk6Lr4Gkhbssg0m82.jpg" group-title="VOD - WESTERN",Cazador de demonios (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099976.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Infierno en la frontera (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlQURJswWQyJhjDeLCQQIOAgRkF.jpg" group-title="VOD - WESTERN",Infierno en la frontera (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099977.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hondo (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ID1Zl2TIflgd5yVErroaT3Podg.jpg" group-title="VOD - WESTERN",Hondo (1953)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099978.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hostiles (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FxhTzubzDdFE6ZyzbxgTwIyx7l.jpg" group-title="VOD - WESTERN",Hostiles (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099979.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yo soy la ley (1938)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WMxoxWwXeKypqB3im2A6q3xgrD.jpg" group-title="VOD - WESTERN",Yo soy la ley (1938)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099980.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bueno, el feo y el malo (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSWnIXsxA47smMLwRELSWkxbVJ.jpg" group-title="VOD - WESTERN",El bueno, el feo y el malo (1966)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099981.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El valle de la venganza (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koXt9UM6AkK0XPMJrnXrGcdJiA0.jpg" group-title="VOD - WESTERN",El valle de la venganza (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099982.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Indio Black - Adiós Sabata (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHNrXCZxQByjOhWUsJc6casFzjG.jpg" group-title="VOD - WESTERN",Indio Black - Adiós Sabata (1970)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099983.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVpJcOQsR2wBCY9xMJXWCURxSMS.jpg" group-title="VOD - WESTERN",Jeepers Creepers 3 (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099984.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las aventuras de Jeremiah Johnson (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFiA48c0pqDAv34r9TB4OVGntZz.jpg" group-title="VOD - WESTERN",Las aventuras de Jeremiah Johnson (1972)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099985.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jesse James, Jr. (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64hcwJuJPIM305yrIr7OBUje5ZA.jpg" group-title="VOD - WESTERN",Jesse James, Jr. (1942)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099986.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La balada de Buster Scruggs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxl654m7p36y8FLu8oQD7dfwwK.jpg" group-title="VOD - WESTERN",La balada de Buster Scruggs (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099987.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La balada de Lefty Brown (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5IJMOUST8kTysFHaC05vnF5y4I.jpg" group-title="VOD - WESTERN",La balada de Lefty Brown (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099988.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lawman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIs4ykDjKD2zpDVO9AIy1FUyCBx.jpg" group-title="VOD - WESTERN",Lawman (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099989.mkv
-#EXTINF:-1 tvg-id="" tvg-name="McQuade, lobo solitario (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHXPDgkBUrT8FKs0VktfNjUo7vY.jpg" group-title="VOD - WESTERN",McQuade, lobo solitario (1983)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099990.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los siete magníficos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6fvtfBKs83iVT9EZDcRPWLXCRU.jpg" group-title="VOD - WESTERN",Los siete magníficos (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099991.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Luz (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14XhPx337J2qoJ7UiiDXVX4Lgph.jpg" group-title="VOD - WESTERN",Luz (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099992.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maverick (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11cvSYvUALq0xHg9PKEtNXUqztS.jpg" group-title="VOD - WESTERN",Maverick (1994)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099993.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mis demonios nunca juraron soledad (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mWzMRgWNDaEZycAUnYZ8E4YcUY.jpg" group-title="VOD - WESTERN",Mis demonios nunca juraron soledad (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099994.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El mexicano (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oY0Yqsj4TwkjELkIHXJimjdbV8M.jpg" group-title="VOD - WESTERN",El mexicano (2003)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099995.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pariente (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tU4DcityKcI0NVLIYksgLb919tG.jpg" group-title="VOD - WESTERN",Pariente (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099996.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pistolero (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaKPX5RqBN0caYGFPzEkqXAFqLG.jpg" group-title="VOD - WESTERN",Pistolero (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099998.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Texas, 1870 (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4012O3AKnxkpirEjOhAdZ1SXmp4.jpg" group-title="VOD - WESTERN",Texas, 1870 (1971)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099999.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El regreso de los siete magníficos (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnt41Z5MXQ2PzgzKGpwgKIDQlke.jpg" group-title="VOD - WESTERN",El regreso de los siete magníficos (1966)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100000.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oro sangriento (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EZILJc75G61UMq5hpVwRmvRlIU.jpg" group-title="VOD - WESTERN",Oro sangriento (1969)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100001.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Santa Clara (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g89BTEUUeijo41M0OLIR753YutM.jpg" group-title="VOD - WESTERN",Santa Clara (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100002.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sonora (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5JoieisiLZLm814K81oRK7pNBA.jpg" group-title="VOD - WESTERN",Sonora (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100003.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los comancheros (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnB9mmDipbfExU0cCJljqoQnnrc.jpg" group-title="VOD - WESTERN",Los comancheros (1961)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100004.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los cowboys (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPy99rk3Bxz9KcNzEwTz0iGa5Se.jpg" group-title="VOD - WESTERN",Los cowboys (1972)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100005.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Dalton Gang (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jV4dQgMfj47TK1TrUnrOB2XT0dZ.jpg" group-title="VOD - WESTERN",The Dalton Gang (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100006.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Dark Tower (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x03f5ZRe563wy43rGGTFoJzEE7c.jpg" group-title="VOD - WESTERN",The Dark Tower (1999)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100007.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Duel (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOnFN1WvhoWk6zdf7sWZmIyjuGl.jpg" group-title="VOD - WESTERN",The Duel (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100008.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Misión de audaces (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8vDRoSLzRCiOr34OPHcW3dg4fh.jpg" group-title="VOD - WESTERN",Misión de audaces (1959)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100009.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En defensa propia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XuVrzyFGPQw9pWWRocVqOZunY.jpg" group-title="VOD - WESTERN",En defensa propia (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100010.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los siete magníficos (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu7dxZWlufFOkDV99IzS7Xd7tp.jpg" group-title="VOD - WESTERN",Los siete magníficos (1960)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100011.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El desafío de los siete magníficos (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMFS7d8XxaNcoOUML0oAK9tbe8t.jpg" group-title="VOD - WESTERN",El desafío de los siete magníficos (1972)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100012.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El fuera de la ley (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whduc0mVvMZLQ0dnxsAHHhZPZwd.jpg" group-title="VOD - WESTERN",El fuera de la ley (1976)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100013.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Quick and the Dead (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - WESTERN",The Quick and the Dead (1963)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100014.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Revenant (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bECzzYkRFlCZZAjQ9wboMGyWFcL.jpg" group-title="VOD - WESTERN",The Revenant (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100015.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Centauros del desierto (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmnGvL8GRP0hEG7Uph0FxXS9aiK.jpg" group-title="VOD - WESTERN",Centauros del desierto (1956)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ladrones de trenes (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpTsS2eO9XUZBpzdU7Z1mbjNpUH.jpg" group-title="VOD - WESTERN",Ladrones de trenes (1973)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="the wild bunch (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpTsS2eO9XUZBpzdU7Z1mbjNpUH.jpg" group-title="VOD - WESTERN",the wild bunch (1969)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100018.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La verdadera historia de la banda de Kelly (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dumUhmSjAF4tDwejXkr39P1dcT.jpg" group-title="VOD - WESTERN",La verdadera historia de la banda de Kelly (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Valley of Bones (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRaOLJumjzBq6xFNZMVZdnKlI0W.jpg" group-title="VOD - WESTERN",Valley of Bones (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Almas de metal (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSk1lLjY479xtTC9GXCBb5ljZb.jpg" group-title="VOD - WESTERN",Almas de metal (1973)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100022.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wild Bill (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5sQTDwc4BcvRCBAhnujhBPIEO1.jpg" group-title="VOD - WESTERN",Wild Bill (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Intrépidos forajidos: Arma Joven II (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfZxNJiNepAV1Cy0P1b3RJohqkf.jpg" group-title="VOD - WESTERN",Intrépidos forajidos: Arma Joven II (1990)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100025.mkv
-
-
-COMEDIA-----
-------------
-
-#EXTINF:-1 tvg-id="" tvg-name="2 Guns (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTQlsFIqcL26eu73gJvau9a00pZ.jpg" group-title="VOD - COMEDIA",2 Guns (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100026.mkv
-#EXTINF:-1 tvg-id="" tvg-name="2 Minutes of Fame (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzDyNVRMGinYFxblbIlpVY5nE6.jpg" group-title="VOD - COMEDIA",2 Minutes of Fame (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="3 idiotas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZB9NvNLcxdmoiAh58ZfG8vdXjf.jpg" group-title="VOD - COMEDIA",3 idiotas (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="3 Ninjas Contraatacan (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kIVvJJpzc4BNms8wBzB9GPvfdE.jpg" group-title="VOD - COMEDIA",3 Ninjas Contraatacan (1994)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="5 Weddings (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftgiAskwz67dDg9a39204otCK1p.jpg" group-title="VOD - COMEDIA",5 Weddings (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100030.mkv
-#EXTINF:-1 tvg-id="" tvg-name="6 en la sombra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug4XukdNLwD9Ygyw4V0L5DjoNAp.jpg" group-title="VOD - COMEDIA",6 en la sombra (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100031.mkv
-#EXTINF:-1 tvg-id="" tvg-name="7 horas para enamorarte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMU3x21O7NZT142Q65JCgSp01NI.jpg" group-title="VOD - COMEDIA",7 horas para enamorarte (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100032.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Milagro en la celda 7 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scxBIHaT1ZiPDPJu3vKd9Yn5gBA.jpg" group-title="VOD - COMEDIA",Milagro en la celda 7 (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="10 razones para odiarte (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg" group-title="VOD - COMEDIA",10 razones para odiarte (1999)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100034.mkv
-#EXTINF:-1 tvg-id="" tvg-name="16 deseos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ej5vw4lbGdG8V5lbkP6mgXA6EcT.jpg" group-title="VOD - COMEDIA",16 deseos (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100035.mkv
-#EXTINF:-1 tvg-id="" tvg-name="17 otra vez (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTexZp56ANG28Q6t5NFPeyeCsBo.jpg" group-title="VOD - COMEDIA",17 otra vez (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100036.mkv
-#EXTINF:-1 tvg-id="" tvg-name="20 años no importan (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZiGVzM1j2HdXNjXsGOjy9YIVTW.jpg" group-title="VOD - COMEDIA",20 años no importan (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100037.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mujeres del siglo XX (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5dyHnqVCakXluzw5ZM81QZrNa7.jpg" group-title="VOD - COMEDIA",Mujeres del siglo XX (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100038.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Noche de marcha (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33g7cePX7F2BvvxfjrTwSVCseol.jpg" group-title="VOD - COMEDIA",Noche de marcha (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100039.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Infiltrados en clase (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnznvBLkpin6L8D4plfAS8EbJx3.jpg" group-title="VOD - COMEDIA",Infiltrados en clase (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100040.mkv
-#EXTINF:-1 tvg-id="" tvg-name="22 balas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dibfoJ21beM3IF9AR74NP5Wy5D3.jpg" group-title="VOD - COMEDIA",22 balas (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100041.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Infiltrados en la universidad (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KNIG63EGYe6BmhGi7e7OfSDJcy.jpg" group-title="VOD - COMEDIA",Infiltrados en la universidad (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100042.mkv
-#EXTINF:-1 tvg-id="" tvg-name="27 vestidos (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0v9lvloyAtIj2Hf8a6w6JlBxeI.jpg" group-title="VOD - COMEDIA",27 vestidos (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="27: El club de los malditos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoiISMdxbHIG6jqp3pFNLd4O50M.jpg" group-title="VOD - COMEDIA",27: El club de los malditos (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100044.mkv
-#EXTINF:-1 tvg-id="" tvg-name="30 minutos o menos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkCO4bf8kDxF4wsUOMzhYk3Pgz2.jpg" group-title="VOD - COMEDIA",30 minutos o menos (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100045.mkv
-#EXTINF:-1 tvg-id="" tvg-name="40 días y 40 noches (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24RIC1zqkWn4YB1LagpczSFbKvY.jpg" group-title="VOD - COMEDIA",40 días y 40 noches (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100046.mkv
-#EXTINF:-1 tvg-id="" tvg-name="48 deseos de Navidad (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrcA62O9j8y4gsSpftMKVcvrzCI.jpg" group-title="VOD - COMEDIA",48 deseos de Navidad (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100047.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Límite: 48 horas (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QL19nliH4xLxQC55CwRalpnkuA.jpg" group-title="VOD - COMEDIA",Límite: 48 horas (1982)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100048.mkv
-#EXTINF:-1 tvg-id="" tvg-name="50 primeras citas (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTqeVMNlpuukCiSM9n1uI5MK56Y.jpg" group-title="VOD - COMEDIA",50 primeras citas (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100049.mkv
-#EXTINF:-1 tvg-id="" tvg-name="50 a 1 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIbniwxSlHyvGECiBMkTeWI0pib.jpg" group-title="VOD - COMEDIA",50 a 1 (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100050.mkv
-#EXTINF:-1 tvg-id="" tvg-name="68 Kill (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80ifMmWcNMQ8uD4DTyMFEuJbEJG.jpg" group-title="VOD - COMEDIA",68 Kill (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100051.mkv
-#EXTINF:-1 tvg-id="" tvg-name="100 cosas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdETd9rRfFawO6tVy2haKC0nV2m.jpg" group-title="VOD - COMEDIA",100 cosas (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100052.mkv
-#EXTINF:-1 tvg-id="" tvg-name="100 metros (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tSFaWi4CGnwBMYD429ocKVeoIM.jpg" group-title="VOD - COMEDIA",100 metros (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100053.mkv
-#EXTINF:-1 tvg-id="" tvg-name="303 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUxVmctU9gZG7YEhUChpBZTYtrV.jpg" group-title="VOD - COMEDIA",303 (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100054.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(500) días juntos (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHzgvcbLQxyym58r5N0VKL6c8RS.jpg" group-title="VOD - COMEDIA",(500) días juntos (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100055.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1941 (1941)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/py82INBB23kuulFLvdcu9pAqqCr.jpg" group-title="VOD - COMEDIA",1941 (1941)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100056.mkv
-#EXTINF:-1 tvg-id="" tvg-name="50/50 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZPvALAWTLwKB1RE1CDT3Npa0Am.jpg" group-title="VOD - COMEDIA",50/50 (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100057.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A.R.C.H.I.E. 2: Mission Impawsible (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5B3mkYMxEq5PXiZHtAb2Js4NHVb.jpg" group-title="VOD - COMEDIA",A.R.C.H.I.E. 2: Mission Impawsible (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Consejos de una canguro para cazar monstruos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJvuUUhHM3FtoXL0qlHPtsfwq8n.jpg" group-title="VOD - COMEDIA",Consejos de una canguro para cazar monstruos (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100059.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Bad Idea Gone Wrong (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGA4aQzypmHiAa1xmpCynwWFHcD.jpg" group-title="VOD - COMEDIA",A Bad Idea Gone Wrong (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100060.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El gran desmadre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnuqww5UXvvcqGh4NuEWt9g2qJa.jpg" group-title="VOD - COMEDIA",El gran desmadre (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100061.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un niño grande (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AQlj4fIeZoDO74xhBKsEVPUa8m.jpg" group-title="VOD - COMEDIA",Un niño grande (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abracadabra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lz5PqgxoBVadfhB8GBxfT35Wbg.jpg" group-title="VOD - COMEDIA",Abracadabra (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Absolutamente todo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dV1aYFiTEnV9Hjco38bKE4ANRTq.jpg" group-title="VOD - COMEDIA",Absolutamente todo (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100064.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Absolutamente fabulosas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYyjy9MaHWPoFKPAJHhYhQfmWsz.jpg" group-title="VOD - COMEDIA",Absolutamente fabulosas (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En casa todo está bien (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j92GNi6ooPKEDj44VdrkVM6rV1f.jpg" group-title="VOD - COMEDIA",En casa todo está bien (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100066.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Accidentally in Love (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xB5mr7498U3hOJ1WRKcULFwy87w.jpg" group-title="VOD - COMEDIA",Accidentally in Love (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura Jr.: Detective de Mascotas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XPL9tqC0ux7lyLjYZdZ3F3llAX.jpg" group-title="VOD - COMEDIA",Ace Ventura Jr.: Detective de Mascotas (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100068.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura: operación África (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/899yWih4ic8AyczedYiX41g7TvQ.jpg" group-title="VOD - COMEDIA",Ace Ventura: operación África (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cenicienta se enamora (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD4SvhjDKi7ppsceMbxXKgMBtUi.jpg" group-title="VOD - COMEDIA",Cenicienta se enamora (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Action Point (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg" group-title="VOD - COMEDIA",Action Point (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100071.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adam Sandler: 100% Fresh (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykIpbOWvqx3Jz6oMFss5ldIVkfU.jpg" group-title="VOD - COMEDIA",Adam Sandler: 100% Fresh (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100072.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una pizca de amor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBuQPAO9RZmtrycr1n7ZI8ObsiH.jpg" group-title="VOD - COMEDIA",Una pizca de amor (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100073.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La familia Addams: La tradición continúa (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZcXBJq9DRxEXHEtgZTiwBERqW4.jpg" group-title="VOD - COMEDIA",La familia Addams: La tradición continúa (1993)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100074.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una boda en diciembre (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSMbRlQkMrHyB71B4gA5oEK5Uh.jpg" group-title="VOD - COMEDIA",Una boda en diciembre (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100075.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tu mejor amigo: Un nuevo viaje (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cq7oRDzpSSldtyUuhW8aDL53OCV.jpg" group-title="VOD - COMEDIA",Tu mejor amigo: Un nuevo viaje (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100076.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tu mejor amigo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vz34upg09Hh9p4aV2Uau19g2bv.jpg" group-title="VOD - COMEDIA",Tu mejor amigo (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100077.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Síndrome postdivorcio (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iU5DZVXV8br0dnYl0ngu1Ih5WaS.jpg" group-title="VOD - COMEDIA",Síndrome postdivorcio (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100078.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adventureland (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8022LbeOnc4mlmtPcWW9rXdlj7.jpg" group-title="VOD - COMEDIA",Adventureland (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100079.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adventures in Babysitting (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Adventures in Babysitting (1989)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100080.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un pez llamado Wanda (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXcUJZzfM4fl5X1bhywRQcBLoF7.jpg" group-title="VOD - COMEDIA",Un pez llamado Wanda (1988)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100081.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A fondo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riPC6Zk6uvpfbVnExWGLRe754uQ.jpg" group-title="VOD - COMEDIA",A fondo (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100082.mkv
-#EXTINF:-1 tvg-id="" tvg-name="After Everything (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fwosV84f3BOV2h4kqcbpQplFLY.jpg" group-title="VOD - COMEDIA",After Everything (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100083.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un gesto estúpido e inútil (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVExTwKXN8sbkBRYhaNcCCouuly.jpg" group-title="VOD - COMEDIA",Un gesto estúpido e inútil (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100084.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superagente Cody Banks (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4cXY2pPzRTR4e5sknVbVzJisJH.jpg" group-title="VOD - COMEDIA",Superagente Cody Banks (2003)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100085.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superagente Cody Banks 2: Destino Londres (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iESxrWZcA43ljcgy6xIf4ckvZ0n.jpg" group-title="VOD - COMEDIA",Superagente Cody Banks 2: Destino Londres (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100086.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Age of Summer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5jloyTyJMJUSwK4zJYrphTIu1J.jpg" group-title="VOD - COMEDIA",Age of Summer (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100087.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cosas de tíos (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpLNAkJqAxzkIChwOJyBLr2MJsB.jpg" group-title="VOD - COMEDIA",Cosas de tíos (2003)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100088.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Happening of Monumental Proportions (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0OfNAgYtogZagFfpKTryDpk05I.jpg" group-title="VOD - COMEDIA",A Happening of Monumental Proportions (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100089.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ahí está el detalle (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WPBWuH2DuXICkmIYhCLN1eaoJ4.jpg" group-title="VOD - COMEDIA",Ahí está el detalle (1940)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100090.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ahí te encargo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v230KtHmd261EA4OSMMSC2TCiA8.jpg" group-title="VOD - COMEDIA",Ahí te encargo (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100091.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cascarrabias (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTLMYDgnkvc3258HjJBGLAOF5vl.jpg" group-title="VOD - COMEDIA",Cascarrabias (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100092.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Esperando al rey (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4yQmPvMtSrQTQlu43LIp8sMVJa.jpg" group-title="VOD - COMEDIA",Esperando al rey (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100093.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cabezas Huecas (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Us9yWtxAzl7WrcjXPZ9NrjaM3T.jpg" group-title="VOD - COMEDIA",Cabezas Huecas (1994)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100094.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aterriza como puedas 2 (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmIDnlq8Q81OM4egSZ7Dn6Ea3uL.jpg" group-title="VOD - COMEDIA",Aterriza como puedas 2 (1982)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100095.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A la mala (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqnrSonCqTpsCdI9a9I1IS0e3Gp.jpg" group-title="VOD - COMEDIA",A la mala (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100096.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alelí (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gtcPLk0qEGghqIW1g7DJ4Jydf3.jpg" group-title="VOD - COMEDIA",Alelí (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100097.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alexander y el día terrible, horrible, espantoso, horroroso (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNWPCQE48Vt2FMb77RMtzoebc66.jpg" group-title="VOD - COMEDIA",Alexander y el día terrible, horrible, espantoso, horroroso (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100098.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alex Strangelove (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OemqmvthXswt5KFmtXBCMMloJ4.jpg" group-title="VOD - COMEDIA",Alex Strangelove (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100099.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aliens Ate My Homework (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5whmTsqUItnPkZDz4NGMLi0Ra8.jpg" group-title="VOD - COMEDIA",Aliens Ate My Homework (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100100.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Little Bit of Heaven (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",A Little Bit of Heaven (1940)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100101.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nina al desnudo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcOV7ALpm0CiIyeTxP3Ncjrc7HA.jpg" group-title="VOD - COMEDIA",Nina al desnudo (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100102.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Mejor Regalo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmRfayq8RxZzvAt5JO2Y77ZQisj.jpg" group-title="VOD - COMEDIA",El Mejor Regalo (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100103.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yo soy todas ellas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAzX5TSKREp3Mhq7nqew4DcXjRZ.jpg" group-title="VOD - COMEDIA",Yo soy todas ellas (2021)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100104.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Casi Navidad (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oy7Hqtqb56x5zvfUOlaXPFZmvTa.jpg" group-title="VOD - COMEDIA",Casi Navidad (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100105.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aloha (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmTchyxSeCWc24vZAYT37cSL1pa.jpg" group-title="VOD - COMEDIA",Aloha (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100106.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Y entonces llegó ella (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PlwxWjrxDauWM8h6XnHfzUvTSZ.jpg" group-title="VOD - COMEDIA",Y entonces llegó ella (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100107.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Al son que me toquen bailo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAjLMeHzgVMy44XkUCTClzVpFkz.jpg" group-title="VOD - COMEDIA",Al son que me toquen bailo (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100108.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alvin and the Chipmunks: Batmunk (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8B0OhnECOGO6CMZ30JnAfZVlNFi.jpg" group-title="VOD - COMEDIA",Alvin and the Chipmunks: Batmunk (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100109.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alvin and the Chipmunks: Batmunk (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8B0OhnECOGO6CMZ30JnAfZVlNFi.jpg" group-title="VOD - COMEDIA",Alvin and the Chipmunks: Batmunk (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100110.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alvin y las ardillas 3 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lg6mc7D7QFB24rKoyQIeCa6En43.jpg" group-title="VOD - COMEDIA",Alvin y las ardillas 3 (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100111.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alvin y las ardillas: Fiesta sobre ruedas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IiWy0nfNSrQGuXDmAKf4eaTmc9.jpg" group-title="VOD - COMEDIA",Alvin y las ardillas: Fiesta sobre ruedas (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100112.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Quizás para siempre (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fk7AOg1gSt41FUUsW01v28jXhwO.jpg" group-title="VOD - COMEDIA",Quizás para siempre (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100113.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amalia, la secretaria (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4qbrUh7vXBXpgd0jOO46k1WJTy.jpg" group-title="VOD - COMEDIA",Amalia, la secretaria (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100114.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amanda & Jack Go Glamping (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmokEVZDkn9bofvJ0KjANtfZf5E.jpg" group-title="VOD - COMEDIA",Amanda & Jack Go Glamping (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100115.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amateur Night (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Amateur Night (1986)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100116.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amelie (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYvUib00miJWxWkiXhy3QnrCj96.jpg" group-title="VOD - COMEDIA",Amelie (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100117.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Pie 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vCYQf5zQUFnG2dZptuvZlO0alE.jpg" group-title="VOD - COMEDIA",American Pie 2 (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100118.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Band Camp (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aH2DwyuUi63o65Ciw9sUfmNMFZg.jpg" group-title="VOD - COMEDIA",American Pie presenta: Band Camp (2005)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100119.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Fraternidad Beta (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE99yrphO0UsQRd9bFn8zu4HXuc.jpg" group-title="VOD - COMEDIA",American Pie presenta: Fraternidad Beta (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100120.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Las chicas mandan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UQOaKfjogSrfKFztgNOaDUKKVB.jpg" group-title="VOD - COMEDIA",American Pie presenta: Las chicas mandan (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100121.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: El libro del amor (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WDbcnxUdhBNtMv8BzO1agc1ozp.jpg" group-title="VOD - COMEDIA",American Pie presenta: El libro del amor (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100122.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Una fiesta de pelotas (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18uUWwuAK4B56Cwf1sEY5OzYAUM.jpg" group-title="VOD - COMEDIA",American Pie presenta: Una fiesta de pelotas (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100123.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Pie (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnuUgdlpB6gVEqieR7TrEtYL23T.jpg" group-title="VOD - COMEDIA",American Pie (1999)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100124.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Pie: El reencuentro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HyHcHP17VU5QCPbiFbZEtMKSis.jpg" group-title="VOD - COMEDIA",American Pie: El reencuentro (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100125.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Ultra (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi2MCDYvrZQPf1uXyvfVYPE57Mz.jpg" group-title="VOD - COMEDIA",American Ultra (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100126.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Pie ¡Menuda boda! (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg" group-title="VOD - COMEDIA",American Pie ¡Menuda boda! (2003)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100127.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La pareja del año (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt8HQdE3LnskMip9FKjToqOgEJB.jpg" group-title="VOD - COMEDIA",La pareja del año (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100128.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amigos en apuros (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAgh4PBtTXHSjzd7Axly6Mz6tu9.jpg" group-title="VOD - COMEDIA",Amigos en apuros (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100129.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amigo Undead (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dRdw20BUiiiOP9pdkkTMYzSWrD.jpg" group-title="VOD - COMEDIA",Amigo Undead (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100130.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mil maneras de morder el polvo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vm0dutP6EqrVf1w7qZPYKkXpkn5.jpg" group-title="VOD - COMEDIA",Mil maneras de morder el polvo (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100131.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ammore e malavita (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49q4CTKlHX5Y8pzSsr27akt6lhR.jpg" group-title="VOD - COMEDIA",Ammore e malavita (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100132.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor de Película (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYq7h1HmrbB5gfHKtVs5Rkox2v3.jpg" group-title="VOD - COMEDIA",Amor de Película (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100133.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Juliet, desnuda (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8GRMGDB1yvVOMINsyo2WckkQSf.jpg" group-title="VOD - COMEDIA",Juliet, desnuda (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100134.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amores modernos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irhfIjrDiEQR8BSqIvFpn6CVkdZ.jpg" group-title="VOD - COMEDIA",Amores modernos (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100135.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor sin cita previa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuThabdFimUj4G9zYib8TAduqzS.jpg" group-title="VOD - COMEDIA",Amor sin cita previa (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100136.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor urgente (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWflfNHdaDSijwrKlCYH0aq1FZa.jpg" group-title="VOD - COMEDIA",Amor urgente (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor Viajero (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWflfNHdaDSijwrKlCYH0aq1FZa.jpg" group-title="VOD - COMEDIA",Amor Viajero (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una terapia peligrosa (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8H3BLEgmPFsRMHjUaCh3RkvxdlE.jpg" group-title="VOD - COMEDIA",Una terapia peligrosa (1999)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100140.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un hombre lobo americano en París (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49qfumITDLKoqfaovwVKujczpFf.jpg" group-title="VOD - COMEDIA",Un hombre lobo americano en París (1997)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100141.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El reportero: la leyenda de Ron Burgundy (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm3PZJgeqUgAt8Y4wZCaHmabZ54.jpg" group-title="VOD - COMEDIA",El reportero: la leyenda de Ron Burgundy (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100142.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ejecutivo agresivo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUukygoCwJTbecqFdYLho7Zyr67.jpg" group-title="VOD - COMEDIA",Ejecutivo agresivo (2003)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100143.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Movida en el Roxbury (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a01ADTGfR6Z8WjTzTohHDtlOBzm.jpg" group-title="VOD - COMEDIA",Movida en el Roxbury (1998)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100144.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A pesar de todo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a01ADTGfR6Z8WjTzTohHDtlOBzm.jpg" group-title="VOD - COMEDIA",A pesar de todo (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100146.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Second Chance: Rivals! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a01ADTGfR6Z8WjTzTohHDtlOBzm.jpg" group-title="VOD - COMEDIA",A Second Chance: Rivals! (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100147.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El pequeño espacio entre el odio y el amor (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo9AGi5LlFXZUj8MDPq3eKCUMpd.jpg" group-title="VOD - COMEDIA",El pequeño espacio entre el odio y el amor (1996)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100148.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A ti te quería encontrar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo9AGi5LlFXZUj8MDPq3eKCUMpd.jpg" group-title="VOD - COMEDIA",A ti te quería encontrar (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100149.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A volar, joven (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo9AGi5LlFXZUj8MDPq3eKCUMpd.jpg" group-title="VOD - COMEDIA",A volar, joven (1947)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Animal Crackers (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h3mttgqxN2RJy3Oakrp7QZhOKX.jpg" group-title="VOD - COMEDIA",Animal Crackers (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Animal Crossing: La película (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEv6gX5a6ciVOqzDsdNBsqTF4qV.jpg" group-title="VOD - COMEDIA",Animal Crossing: La película (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ana y el apocalipsis (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lCfWsCiWjlq5S2jItRUbF5QM0.jpg" group-title="VOD - COMEDIA",Ana y el apocalipsis (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Annie (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lCfWsCiWjlq5S2jItRUbF5QM0.jpg" group-title="VOD - COMEDIA",Annie (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Annie Hall (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zsJ5bgIjOBc9YGFE7jVffDom0Z.jpg" group-title="VOD - COMEDIA",Annie Hall (1977)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Annie, una aventura real (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXSZSwjHf8NZ0d6pnfS7dVhifVf.jpg" group-title="VOD - COMEDIA",Annie, una aventura real (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anomalisa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg" group-title="VOD - COMEDIA",Anomalisa (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Antboy 3 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wThFeVFNhZM5sSaPsIxN2hQ1KmP.jpg" group-title="VOD - COMEDIA",Antboy 3 (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Antz (Hormigaz) (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFDqymFtThCysdUsCywYD8wj7nf.jpg" group-title="VOD - COMEDIA",Antz (Hormigaz) (1998)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100161.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Archie (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYEEmFFlT5jVbe8xfCP6WVwhKN2.jpg" group-title="VOD - COMEDIA",Archie (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una casa patas arriba (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O70oROEGcMa4ZMlThbMz6dtD69.jpg" group-title="VOD - COMEDIA",Una casa patas arriba (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100163.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arizona (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLqutab3wuUfPBu27rXcoaEd6WD.jpg" group-title="VOD - COMEDIA",Arizona (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La armadura de Dios (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNL0PmH0ksITHhUl5A7c5xCY5Tb.jpg" group-title="VOD - COMEDIA",La armadura de Dios (1986)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Army of One (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxv6yHSNTGaf7aqwF1XdLVNpvpB.jpg" group-title="VOD - COMEDIA",Army of One (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arthur, el soltero de oro (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXLSJmy3xTonKfqRaUb9KOgGIze.jpg" group-title="VOD - COMEDIA",Arthur, el soltero de oro (1981)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="As Good as It Gets? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdOmn4Z4HQeGPxteWqkwvSYA8ZW.jpg" group-title="VOD - COMEDIA",As Good as It Gets? (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ashby (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bij7LIvlhoLnMDmnsxOFrZ5ta94.jpg" group-title="VOD - COMEDIA",Ashby (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así es mi tierra (1937)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUDvE0DYZwNs8GYNFj6wnzzdqaY.jpg" group-title="VOD - COMEDIA",Así es mi tierra (1937)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así Nomas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3wtGhM2Q1ybp0bPRPdn4M8Vsju.jpg" group-title="VOD - COMEDIA",Así Nomas (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100171.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Astérix y Obélix contra César (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16tATLAUhXi0mq7IaqEp2xur5zJ.jpg" group-title="VOD - COMEDIA",Astérix y Obélix contra César (1999)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Asu Mare! 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pnmyc46DrjSrm7See7WLmfkH1k.jpg" group-title="VOD - COMEDIA",¡Asu Mare! 2 (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Asu Mare! 3 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6wbref5yctlnTQqfLtquF6fO6f.jpg" group-title="VOD - COMEDIA",¡Asu Mare! 3 (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Asu Mare! (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xMRtfaygHhGfYGEyTBxEVIKiKk.jpg" group-title="VOD - COMEDIA",¡Asu Mare! (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Asylum: Twisted Horror & Fantasy Tales (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rxKic2PDrheSXMCG82vm9LAm8e.jpg" group-title="VOD - COMEDIA",Asylum: Twisted Horror & Fantasy Tales (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Atrako por Joder (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUZ55yHSLsvSOjc7KI1ndkYfOgL.jpg" group-title="VOD - COMEDIA",Atrako por Joder (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Austin Powers: La espía que me achuchó (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xncRyVPUP5cJWoVKiyqTtKZzwAg.jpg" group-title="VOD - COMEDIA",Austin Powers: La espía que me achuchó (1999)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Austin Powers en Miembro de Oro (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikM7ofMJaQHG4IFuutahPWCMTRm.jpg" group-title="VOD - COMEDIA",Austin Powers en Miembro de Oro (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Austin Powers: Misterioso agente internacional (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vUjqYh8hDh7pVIcdQySw3SN3SH.jpg" group-title="VOD - COMEDIA",Austin Powers: Misterioso agente internacional (1997)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Ave, César! (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHJqorTolIJ21UGDlwuGJf4TDt5.jpg" group-title="VOD - COMEDIA",¡Ave, César! (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="बाघी (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dN3fwrFaSqg07ACvN6HZZYbwyQr.jpg" group-title="VOD - COMEDIA",बाघी (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Babe (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYvMnY9TUL9gXGlKCtuE5iOY4tE.jpg" group-title="VOD - COMEDIA",Babe (1975)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Babe 2: El cerdito en la ciudad (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAajjfi6QxJubrIVD9lNV6KU3oV.jpg" group-title="VOD - COMEDIA",Babe 2: El cerdito en la ciudad (1998)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Baby Driver (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eycDWupJWpAF7Pu8TIxNxGrS0Z.jpg" group-title="VOD - COMEDIA",Baby Driver (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Baby on Board (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnMhbKYEqNSOUOo30bD9M7JnR2e.jpg" group-title="VOD - COMEDIA",Baby on Board (1992)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100186.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Back to School (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaY9HDfCDlb4ecyDBR23bAcOpcd.jpg" group-title="VOD - COMEDIA",Back to School (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bad Boys (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWBGGFdDCVwjnJ3QCghdEfD4A7T.jpg" group-title="VOD - COMEDIA",Bad Boys (1983)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur1wCiFEwZzjehqQM11FFN66rwL.jpg" group-title="VOD - COMEDIA",Bad Boys for Life (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100189.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La estafa (Bad Education) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57H8KjN5qHYJjaq5SaUPsuVypPh.jpg" group-title="VOD - COMEDIA",La estafa (Bad Education) (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100190.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Furia y honor (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g05aWJdYKCwTbcLsYzjQvhQDBmm.jpg" group-title="VOD - COMEDIA",Furia y honor (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100191.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bad Santa 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdCxpHtqu4AICNtm3mEzTGPNWfc.jpg" group-title="VOD - COMEDIA",Bad Santa 2 (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100192.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bad Teacher (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FDYf8zZYLJuDftdYalqVVSWHEi.jpg" group-title="VOD - COMEDIA",Bad Teacher (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100193.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Juegos de palabras (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZOz1GTFsrfGZNziZHupOvqUdub.jpg" group-title="VOD - COMEDIA",Juegos de palabras (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100194.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ligera de equipaje (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56nXpFoibuO4uUvTMCaUR7Qra2K.jpg" group-title="VOD - COMEDIA",Ligera de equipaje (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100195.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Looney Cuento de Navidad (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD8JGIqxqoD9BxifuqnjbdQKnb.jpg" group-title="VOD - COMEDIA",El Looney Cuento de Navidad (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100196.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Balada triste de trompeta (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAQBUmTGOV5ejzkm5FZmMXKaWYf.jpg" group-title="VOD - COMEDIA",Balada triste de trompeta (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100197.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bolas Afuera (Balls Out) (Intramural) (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wpDiTuH242HdUUPp8U8OYiXFJk.jpg" group-title="VOD - COMEDIA",Bolas Afuera (Balls Out) (Intramural) (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100198.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bananas (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLt9ByexJF77faffBQqSUsV32An.jpg" group-title="VOD - COMEDIA",Bananas (1971)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100199.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Banana Split (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waWlvMTYLLiOC7jGkUDXDWq0nXv.jpg" group-title="VOD - COMEDIA",Banana Split (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Band Aid (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDYKhDkmvvPnYESr1yNG3K5oMZT.jpg" group-title="VOD - COMEDIA",Band Aid (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100201.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Banjo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWJLsCVU7MckdprbbQi8g02wRYr.jpg" group-title="VOD - COMEDIA",Banjo (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bareilly Ki Barfi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gGkq074z56JfXRBIQv5M043em2.jpg" group-title="VOD - COMEDIA",Bareilly Ki Barfi (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100204.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barely Lethal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8emz9dKW8KKIqG8WcFG1lJbr2ub.jpg" group-title="VOD - COMEDIA",Barely Lethal (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100205.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Battle of the Sexes (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RGpKZwf8BKjQ9FGWDAh5UqXP11.jpg" group-title="VOD - COMEDIA",The Battle of the Sexes (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100206.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Baywatch: Los vigilantes de la playa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPifsnK3ui76Cq7xMDe1AVlrA0k.jpg" group-title="VOD - COMEDIA",Baywatch: Los vigilantes de la playa (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100207.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bean, lo último en cine catastrófico (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xZY8uPJPtAGGuHKCzIQv5j90jC.jpg" group-title="VOD - COMEDIA",Bean, lo último en cine catastrófico (1997)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100208.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beatriz at Dinner (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obOhjpLQ720cdJMdhprOLBMrJI1.jpg" group-title="VOD - COMEDIA",Beatriz at Dinner (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100209.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Al diablo con el diablo (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY48qalNal5ZLxNVugll11bCAQl.jpg" group-title="VOD - COMEDIA",Al diablo con el diablo (2000)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100210.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Al diablo con el diablo (Mi amigo el diablo) (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x69qVj5Vi9SZbJBXHav2TBa7mGF.jpg" group-title="VOD - COMEDIA",Al diablo con el diablo (Mi amigo el diablo) (1967)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100211.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bedtime Stories (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Bedtime Stories (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beethoven: Uno más de la familia (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GdQs5bc8feiPhgLZYOZ8fs8gsu.jpg" group-title="VOD - COMEDIA",Beethoven: Uno más de la familia (1992)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bitelchús (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap36MvDZbfX0vzPsNeYqYv29rrK.jpg" group-title="VOD - COMEDIA",Bitelchús (1988)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Behaving Badly (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quyjTvHPI4I05KX2iFmCX1Pih9c.jpg" group-title="VOD - COMEDIA",Behaving Badly (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cómo ser John Malkovich (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1seCNXVXigPVZV6q9v4WhuIWBdP.jpg" group-title="VOD - COMEDIA",Cómo ser John Malkovich (1999)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Making of 'Be Kind Rewind' (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1seCNXVXigPVZV6q9v4WhuIWBdP.jpg" group-title="VOD - COMEDIA",The Making of 'Be Kind Rewind' (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bellezonismo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBgsoKRBq53dF4udLP1kzFYQUoZ.jpg" group-title="VOD - COMEDIA",Bellezonismo (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100218.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Benchwarmers 2: Breaking Balls (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TxdsFc149fntpR1ia8Ri8JQieb.jpg" group-title="VOD - COMEDIA",Benchwarmers 2: Breaking Balls (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100219.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bendita rebeldía (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzXMQ5M5ZcSpemqtmhAqci2w4te.jpg" group-title="VOD - COMEDIA",Bendita rebeldía (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100220.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Quiero ser como Beckham (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fjTH8W40bR6GqdYM1fbXmO4e9k.jpg" group-title="VOD - COMEDIA",Quiero ser como Beckham (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Benji (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvmhEcqzN2bUZvEmEIh9SjhTkr6.jpg" group-title="VOD - COMEDIA",Benji (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Berlin, Berlin: la novia se fuga (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7dbF4YXX5fMbxisAbQpwwknwa.jpg" group-title="VOD - COMEDIA",Berlin, Berlin: la novia se fuga (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100223.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Best Friends (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVdHPyF548pjl7EdMYE00K7ts3T.jpg" group-title="VOD - COMEDIA",Best Friends (1975)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100224.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Entre dos helechos: La película (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1LfFBxJznVKCloOol3N4iJMeKx.jpg" group-title="VOD - COMEDIA",Entre dos helechos: La película (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100226.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un chihuahua en Beverly Hills 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8hN9OHkqqf0O2Adt2mju9Cll44.jpg" group-title="VOD - COMEDIA",Un chihuahua en Beverly Hills 2 (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superdetective en Hollywood (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8RtQuLStydGdJmHR4p8jNVssbv.jpg" group-title="VOD - COMEDIA",Superdetective en Hollywood (1984)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100228.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superdetective en Hollywood III (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szhFPC5FXN6YHGMqWuqaGR7EKk8.jpg" group-title="VOD - COMEDIA",Superdetective en Hollywood III (1994)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100229.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superdetective en Hollywood II (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19fU9cD8nBp3riUgKZi6nLSMO88.jpg" group-title="VOD - COMEDIA",Superdetective en Hollywood II (1987)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100230.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bibi & Tina: Tohuwabohu total (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iZ9l7Z1xnPGKgFvZ3XM56Pp0HB.jpg" group-title="VOD - COMEDIA",Bibi & Tina: Tohuwabohu total (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100231.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Big (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQXlNnc6Ztyb6ocsXSiA0zDVD7s.jpg" group-title="VOD - COMEDIA",Big (1988)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100232.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gordo mentiroso 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agTN5Fo3P16ECRqG9OGkHKgUgBg.jpg" group-title="VOD - COMEDIA",Gordo mentiroso 2 (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100233.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Big Game (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPytx8xclrZckzHVUtuFHO8iSOA.jpg" group-title="VOD - COMEDIA",Big Game (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100234.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Big Shot (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNUFt1aZLjhWb6YKo30iIKqA8Ve.jpg" group-title="VOD - COMEDIA",The Big Shot (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100235.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Esta abuela es un peligro 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oipfIAfuGHL7Sv6yKSKJYo6qMvg.jpg" group-title="VOD - COMEDIA",Esta abuela es un peligro 2 (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100236.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Esta abuela es mi padre (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFsUnWyqDGVyE5sY0zeIie5eB7R.jpg" group-title="VOD - COMEDIA",Esta abuela es mi padre (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Esta abuela es un peligro (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svzVjVV8QUpfYItr3PH5bMzRPer.jpg" group-title="VOD - COMEDIA",Esta abuela es un peligro (2000)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100238.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El gran Stan: El matón de la prisión (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAq6TJYIsi62xf5v2nGDAQwh0wY.jpg" group-title="VOD - COMEDIA",El gran Stan: El matón de la prisión (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Big Time Adolescence (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFjhHlHjiWouLmJWxGMHGn1MQKX.jpg" group-title="VOD - COMEDIA",Big Time Adolescence (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo Misterio en el circo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6Cm4sBm1gzA94HuULtJFaFnSd.jpg" group-title="VOD - COMEDIA",Scooby-Doo Misterio en el circo (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100241.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bill y Ted salvan el universo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wg7zMOc3DtTJyEazjHCojIBKSrD.jpg" group-title="VOD - COMEDIA",Bill y Ted salvan el universo (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100242.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El alucinante viaje de Bill y Ted (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovspKcx8UmWaurGYo0SaeUH999Q.jpg" group-title="VOD - COMEDIA",El alucinante viaje de Bill y Ted (1991)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las alucinantes aventuras de Bill y Ted (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w41jlAt7nXhOJPzXeJa24cdSetB.jpg" group-title="VOD - COMEDIA",Las alucinantes aventuras de Bill y Ted (1989)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Billy Madison (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XV42Zu9taxluIKXMeV9OSpYCSq.jpg" group-title="VOD - COMEDIA",Billy Madison (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bingo: O Rei das Manhãs (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XV42Zu9taxluIKXMeV9OSpYCSq.jpg" group-title="VOD - COMEDIA",Bingo: O Rei das Manhãs (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dos pájaros a tiro (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnbSMZzdNIfPwX3dgyVGXnmSIUI.jpg" group-title="VOD - COMEDIA",Dos pájaros a tiro (1990)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100247.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bitch (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnbSMZzdNIfPwX3dgyVGXnmSIUI.jpg" group-title="VOD - COMEDIA",Bitch (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El caballero negro (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMLWo2wPBt7SVR6Jz9dr8Sv9ekY.jpg" group-title="VOD - COMEDIA",El caballero negro (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100249.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black Sheep (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMLWo2wPBt7SVR6Jz9dr8Sv9ekY.jpg" group-title="VOD - COMEDIA",Black Sheep (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100250.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Patinazo a la gloria (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pIxa7pfrdG6vz9AnTFATkIX9il.jpg" group-title="VOD - COMEDIA",Patinazo a la gloria (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100251.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cheque en blanco (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkkMdHvrAxqGK9qtPg5Acc8mY3B.jpg" group-title="VOD - COMEDIA",Cheque en blanco (1994)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Accept: Metal Blast from the Past (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKI4Cwwzto79tLMtQ7BZIKP9shD.jpg" group-title="VOD - COMEDIA",Accept: Metal Blast from the Past (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100253.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sillas de montar calientes (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wp5akCwgXvIcGihHzOx30RLMoQ5.jpg" group-title="VOD - COMEDIA",Sillas de montar calientes (1974)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100254.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Juntos y revueltos (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVLm7uud6Oh1wmhiR4vOrngQKo8.jpg" group-title="VOD - COMEDIA",Juntos y revueltos (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100255.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Carter & June (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSpuv5CLGG2WgQo38nzDpxFuKUG.jpg" group-title="VOD - COMEDIA",Carter & June (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100304.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi gran boda griega (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSH8ZNE8sMbvJwetK5DC87bhqd2.jpg" group-title="VOD - COMEDIA",Mi gran boda griega (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100305.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cásese quien pueda (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQWtOngnl0w5KGsVCkhUlIcoF82.jpg" group-title="VOD - COMEDIA",Cásese quien pueda (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100306.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Casi fiel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3seEJqWPOpRUOG9dPRA4LEVr4gD.jpg" group-title="VOD - COMEDIA",Casi fiel (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100307.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Casi leyendas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySp07i0wzkCfRUFnr6jGUYTPutS.jpg" group-title="VOD - COMEDIA",Casi leyendas (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100308.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aprendiz de gigoló (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQU2odR5FEhRkR6dnyv0MzuXVqM.jpg" group-title="VOD - COMEDIA",Aprendiz de gigoló (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Casper (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg" group-title="VOD - COMEDIA",Casper (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Atrápame si puedes (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxX5KGDO4lf2yyBJn2IxBx3F4cO.jpg" group-title="VOD - COMEDIA",Atrápame si puedes (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100311.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Catfight (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3kLVDNJlU6IIMmtMmFjtSBat7y.jpg" group-title="VOD - COMEDIA",Catfight (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100312.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Como perros y gatos: La patrulla unida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5I9ZSO42I9Rl3aXh7nMaTLWiUaz.jpg" group-title="VOD - COMEDIA",Como perros y gatos: La patrulla unida (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100313.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Como perros y gatos: La venganza de Kitty Galore (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBpVURWeSkkI7zTAJGLhMElRvF7.jpg" group-title="VOD - COMEDIA",Como perros y gatos: La venganza de Kitty Galore (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100314.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nuestra vida en la Borgoña (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI6WjLHr41K59wPTbZjXSS7Rkr6.jpg" group-title="VOD - COMEDIA",Nuestra vida en la Borgoña (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100315.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Herencia navideña (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvJMNDSizLT7cEyeJmnzKvMCRvJ.jpg" group-title="VOD - COMEDIA",Herencia navideña (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100334.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Christopher Robin (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg" group-title="VOD - COMEDIA",Christopher Robin (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La mujer explosiva (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Mv2FE516JfpLwy8teQOKi1MESS.jpg" group-title="VOD - COMEDIA",La mujer explosiva (1985)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="50 sombras muy oscuras (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXxEz9GNVzbSUFvO5cEbpVsJbpw.jpg" group-title="VOD - COMEDIA",50 sombras muy oscuras (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cinderelo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arQ836mAto1bhN47piUWHdRVmbw.jpg" group-title="VOD - COMEDIA",Cinderelo (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cindy la regia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxcuX1Rx0wQQDSozriasW3M61vI.jpg" group-title="VOD - COMEDIA",Cindy la regia (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CineBasura: la peli (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7wiUBOYg4VmJAYtU3p54UwlAFz.jpg" group-title="VOD - COMEDIA",CineBasura: la peli (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ciudad muy caliente (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTLxnQRwcXgdH91DgWHjamUKvIb.jpg" group-title="VOD - COMEDIA",Ciudad muy caliente (1984)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100341.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Luces de la ciudad (1931)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxW2UZapaGSlycekS8ON5yQeldZ.jpg" group-title="VOD - COMEDIA",Luces de la ciudad (1931)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100342.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ciudades de papel (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kala11GwSTYQ2yL7rIxVrdsayRa.jpg" group-title="VOD - COMEDIA",Ciudades de papel (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100343.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Clara's Ghost (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxzYb31A8Q5pGdJCCYJiqx9GmDo.jpg" group-title="VOD - COMEDIA",Clara's Ghost (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100344.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Claudia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmoUclDEnDkbgorX9LzLL6c6EFk.jpg" group-title="VOD - COMEDIA",Claudia (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100345.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Clear history (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eezkRS0yGZuw1yZrNSZDpHWvccm.jpg" group-title="VOD - COMEDIA",Clear history (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100346.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Click (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l06jMu0V4cp1DuQdI9ptSJjV01q.jpg" group-title="VOD - COMEDIA",Click (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100347.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Coche policial (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vctchuhLkObVFZJVmpPrCtBhEjQ.jpg" group-title="VOD - COMEDIA",Coche policial (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100348.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cocoon (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osyR4zl0hBivH7leFTy11vFGjhX.jpg" group-title="VOD - COMEDIA",Cocoon (1985)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100349.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cocoon: El retorno (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRbsVnyVKWmbeG4m20I1Fr44g5C.jpg" group-title="VOD - COMEDIA",Cocoon: El retorno (1988)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100350.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Código negro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbT6u0CN8oh08x4vf7roQun0qMG.jpg" group-title="VOD - COMEDIA",Código negro (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100351.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dios los cría y ellos... (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9jU0sGmwssDeBuk9A4EZUQ6AHV.jpg" group-title="VOD - COMEDIA",Dios los cría y ellos... (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100352.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg" group-title="VOD - COMEDIA",Coffee & Kareem (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100353.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colao (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3q4BQrQcuT8UvKfeVSK5IyTav8.jpg" group-title="VOD - COMEDIA",Colao (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100354.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Venganza bajo cero (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfZClfVlLJI6RWjKlMBiuvosYEy.jpg" group-title="VOD - COMEDIA",Venganza bajo cero (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100355.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colossal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pklJUOhmGZ43yXY1LpA2mxzVPpc.jpg" group-title="VOD - COMEDIA",Colossal (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100356.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cometa: Él, su perro y su mundo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYLvVI4zkMkV3Vlvrq4LqdgxZFW.jpg" group-title="VOD - COMEDIA",Cometa: Él, su perro y su mundo (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100357.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Cómo andamos por casa? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAZztdJ8JfyNJY7i0sNGgSX1f0P.jpg" group-title="VOD - COMEDIA",¿Cómo andamos por casa? (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100358.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Como caído del cielo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg6QZdlHrq2dtSK8cfnQQMnmpeY.jpg" group-title="VOD - COMEDIA",Como caído del cielo (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100359.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cómo cortar a tu patán (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arpcxmLCXyYQWfb1MuMDfl2Dhuo.jpg" group-title="VOD - COMEDIA",Cómo cortar a tu patán (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100360.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Como é Cruel Viver Assim (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9U14Dip0WmvEUMrU8cCcqipoHZF.jpg" group-title="VOD - COMEDIA",Como é Cruel Viver Assim (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100361.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Despedida de soltera (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6A4yGd6j9tdSS9IJYYOnP7MkNvQ.jpg" group-title="VOD - COMEDIA",Despedida de soltera (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100362.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Cómo matar a un esposo muerto? (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZQbSUZTSL8jO8DN12XI2uhjAAV.jpg" group-title="VOD - COMEDIA",¿Cómo matar a un esposo muerto? (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100363.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Como novio de pueblo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzfEOHREJ6k63CJe6vypvgC0fzB.jpg" group-title="VOD - COMEDIA",Como novio de pueblo (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100364.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Como si fuera la primera vez (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2KxzTS4eUS01tK3IjZWNie62jq.jpg" group-title="VOD - COMEDIA",Como si fuera la primera vez (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100365.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Compadres (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fs166jcsSkRhOvblIEPnFs04aXS.jpg" group-title="VOD - COMEDIA",Compadres (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100366.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cómplices (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CHg7tCS8oPdKszDUWw5RnDLKrC.jpg" group-title="VOD - COMEDIA",Cómplices (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100367.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Condorito: la película (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7yTRWLgJdvOFQPhwSJF1s4BwbQ.jpg" group-title="VOD - COMEDIA",Condorito: la película (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100368.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Confesiones de una mente peligrosa (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYw84Loq93ocFxSy7UU5WQbTGsr.jpg" group-title="VOD - COMEDIA",Confesiones de una mente peligrosa (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100369.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Confesiones de una compradora compulsiva (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzGlXNrecqcLnYhKRlzU7lk97vA.jpg" group-title="VOD - COMEDIA",Confesiones de una compradora compulsiva (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100370.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Conoces a Tomás? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OfdMLI6eQvwGuuc3lBJo5a2nTV.jpg" group-title="VOD - COMEDIA",¿Conoces a Tomás? (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100371.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adivina quién (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFOqwa0gXtiTSNcJGnuJ53t8v3H.jpg" group-title="VOD - COMEDIA",Adivina quién (2005)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100372.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cook-Off! (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZW0qabQHbSo89Qm5fNusCLqL2W.jpg" group-title="VOD - COMEDIA",Cook-Off! (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100373.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cool Runnings: The Reggae Movie (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZW0qabQHbSo89Qm5fNusCLqL2W.jpg" group-title="VOD - COMEDIA",Cool Runnings: The Reggae Movie (1986)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100374.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Cool World (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9P7JNaj6G099iRcdf5blx7ItlT.jpg" group-title="VOD - COMEDIA",The Cool World (1963)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cooties (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gv18iqlKrDLSfYqYC8zFjeBL0Q.jpg" group-title="VOD - COMEDIA",Cooties (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100376.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 - The Super Duper Cut (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QYjjpcVLDEcbTkM1lFsllcU3La.jpg" group-title="VOD - COMEDIA",Deadpool 2 - The Super Duper Cut (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100410.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jx3URmImNMCZuXcfdLM7S5Pivzy.jpg" group-title="VOD - COMEDIA",Deadpool 2 (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100411.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DeadTectives (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DTcWoo8wWl2f2YPp21hfGAAD7O.jpg" group-title="VOD - COMEDIA",DeadTectives (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100412.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor y otras drogas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzXczujSYdsddv9FZBmVhPUN65z.jpg" group-title="VOD - COMEDIA",Amor y otras drogas (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100413.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dean (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cEQV6zMkk7Wfe8NKeuyYLD34b2.jpg" group-title="VOD - COMEDIA",Dean (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100414.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dear Eleanor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMG1e83PHqtjQLgXZhy2IMn3eX0.jpg" group-title="VOD - COMEDIA",Dear Eleanor (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100415.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Querida gente blanca (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH3851P2DjjnBsrjphbR1CWRzm6.jpg" group-title="VOD - COMEDIA",Querida gente blanca (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100416.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La muerte os sienta tan bien (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cat0ytQRnwNuK0pBTY3AOhLYfzb.jpg" group-title="VOD - COMEDIA",La muerte os sienta tan bien (1992)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100417.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Death Race 2050 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEieVCgbVCs3ww6AAvbyLrqoMiz.jpg" group-title="VOD - COMEDIA",Death Race 2050 (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100418.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un vecino con pocas luces (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icToXS9r12hEXERVBYHBR0kKCeO.jpg" group-title="VOD - COMEDIA",Un vecino con pocas luces (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100419.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dedicada a mi ex (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riAooJrFvVhotyaOgoI0WR7okSe.jpg" group-title="VOD - COMEDIA",Dedicada a mi ex (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100420.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Definitivamente, quizás (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1gHgF4PJeCObC4gXB5JVvr9GF6.jpg" group-title="VOD - COMEDIA",Definitivamente, quizás (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100421.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deidra y Laney asaltan un tren (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3F4vxkbUBXqS8DxEfTn6lrUBNF.jpg" group-title="VOD - COMEDIA",Deidra y Laney asaltan un tren (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100422.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Delincuente (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4u7BgoLZQBFdfibEL0x1xoVCru.jpg" group-title="VOD - COMEDIA",Delincuente (1984)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100423.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mañana empieza todo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kdTXiFswJJZl4JFvIQi6DMdiqr.jpg" group-title="VOD - COMEDIA",Mañana empieza todo (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100424.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Daniel el travieso (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qOrWcrLtyGiATTWEv6yYRYlIW1.jpg" group-title="VOD - COMEDIA",Daniel el travieso (1993)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100425.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Daniel el travieso ataca de nuevo (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6fxRpHNdSA3yv8prMo1sNzOcgF.jpg" group-title="VOD - COMEDIA",Daniel el travieso ataca de nuevo (1998)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100426.mkv
-#EXTINF:-1 tvg-id="" tvg-name="De patitas a la calle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Jq7Ra5DBueK98zPf1fMmqdbITc.jpg" group-title="VOD - COMEDIA",De patitas a la calle (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100427.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Coco, el pequeño dragón. Aventuras en la Jungla (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYLiyeoRBwNosk0NNh5uoqeEgEj.jpg" group-title="VOD - COMEDIA",Coco, el pequeño dragón. Aventuras en la Jungla (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100428.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Roma con amor (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs1nm3j8SHgi6lJnOg7tCnkNGyn.jpg" group-title="VOD - COMEDIA",A Roma con amor (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100429.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El camino de vuelta (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHoQ0xjDJ5sJZNca7QyFa6ZeXxg.jpg" group-title="VOD - COMEDIA",El camino de vuelta (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100430.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Atrapa ese email (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLM1mMby4jTdsQm8ImCRMY0BXLz.jpg" group-title="VOD - COMEDIA",Atrapa ese email (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100431.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Despido procedente (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RII7rlh6tbonKLE60E3FuO91cc.jpg" group-title="VOD - COMEDIA",Despido procedente (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100432.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destined to Ride (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGOkZLH4vApt24ZFyt4xVZvefWd.jpg" group-title="VOD - COMEDIA",Destined to Ride (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100433.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino de un capricho (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNluzMyQ5eqnS2WeYUmJFjL2oPL.jpg" group-title="VOD - COMEDIA",Destino de un capricho (1972)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100434.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon Detective Pikachu (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chgaG2mUPGZ0Wj6YS9SbCNEiLnL.jpg" group-title="VOD - COMEDIA",Pokémon Detective Pikachu (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100435.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Devuélveme mi suerte (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yAj4jh26FWNxGA7d9XVNTk4Kbd.jpg" group-title="VOD - COMEDIA",Devuélveme mi suerte (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100436.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El diario de Greg 2: La ley de Rodrick (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZJlvzMMttnvCHYbEdj1NCyP5ZT.jpg" group-title="VOD - COMEDIA",El diario de Greg 2: La ley de Rodrick (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100437.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El diario de Greg 3: Días de perros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv6YHpQl2rrynA8G2FUx01KURo7.jpg" group-title="VOD - COMEDIA",El diario de Greg 3: Días de perros (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100438.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El diario de Greg (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOfWbnyuVswAzdSU4VkuPkHCxH0.jpg" group-title="VOD - COMEDIA",El diario de Greg (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100439.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Diario de Greg: Carretera y manta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKgNyw5muEC929hdfiTbe8dbxSn.jpg" group-title="VOD - COMEDIA",Diario de Greg: Carretera y manta (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100440.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Diario de Greg: Carretera y manta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKgNyw5muEC929hdfiTbe8dbxSn.jpg" group-title="VOD - COMEDIA",Diario de Greg: Carretera y manta (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100441.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Descansa En Paz Dick Johnson (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnfI34kmi3fcdgP7HZjIgGOJHGY.jpg" group-title="VOD - COMEDIA",Descansa En Paz Dick Johnson (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100442.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Diecisiete (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhKF93ctN4JGI29W3J55PpInoPv.jpg" group-title="VOD - COMEDIA",Diecisiete (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100443.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzOkddFfLexWtTozMMvPDUNe0AK.jpg" group-title="VOD - COMEDIA",Dinosaurios (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100444.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dirty Grandpa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwOgOFPBhGVWZTvXI3rG1TtFt7s.jpg" group-title="VOD - COMEDIA",Dirty Grandpa (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100445.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doble (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jF3iEFqFV43JEAaAcUeSP42mroQ.jpg" group-title="VOD - COMEDIA",Doble (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100446.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyjsUPtUKJMPvOzR6Gcutblg2yE.jpg" group-title="VOD - UNIVERSO MARVEL",Doctor Strange (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100448.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dog Days (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0h70jkSpaZV48cYOmdoCjFjJMM.jpg" group-title="VOD - COMEDIA",Dog Days (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100449.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yo soy Dolemite (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5GgrsNkdyJeEFiqckBKd4voaxU.jpg" group-title="VOD - COMEDIA",Yo soy Dolemite (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100450.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las aventuras del Doctor Dolittle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aodZLzbl7JaKSsdV6EJzl86EjcX.jpg" group-title="VOD - COMEDIA",Las aventuras del Doctor Dolittle (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100451.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Donaire Y Esplendor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bn6XVspFYBwef9KiqvATdmLJOdn.jpg" group-title="VOD - COMEDIA",Donaire Y Esplendor (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100452.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don Jon (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asp3YRMj24YV5x0QChTvkFIChu9.jpg" group-title="VOD - COMEDIA",Don Jon (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100453.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don Quijote cabalga de nuevo (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMOfdS5xk1mDjue4MRM9wlgIFDK.jpg" group-title="VOD - COMEDIA",Don Quijote cabalga de nuevo (1973)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100454.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los colegas del barrio (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCgKRs1qMRCc2wx0VG7ONEOj2MJ.jpg" group-title="VOD - COMEDIA",Los colegas del barrio (1996)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100455.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don't Think Twice (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8PuoewhI3qeROdfXSw2Utjf1On.jpg" group-title="VOD - COMEDIA",Don't Think Twice (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100456.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dope (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6u00imN7AX2NiyWUc5kTgHXmEf.jpg" group-title="VOD - COMEDIA",Dope (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100457.mkv
-#EXTINF:-1 tvg-id="" tvg-name="dora and the lost city of gold 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6u00imN7AX2NiyWUc5kTgHXmEf.jpg" group-title="VOD - COMEDIA",dora and the lost city of gold 2019
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100458.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dos gallos en palenque (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AinXckJXUEYEcfPYF9AtT8ZzLuq.jpg" group-title="VOD - COMEDIA",Dos gallos en palenque (1960)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100459.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dos policías en apuros (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeLheRsqqnuUq7ArWEoRr1T40JX.jpg" group-title="VOD - COMEDIA",Dos policías en apuros (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100460.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bucky Larson: Nacido para ser una estrella (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avCsg52549PHT5nVXIW7c3BEZ7b.jpg" group-title="VOD - COMEDIA",Bucky Larson: Nacido para ser una estrella (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100462.mkv
-
-
-ROMANCE-----
------------
-
-#EXTINF:-1 tvg-id="" tvg-name="Ni en sueños (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFWxPE8mXiOmqLc8bfncOuJqbw5.jpg" group-title="VOD - ROMANCE",Ni en sueños (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099019.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Si decido quedarme (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsWeIZ5Z3W2xAEr4oEj25jC9vMC.jpg" group-title="VOD - ROMANCE",Si decido quedarme (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inmersión (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZaecd428OQyHbfYhNi5BAhHbsn.jpg" group-title="VOD - ROMANCE",Inmersión (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sierra Burgess es una perdedora (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjnHRySiVM4YcBYzjCxw344y9g.jpg" group-title="VOD - ROMANCE",Sierra Burgess es una perdedora (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099022.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El lado bueno de las cosas (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YXWHl2oP8OFT5CtG3EoeMQtAAD.jpg" group-title="VOD - ROMANCE",El lado bueno de las cosas (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sing Street (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKoje7m27iCOAxvfhQQKNolXts7.jpg" group-title="VOD - ROMANCE",Sing Street (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099024.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin reservas (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzcRicYNm301idmRwJJZJIHAGHv.jpg" group-title="VOD - ROMANCE",Sin reservas (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099025.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Algo para recordar (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psRLR2UFkcU1SHIXWcrIX7yCwQO.jpg" group-title="VOD - ROMANCE",Algo para recordar (1993)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099026.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El sueño de mi vida (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgiY4CxDEFDcCfsLWLqLr4ezs6n.jpg" group-title="VOD - ROMANCE",El sueño de mi vida (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dieciséis velas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vT5KySjMhb9yTApyQFSyuMvQB9Y.jpg" group-title="VOD - ROMANCE",Dieciséis velas (1984)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nunca entre amigos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLk9lb21GpQeKENUkjIOBV59acR.jpg" group-title="VOD - ROMANCE",Nunca entre amigos (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Slumdog Millionaire (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub7iEniSi23Ms3RcF551Sozb1MH.jpg" group-title="VOD - ROMANCE",Slumdog Millionaire (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099030.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sobredosis de Amor (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUJrGpA3qkddYonre6DFePfFeAY.jpg" group-title="VOD - ROMANCE",Sobredosis de Amor (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099031.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sobre ruedas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw8FG7VXZfUtCAGbygyEYWcYJLn.jpg" group-title="VOD - ROMANCE",Sobre ruedas (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099032.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Proceso de admisión (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkTcnobD4Vnc1m5e7xX6YCpWN77.jpg" group-title="VOD - ROMANCE",Proceso de admisión (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sólo amigos (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tn0PgQKC29aIHA0ube945IhEI3J.jpg" group-title="VOD - ROMANCE",Sólo amigos (2005)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099034.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Solteras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xAcWQhSd5ANs9ipsXoac8yeW2p.jpg" group-title="VOD - ROMANCE",Solteras (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099035.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Novia por contrato (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5YAzMCDc4tLXXnTnHKvYMgbzXT.jpg" group-title="VOD - ROMANCE",Novia por contrato (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099036.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alguien especial (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QW7qjnJPPIDGTCqYThooeiTSYE.jpg" group-title="VOD - ROMANCE",Alguien especial (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099037.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tú y yo somos tres (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7quckeRWtVDxsIjhWhaJSPtwHMP.jpg" group-title="VOD - ROMANCE",Tú y yo somos tres (1962)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099038.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La vida en una canción (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEzfpEFAhU8jv7pfVQdUCZCC7Ca.jpg" group-title="VOD - ROMANCE",La vida en una canción (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099039.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Song to Song (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZ1tHVE8KW1OnemlRSVulpgvejd.jpg" group-title="VOD - ROMANCE",Song to Song (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099040.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bajo El Sol De Riccione (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ly1zIjlj1MuV7zHJ9NaPu0Xp2rR.jpg" group-title="VOD - ROMANCE",Bajo El Sol De Riccione (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099041.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Michelle & Obama (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ktA7D8Xgxw4QkWNSvRgEedHWn5.jpg" group-title="VOD - ROMANCE",Michelle & Obama (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099042.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Soy el número cuatro (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8Wg5RBAcsDjSKi3Et571MbsBFw.jpg" group-title="VOD - ROMANCE",Soy el número cuatro (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spanglish (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkA4yVXUGIUFzaGlm5opeq9OFj4.jpg" group-title="VOD - ROMANCE",Spanglish (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099044.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las vueltas del amor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpOuwvWHvcWJFIoac1NSU8Tl3YO.jpg" group-title="VOD - ROMANCE",Las vueltas del amor (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099045.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Splash (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXoK5g9Abg1rAh5MTpqngAxrLfo.jpg" group-title="VOD - ROMANCE",Splash (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099046.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sr. y Sra. Smith (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNi7Axc8U4cI9BgryeuF5tpi0I1.jpg" group-title="VOD - ROMANCE",Sr. y Sra. Smith (2005)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099047.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Stardust (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsCrevARwF6eCrF2v8zpLdn0gth.jpg" group-title="VOD - ROMANCE",Stardust (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099048.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Stargirl (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/B4jUoUth9PfIjjKCOfKplxaBoF.jpg" group-title="VOD - ROMANCE",Stargirl (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099049.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guatdefoc (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfADwQlaZTqh5PgTznpeg9LnuV1.jpg" group-title="VOD - ROMANCE",Guatdefoc (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099050.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sweet Home Alabama (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ng6B9qRfOiYcGeaYuUq6CoEw2uI.jpg" group-title="VOD - ROMANCE",Sweet Home Alabama (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099051.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sweet Home Carolina (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdwo6Ix3syZub6atY8EStKkn01v.jpg" group-title="VOD - ROMANCE",Sweet Home Carolina (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099052.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Noviembre dulce (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etZBiCuTbCsAPbdLzLMBfdGik61.jpg" group-title="VOD - ROMANCE",Noviembre dulce (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099053.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Qué pasó anoche? (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3dVYQtxXldDawz7d15wqt2PQLe.jpg" group-title="VOD - ROMANCE",¿Qué pasó anoche? (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099054.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Más allá del tiempo (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GtFVW8MIx6DQ1p7FmXbEMSWwzd.jpg" group-title="VOD - ROMANCE",Más allá del tiempo (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099055.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Te juro que yo no fui (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnUzAymfRq5yriq8mVzXuQtkpuu.jpg" group-title="VOD - ROMANCE",Te juro que yo no fui (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099056.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tengo ganas de ti (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z13I3sWzOoKBDAEpJ7iK9bSznQn.jpg" group-title="VOD - ROMANCE",Tengo ganas de ti (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099057.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Te pido un taxi (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18gB2rF9WAd14qL2TyjMsJZF4yX.jpg" group-title="VOD - ROMANCE",Te pido un taxi (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Conexión Tequila (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lU57nwsR2I7uIah1XnbIF15krmM.jpg" group-title="VOD - ROMANCE",Conexión Tequila (1988)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099059.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Testamento de juventud (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yt0J2mmby3E9Ffnouf6LjR2KiM4.jpg" group-title="VOD - ROMANCE",Testamento de juventud (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099060.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino oculto (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ALDdje4SLdZCEWTIxWpAqMEFZX.jpg" group-title="VOD - ROMANCE",Destino oculto (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099061.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Way Back (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KXzKUDFEVqaIq8lUL022yN54rE.jpg" group-title="VOD - ROMANCE",The Way Back (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="THE BEST OF ME (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQWtoXkrax8TbOkthwaWBkHpllm.jpg" group-title="VOD - ROMANCE",THE BEST OF ME (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La gran enfermedad del amor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YrYtRJApTEuJQ7UDLLe4BpVN64.jpg" group-title="VOD - ROMANCE",La gran enfermedad del amor (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099064.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Bounce Back (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JsEu5imj7Ya0eyLoe7gTu7Cu0b.jpg" group-title="VOD - ROMANCE",The Bounce Back (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Exposados - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwVwxmzTdeVm4otgh1UiwM1NjqS.jpg" group-title="VOD - ROMANCE",Exposados - 2010
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099066.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Boy Downstairs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyevkDeoS2EZjmB8qEk6hyzQYlB.jpg" group-title="VOD - ROMANCE",The Boy Downstairs (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los puentes de Madison (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeNvfQ6kyfH2l2LKtFQ6XYxFIsm.jpg" group-title="VOD - ROMANCE",Los puentes de Madison (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099068.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pasión por el triunfo (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8tMoxZydFedzOfjL1cWKKcOlSb.jpg" group-title="VOD - ROMANCE",Pasión por el triunfo (1992)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Discovery (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLIDouFvreSrs8xK62zuvpEPDw0.jpg" group-title="VOD - ROMANCE",The Discovery (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La serie Divergente: Insurgente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9tT7J3wrZa2KJ7v4vbgITshNgp.jpg" group-title="VOD - ROMANCE",La serie Divergente: Insurgente (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099071.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bajo la misma estrella (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWtK2Kg4afUaQ2LVzQKsdcvJnLa.jpg" group-title="VOD - ROMANCE",Bajo la misma estrella (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099072.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The First Time (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tG6jUndWd9FRuvI4j5Z2bhTuq0V.jpg" group-title="VOD - ROMANCE",The First Time (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099073.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Fountain (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwbod2uXYZKH7ZrqDM6712xQG0s.jpg" group-title="VOD - ROMANCE",The Fountain (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099074.mkv
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="La saga Crepúsculo: Eclipse (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjfrg4H8sCst4Z5gAW0Asn7506T.jpg" group-title="VOD - SAGAS",La saga Crepúsculo: Eclipse (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099113.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La saga Crepúsculo: Luna nueva (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyzlDaHtB15PnRMFsd9jmMJ73pO.jpg" group-title="VOD - SAGAS",La saga Crepúsculo: Luna nueva (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099114.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alien³ (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvT2FoGChCeifaMwx6Ubc8Loixp.jpg" group-title="VOD - SAGAS",Alien³ (1992)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099201.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 2: La venganza de Freddy (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D837ivB8EHQMRTlvUBe7ahbUCP.jpg" group-title="VOD - SAGAS",Pesadilla en Elm Street 2: La venganza de Freddy (1985)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 3: Los guerreros del sueño (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyKFg5KMD8QIzIn2Uc48nZAzbXi.jpg" group-title="VOD - SAGAS",Pesadilla en Elm Street 3: Los guerreros del sueño (1987)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099218.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 4: El amo del sueño (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssHmDBdbNDtWpVuZ9Zk4W0VWm1c.jpg" group-title="VOD - SAGAS",Pesadilla en Elm Street 4: El amo del sueño (1988)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099219.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 5: El niño de los sueños (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2Vys942SiZIMYf1jckOj9nI6n8.jpg" group-title="VOD - SAGAS",Pesadilla en Elm Street 5: El niño de los sueños (1989)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099220.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Nightmare on Elm Street (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAAuKnkqF8svhqtabTsEu8dA8wA.jpg" group-title="VOD - SUSPENSO",A Nightmare on Elm Street (2021)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street (El origen) (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kXLpOOMLx4FYb9opougusk0hfg.jpg" group-title="VOD - SAGAS",Pesadilla en Elm Street (El origen) (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1099222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg" group-title="VOD - UNIVERSO MARVEL",Ant-Man (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man y la Avispa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrbMKgCwOv5REZ7ou1DWXu3bSse.jpg" group-title="VOD - UNIVERSO MARVEL",Ant-Man y la Avispa (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1100160.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Corazón de un Corredor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by5sJxbg7HXdqSm05oYT54AsZTg.jpg" group-title="VOD - DRAMA",Corazón de un Corredor (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="2 corazones (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7bW3uKOMPBnmHs8gnlpfhTD8YQ.jpg" group-title="VOD - DRAMA",2 corazones (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="3-03 Rescate (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MXQgRSIrlf0nwr7Fal3aunhHIV.jpg" group-title="VOD - DRAMA",3-03 Rescate (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098223.mkv
-#EXTINF:-1 tvg-id="" tvg-name="4 latas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MXQgRSIrlf0nwr7Fal3aunhHIV.jpg" group-title="VOD - DRAMA",4 latas (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098224.mkv
-#EXTINF:-1 tvg-id="" tvg-name="5 Weddings (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftgiAskwz67dDg9a39204otCK1p.jpg" group-title="VOD - DRAMA",5 Weddings (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098225.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Balloons (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPLfgvcd01R3RJnlk7Gyl8TebjA.jpg" group-title="VOD - DRAMA",Balloons (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098226.mkv
-#EXTINF:-1 tvg-id="" tvg-name="7:19 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QxTx4IouJQ6uZSYZYpAWG3DVAy.jpg" group-title="VOD - DRAMA",7:19 (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="8 millas (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRSMRkf06aUeZcmr5Cyxuv5vk4T.jpg" group-title="VOD - DRAMA",8 millas (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098228.mkv
-#EXTINF:-1 tvg-id="" tvg-name="10 Cosas que hacer antes de dejarte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twlIvKmFd7iZ2l9vLACzOkISuWK.jpg" group-title="VOD - DRAMA",10 Cosas que hacer antes de dejarte (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098229.mkv
-#EXTINF:-1 tvg-id="" tvg-name="22 de julio (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQX1Ult7VWZnCttjY4x1hGQnN2s.jpg" group-title="VOD - DRAMA",22 de julio (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098230.mkv
-#EXTINF:-1 tvg-id="" tvg-name="50 a 1 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIbniwxSlHyvGECiBMkTeWI0pib.jpg" group-title="VOD - DRAMA",50 a 1 (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098231.mkv
-#EXTINF:-1 tvg-id="" tvg-name="55 pasos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fUQSKMStIj4kY0cS9KGRMhdd64.jpg" group-title="VOD - DRAMA",55 pasos (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098232.mkv
-#EXTINF:-1 tvg-id="" tvg-name="7.1 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGRADCxYVu8rUveECwcvKx1Eadg.jpg" group-title="VOD - DRAMA",7.1 (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098233.mkv
-#EXTINF:-1 tvg-id="" tvg-name="100 metros (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tSFaWi4CGnwBMYD429ocKVeoIM.jpg" group-title="VOD - DRAMA",100 metros (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098234.mkv
-#EXTINF:-1 tvg-id="" tvg-name="108 Costuras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn2LVWfcSA5A2OXAhtXrZispWMr.jpg" group-title="VOD - DRAMA",108 Costuras (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098235.mkv
-#EXTINF:-1 tvg-id="" tvg-name="127 horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="VOD - DRAMA",127 horas (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098236.mkv
-#EXTINF:-1 tvg-id="" tvg-name="303 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUxVmctU9gZG7YEhUChpBZTYtrV.jpg" group-title="VOD - DRAMA",303 (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="365 días (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jz8T3hrU6GuMqSuQ4Rbd4MJUeaq.jpg" group-title="VOD - DRAMA",365 días (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098238.mkv
-#EXTINF:-1 tvg-id="" tvg-name="4:44 Last Day on Earth (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7ZJEhAhStHFKYRNT85laIwwayB.jpg" group-title="VOD - DRAMA",4:44 Last Day on Earth (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="(500) días juntos (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHzgvcbLQxyym58r5N0VKL6c8RS.jpg" group-title="VOD - DRAMA",(500) días juntos (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axdhbcZeOsfX3ZpwtgdgPIjc06l.jpg" group-title="VOD - DRAMA",1917 (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098241.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1922 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wj8hLGHAP9goBvvJ45TIK2RjsA.jpg" group-title="VOD - DRAMA",1922 (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098242.mkv
-#EXTINF:-1 tvg-id="" tvg-name="50-50 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNYHeXKZCdDcrqOgGT2q99HYJWK.jpg" group-title="VOD - DRAMA",50-50 (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="7500: Avión secuestrado (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CpuCxI2OCcxI8qJ8XJMObn4aq4.jpg" group-title="VOD - DRAMA",7500: Avión secuestrado (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Truth About Alex (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CpuCxI2OCcxI8qJ8XJMObn4aq4.jpg" group-title="VOD - DRAMA",The Truth About Alex (1986)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="About Cherry (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gl6Q7GwDnwHDNd1emmQBoyUKiwB.jpg" group-title="VOD - DRAMA",About Cherry (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bajo sospecha (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3IZqv1SzNkE97DSGKqhI8v8Fhv.jpg" group-title="VOD - DRAMA",Bajo sospecha (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098247.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abzurdah (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH28FUPq2wjp23GXqMmzhOdvLcD.jpg" group-title="VOD - DRAMA",Abzurdah (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ace, el mejor amigo de la familia (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maWhGQkqwT0cuPLsCmhJpuyoGht.jpg" group-title="VOD - DRAMA",Ace, el mejor amigo de la familia (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098249.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acosada En La Red (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fQ2bwOus2WlDOiN3waDhevqTPW.jpg" group-title="VOD - DRAMA",Acosada En La Red (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098250.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acrimony (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WUpWRFvvN6l0LUIJbFNZw4jWvB.jpg" group-title="VOD - DRAMA",Acrimony (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098251.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Actos de venganza (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llp6oHKjNd0VwthPgSkh8lA7Iub.jpg" group-title="VOD - DRAMA",Actos de venganza (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ad astra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg" group-title="VOD - DRAMA",Ad astra (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098253.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Doggone Hollywood (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AbgA96GJUZIn8tFj3fa6WDiycD.jpg" group-title="VOD - DRAMA",A Doggone Hollywood (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098254.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adú (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tigbVfTJ4mJccucmov2UThgOQbJ.jpg" group-title="VOD - DRAMA",Adú (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098255.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adventureland (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8022LbeOnc4mlmtPcWW9rXdlj7.jpg" group-title="VOD - DRAMA",Adventureland (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098256.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las Aventuras de Dally y Spanky (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeZvmH2KKu2XJb0gtD1ycXboq2K.jpg" group-title="VOD - DRAMA",Las Aventuras de Dally y Spanky (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098257.mkv
-#EXTINF:-1 tvg-id="" tvg-name="After: Aquí empieza todo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kZxlS9vLExy3hZA5GfNFg8oJgZ.jpg" group-title="VOD - DRAMA",After: Aquí empieza todo (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098258.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amenaza en las sombras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kuxt9R5zoKnBGcCRHOSqJNYcR.jpg" group-title="VOD - DRAMA",Amenaza en las sombras (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098260.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ahora soy rico (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Pt7CZCFdedQM9KOjgmrqZf5o0M.jpg" group-title="VOD - DRAMA",Ahora soy rico (1952)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Akelarre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZmlEn9fBR6syM5JNmiUoiYhXov.jpg" group-title="VOD - DRAMA",Akelarre (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098262.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Kid Like Jake (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb0lsEUyytspi7fo1ggDybRvZVK.jpg" group-title="VOD - DRAMA",A Kid Like Jake (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AK vs AK (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs71n92m2l04eaHmylI96A50b2K.jpg" group-title="VOD - DRAMA",AK vs AK (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A la deriva (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngUwiXuNJVMMNZsLiBjpINAPjOO.jpg" group-title="VOD - DRAMA",A la deriva (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alanis (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EbrzkkdkgK43rhtdUyjzFLxW5r.jpg" group-title="VOD - DRAMA",Alanis (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098266.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alba (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BBGo2f4RwICEPsQGpchoVx31KL.jpg" group-title="VOD - DRAMA",Alba (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098267.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alex y yo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BBQtDs2yKB7Z9nXNUBB2B6DcU2.jpg" group-title="VOD - DRAMA",Alex y yo (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alex Winter (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ovGfMBQFt8ZE5mc41LrHF4bjGb.jpg" group-title="VOD - DRAMA",Alex Winter (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098269.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Al final del túnel (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6qrI5irqqDS7Pt1WjNVe6vbYHG.jpg" group-title="VOD - DRAMA",Al final del túnel (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098270.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Algunas bestias (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLNrsXHvT1U24EQeVTCPwmsYKwu.jpg" group-title="VOD - DRAMA",Algunas bestias (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098271.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ali y Nino (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szoXJ5rVXwWc11Tmj1bV8JWr4Ac.jpg" group-title="VOD - DRAMA",Ali y Nino (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098272.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXEwfIfaJfB2CrQ7JKjjuJjWeis.jpg" group-title="VOD - DRAMA",Alive (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098273.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alles ist gut (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52OQbhQnwgcxhOO8bz7cCh1L8r1.jpg" group-title="VOD - DRAMA",Alles ist gut (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098274.mkv
-#EXTINF:-1 tvg-id="" tvg-name="All Eyez on Me (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg" group-title="VOD - DRAMA",All Eyez on Me (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098275.mkv
-#EXTINF:-1 tvg-id="" tvg-name="All Saints (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM4N0gInaPkrPOHjCeqeGxaieP2.jpg" group-title="VOD - DRAMA",All Saints (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098276.mkv
-#EXTINF:-1 tvg-id="" tvg-name="All These Small Moments (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD19gYjvbOV5H6BkapVTpuNJ7aJ.jpg" group-title="VOD - DRAMA",All These Small Moments (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098277.mkv
-#EXTINF:-1 tvg-id="" tvg-name="All the Way (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4AEurmnYoRsA1nHhRK9AE4j2CL.jpg" group-title="VOD - DRAMA",All the Way (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098278.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Allure (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cQ4k9PN29QSwzf6BAmhAfF94gT.jpg" group-title="VOD - DRAMA",Allure (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098279.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amador (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMyk28pbvnFw1IMt3j6zGPRY1zi.jpg" group-title="VOD - DRAMA",Amador (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098280.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amalia, la secretaria (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4qbrUh7vXBXpgd0jOO46k1WJTy.jpg" group-title="VOD - DRAMA",Amalia, la secretaria (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098281.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyMtH3LYpYMsvy3rJxhtLpvUyoJ.jpg" group-title="VOD - DRAMA",Amar (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098282.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amar te duele (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEuC4x0yweIYIaNELdnNeUh0893.jpg" group-title="VOD - DRAMA",Amar te duele (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098283.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amber and Grace (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oHxWo1VkKy0Ict83XRzKDJDXN4.jpg" group-title="VOD - DRAMA",Amber and Grace (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098284.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amelie (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYvUib00miJWxWkiXhy3QnrCj96.jpg" group-title="VOD - DRAMA",Amelie (2001)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098285.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American animals (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg" group-title="VOD - DRAMA",American animals (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098286.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Curiosidad estadounidense (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pb3ZAGp2V9z7lDXRQk4MeOsXlL.jpg" group-title="VOD - DRAMA",Curiosidad estadounidense (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098287.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Americano (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67IURaphSVOSqkMRXUKf6cMF7bp.jpg" group-title="VOD - DRAMA",Americano (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098288.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Psycho (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ddHhfMlZHZCefHDeaP8FzSoH4Y.jpg" group-title="VOD - DRAMA",American Psycho (2000)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Son (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEIlxhIyFsia7yCqbfD4UH8iIkN.jpg" group-title="VOD - DRAMA",American Son (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098290.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Woman (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfHzFvjjmbMQhqOpcs6gnG8Mbxx.jpg" group-title="VOD - DRAMA",American Woman (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098291.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Wrestler: Luchando Por Un Sueño (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kslgEWZQQFJKUwvVcdnU7GYs663.jpg" group-title="VOD - DRAMA",American Wrestler: Luchando Por Un Sueño (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098292.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amigo D (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af7bRkeTXZI3oIcdlTWB7sK29FR.jpg" group-title="VOD - DRAMA",Amigo D (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098293.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amistad (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af7bRkeTXZI3oIcdlTWB7sK29FR.jpg" group-title="VOD - DRAMA",Amistad (1997)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098294.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor a media noche (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af7bRkeTXZI3oIcdlTWB7sK29FR.jpg" group-title="VOD - DRAMA",Amor a media noche (1953)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098295.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Juliet, desnuda (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8GRMGDB1yvVOMINsyo2WckkQSf.jpg" group-title="VOD - DRAMA",Juliet, desnuda (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098296.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amores modernos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8GRMGDB1yvVOMINsyo2WckkQSf.jpg" group-title="VOD - DRAMA",Amores modernos (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098297.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor Mutante (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8GRMGDB1yvVOMINsyo2WckkQSf.jpg" group-title="VOD - DRAMA",Amor Mutante (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098298.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Moving Romance (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8GRMGDB1yvVOMINsyo2WckkQSf.jpg" group-title="VOD - DRAMA",A Moving Romance (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098299.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ana (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8GRMGDB1yvVOMINsyo2WckkQSf.jpg" group-title="VOD - DRAMA",Ana (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098300.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anastasia (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8GRMGDB1yvVOMINsyo2WckkQSf.jpg" group-title="VOD - DRAMA",Anastasia (1997)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098301.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anastasia: Once Upon a Time (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9R5lpmJ77kRcx4agxc3oIzN1C.jpg" group-title="VOD - DRAMA",Anastasia: Once Upon a Time (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098302.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ana y Bruno (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9R5lpmJ77kRcx4agxc3oIzN1C.jpg" group-title="VOD - DRAMA",Ana y Bruno (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098303.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Andrés lee i escribe (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9R5lpmJ77kRcx4agxc3oIzN1C.jpg" group-title="VOD - DRAMA",Andrés lee i escribe (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098304.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Angélica (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9R5lpmJ77kRcx4agxc3oIzN1C.jpg" group-title="VOD - DRAMA",Angélica (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098305.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anna Karenina (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9R5lpmJ77kRcx4agxc3oIzN1C.jpg" group-title="VOD - DRAMA",Anna Karenina (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098306.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Año cero (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9R5lpmJ77kRcx4agxc3oIzN1C.jpg" group-title="VOD - DRAMA",Año cero (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098307.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anomalisa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg" group-title="VOD - DRAMA",Anomalisa (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098308.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anonymous (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zou75ED0SkTWFo6qNxsnER118u0.jpg" group-title="VOD - DRAMA",Anonymous (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Antes Que Cante el Gallo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiz3NETRaHb4yyvQgxu020rt0kW.jpg" group-title="VOD - DRAMA",Antes Que Cante el Gallo (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Antwone Fisher (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9lCK1aFXqMO3hzhGiqCNU8coIX.jpg" group-title="VOD - DRAMA",Antwone Fisher (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098311.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anything (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGpEEaVvJl2y9MTASee8fgRVBTn.jpg" group-title="VOD - DRAMA",Anything (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098312.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A orillas del mar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHWR6yrClB83L4fPRhLjkysKfnc.jpg" group-title="VOD - DRAMA",A orillas del mar (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098313.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apego (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmhn45mZpNAHPTvRVBnzWxOelPO.jpg" group-title="VOD - DRAMA",Apego (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098314.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apocalypto (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uicE9fuoLjcd7YyVuzqYvhK6wpt.jpg" group-title="VOD - DRAMA",Apocalypto (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098315.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apolo 13 (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyHoI6hEd6uO8BpZwgQ9z5w2w.jpg" group-title="VOD - DRAMA",Apolo 13 (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098316.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apóyate en Mí (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nkOlcHudz0QTizANn30NK3lilx.jpg" group-title="VOD - DRAMA",Apóyate en Mí (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098317.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rumbo a lo desconocido (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9H7Ppy8plY0sD9cxOhWtv2Fmwr.jpg" group-title="VOD - DRAMA",Rumbo a lo desconocido (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098318.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Asuntos familiares (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9aTkvvvBA8RMh2dmISMhbRkcZE.jpg" group-title="VOD - DRAMA",Asuntos familiares (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098319.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aquarius (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4BA2Kkp1x82FP4pQZWXcpCCjiI.jpg" group-title="VOD - DRAMA",Aquarius (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098320.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Question of Faith (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvq97E44ts0bEZUWFlDdhAATTed.jpg" group-title="VOD - DRAMA",A Question of Faith (2000)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098321.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aquí no ha pasado nada (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sltBvNQGWY3Jnpecy4kbRxJ17v5.jpg" group-title="VOD - DRAMA",Aquí no ha pasado nada (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aquí y ahora (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25opobdOjE8ODMvuuT3KZaMnOZx.jpg" group-title="VOD - DRAMA",Aquí y ahora (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098323.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Araña (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HhUCxEj07NUP2VagllIbvW5sf2.jpg" group-title="VOD - DRAMA",Araña (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098324.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ártico (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuhXR5rYiHf5soWL8jZSw6AqGr.jpg" group-title="VOD - DRAMA",Ártico (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098325.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Argo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0ZJJpsqzrcMT94MXFl3artAd33.jpg" group-title="VOD - DRAMA",Argo (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A rienda suelta (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puLIpL9LZEw0CmPO9Y1GYbexazJ.jpg" group-title="VOD - DRAMA",A rienda suelta (1989)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098327.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rising Tide (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - DRAMA",Rising Tide (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098328.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Royal Winter (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxeJQe4lcW8AzDrRjzixOrlmihv.jpg" group-title="VOD - DRAMA",A Royal Winter (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098329.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arpón (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCuKEZcZ1WGjHZacwAveyahzJBj.jpg" group-title="VOD - DRAMA",Arpón (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098330.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ajuste de cuentas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9JXmVg42jaEB2zuIQ9zHCbZNyy.jpg" group-title="VOD - DRAMA",Ajuste de cuentas (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098331.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Asfixia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i43dCgjBcQbxBFo1cNSekDP9f4b.jpg" group-title="VOD - DRAMA",Asfixia (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098332.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así Crecí (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vimcNOoguDm8rAMvYZRTbqJY1Op.jpg" group-title="VOD - DRAMA",Así Crecí (2021)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098333.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así habló el cambista (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUwpZl6QJUFoqkhEcu10Hzbd5Bn.jpg" group-title="VOD - DRAMA",Así habló el cambista (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098334.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Intercambio secreto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHry7ySgyntNMyUPZ9g2FnWN3hf.jpg" group-title="VOD - DRAMA",Intercambio secreto (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pregunta lo que quieras (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0rEtOp6jI7oU6u3m7v1aAOJNQr.jpg" group-title="VOD - DRAMA",Pregunta lo que quieras (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un hijo de Hombre (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw88pKpJ1CaFTbtPMzXh1OriTwh.jpg" group-title="VOD - DRAMA",Un hijo de Hombre (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A cualquier precio (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn4eRVG2749Hqh9v8tbcdLMdd2p.jpg" group-title="VOD - DRAMA",A cualquier precio (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Love at First Sight (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgxWnCUWtxK8roLUOnjhx16E2jq.jpg" group-title="VOD - DRAMA",Love at First Sight (1977)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un hogar en Mitford (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3HG3zE5vLfEdnPoTwvXONbUQRL.jpg" group-title="VOD - DRAMA",Un hogar en Mitford (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Atlantique (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrI5ykxaNh4Vis5Ehwos6Fu768j.jpg" group-title="VOD - DRAMA",Atlantique (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098341.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Atrás hay relámpagos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpl9dWzhXItOB2wV7hHOC8O4AyB.jpg" group-title="VOD - DRAMA",Atrás hay relámpagos (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098342.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Attraction (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIZ2a1rdRjy3Qq0nqTJCSSsGHzk.jpg" group-title="VOD - DRAMA",Attraction (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098343.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Australia (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9umE5IGuLdSTUZb0erveBnmzaS.jpg" group-title="VOD - DRAMA",Australia (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098344.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ava (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg" group-title="VOD - DRAMA",Ava (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098345.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Valentine's Match (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFt5aETu3TnANmS7N6zmZgJL8hh.jpg" group-title="VOD - DRAMA",A Valentine's Match (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098346.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avenge the Crows: The Legend of Loca (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOPbmmUIImw8JmEbbmEIqA4Zkxv.jpg" group-title="VOD - DRAMA",Avenge the Crows: The Legend of Loca (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098347.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Wish for Christmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z81XnaxHJ7LYptef6augvgwake.jpg" group-title="VOD - DRAMA",A Wish for Christmas (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098348.mkv
-#EXTINF:-1 tvg-id="" tvg-name="AWOL (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFEJwxiX6sNJ21DHDUJsJHLYi9.jpg" group-title="VOD - DRAMA",AWOL (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098349.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Babe Ruth (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - DRAMA",Babe Ruth (1991)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098350.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Backdraft 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg" group-title="VOD - DRAMA",Backdraft 2 (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098351.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bad Girl (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZFWPuch66T30qa6xIxHZvPYjdg.jpg" group-title="VOD - DRAMA",Bad Girl (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098352.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bad Impulse (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAYfDGX9jpvhsSP5Bo0FRcBYksz.jpg" group-title="VOD - DRAMA",Bad Impulse (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098353.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Baires (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RAr8NixordvJrk1GFNxNmkxYwn.jpg" group-title="VOD - DRAMA",Baires (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098354.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bajo la rosa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4ELqJSvUTXFyEkZrzQL7WpO41c.jpg" group-title="VOD - DRAMA",Bajo la rosa (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098355.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Balada triste de trompeta (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAQBUmTGOV5ejzkm5FZmMXKaWYf.jpg" group-title="VOD - DRAMA",Balada triste de trompeta (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098356.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bambi (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90Shq6yU7vqXskmZbX2AEf57ddy.jpg" group-title="VOD - DRAMA",Bambi (1942)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098357.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Suburbanos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GRxYizGiMHZTYGxmf8lja3d8Jj.jpg" group-title="VOD - DRAMA",Suburbanos (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098358.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barrabas (1919)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GRxYizGiMHZTYGxmf8lja3d8Jj.jpg" group-title="VOD - DRAMA",Barrabas (1919)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098359.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barracuda (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GRxYizGiMHZTYGxmf8lja3d8Jj.jpg" group-title="VOD - DRAMA",Barracuda (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098360.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Battle (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GRxYizGiMHZTYGxmf8lja3d8Jj.jpg" group-title="VOD - DRAMA",Battle (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098361.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bayoneta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GRxYizGiMHZTYGxmf8lja3d8Jj.jpg" group-title="VOD - DRAMA",Bayoneta (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098362.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beast (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GRxYizGiMHZTYGxmf8lja3d8Jj.jpg" group-title="VOD - DRAMA",Beast (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098363.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beasts of No Nation (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GRxYizGiMHZTYGxmf8lja3d8Jj.jpg" group-title="VOD - DRAMA",Beasts of No Nation (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098364.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beats (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8P13nIvkkizVBzd2RpegsRt5zP.jpg" group-title="VOD - DRAMA",Beats (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098365.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beautiful boy, siempre serás mi hijo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5h41CmLZHApp76D7FQEbRX7Yom.jpg" group-title="VOD - DRAMA",Beautiful boy, siempre serás mi hijo (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098366.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beber de tu sangre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4b6HY7rud6LMO00EatxrJfFaBJV.jpg" group-title="VOD - DRAMA",Beber de tu sangre (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098367.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Becket (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dtStwr3qNqB8gljoiQ6p7JMK6S.jpg" group-title="VOD - DRAMA",Becket (1964)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098368.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Home Before Midnight (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zr58vQYwHUPq0flwKNtLcd8moO.jpg" group-title="VOD - DRAMA",Home Before Midnight (1979)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098369.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Antes de amanecer (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlj6CeLqcbap4babkT9Bqi3vZUe.jpg" group-title="VOD - DRAMA",Antes de amanecer (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098370.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Belmonte (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2Pq3b6sEvYjX1OiyuS0uKUyiMl.jpg" group-title="VOD - DRAMA",Belmonte (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098371.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Belong To Us (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usm1Ysxn73r0HAoSoXSZeHfLs4q.jpg" group-title="VOD - DRAMA",Belong To Us (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098372.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Be Still And Know (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0FsfhjwRryrrAMkqHTUoenEvSJ.jpg" group-title="VOD - DRAMA",Be Still And Know (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098373.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ben-Hur (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBGgyiRfj7poy0BBCGa0kDDRlmf.jpg" group-title="VOD - DRAMA",Ben-Hur (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098374.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ben-Hur (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBGgyiRfj7poy0BBCGa0kDDRlmf.jpg" group-title="VOD - DRAMA",Ben-Hur (1959)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bennett's War (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldfpFnA5VQK5jiYrhREnhxlUgkG.jpg" group-title="VOD - DRAMA",Bennett's War (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098376.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Berlin, Berlin: la novia se fuga (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7dbF4YXX5fMbxisAbQpwwknwa.jpg" group-title="VOD - DRAMA",Berlin, Berlin: la novia se fuga (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098377.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bessie (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kanAZsL3kZwFWRuR6tqLvNrEFco.jpg" group-title="VOD - DRAMA",Bessie (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098378.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Caza bajo el sol (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nybo6597UJuYlKVx1SeoHq4poK.jpg" group-title="VOD - DRAMA",Caza bajo el sol (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098379.mkv
-
-
-#EXTINF:-1 tvg-id="" tvg-name="La tormenta perfecta (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75aRoXgG74D5wbSqEQAYFpFFJ0V.jpg" group-title="VOD - ACCION",La tormenta perfecta (2000)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097977.mkv
-#EXTINF:-1 tvg-id="" tvg-name="the physician" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75aRoXgG74D5wbSqEQAYFpFFJ0V.jpg" group-title="VOD - ACCION",the physician
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097978.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La aventura del Poseidón (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3Ozx85FSgiHZl1LgmxhRMkVTSz.jpg" group-title="VOD - ACCION",La aventura del Poseidón (1972)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097979.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Egipto (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKY3R88Tod1tlj4QfpudqKpXKC0.jpg" group-title="VOD - ACCION",El príncipe de Egipto (1998)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097980.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La princesa prometida (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg" group-title="VOD - ACCION",La princesa prometida (1987)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097981.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El renacido (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3Jh7J5GGMx1lmr7qmynRxOvOK5.jpg" group-title="VOD - ACCION",El renacido (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097982.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elegidos para la gloria (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCM5AF6kaL86aW4udTe22SAqMk6.jpg" group-title="VOD - ACCION",Elegidos para la gloria (1983)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097983.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tesoro del Amazonas (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32vcJ7Fz03cNWGZt8FD75Z9pCO3.jpg" group-title="VOD - ACCION",Tesoro del Amazonas (2003)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097984.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Santo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6l79hqAWJHrJDnDLCeQUZaGr1YD.jpg" group-title="VOD - ACCION",El Santo (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097985.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El rey escorpión: el libro de las almas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fZL6ONUz0o8nvnHpeA8zj3nEvs.jpg" group-title="VOD - ACCION",El rey escorpión: el libro de las almas (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097986.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El rey Escorpión 4: La búsqueda del poder (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg" group-title="VOD - ACCION",El rey Escorpión 4: La búsqueda del poder (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097987.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El rey Escorpión 2: El nacimiento del guerrero (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sifKzZSF0slc353Q3c02YmUTFtF.jpg" group-title="VOD - ACCION",El rey Escorpión 2: El nacimiento del guerrero (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097988.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El jardín secreto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/figneljeYCOBLAyyi1odZxz8h5g.jpg" group-title="VOD - ACCION",El jardín secreto (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097990.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mascotas 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqGsG2uNV9JGgrfODbTafPUukci.jpg" group-title="VOD - ACCION",Mascotas 2 (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097991.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El secreto de la última luna (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaB0Sohz40GMi704CNcUngPKwh0.jpg" group-title="VOD - ACCION",El secreto de la última luna (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097992.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nimh, el mundo secreto de la Sra. Brisby (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knBSHvgA3c48W7QqusHhrF8cfL7.jpg" group-title="VOD - ACCION",Nimh, el mundo secreto de la Sra. Brisby (1982)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097993.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Shallows (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",The Shallows (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097994.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La reina de las nieves en la tierra de los espejos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ilrj2p5GG63nxvtPcVYLoTzBdJ.jpg" group-title="VOD - ACCION",La reina de las nieves en la tierra de los espejos (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097995.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las crónicas de Spiderwick (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhMu6dyNMU711aihDMjKRofJhpY.jpg" group-title="VOD - ACCION",Las crónicas de Spiderwick (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097996.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Spirit (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9qawfzR3LWRC8r8YZ9w2yaQi5W.jpg" group-title="VOD - ACCION",The Spirit (2008)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097997.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inside 'The Spy Who Loved Me' (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LpG4a7pFo0y5YsJ2OP3VYiKuZL.jpg" group-title="VOD - ACCION",Inside 'The Spy Who Loved Me' (2000)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097998.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Stronghold, el gigante de piedra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XPmp8ATUJyl0XmiyHcdGtmhCx2.jpg" group-title="VOD - ACCION",Stronghold, el gigante de piedra (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1097999.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z! (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOtvIOc65gmDdrAk3Eg01oH4gZY.jpg" group-title="VOD - ACCION",Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z! (1993)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098000.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las mil caras de Dunjia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlvGMtVfYyX4hQJhyIuHs3YalsK.jpg" group-title="VOD - ACCION",Las mil caras de Dunjia (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098001.mkv
-
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098002.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Time Machine (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",The Time Machine (1949)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098003.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El camino del guerrero (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkXo3NZhx2cASS1cjMKnsjJ1ftI.jpg" group-title="VOD - ACCION",El camino del guerrero (2010)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098004.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El maestro del agua (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izgxihtqAFM3Z9DGBNXrgCVa2xt.jpg" group-title="VOD - ACCION",El maestro del agua (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098005.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Wizard of Oz (1933)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5sfxM2sDv7SwMh4GAGLgLOSl8R.jpg" group-title="VOD - ACCION",The Wizard of Oz (1933)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098006.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Año uno (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RdmUfWqmt7SnYaBR89NoYTVQZc.jpg" group-title="VOD - ACCION",Año uno (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098008.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shetan, el caballo del desierto (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/earW79xMyzcioZMm7hqpFC75oxn.jpg" group-title="VOD - ACCION",Shetan, el caballo del desierto (2003)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098009.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thomas & Friends: Big World! Big Adventures! The Movie (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cs9S4WDmuwtz8qQu3wC5UqVGhR.jpg" group-title="VOD - ACCION",Thomas & Friends: Big World! Big Adventures! The Movie (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098010.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thor (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfjJLZK9JvflsKM3gVMnX7QJzKJ.jpg" group-title="VOD - UNIVERSO MARVEL",Thor (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098011.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg" group-title="VOD - UNIVERSO MARVEL",Thor: Ragnarok (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098012.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Tales of Asgard (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh8jjEBbL0BEGT3Fy2DKhbE2D58.jpg" group-title="VOD - ACCION",Thor: Tales of Asgard (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098014.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thor: el mundo oscuro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg" group-title="VOD - UNIVERSO MARVEL",Thor: el mundo oscuro (2013)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098015.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aquellos chalados en sus locos cacharros (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KJAF7vY88FILt6QscGLKDFu7Wj.jpg" group-title="VOD - ACCION",Aquellos chalados en sus locos cacharros (1965)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mr. Thunderball (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",Mr. Thunderball (1965)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tigre y dragón 2: La espada del destino (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpL1IFXLqAI9s4RteijCtzQ6s7Z.jpg" group-title="VOD - ACCION",Tigre y dragón 2: La espada del destino (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098018.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Time Trap (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qIBGXM6oXOu3wBYH6QpamXdXuB.jpg" group-title="VOD - ACCION",Time Trap (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098019.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Titán A.E. (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFtHKAqpxRmwyaJydZ7YyK1dzP0.jpg" group-title="VOD - ACCION",Titán A.E. (2000)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El hundimiento del Titanic (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22Fh4UoxP6ejL2IFws76TJ8oYlj.jpg" group-title="VOD - ACCION",El hundimiento del Titanic (1953)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Togo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg" group-title="VOD - ACCION",Togo (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orzPlWUbf0S5HeWmpP3TeHvduwn.jpg" group-title="VOD - ACCION",Tom y Jerry (2021)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098024.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry. El tesoro del galeón pirata (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b964RtitRMbUSwTnv4qdbRzUwug.jpg" group-title="VOD - ACCION",Tom y Jerry. El tesoro del galeón pirata (2006)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098025.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invasores de tumbas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTz0qaYuXIHBAUiwAqJZQxOgWlZ.jpg" group-title="VOD - ACCION",Invasores de tumbas (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098026.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKMrC8fR9exkdykazvuZU3BDfTy.jpg" group-title="VOD - ACCION",Tomb Raider (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tomorrowland 2014 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",Tomorrowland 2014 (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CHIKARA Tomorrow Never Dies (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",CHIKARA Tomorrow Never Dies (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z! (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOtvIOc65gmDdrAk3Eg01oH4gZY.jpg" group-title="VOD - ACCION",Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z! (1993)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098031.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Troya (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rthioP0Xgfl818DJeHcyiHxWHPN.jpg" group-title="VOD - ACCION",Troya (2004)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098032.mkv
-#EXTINF:-1 tvg-id="" tvg-name="UglyDolls: Extraordinariamente Feos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpSUclx8IJ6yrDxG54JSP03JmPq.jpg" group-title="VOD - ACCION",UglyDolls: Extraordinariamente Feos (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="una loca aventura medieval" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpSUclx8IJ6yrDxG54JSP03JmPq.jpg" group-title="VOD - ACCION",una loca aventura medieval
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098034.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Noche en el museo 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KmzAIkylNYJogVUUriELhlyK79.jpg" group-title="VOD - ACCION",Noche en el museo 2 (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098035.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Noche en el museo 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KmzAIkylNYJogVUUriELhlyK79.jpg" group-title="VOD - ACCION",Noche en el museo 2 (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098036.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Noche en el museo 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KmzAIkylNYJogVUUriELhlyK79.jpg" group-title="VOD - ACCION",Noche en el museo 2 (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098037.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un paseo por el bosque (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5wLafcCD4nNtQLKdQLg4rhynEt.jpg" group-title="VOD - ACCION",Un paseo por el bosque (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098039.mkv
-#EXTINF:-1 tvg-id="" tvg-name="upside-down magic 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5wLafcCD4nNtQLKdQLg4rhynEt.jpg" group-title="VOD - ACCION",upside-down magic 2020
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098040.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vacaciones (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFLrSjp8e3ncbJvzM31sDQLw5pG.jpg" group-title="VOD - ACCION",Vacaciones (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098041.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Valley of Bones (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRaOLJumjzBq6xFNZMVZdnKlI0W.jpg" group-title="VOD - ACCION",Valley of Bones (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098042.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Límite vertical (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YH7kCWyJCLSwWBreggNmxvRxzn.jpg" group-title="VOD - ACCION",Límite vertical (2000)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje al centro de la Tierra 2: La isla misteriosa (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAy2yUav8QPnDzfOGihNI527NjY.jpg" group-title="VOD - ACCION",Viaje al centro de la Tierra 2: La isla misteriosa (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098044.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje al centro de la Tierra (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OzZiKbSlycCYxaBvEAU2EwlgP5.jpg" group-title="VOD - ACCION",Viaje al centro de la Tierra (1977)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098045.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ovejas y Lobos: La Hazaña Mágica (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkrBQjrA35wXxUk6WKdiJorWR5a.jpg" group-title="VOD - ACCION",Ovejas y Lobos: La Hazaña Mágica (2019)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098046.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Walking Out (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wK3l4ZfcRXFph6uop7yr7scM2SP.jpg" group-title="VOD - ACCION",Walking Out (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098047.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Warcraft: El origen (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXi7ahEIH8gdVGZ6emjWbg3exrF.jpg" group-title="VOD - ACCION",Warcraft: El origen (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098048.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Warriors of the Rainbow: Seediq Bale (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIOtUX4S65fhntcE8nIXjN8ij54.jpg" group-title="VOD - ACCION",Warriors of the Rainbow: Seediq Bale (2011)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098049.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Waterworld (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKsWkGTEZ93hdQjEWQm5Ns1baDT.jpg" group-title="VOD - ACCION",Waterworld (1995)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098050.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superniños (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AcJFpvxcqjLNADrCNAUYOsIrQP.jpg" group-title="VOD - ACCION",Superniños (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098051.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Welcome to the Jungle (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMh71ZP23oTKtNY1cHNUWH7XMOR.jpg" group-title="VOD - ACCION",Welcome to the Jungle (2007)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098052.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wendy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naFzu4rjzu7FIsXJ6rM76iHFTvg.jpg" group-title="VOD - ACCION",Wendy (2020)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098053.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Where the Wild Things Are (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - ACCION",Where the Wild Things Are (1975)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098054.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vuelve Colmillo Blanco (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51dXdeFjQrf5dPRU220cOroRC9Z.jpg" group-title="VOD - ACCION",Vuelve Colmillo Blanco (1994)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098055.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ralph rompe Internet (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfff5XoLdGQzCt2Nb4ZF6WYNLAq.jpg" group-title="VOD - ACCION",Ralph rompe Internet (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098056.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jugada salvaje (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6j8F7zOwBxpJP5AlVbe1FWx1Cm7.jpg" group-title="VOD - ACCION",Jugada salvaje (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098057.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Willow (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tXkG9r7Lt1w7tmOguJdYcRbyYO.jpg" group-title="VOD - ACCION",Willow (1988)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wings: Sky Force Heroes (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVip6poOTYVwVxZ8WfQdutarjEG.jpg" group-title="VOD - ACCION",Wings: Sky Force Heroes (2014)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098059.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Los magos de Waverly Place: Vacaciones en el Caribe (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFNuFVL1CGrGovO7ja4Hb7hz5F6.jpg" group-title="VOD - ACCION",Los magos de Waverly Place: Vacaciones en el Caribe (2009)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="熊出没之雪岭熊风 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdBdHCSRSdOlupoINRFlRrQNfxO.jpg" group-title="VOD - ACCION",熊出没之雪岭熊风 (2015)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="xXx (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewGhwS8dbAfFDJBEpbsWOuwS4Ov.jpg" group-title="VOD - ACCION",xXx (2002)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098064.mkv
-#EXTINF:-1 tvg-id="" tvg-name="xXx2: Estado de emergencia (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjHfn4YuH3MNMwhfQ9ZphQ3R8yP.jpg" group-title="VOD - ACCION",xXx2: Estado de emergencia (2005)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="xXx: Reactivated (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc830XBY2h8HBtHeISpR9qb2PU6.jpg" group-title="VOD - ACCION",xXx: Reactivated (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098066.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yanka y el espíritu del volcán (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1JVWhnjuvS3HTTh9oo5rGwLw6m.jpg" group-title="VOD - ACCION",Yanka y el espíritu del volcán (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yo Soy Pepito (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x72byZ2sfGfy8Z21bKlleWRUgq6.jpg" group-title="VOD - ACCION",Yo Soy Pepito (2018)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098068.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inside 'You Only Live Twice' (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phlZz3iuUmGnRoxe9AN8zN7jHwi.jpg" group-title="VOD - ACCION",Inside 'You Only Live Twice' (2000)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zarafa (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vJZzASME7DEQeHMdYZ7tYzvIe1.jpg" group-title="VOD - ACCION",Zarafa (2012)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardianes (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuWtgYKs9EsKQHIv3mJTBbFZddi.jpg" group-title="VOD - ACCION",Guardianes (2017)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098071.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zathura: Una aventura espacial (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svCwqsP9UDr14fYDLawJfDgEsSD.jpg" group-title="VOD - ACCION",Zathura: Una aventura espacial (2005)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098072.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zipi Y Zape y la isla del capitán (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itBqyhOuyMitRIEXdWerRIvojRx.jpg" group-title="VOD - ACCION",Zipi Y Zape y la isla del capitán (2016)
-http://tv.fullytv.com:8080/movie/pulgas/pata/1098073.mkv
-
-
-series----------
----------------
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50CKQvJWbf5YFaVSfrq5imwZs1q.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E01
-http://tv.fullytv.com:8080/series/pulgas/pata/1145072.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LEAI056kA38MvY4qzCWvvIATrt.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E02
-http://tv.fullytv.com:8080/series/pulgas/pata/1145073.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1DtLWohynR3RNgfRUQczt9uATY.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E03
-http://tv.fullytv.com:8080/series/pulgas/pata/1145074.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cgxnLU4BKSRnZLKj7BhRbWzuxQp.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E04
-http://tv.fullytv.com:8080/series/pulgas/pata/1146002.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/bAwugUknyAE3EnCYRfscg7aHo5v.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E05
-http://tv.fullytv.com:8080/series/pulgas/pata/1146349.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/jqUQ8JbzfaMJnbnHbqA84D8V6Sd.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E06
-http://tv.fullytv.com:8080/series/pulgas/pata/1146867.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/qgzbR35agVG1pB4VSDBdk3ZBf6.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E07
-http://tv.fullytv.com:8080/series/pulgas/pata/1147328.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Urban Legend S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/4QyRI3nUKB5hWuC81bEvqEbxiNx.jpg" group-title="SERIES - SUSPENSO",Urban Legend S01 E08
-http://tv.fullytv.com:8080/series/pulgas/pata/1147329.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzlqDti0LrO5FKECZN3rxbhtIdZ.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E01
-http://tv.fullytv.com:8080/series/pulgas/pata/1145144.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgolBNQ3qWbWVKEvuiABDEtslvS.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E02
-http://tv.fullytv.com:8080/series/pulgas/pata/1145145.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT2cYx4PdbDOZSgn1FOwLoj9Ixn.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E03
-http://tv.fullytv.com:8080/series/pulgas/pata/1145146.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxc7NMihQTmUmk3sdJp8cbYbOiN.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E04
-http://tv.fullytv.com:8080/series/pulgas/pata/1145147.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BFoNsfcvj0j4U0bRCaO26eHvQj.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E05
-http://tv.fullytv.com:8080/series/pulgas/pata/1145148.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK39HfDf05hQbbsixWv4Og4LArF.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E06
-http://tv.fullytv.com:8080/series/pulgas/pata/1145149.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wX3ydfrhU9Hee5JhAcL9UzvkXR.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E07
-http://tv.fullytv.com:8080/series/pulgas/pata/1145150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La novia gitana S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsMS7dcaqmUodHA9vnNm6E35iKy.jpg" group-title="SERIES - CRIMEN",La novia gitana S01 E08
-http://tv.fullytv.com:8080/series/pulgas/pata/1145151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI0DEiPmO9A2PGIAQ4YYCkGf3fh.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E01
-http://tv.fullytv.com:8080/series/pulgas/pata/1145333.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmjMR2eykpUTPiJdZyhOsg5QwPW.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E02
-http://tv.fullytv.com:8080/series/pulgas/pata/1145334.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5plgzskoTkXC1kuHb5Neehh3GZY.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E03
-http://tv.fullytv.com:8080/series/pulgas/pata/1145335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrpSmKHoY5O7poSAjdjgMWXMt8I.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E04
-http://tv.fullytv.com:8080/series/pulgas/pata/1145336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB7UMBHWOSXVMJDTknZI5Veyb8s.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E05
-http://tv.fullytv.com:8080/series/pulgas/pata/1145337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndXL88MxndvROXjiEdbdBAiHXg1.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E06
-http://tv.fullytv.com:8080/series/pulgas/pata/1145338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3Evm7CxhaTxZAXkjm6Gj3ML2qr.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E07
-http://tv.fullytv.com:8080/series/pulgas/pata/1145339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1899 S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gdW382UCMOjMKlfYi9XzCpHHZY.jpg" group-title="SERIES - CIENCIA FICCION",1899 S01 E08
-http://tv.fullytv.com:8080/series/pulgas/pata/1145340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbKu5AwKXLhzqvWuEKAisokeJ4v.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E01
-http://tv.fullytv.com:8080/series/pulgas/pata/1145507.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PuvPV36Ls5NXMJzVSz22LrD7E3.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E02
-http://tv.fullytv.com:8080/series/pulgas/pata/1145508.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsvCAONp2pSz0gF55TdN7wkR8TQ.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E03
-http://tv.fullytv.com:8080/series/pulgas/pata/1145509.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uVOt9WIfiErBXoa0zzNpbI5NHB.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E04
-http://tv.fullytv.com:8080/series/pulgas/pata/1145510.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1E43XtcAkn9ikdVj4E3NKtcTJQh.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E05
-http://tv.fullytv.com:8080/series/pulgas/pata/1145511.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S2teXTb9Kudv0CpIDMjocmzH1x.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E06
-http://tv.fullytv.com:8080/series/pulgas/pata/1145512.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijPTLSfR8s0VPt3AlmzwIcTM3j1.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E07
-http://tv.fullytv.com:8080/series/pulgas/pata/1145513.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1yt0NvjOPNYNNEbQTFWKtwiEUm.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E08
-http://tv.fullytv.com:8080/series/pulgas/pata/1145514.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wYcFWYpOgUQemirFdDNJDgZg8X.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E09
-http://tv.fullytv.com:8080/series/pulgas/pata/1145515.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZOPdjXxo0xSGnmj4MmjhfWbvsy.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S01 E10
-http://tv.fullytv.com:8080/series/pulgas/pata/1145516.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E01
-http://tv.fullytv.com:8080/series/pulgas/pata/1145517.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E02
-http://tv.fullytv.com:8080/series/pulgas/pata/1145518.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E03
-http://tv.fullytv.com:8080/series/pulgas/pata/1145519.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E04
-http://tv.fullytv.com:8080/series/pulgas/pata/1145520.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E05
-http://tv.fullytv.com:8080/series/pulgas/pata/1145521.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E06
-http://tv.fullytv.com:8080/series/pulgas/pata/1145522.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E07
-http://tv.fullytv.com:8080/series/pulgas/pata/1145523.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultrasecretos S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg" group-title="SERIES - ANIMACION",Ultrasecretos S02 E08
-http://tv.fullytv.com:8080/series/pulgas/pata/1145524.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gNX24yBpKRD4J1x9fTLIUfwYPP.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E01
-http://tv.fullytv.com:8080/series/pulgas/pata/1145824.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qFPulSwVuzAcr2cyyeB6wyWzTe.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E02
-http://tv.fullytv.com:8080/series/pulgas/pata/1145825.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY1Y9RToolTAg7NycxLonHeSIyd.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E03
-http://tv.fullytv.com:8080/series/pulgas/pata/1145826.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kU03n4MKinL9ByiZxXsrCItSPOv.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E04
-http://tv.fullytv.com:8080/series/pulgas/pata/1145827.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9uVJB2nUhLFkeB4yvDbSbwgiZS.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E05
-http://tv.fullytv.com:8080/series/pulgas/pata/1145828.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin límites con Chris Hemsworth S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuDy9dmubXH9agVTPV7KV2gEB5.jpg" group-title="SERIES - DOCUMENTALES",Sin límites con Chris Hemsworth S01 E06
-http://tv.fullytv.com:8080/series/pulgas/pata/1145829.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Jd09TeCEGmGAtO6R09la7UZ9BT.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E01
-http://tv.fullytv.com:8080/series/pulgas/pata/1145830.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sek2dSV0eWDsKkKuqqGiD6pp4jJ.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E02
-http://tv.fullytv.com:8080/series/pulgas/pata/1145831.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdWpN3KqYFGBdMD7jEVe2o395XG.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E03
-http://tv.fullytv.com:8080/series/pulgas/pata/1145832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAIyda6Tsmm0O4jDBfCLK39NZi3.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E04
-http://tv.fullytv.com:8080/series/pulgas/pata/1145833.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WZaVPQe7IrPJOeFAH9QOeXVIyY.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E05
-http://tv.fullytv.com:8080/series/pulgas/pata/1145834.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Jr1M9qJTlsS5U95jUNEnnYHFdn.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E06
-http://tv.fullytv.com:8080/series/pulgas/pata/1145835.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LdtFJ1strlUTMIPRkhTIk9B3jG.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E07
-http://tv.fullytv.com:8080/series/pulgas/pata/1145836.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡No interrumpas, gallinita! S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Jr1M9qJTlsS5U95jUNEnnYHFdn.jpg" group-title="SERIES - ANIMACION",¡No interrumpas, gallinita! S01 E08
-http://tv.fullytv.com:8080/series/pulgas/pata/1145837.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umJGl9UqTtiICqsho7U3FK3O44y.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E01
-http://tv.fullytv.com:8080/series/pulgas/pata/1145838.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhAMySMD9e7E9mocL4X4pUo5Y6H.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E02
-http://tv.fullytv.com:8080/series/pulgas/pata/1145839.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phRFVKxWM08VHpzYq3VJ916kHIt.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E03
-http://tv.fullytv.com:8080/series/pulgas/pata/1145840.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7uHothPVEz2UViIIRPSPpWKBLp.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E04
-http://tv.fullytv.com:8080/series/pulgas/pata/1145841.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlZMOEt0pouwe6Ooxp2FxoZH7AH.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E05
-http://tv.fullytv.com:8080/series/pulgas/pata/1145842.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Our Universe S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vohfpE8HkrhRqi0qF2vFOPsPzAw.jpg" group-title="SERIES - DOCUMENTALES",Our Universe S01 E06
-http://tv.fullytv.com:8080/series/pulgas/pata/1145843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afYeSp6a8cNzqe6RIbxLQPZukeS.jpg" group-title="SERIES - DRAMA",El primer amor S01 E01
-http://tv.fullytv.com:8080/series/pulgas/pata/1146018.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYSKlWR0Xx3uNrCAG1lBjJjeGUl.jpg" group-title="SERIES - DRAMA",El primer amor S01 E02
-http://tv.fullytv.com:8080/series/pulgas/pata/1146019.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghI6gwzLNQLyfHLTaJBe9Y3QqBB.jpg" group-title="SERIES - DRAMA",El primer amor S01 E03
-http://tv.fullytv.com:8080/series/pulgas/pata/1146020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7HZvUSkkCl9aY0LQZYLN8ehhgJ.jpg" group-title="SERIES - DRAMA",El primer amor S01 E04
-http://tv.fullytv.com:8080/series/pulgas/pata/1146021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYJP33IbsjpLvYhA5G0suGj4irF.jpg" group-title="SERIES - DRAMA",El primer amor S01 E05
-http://tv.fullytv.com:8080/series/pulgas/pata/1146022.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8nK1yZgS6ONhAqpsa0eHErUfgP.jpg" group-title="SERIES - DRAMA",El primer amor S01 E06
-http://tv.fullytv.com:8080/series/pulgas/pata/1146023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QqgWz44Pd7wQ1Wy1SZGZZDYxrp.jpg" group-title="SERIES - DRAMA",El primer amor S01 E07
-http://tv.fullytv.com:8080/series/pulgas/pata/1146024.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8eKHXenDKDhHC4gEtbLBE6kWVR.jpg" group-title="SERIES - DRAMA",El primer amor S01 E08
-http://tv.fullytv.com:8080/series/pulgas/pata/1146025.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El primer amor S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcsesD9EWxkeNcyJE3Mn8oArwAO.jpg" group-title="SERIES - DRAMA",El primer amor S01 E09
-http://tv.fullytv.com:8080/series/pulgas/pata/1146026.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jn2Jrd8cVPwNtcQ3zG2pJxieO7S.jpg" group-title="SERIES - COMEDIA",Reboot S01 E01
-http://tv.fullytv.com:8080/series/pulgas/pata/1146027.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k53iScQuo8msMHXg5UJVFLTlAnu.jpg" group-title="SERIES - COMEDIA",Reboot S01 E02
-http://tv.fullytv.com:8080/series/pulgas/pata/1146028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MvftdMUEEePauALEN9NYc3BY29.jpg" group-title="SERIES - COMEDIA",Reboot S01 E03
-http://tv.fullytv.com:8080/series/pulgas/pata/1146029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QoJs3BlAbBdmVHvqp5aTdu3v0p.jpg" group-title="SERIES - COMEDIA",Reboot S01 E04
-http://tv.fullytv.com:8080/series/pulgas/pata/1146030.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRQx7DBSdxDKEd02bFmsfVnYsCH.jpg" group-title="SERIES - COMEDIA",Reboot S01 E05
-http://tv.fullytv.com:8080/series/pulgas/pata/1146031.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jUcI9wvETtl4jrAjBs3QesmOL9.jpg" group-title="SERIES - COMEDIA",Reboot S01 E06
-http://tv.fullytv.com:8080/series/pulgas/pata/1146032.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtONUT6fbk38E9PWtWNP2TLGQBT.jpg" group-title="SERIES - COMEDIA",Reboot S01 E07
-http://tv.fullytv.com:8080/series/pulgas/pata/1146033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reboot S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHqioWMijHijbeUHfvDXnlWByEv.jpg" group-title="SERIES - COMEDIA",Reboot S01 E08
-http://tv.fullytv.com:8080/series/pulgas/pata/1146034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cómo me convertí en un gánster (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84JWa14bpzgSfbmpssQ5GbuJYJS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Cómo me convertí en un gánster (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De Piraten van Hiernaast II: De Ninja's van de Overkant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byW5Z18EUvxwuqwaDtgDq8ymshz.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",De Piraten van Hiernaast II: De Ninja's van de Overkant (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Disconnect: The Wedding Planner (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoB5pA88k1s9e8HXWDj5JHOF3ZV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Disconnect: The Wedding Planner (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El asesino perfecto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d73gCCREHfwqmKK4a1VFuF8UowN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El asesino perfecto (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Franklin, historia de un billete (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfvbHUjkwmrZvT1NxzroCalArb1.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Franklin, historia de un billete (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devotion. Una historia de héroes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMAWgK9Z3C2L0MaI17VqwdZi8bJ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Devotion. Una historia de héroes (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juntos, pero no revueltos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMPtJVRonWXOWYN9cNmlje6YcN6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Juntos, pero no revueltos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La generación del mal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJO0ackp7uURDMNSg6tArjYGBh6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La generación del mal (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La novia de América (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqkLIXRN8coLriu1Ji3U74EbxUV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La novia de América (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Libéranos del mal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovgNfybarNvW6feJUch0afO73Bx.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Libéranos del mal (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Objetos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejijnP0sOr4Fgxo5CYWT6rz3ZdG.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Objetos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perro perdido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNhYiYibl5tfisoVcJuLhR2iaLX.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Perro perdido (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Renegades (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QvhJsoFbcWsrY0iXGhZTKQaQAr.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Renegades (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVpYUUPVBpGuuJnXjNfM5EKPD1c.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ruido (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sick (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JWl9GQvojEs4EghENHvUAQE9Oz.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sick (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sinjar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ggy6BQjJULTMdPamgxKbHF79vz.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sinjar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una historia de amor italiana (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDUwR5cQoydXwfejQBH42Yemyfj.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una historia de amor italiana (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todos me odian (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keWmHf7oMfg2C1HCvESPPflCJry.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Todos me odian (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M3GAN (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nODj4huoOcHwCQnfhZFCqUYcInU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",M3GAN (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE FILM RED (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ovEtMHpv1UKDJB6Wq69DB4q8xG.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",ONE PIECE FILM RED (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Old Way (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Old Way (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chloe (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VC7Q7GvIhEECIU3fiaRf71mxV6.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Chloe (2010)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159548.avi
+#EXTINF:-1 tvg-id="" tvg-name="Antes del después" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJnrjcGNJCKuMjmc4yvEvAhIN9t.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Antes del después
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo sospecha (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYmpdVz8AZ6KFoXWshs95UxuXXw.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Bajo sospecha (1982)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinco minutos de gloria (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOTVnQdOOFi9V2NbaP8ja23YesW.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Cinco minutos de gloria (2009)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El charlatán (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuOIgrf8OsEBddffIbvqIl7J9IQ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El charlatán (1992)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blanco perfecto (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utGca5Vur9mSrDeH9kBrgByO58F.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Blanco perfecto (2000)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Krull (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPDKgKDlhcmDvd3alaK9t0hucrz.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Krull (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los miserables (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXjnlTE4pMa8p8HQThor8r9VMBz.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los miserables (1998)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los próximos tres días (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9hzEgM3KJRFLHwEBbz4YZjpV6y.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los próximos tres días (2010)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Michael Collins (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brIBbU6t9glEGAKRTJ4PMj9OiDC.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Michael Collins (1996)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resplandor en la oscuridad (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tsaJ0YuBzPF0dXf4Y8eLedi9gu.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Resplandor en la oscuridad (1992)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruby Cairo (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9hKNJjn45uip3R9H5a5BQLnTBk.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Ruby Cairo (1992)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159559.avi
+#EXTINF:-1 tvg-id="" tvg-name="Sospechoso (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL79lrrMgRZO21otWbTTiljufeU.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Sospechoso (1987)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Holy Spider (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqgGxpvU6udAeOW7ni11Syw8K65.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Holy Spider (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El acusado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RliNX0yRKybaw8MfmzjL55olcB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El acusado (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En el filo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPw8R7LQzW1tHz82PqfyNaYDe8H.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",En el filo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="House Party (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKovzRJWz4brwxogYH8vaIoMOeU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",House Party (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Buscamundos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqLhRxIjBbWG83PLcQWUGd1gNF3.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los Buscamundos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rock'n'Roll Eddie (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pdGqKWZ5OMt9kCJH6356cSstLq.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Rock'n'Roll Eddie (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El inocente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKJrsWzHupuJ7Yvc0cekkW21rg4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El inocente (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un arduo camino (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aScxDDfmekuoNvq9tQgyAdpFRu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un arduo camino (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Training Day (Día de entrenamiento) (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wta5WYJSil8SMt6yhxZCDnCncTq.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Training Day (Día de entrenamiento) (2001)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Titanes, hicieron historia (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh9fyi0pEpsY1vli8b0myyqRuJ2.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Titanes, hicieron historia (2000)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El fuego de la venganza (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nsl1f7qLoe3ZGbb5kvhQQWBRx3.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",El fuego de la venganza (2004)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The equalizer (El protector) (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hqn3WfEEdgQ5LW81XQiQUioD3q.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",The equalizer (El protector) (2014)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El niño delfín (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3su4upgnuk2CrOVdJLrS5juPDVm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El niño delfín (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El fundador (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpqzcMNU3idAlTR9r9DIPaw0bgc.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El fundador (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El insulto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umt1Ia1TcSgUugNEurgziqRqO1R.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El insulto (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="罪後真相 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaXlIdfqaIxkDpU5nqLVkiCIYas.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",罪後真相 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Farha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qQUPI6LjNZrPk0bdyAo5GN3A5n.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Farha (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El arponero (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WdKHuhAPG3w48K26UhO3sGZi3S.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El arponero (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunt. Caza al espía (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zI0rMYcSUx16pHnsegWExPf1kDF.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Hunt. Caza al espía (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inspector Araña (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGp9ghdIcw74K2VJ1Godcsb9MQo.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Inspector Araña (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JUNG_E (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYnp9vNPdJiCU0SIisWdA3VIGNB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",JUNG_E (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La forja de un campeón (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grjCm3K0eWgNT7gHsE766oXs0VW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La forja de un campeón (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Life Is Beautiful (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZG6SMsRij6MHeRa9wjUAxneDei.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Life Is Beautiful (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narvik (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gU4mmINWUF294Wzi8mqRvi6peMe.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Narvik (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Play Dead (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5bwT8fuE6VIaOslRezwDiL2DxK.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Play Dead (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="T2 Trainspotting (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JDNhLNN4qxov7O0pI5xDQbtFRO.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",T2 Trainspotting (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transfusion (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Transfusion (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al descubierto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22HfSfCJvD7UKupDM79wYl4PbAx.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Al descubierto (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En cuerpo y alma (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guvaZf8lbh9BfrX83dM8WLJELvq.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",En cuerpo y alma (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hell Dogs (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDpZ2PUgIVkURrgKR4aFUBXlu8m.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Hell Dogs (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="London Fields (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OfQVm5GexlAREp8FoR4ILxp35T.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",London Fields (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pacifiction (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UnJeEbNdJTbnta873ggrKnlGOn.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Pacifiction (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plaza Catedral (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Z6wvj4QLdkgHP9bPIWcry8eMFf.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Plaza Catedral (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Purasangre (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnApVRDjMChIytsjGipQtOE66sa.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Purasangre (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abrázame fuerte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLk6xbkKGyIKdqBLL5KzjYlfXAs.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Abrázame fuerte (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sorry We Missed You (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAoc7qOhbmxG2PHd6L0rmZ7Qc2n.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Sorry We Missed You (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Drop (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLQ674ObzFnyxNb6vcofEEbLHZ4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Drop (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una herencia de muerte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ympzlpDXR8xpg3RIIPvFjybzzSN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una herencia de muerte (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un sol interior (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VX98UJbH4Kd4suhcNNdR5lBmNE.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Un sol interior (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darby y los espíritus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6de6xJIJnnsyAqtxL603JKy1PG.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Darby y los espíritus (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDl1LxSe6ulL81VUAwi2651GWy1.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Greta (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mientras dure la guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FjfGLlanl6fhdJCapZ75pYURSK.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Mientras dure la guerra (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Serbis (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJXdfE1VTYQFLvljHIzAWulQyXD.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Serbis (2008)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un amor intranquilo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AKDGyQ45sjCTSqZ66It9qN6AtB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un amor intranquilo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A.I. Rising (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXosp6MFBxYi4m6ZmE4u1auReHc.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",A.I. Rising (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Danton (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/R6oVP5RTqYEXe9lNxxPTWSOlZp.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Danton (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El amante doble (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f62GQyQihFMJcR9e9UK9n0tHDRf.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El amante doble (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hemel (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9ZasMEcjaRB32CCqurSy1vh13s.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Hemel (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horizontes de grandeza (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zAsFaOvRBcWI2cIsPFS7xdphLW.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Horizontes de grandeza (1958)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clip (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHlJrDrHwKbaZVm0Pq6vPY3PERr.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Clip (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La criada (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWDPNgJe5cMfNEYIimDYirUs132.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La criada (2010)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La religiosa (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1j5UzLc9VkM1H6mbLAdyiBLzwnE.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La religiosa (1966)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quo Vadis, Aida? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmJYdxAJJpjGxOKSjXr0qNZmtw0.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Quo Vadis, Aida? (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rojos (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxZGjqCg3EhOuqgKq4UxX5DEpJr.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Rojos (1981)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Duke of Burgundy (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot15fu9Z4hKZjYbPKTLkgqmdEuh.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",The Duke of Burgundy (2014)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un asunto real (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccZftyf5wPfHxNi1pdRZ36zR2a.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Un asunto real (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caribe Todo Incluido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2uJnDL5tGRrSpxxJXZtuRhM9mY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Caribe Todo Incluido (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como el buen vino (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1YyaPqZjqptIo8d3nat6bRvlZv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Como el buen vino (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El vasco (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioWDr1uYJAxg90FuVoT0X7h4JQc.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El vasco (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Desire (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHVz2ME3HXn6vS7fHfugSudEsWX.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Hotel Desire (2011)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159637.avi
+#EXTINF:-1 tvg-id="" tvg-name="Jethica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJgsvHJZvfuAJOf3GjcQqK8o1Va.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Jethica (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La gente como vosotros (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AqGq6t4dHzTPgQ1JSzhhDxz5pQ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La gente como vosotros (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Buscamundos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqLhRxIjBbWG83PLcQWUGd1gNF3.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los Buscamundos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Close (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsthRu3mhMw77rQWBI67Et2JKoZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Close (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159641.avi
+#EXTINF:-1 tvg-id="" tvg-name="Lupin III vs. Ojos de gato (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GK9LTdgd0qTbhFkS630bk1qaE0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lupin III vs. Ojos de gato (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi vida empieza hoy (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik3cASzrQVKqbA4VHMKYaLzlrYd.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Mi vida empieza hoy (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ritual (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ip02GHu0wxeMRLUeXNY89smb8Y.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ritual (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jason: Buscado por el FBI (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnRekTKyxQSDX0cHWCldO0RGKOR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Jason: Buscado por el FBI (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operación Fortune: El gran engaño (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1WvYS8FRczTY3hv3CBBQzf1vht.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Operación Fortune: El gran engaño (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Innocents (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQskokowKAjjoo5YUchLo59eSU3.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Innocents (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una buena película de acción (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9ZnmL5N71ODOKBD0E9lvF6Fo7a.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una buena película de acción (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teen Wolf: La película (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ew3V5fhAFD1SaKwIvosWOvlz6hi.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Teen Wolf: La película (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infiesto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpuV6GRIBD2v8A2FZM53ebNFcJx.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Infiesto (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tras el cristal (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4RT8xSENIOEVCjB9aypP7iCX8m.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Tras el cristal (1987)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Venus (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pamela Anderson: Una historia de amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIwGc0kW15I5OfWN7q8W31nCpGD.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Pamela Anderson: Una historia de amor (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adiós a la Reina (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UO5hVJh0116VmRN9jsS16jIpF3.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Adiós a la Reina (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Galáctica, el Universo en Guerra (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1DnhpdK22nEyBH5AK7mkv3cebM.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Galáctica, el Universo en Guerra (1978)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curiosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2CGE9cdmeVoNJPZ9YpeNBpZCFp.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Curiosa (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El placer de los extraños (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5g3AKvdNFG2AvZ2fzFRyG8Vov2.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El placer de los extraños (1990)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cocinero, el ladrón, su mujer y su amante (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpkUfqxjSmGYQI2GOWhk7V9ii5C.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El cocinero, el ladrón, su mujer y su amante (1989)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cuchillo bajo la garganta (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooeerZd43AmzlRBzhUwbxWy8nUs.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El cuchillo bajo la garganta (1986)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones secretas (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iV6zamJ5dUxZSYICAhkFxs4wien.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Pasiones secretas (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sade (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AaYhtbeTWkMxGrEF5dRBGL38Ee.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Sade (2000)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deseo, peligro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjPFFyy8hk5qKubWL3ysBSDTutL.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Deseo, peligro (2007)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El agua (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUdDRXx1EaJ299Zl2kTkVJGOhm0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El agua (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu libre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOyU0FuaVoWADcrh8dWs0Kw801O.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Espíritu libre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Girasoles silvestres (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWuWdmypvFEQKM8wvPv179rqnvw.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Girasoles silvestres (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="L'immensità (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzAqOajcd9okGnFGtxrpEPSZ53C.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",L'immensità (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La consagración de la primavera (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGePDfyUvxIq9SvcZGZiRzjvNQf.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La consagración de la primavera (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lobo vikingo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd6ZQn6bM2IEELW8lURA9dP2jiO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lobo vikingo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No hay santos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BjRSWRvGK0e9Ub0QPxn1UAgTYg.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",No hay santos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rosas en la Arena (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tgIvZz3MBEfCiC10YDpHmucVK0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Rosas en la Arena (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secretos y Traición (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Z8rPN0lcniKjCK2zxB440ftF7i.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Secretos y Traición (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stromboli (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rQcKxoJkm6CViK82UfZwVkW2ec.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Stromboli (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Comer, beber y amar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21YDfI1S5GPMRTJa70aHJt9Tzdc.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Comer, beber y amar (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey Shakir: ¡A reciclar! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6la9CIvYtT0CBvfKJp34TtvU9W8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El rey Shakir: ¡A reciclar! (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La región salvaje (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AEESZg2BdcOhljPPZ0BZ5hw5wT.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La región salvaje (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plants (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rimAUMVPKteRGoIJbQLMmfttpI.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Plants (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Scooby-Doo! Conoce a Agallas, el perro cobarde (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9cyiDTw5SQhbI7SRDjBUMr14kV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",¡Scooby-Doo! Conoce a Agallas, el perro cobarde (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Dunquerque a la victoria (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDob3MJxhYLfPGVB8LEs25hyqwo.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",De Dunquerque a la victoria (1979)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Instinto animal (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YuYMZSUXI8ZgysXIdW6mHZ7qlj.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Instinto animal (1992)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159720.avi
+#EXTINF:-1 tvg-id="" tvg-name="La criada (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nulJnrNAzJ2SIeeLOnTz0k0N1Wd.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La criada (1986)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liverleaf (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36s4VPYjrj99vE5tiR4Q1quXuZG.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Liverleaf (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Swung (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRjm5zztXRUYhXEl3FQKbIbgtMC.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Swung (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wij (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKl4RiJ3ocf2BlKML5PwGOy7lUh.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Wij (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aqua Teen Forever: Plantasm (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzMfgDxEOfFdw6WIaoC94CayYWL.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Aqua Teen Forever: Plantasm (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baila con la vida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWsWS8WyWU26JUkNis0QBS8NC89.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Baila con la vida (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Broker (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AqgcZ3RUFgm7xrSdddOUAbRZyY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Broker (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciberinfierno: La investigación del horror (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcMRcTNNnvNRXVgOxEjFssU6QOe.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ciberinfierno: La investigación del horror (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Condor's Nest (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBAsCMzsbGlFtQFqeWsKWM6hvOE.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Condor's Nest (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Delante de ti (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwsgWmmNFBK8WYsZ7WFdwayVSOS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Delante de ti (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="동감 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGPJaXDnW8Bsb2Dy51MHmXkcF4J.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",동감 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia tiene un precio (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gx8ntnkuvPMDCt2qtr9YMDXjLAx.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La familia tiene un precio (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los reyes del mundo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yk2zKkkSfq3ZbO6UOFBWLXfeIgN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los reyes del mundo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un bocado exquisito (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evid1N9cRYh6Zwxsgp2cc1YvCiC.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un bocado exquisito (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Whitney Houston: I Wanna Dance with Somebody (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7tzASghUkQ78RYWttD6mYW4NHJ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Whitney Houston: I Wanna Dance with Somebody (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La gente como vosotros (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0dfDXSu6esHRdE6mx2SzehvaDv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La gente como vosotros (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tu casa o la mía (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vMUao1QadZ6OS2UI984tORgGtU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tu casa o la mía (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una antigua conocida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLnCr0Yfu0TMltCpetRCNyg2wa8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una antigua conocida (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una lección criminal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtMHb6lGYXhSN3S2FuffNDOcyLa.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una lección criminal (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ars amandi (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTFeqMFro6w5ZU2BR0bDLAeZpKl.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Ars amandi (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casanova, su último amor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uvDEZGIYRGMBFWT56SsGwWqYwh.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Casanova, su último amor (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conspiración de mujeres (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gUlctisXf7LrLNLk1OQ9pl3VwE.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Conspiración de mujeres (1988)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El abrazo de la serpiente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLcCVKuePGh7mgUndk59VUyctKJ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El abrazo de la serpiente (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escándalo (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXCTeKbSmxT3EA3gRvEVjiBPoSm.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Escándalo (1989)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La corresponsal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mu2CPpT2XUVgsDEdtcelXhq5DwH.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La corresponsal (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El arte de vivir (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkBVCIGiU66GUQ1pR1JvjfXokBF.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El arte de vivir (1966)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maldita generación (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcISIatRSaP30WZQh1G4ZqLVWQA.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Maldita generación (1995)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Última misión en Afganistán (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUj3k9qpdCbeGCO0edYTfRmUYO5.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Última misión en Afganistán (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los héroes de Telemark (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHixINovbmru0RwuMziJz77LeKU.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Los héroes de Telemark (1965)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor al cuadrado otra vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mFHSHWce77Pi5zwkfCL35KU6MW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Amor al cuadrado otra vez (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armageddon Tales (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqn5YaekuwVla3mIzTXlpVjbaIl.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Armageddon Tales (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ícaro y el minotauro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJM9LCo7yvO0awjCGXb56QRblE5.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ícaro y el minotauro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La gran guerra (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLSFHeCJWyoDf50VHsdyceLxQ3l.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La gran guerra (1959)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Más allá de la sospecha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njRMJMXbdodNPt3kvKGVJ0W85yA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Más allá de la sospecha (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Querido David (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9JD050ibp3hNC1kmbcq07jEZv2.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Querido David (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El imperio de la luz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Y7l9FDxdknampTfpp6qjVWm54O.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El imperio de la luz (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Embaucadores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGcpjDqXlMxUTL4OBougtUEEJP6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Embaucadores (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Very Problematic Valentine's Day Special (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZVVSdgrOr1QIlcxcobQHG4IQyA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",A Very Problematic Valentine's Day Special (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La integridad de Joseph Chambers (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GmxjUO1mKBSAtCBuJ1Kcsnwehv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La integridad de Joseph Chambers (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boda blanca (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86Ugd3hureu9Iw4wmPfKs8wfOuA.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Boda blanca (1989)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una antigua conocida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLnCr0Yfu0TMltCpetRCNyg2wa8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una antigua conocida (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unicorn Wars (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joOEYpfltqoqkaiQio24TUTntGM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Unicorn Wars (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Todas Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBiZdPAWLSPLE4sX6BzWMzaJylP.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",A Todas Partes (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El piloto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juoinefK6tMbjwJhRpRvbAAmrTB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El piloto (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La sentencia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMLWnnKGkCDXmEpLrRNTrWdeqtY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La sentencia (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos Estaciones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iMEw9w7NswhAvmnOuVTXUNZz0t.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Dos Estaciones (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Identidad desbloqueada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2o6sK6yUOcQQUC9qJ37CaaXwhu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Identidad desbloqueada (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Palava! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyVFV4v3r1ASsMNAOfrYmE3dW6y.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Palava! (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1976 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlL3vY9Z1mBF2Uzi4Grfl9uCKOX.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",1976 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candy Land (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7ZipEd9oHHVVXTcvbx3Sd3Tukv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Candy Land (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Huesera (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVw74MES2R0kdSN8JhbJC8Xpne9.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Huesera (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infinity Pool (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNRr2juXdwtvktwXxwuk9Usk8O.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Infinity Pool (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kids vs. Aliens (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ53sO5n9LCFbssV3oQ4CuajL1L.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Kids vs. Aliens (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La ballena (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irhIdN4KDOdmTXpplSAwCGZYDSL.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La ballena (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Banda Presidencial (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FOVexIGmVHRFk6jIeSAN2rStAk.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Banda Presidencial (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Dixie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Little Dixie (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Llaman a la puerta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Llaman a la puerta (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los extraños (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r68DugmiasKiduv6V6Piulm8Gn.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los extraños (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malcriados (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Malcriados (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Embaucadores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGcpjDqXlMxUTL4OBougtUEEJP6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Embaucadores (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sueños de una escritora en Nueva York (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69LC4gUzrT0MHBIHUApcPUwF3LV.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Sueños de una escritora en Nueva York (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babylon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLZULW6Kn5imFM427tWfqIPMLmP.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Babylon (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Errementari: el herrero y el diablo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qaVTcP2Sl0rxc3xY0UFK1QV2h6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Errementari: el herrero y el diablo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muere, Hart (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Muere, Hart (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Project Wolf Hunting (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/op2y1gvqKhAh4yAPLwc4PlX3XRv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Project Wolf Hunting (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un fantasma anda suelto por casa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukck5O6t0gyZYOtCUHiBhhtEJcR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un fantasma anda suelto por casa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Fearway (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJEdo4o3oVAhzyUhcZ47Ar9Rcg0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Fearway (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ellas hablan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ic1LmfuGibGJMYjdz1Pobxeouon.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ellas hablan (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cordillera (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjrdb6VLEtBcdcKGbyhRfNe51eo.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La cordillera (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entre las olas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CwgtUAE7VgleGFMBesOuG68rgS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Entre las olas (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night Raiders (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePNbjrtyEEg2j7vQ56ik3E7VVti.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Night Raiders (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parque salvaje (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbzzYwYCIesEbBJK3lj2pLcE5yu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Parque salvaje (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El precio de la venganza (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fwJt0qZieQ7dKaiiqehObWpXYT.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El precio de la venganza (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike: El último baile (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p98DxMJbXjI6ITI9aFh3U0u5oF7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Magic Mike: El último baile (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entre el Amor y la Amistad (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68qUoVSL7BVirc9U3a1O3zKfsAM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Entre el Amor y la Amistad (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lazarus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hEH6Yabe2U8dBnCM5ePX9dDH3n.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lazarus (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The System (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BZAYG6oooTLv72w9ePKvbpqDlj.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The System (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/159979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agujero en la cabeza (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6posXSEbDrCgTMVzi9EaNNTMGx0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Agujero en la cabeza (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esta noche duermes conmigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b1eK5Z8oe2qAqAbxSN33tLnLwq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Esta noche duermes conmigo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Folie à Famille (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKhJwCMMGLlmtBwAQEs7nRjvtxT.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Folie à Famille (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los pasajeros de la noche (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvBG0VBp65uXn1NzWbNNDlmYYmM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los pasajeros de la noche (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matón: sangre de su sangre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h11pzG8yK70Ly5MkNHvhPH9m84n.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Matón: sangre de su sangre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Estate (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJmFCDJXYZHL5ArCel1xtQAqb8z.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Estate (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una estafa celestial (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8ugzWiUsabjMsQ1xr3nVMnUqIY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una estafa celestial (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Llaman a la puerta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPcpqODOEXjVAf8MEVg2kOQALt0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Llaman a la puerta (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 días de un buen hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPIicmgQ3tAJQdlRBh2oaMTxs8.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",10 días de un buen hombre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eres tú (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Eres tú (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aftersun (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92O7tmKyIIZXHj4WzcEQoFhvRHt.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Aftersun (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: Skipper y su gran aventura como canguro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JysDbn3kZ1nc4a1yQgkg81KIdZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Barbie: Skipper y su gran aventura como canguro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Comuneros (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3jT2N9LhLILbqBrdkK2lY0ufXL.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Comuneros (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El visitante del futuro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crUvuWFANaL0pWomG1lQCA3Pxcu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El visitante del futuro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Living (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4WsK588j8Cj1uRjVbOFd8gcwHa.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Living (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una antigua conocida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLnCr0Yfu0TMltCpetRCNyg2wa8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una antigua conocida (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casando a mi Ex (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NwGv3IvOypQt3sQGFFlffcg1zC.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Casando a mi Ex (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Equal Standard (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vyakwEUCT4eB9XdyGQLC3HQXfu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Equal Standard (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me llamo Chihiro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKroDP4pGAgZ02fKBBSiIGtzBz0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Me llamo Chihiro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sayen (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1492: La conquista del paraíso (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rpSdF6IORC1XRi9GyIimYQUNpZ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",1492: La conquista del paraíso (1992)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aguirre, la cólera de Dios (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOASGMxUHWU1Hp3Vq1gCQDyyx8M.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Aguirre, la cólera de Dios (1972)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dorado (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1Msl7LnDlKfoI7K3NcJlHchGGI.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El Dorado (1988)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El gran azul (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEQdUtqqptOsmgd2V0FmFmLIiIL.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El gran azul (1988)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lord Jim (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iehM0JCjFDl8LZQQpOQfxqqGPqj.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Lord Jim (1965)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nikita, dura de matar (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rt1tMhK6AeO4462lwi9wJZorWF.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Nikita, dura de matar (1990)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buried in Barstow (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wnxj7jPpANISwMlfQ0Z09VViYv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Buried in Barstow (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mundo de la posverdad (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaXlIdfqaIxkDpU5nqLVkiCIYas.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El mundo de la posverdad (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Klondike (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1wtZmsPvR9Nzb9GyXl4RcfZteF.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Klondike (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La fragata infernal (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUWpmsJrPeFCdWj4FUxOf9xR2zp.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La fragata infernal (1962)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Waterloo (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oO2CEaBgHKCf2OJTyFKBvl3jkLs.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Waterloo (1970)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: Skipper y su gran aventura como canguro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JysDbn3kZ1nc4a1yQgkg81KIdZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Barbie: Skipper y su gran aventura como canguro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Amantes del Engaño (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlo49R3jdkSFRYiS6Y0SFQYOorA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los Amantes del Engaño (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marlowe (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZie3WZuSb45EUXoQmUhLLnsjFr.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Marlowe (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Missing (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rR7uEhqQE2ZuQQOhuPyQnV6vnoH.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Missing (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cliff Walkers (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/renZUqR8yJ9RtL4vxw5pJvexIsO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Cliff Walkers (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Efecto nocebo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdjdZPgCRFqa0cgXLz8mDsUtiqP.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Efecto nocebo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muy lejos de aquí (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8OSxz7U0hMsIPTrmdgUboTD2y2.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Muy lejos de aquí (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un año, una noche (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gQMa8BgSYe9CaDJRzJ9TvjS6LX.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un año, una noche (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cuarto pasajero (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJNxJdD5F3cAXglCtwjumTB5tl7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El cuarto pasajero (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emboscada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbmJYyOMkgMD9M5uGu1kJbtvcLo.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Emboscada (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maria Chapdelaine (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm7YiPOGY5wP6XUGNwgWW19eqji.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Maria Chapdelaine (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hanging Sun (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47rl0hYSkimNNXOk8Wnd8l67CAr.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Hanging Sun (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adiós, muchachos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRaOBKedKZjl9hPFwR7QmkjQH9N.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Adiós, muchachos (1987)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cyrano de Bergerac (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKAdKvEEZBUBVUtyoyfZdv5VAUO.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Cyrano de Bergerac (1990)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Delicatessen (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cACoQdccxToUn0PRC1yW81bZHOG.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Delicatessen (1991)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cuento de la doncella (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgKAZeP2BbzJFPhVtpPorDmfqJH.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El cuento de la doncella (1990)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El odio (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRhjRtGfUvm9pOVid2BrrNUnjR5.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El odio (1995)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ogro (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/852KkFk8LsFBVld0EXT2pd5Rm34.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El ogro (1996)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La reina Margot (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysTsBH8OfPsUQqaBYulSAmaN13l.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La reina Margot (1994)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La chica del puente (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dkxb9uPAHAg8SqwCPoM2U7M2Cu.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La chica del puente (1999)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La doble vida de Verónica (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IBSAkOTwd5NlHreKnlhy3MPRII.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La doble vida de Verónica (1991)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los ríos de color púrpura (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YpfSp1E2JxvdZcwfUARAXPLU3v.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los ríos de color púrpura (2000)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tres colores: Azul (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acF0MZyMhe1svIxp17xxIstPIqi.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Tres colores: Azul (1993)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un hombre llamado Ove (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hC0QZytb82Hf51qBeTYK5kKuhX.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Un hombre llamado Ove (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Tan lejos, tan cerca! (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2xn5NyWRr6c8WUZPbvjWsslfkb.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",¡Tan lejos, tan cerca! (1993)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ingrid Goes West (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvS4GnljywjqmmprxX16UeZab65.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ingrid Goes West (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Palm Trees and Power Lines (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWiSF5VbFeeWZmx7rGgQCsFsLdW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Palm Trees and Power Lines (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fantasma (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFpOGChpmHkdTQ7t5DVgh563l3N.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Proyecto Fantasma (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tori y Lokita (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1xdM22OXzsKRbt2u9cP2L1L8ie.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tori y Lokita (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aimée y Jaguar (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd6c4PliEGXgtWTzq1iFxnXIE5H.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Aimée y Jaguar (1999)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chang machaca (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Chang machaca (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Encontró lo que buscaba? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7X1ra5lYbiZ5WnkCikSThKCMZm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",¿Encontró lo que buscaba? (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luther: Cae la noche (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZKBIsDRPs68dmoE9vRqaGASw8k.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Luther: Cae la noche (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Última Yarda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Última Yarda (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Whole Lifetime with Jamie Demetriou (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEp8ARTHvXvQd2j8j1s8PgXvUA7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",A Whole Lifetime with Jamie Demetriou (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Warrant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7vFFZHbDyxfjuYKzJwruTnwwjT.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Black Warrant (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chris Rock: Selective Outrage (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctagMkN8rT66iVJTZfiEqb2edAm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Chris Rock: Selective Outrage (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oso vicioso (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNaMZMtGUPPmjYU5h5iqVxvcSe.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Oso vicioso (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Consecration (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Consecration (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Misterio de Ozark (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBJgLhJQdrhv9aQBUYKB4Rrxcl5.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El Misterio de Ozark (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Farsa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlo49R3jdkSFRYiS6Y0SFQYOorA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Farsa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lobo Feroz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hng11ZJGwBDaHrNaYxNI8x7JqnN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lobo Feroz (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malvada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k3JpWtTjYNupCbMKW8vkEEmbWf.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Malvada (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="On the Come Up (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzgGmE8EJH3gOUlxSYhm8AHJUu2.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",On the Come Up (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tangos, tequilas, y algunas mentiras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9S6GW9MGyQZpRpPj65k0RIqYNL.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tangos, tequilas, y algunas mentiras (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unwelcome (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Unwelcome (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battle for Saipan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWLR3s0EpqZYXNXXHVH0GCu6Gru.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Battle for Saipan (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carmen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oc07MMSumgytiBT1fVTuEMDjUQA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Carmen (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazadora (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOD2Xg7ihr51p6eXqzaY8hX5Uq3.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Cazadora (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el fondo: La historia de Pornhub (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJldamB3Le1eELdjqaBd4APGU49.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Hasta el fondo: La historia de Pornhub (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EO (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c95e1zjSTaxQmTmXjUAYtj9Ut3S.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",EO (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Final Curt (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozZ5J72Cj547V6Sonb8whTSIye7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Final Curt (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KSI: En la vida real (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUCiGWCcvcIVthb9cAW1PMz6vUR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",KSI: En la vida real (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey de las sombras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A70rat4oypHnFsb4J4MoSciNo3I.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El rey de las sombras (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mochilero del hacha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqLloC5n66fLvhlWtZBr8h4SVF6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El mochilero del hacha (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxi29Eg7JymhqV5QkSrMviUb3e9.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Control (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El asistente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA7E73LT4xIgPOiix9lvIvYhM4Z.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El asistente (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El poderoso Victoria (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAnwuVnnJ52ro72DaVUXKmBHnzq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El poderoso Victoria (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último hombre sobre la Tierra (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zWxQ0hymf6S2wQfj0lY8rfgvjZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El último hombre sobre la Tierra (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hilma (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jX53MfRoGD2859GNOJ01lGCD9fH.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Hilma (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Yz5zYXZrlx9UWbjlaEaJuyAsNY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Jane (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista del papa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcknZEeD71byJ3XSalDDZ5iHpNr.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El exorcista del papa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La gran tormenta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zEopQaHm48Q7mGFbOsBIZ329fm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La gran tormenta (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi suegra me odia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEZ3h6D7MdMpszVjCWibLEsbjx6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mi suegra me odia (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Novembre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBBgyAKgGJjDl8kGHALsylINGzM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Novembre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ruido mental (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaULtrVDQ8AU1SApFJb8u8N1NBq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ruido mental (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ya era hora (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC77nrTr5dTvPckQ4G5JVh9lhub.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ya era hora (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El estrangulador de Boston (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af1vSPTbraVVqc6kB3Avm55gxcq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El estrangulador de Boston (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Of an Age (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hM1WknAN6uOeH2YxTQ9RaI0C3Uj.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Of an Age (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El ruiseñor de Bursa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nRMVoqHHltFxnr69V5RIPeljvc.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El ruiseñor de Bursa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman: The Doom That Came to Gotham (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrATQE8ScQceohwInaMluluNEaf.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Batman: The Doom That Came to Gotham (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El tirabeque (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oykWYXyUZkvw39B7iCDqZJAy2xn.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El tirabeque (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kompromat: El expediente ruso (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhtm6Dzps9fhQAmT451mb28vdqt.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Kompromat: El expediente ruso (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La elefanta del mago (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qjWwffUqjJQ3y6734fhIBce8NS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La elefanta del mago (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Hurts (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2SvZHXpHf4A0MDVxW6abvt3w4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Love Hurts (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pinball: The Man Who Saved the Game (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jr6612OvuUlZCnvgOSt9ksSmwcz.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Pinball: The Man Who Saved the Game (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supercell (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbGHezV6yrhua0KfAgwrknSOiIY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Supercell (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: El sentido del agua (2023) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg" group-title="☢️Películas en 4K⭐️",Avatar: El sentido del agua (2023) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adicción perfecta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PZvtFU6HIzHKRdIYOlL4Lj0YFV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Adicción perfecta (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza a Toda Costa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXIkBjrEX455MBwl1aFn95JPYFv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Venganza a Toda Costa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El engaño (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjlpRjvnjDKwLJmK3Q2PPkj6PtU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El engaño (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Furies (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/virYZ52mRzDES9y9qEhSeA9SNNC.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Furies (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Johnny (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbzkNNViy1dH2jCLMok2DmHX8e9.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Johnny (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",John Wick 4 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locked-in society (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpnYOOKmI6KHj1VScHymF0u2QVe.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Locked-in society (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Con canas y a lo loco (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KSdIPMGQHHbIu7R6YkX0BVI8vP.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Con canas y a lo loco (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transfusion (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOixT71Ok77ZiBu06lO0Z6FysKi.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Transfusion (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Winnie the Pooh: Blood and Honey (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Winnie the Pooh: Blood and Honey (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A la de tres (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66XN5tgqPKT1xhQytXP74tRl9uS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",A la de tres (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man y la Avispa: Quantumanía (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ant-Man y la Avispa: Quantumanía (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novelista (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ1vMFV8TizNsRUQIsS7GrIVH2j.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La novelista (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Suro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7pEWV0FxL5AOU9Pr5mUDQWnZ4A.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Suro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomy of Time (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNSmzRqmgASmekxOaWEtOOguyJM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Anatomy of Time (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chuck Steel: Night of the Trampires (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLqvs49ABhfqbaiWsSqKRvOFt8A.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Chuck Steel: Night of the Trampires (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La emperatriz rebelde (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qLkSuohmY03fxrte9cex1nEXui.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La emperatriz rebelde (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perejil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBI88CSRGDZ6pgKFtepeGUA3mYV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Perejil (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Piedra noche (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54WX9R6eRrHzWEI9z7gl6quetqy.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Piedra noche (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sakra(2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vksLBSmHahKD9F30vIrm0S7JsSO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sakra(2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stefan Zweig, adiós a Europa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMPJB3CmWZGmqLhWKjmf3pHdIjg.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Stefan Zweig, adiós a Europa (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ร้านของเก่า (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjLUyKoRUBZuHaK9yYnFHpoGCkv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",ร้านของเก่า (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Darker the Lake (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dR19KWdw18Y6ttq0DZGzmgPztUZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Darker the Lake (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Till, el crimen que lo cambió todo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2j0iUiAF7XT06iyvXJ5K33fg7JW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Till, el crimen que lo cambió todo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Traición (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWdflTODHwPosSi665c3uXSLPtM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Traición (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Willow: así se hizo la magia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ2Sf3UI68bcSLnygIYacN737aa.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Willow: así se hizo la magia (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10 días de un buen hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZjmSFRf6u1hYvLGxCAu13dpGQA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",10 días de un buen hombre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adicción perfecta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PZvtFU6HIzHKRdIYOlL4Lj0YFV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Adicción perfecta (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/160951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Children of the Corn (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vYJfuYcCrN1GWW8x3MS7To4A3T.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Children of the Corn (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El vuelo de los ladrones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9d0rhU1s3VHH84bWxM0F6dEKUm2.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El vuelo de los ladrones (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Creed III (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: Honor entre ladrones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGxIYzYhYKDgE1U5DDI7gSkYmoC.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Dungeons & Dragons: Honor entre ladrones (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locked-in society (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpnYOOKmI6KHj1VScHymF0u2QVe.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Locked-in society (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El vuelo de los ladrones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9d0rhU1s3VHH84bWxM0F6dEKUm2.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El vuelo de los ladrones (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último hereje (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSOIsOdPMwPCirNVzdBgcPUYzm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El último hereje (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fósforos Mojados (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhjKB8pDuy1Wr9MMZPOXdzGdoam.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Fósforos Mojados (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Momias (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6noSod4pIiT7UMtflrgDreNVRI9.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Momias (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Champions (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVBZBDHO271obL91WG8l2owoq5f.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Champions (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mae Martin: SAP (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNYsoly1451oIj5RtBk0gBF9zfQ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mae Martin: SAP (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi maestra se comió a mi amigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MiVG39r82aYUAtvs3bTycmbewJ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mi maestra se comió a mi amigo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminales a la vista (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1CviNrfYjtPDN6UTIUcqCe3WfN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Criminales a la vista (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mientras Haya Esperanza (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8qwK8zpYAuaylpoox8taSUdHrB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mientras Haya Esperanza (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Piece Film Red (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ovEtMHpv1UKDJB6Wq69DB4q8xG.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",One Piece Film Red (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pacto de graduación (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/748fvxCzIKHKZI2c98DdWPAeNkR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Pacto de graduación (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pathaan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eHEN70MD6HfpBGYny8O2RxxYcD.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Pathaan (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Qodrat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCIAnXdwtYKf0oXPIA7fSeaCW55.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Qodrat (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reggie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMXHVmyYNQMDiPEZPWl5aVlVKG4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Reggie (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tetris (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Cinturón Negro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dTKUnmJ8zndMbvo0qZSAzliSJC.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El Cinturón Negro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cases of Mystery Lane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsrBkr7VINwdc7lc4oYwSnUad10.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Cases of Mystery Lane (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un amor inesperado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2SXJgVcFBGscbmmpwuUnrXtSMi.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un amor inesperado (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unrest (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYFYLSekWpN9lirrZDfYyoJUvoe.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Unrest (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Where Butterflies Don't Fly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFwAH1A73NjhFawqCUmzFU1iC0Q.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Where Butterflies Don't Fly (2022)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beasts of No Nation (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Beasts of No Nation (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuenta conmigo (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1J6shezdRbtdeoYHSYmi4oUIWkD.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Cuenta conmigo (1986)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El condón asesino (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8p2pXAv7GiwBfBFyUMZeQKwLA8V.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El condón asesino (1996)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El día más largo (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glWepCvby6ve4y8ZhlWxGRikJZt.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El día más largo (1962)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El halcón y la flecha (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l08sjH1tS5Q3RvNnyden91wqPZ.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El halcón y la flecha (1950)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El manantial de las colinas (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58S4vZ51EUt0RERNZp6SrW3Hu5r.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El manantial de las colinas (1986)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El tren (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NPcGg1AVec3o7d0zBbc7RTd2eC.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El tren (1964)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último metro (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nj6wa47Eahgv55vE37CEFPhAwBq.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El último metro (1980)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Germinal (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ybp1UR42IZQ80y8XqZbnlA1BgH.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Germinal (1993)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hasta que llegó su hora (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upiek8u4rHTrOJW9B0woXe4A4h7.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Hasta que llegó su hora (1968)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hierro 3 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKg7VIc4oNYsyzqjljPQVg8ND3b.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Hierro 3 (2004)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incendies (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NFEihPYnclTAQov0Z4RL01LSvQ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Incendies (2010)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La pasión de Camille Claudel (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdRn3z6RSYpxP8ykjgKilUGr74p.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La pasión de Camille Claudel (1988)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La ley del talión (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNuVigk7nuKUJoxwRyVHnvd2me9.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La ley del talión (1956)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La muerte y la doncella (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86ETvc5qAnnF6IYrkHisepT0vc.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La muerte y la doncella (1994)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La mujer de al lado (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PD9Qjbt49sEYgqCqFnqkj074JE.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La mujer de al lado (1981)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lilja forever (Lilja 4-ever) (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlNiL0tHReVuWk2IJBCDlAd9xns.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Lilja forever (Lilja 4-ever) (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lock & Stock (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icd2E9EcoidBODOhIQNUTc1BAyz.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Lock & Stock (1998)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nahid (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNO75LWWARteMejWM1EqFpV1vI7.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Nahid (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin novedad en el frente (1930) Obra Maestra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whhnoAEoobX7dasproRpBipHXJT.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Sin novedad en el frente (1930) Obra Maestra
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The machine (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojI484jw445M3CEbzCk28zvAIoM.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",The machine (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas las mañanas del mundo (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mkEuoDr8eap6KFwDLWpn0XAfaN.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Todas las mañanas del mundo (1991)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pura formalidad (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmSee8psxIpiLwVS9M8tlT2JEF3.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Pura formalidad (1994)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un profeta (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/masLEe2o34cGODUxJ19g1iD0oXf.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Un profeta (2009)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boksoon debe morir (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mNP3fpjHtoCZ2GaxPnA4elj0rv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Boksoon debe morir (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de los niños del ferrocarril (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY8zYGqC3C9qPpXKZR1XPELtFVm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El regreso de los niños del ferrocarril (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Finlandia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fWdoVZSVfice5gAbd2C2bYIGHG.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Finlandia (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La segunda oportunidad (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJi1PIub5wX5CCqsppvCKDMo5Em.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La segunda oportunidad (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Constructores de la Alhambra (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VxbmTqvlXwWv5J43WSQSmi0N8L.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los Constructores de la Alhambra (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Miley Cyrus: Endless Summer Vacation (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kJZWoeUSjOtm4GKLcfOyNdEtKV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Miley Cyrus: Endless Summer Vacation (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor en Rye Lane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcdEqYTTnh6luc2heEsjf0fAI7X.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Amor en Rye Lane (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ancien y el mundo mágico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFCwkeCvuRdBeMnabtYdoLgjOqA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ancien y el mundo mágico (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dilo alto y fuerte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72LhoW3zKg0vG6VyQ6aVPvCkqMV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Dilo alto y fuerte (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Es su vida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/getCiw4gm6zhtPUJ2EzfEuRoUU9.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Es su vida (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boksoon debe morir (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mNP3fpjHtoCZ2GaxPnA4elj0rv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Boksoon debe morir (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Linoleum (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAdPsBMnP5ctvKavQY9y8JazygK.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Linoleum (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abrázame fuerte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLk6xbkKGyIKdqBLL5KzjYlfXAs.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Abrázame fuerte (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Swiss Army Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2XbxkjAGPTQz2WQ3GFEOZRgssE.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Swiss Army Man (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Trade (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXvGdQrEqBtZ5nS4rRBssWZZI4v.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Trade (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Mäck: Gánsteres y oro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQdcQBnKKGTX83PANTq5LiYkBlb.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Big Mäck: Gánsteres y oro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agárralo como puedas (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soPRU0ON48dqH00IngCjvhiWF2V.jpg" group-title="⚡Todas las Sagas Épicas⚡",Agárralo como puedas (1988)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agárralo como puedas 2 1/2: el aroma del miedo (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAwSoQ6aPUJDWNh6WBsaumWioDj.jpg" group-title="⚡Todas las Sagas Épicas⚡",Agárralo como puedas 2 1/2: el aroma del miedo (1991)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agárralo como puedas 33 1/3: el insulto final (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFlt9H4PWpK0y8NDysSyl2wjwp5.jpg" group-title="⚡Todas las Sagas Épicas⚡",Agárralo como puedas 33 1/3: el insulto final (1994)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bono & The Edge A SORT OF HOMECOMING (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRl0wmnA97yXQatTEDD7iNYOY5i.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Bono & The Edge A SORT OF HOMECOMING (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muertos y enterrados (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRD2iVLhcWgtmBzdKhZBuR3z4dQ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Muertos y enterrados (1981)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El club de los cinco (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0DhsS50Ksn6rBZhwsH9Rgh9xGi.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El club de los cinco (1985)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esta casa es una ruina (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoaHmZ5TLRqP1dFBrSukm1uhAp0.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Esta casa es una ruina (1986)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vicios diabólicos (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXbmQ2Wl1GrBQ36yN8RfjGDPTiA.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Vicios diabólicos (1990)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mujer de rojo (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jECT2DusOJUuICl3aycplLV6qxL.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La mujer de rojo (1984)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mantícora (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VnI5ab8uIfg1nF65dhJG8t8fKn.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mantícora (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Revealer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tYWNhSHgA1gQDeNcoCIL1LGyKj.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Revealer (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un diván en Túnez (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLb29eWa79hBj5zeku7Pk1BaW6y.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Un diván en Túnez (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un héroe (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NIAwBz3vlnYeuAwNF6l3aqHqkm.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Un héroe (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EzGcn2xeLGG8JgPciCFVPMf9YA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Adrenalina (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amén: Francisco responde (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cfAWacWd7nREj5jiCdmshYv9Ej.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Amén: Francisco responde (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chupa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAwvE6Vd4mhlx2xJU6PqjBAM2y5.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Chupa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias para no contar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DDpLKrJahb6wexz4ssAOWLZMK6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Historias para no contar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lullaby (Cancion de cuna) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmE4gZ9vy8ammgS2UsEh0Z1OCia.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lullaby (Cancion de cuna) (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Así se hizo The Last of Us (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nter1KTaQjmkGCjvSu5u01FoecP.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Así se hizo The Last of Us (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oliverio y la piscina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJlTuSCvg6GuI5Y21xN2cF9tzhT.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Oliverio y la piscina (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Qala (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d2xoBGXMpfeQ6QgpVI4qm34bKP.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Qala (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Splendid Isolation (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qr4oog9RsVo4sz8YvbhbbJO99UM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Splendid Isolation (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El oficio de aprender (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4MpIYFrRcddxsMeOvshBttmGH8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El oficio de aprender (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un paraíso peligroso (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvm6yZsdgnM0vJeM4mlOAUVeDES.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un paraíso peligroso (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (2023) 4k" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdYEj6wJd6lbMiHpIN4rXTYNGn1.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",¡Shazam! La furia de los dioses (2023) 4k
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="65 (2023) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",65 (2023) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yves Saint Laurent (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3OQ4DtCzm4JfBxviXk5g7grsxM.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Yves Saint Laurent (2014)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aaahh Belinda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNdJShQTWNufnlIl1fRDHTGfKdL.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Aaahh Belinda (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Assassin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nckPbPhQUB6HB9dGba8hWCN4xqM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Assassin (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WD5wdt4SFylLyE66SoE3kEZskB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Boon (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chanson douce (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4p033l2fYHHBAXAemq4Wj3VobA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Chanson douce (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gangs of Lagos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGwFsB6EXUCr21wzPgtP5juZPSv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Gangs of Lagos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hambre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDaSyYTkevwjcS4EQeRK1ztW0dL.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Hambre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infelices para Siempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiAM7Y8xF8wJDDsjeSuLgzyFGmd.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Infelices para Siempre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inside (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXsiWJWwGwYwOQ6DfYFt5pPBMwT.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Inside (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Johnny & Clyde (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgL0nVy63sJuw3XL5rMht5LSFJu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Johnny & Clyde (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las fiestas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6m6QfhwYqT8deXzHE4ywFzmbsT.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Las fiestas (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lewis Capaldi: How I'm Feeling Now (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djaZtmMiKFp8zaclEaAyD8vHcvx.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lewis Capaldi: How I'm Feeling Now (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los reyes de la calle Mulberry: ¡Que reine el amor! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cE9AdnznPQo2h6qZgXWaI4DKWqY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los reyes de la calle Mulberry: ¡Que reine el amor! (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Name Is Mo'Nique (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcuP8tq0h0xGXJOWfLiqNZp98Gn.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",My Name Is Mo'Nique (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Skinamarink (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o942912KFh89SGhqWuKXuT0SXzN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Skinamarink (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mulligan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4EVch68Ap9UE8OtaoOAtL6t3IO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Mulligan (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Under the Stadium Lights (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4w2s3EeTNTgG09gxWKazMPGgGY9.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Under the Stadium Lights (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conducta inapropiada (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKrIlgfJPIWNeowaOZPBZuOPmq0.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Conducta inapropiada (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moon Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLfT4oOj0Cp2XuUCDWZpvFMeSmE.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Moon Man (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El principito (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8gmsOtNe2Zqlj7dqstEprf3w1T.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El principito (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El síndrome de Stendhal (El arte de matar) (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZiPPpQteTg0nAK5u17oxSleSF1.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El síndrome de Stendhal (El arte de matar) (1996)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La niña de la comunión (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGSzha9K65abyvzBwXXnSV2sHWV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La niña de la comunión (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Venus de las pieles (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5toXeVGtU7aNl4upeGYmUyqbmtr.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La Venus de las pieles (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SM Rechter (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSfZAvoofKj8lwXdnAgFBsBjwlU.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",SM Rechter (2009)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161806.avi
+#EXTINF:-1 tvg-id="" tvg-name="Solo los valientes (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3igzl8grvbH7ujvzbygJVpDEBVQ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Solo los valientes (2006)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una bonita mañana (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L7WngnFSMvhZEbbwybqs9xX0Ds.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una bonita mañana (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amber: The Girl Behind the Alert (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rArZEIALWP4bfTI4RCEhzTq2iS2.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Amber: The Girl Behind the Alert (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Praise This (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twdgFrp9Sd8rb3TdbWFQXAvslrH.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Praise This (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último harén (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vDDKNnt5mp9eVYRh7nCcj3pV7S.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El último harén (1999)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jesus Revolution (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLSytRNOCq4Epz6cL9INHPJOrg0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Jesus Revolution (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Fórmula (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lytchqA2mdPYaX6ThDLkELULQEq.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La Fórmula (1980)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Den (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iC6Ku4hP613Y55r2yypahsEKdly.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",The Den (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Piraten van Hiernaast II: Ninja's van de Overkant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AELgsqhyytLJnrYkl4nYkkJIwG.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Piraten van Hiernaast II: Ninja's van de Overkant (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rock Dog 3 - Perreando por un Sueño (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vppnqcUVymdCB6RgMpnuGpkQhsX.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Rock Dog 3 - Perreando por un Sueño (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Súper Mario Bros: La película (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Súper Mario Bros: La película (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferdinand (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCo0AubAUaFQLowF1IwPjVv7hFt.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Ferdinand (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casa de tolerancia (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znUzmTEHKpbgXzMSF5DD08guWjZ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Casa de tolerancia (2011)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La enfermera (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FSl2sSRsNuOVOJgX6HsmnM3gAo.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La enfermera (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Men of Plastic (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QXfrZWYS5cPlmNsIhpofW5R3ct.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Men of Plastic (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una buena persona (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6toz74j1OgbQrsZUjgr2Ohs1AsE.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una buena persona (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vicious fun (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCz4Pv0rilnkBgqwbe5Y3JT5899.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Vicious fun (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yuli (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN3Iw47whkgo9fhgGRHULcc39gs.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Yuli (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cecilia (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrwva7qemUt9v9w9502aVHaiOJh.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Cecilia (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Disquiet (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKuyTfzKMOdwQi150Zu3DVXwi7J.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Disquiet (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Exposición de amor (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gNHyls4PziuShd57fDegpy7qdT.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Exposición de amor (2009)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fenómenas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sC1IaM6RuqaWGT1JV9Uk6TPzUXY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Fenómenas (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuga de Reinas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3raY76KtEzSHya5rcC2j37qGI9L.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Fuga de Reinas (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Le Pornographe (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2sRx3m33ZdhfbY4PIlKpbZv9e7.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Le Pornographe (2001)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Munch (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uqS0qiGNxlqI8lK1LxN86vJYDi.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Munch (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Last Kingdom: Siete reyes deben morir (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Last Kingdom: Siete reyes deben morir (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Visitor Q (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqW1EFQBQ3OBEL0IgXS8kUsNlr3.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Visitor Q (2001)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eugénie Grandet (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cOnZ3BEptXHoGul3wHO3hJNKR0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Eugénie Grandet (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un héroe anónimo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLOnMVlvAocoOx281E3d65Fb7SA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un héroe anónimo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente oculto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXKVwk2wbcmZoY1oqa483YGbwwk.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Agente oculto (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amenaza en las profundidades (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ahc7j8eZfca8PCKpoWIWPM03fyO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Amenaza en las profundidades (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BDE (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofWJ1UiUFJncIGBV2E9f9CGRFwk.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",BDE (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuerpo abierto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zgoBoba7oCMtNb987FCDFu5OUd.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Cuerpo abierto (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dig (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntD0ieBgZ1AlV0tAam3aeFDH6k7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Dig (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El suplente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcSnHRPfJxp7XAk8u3FW7s5d9Eq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El suplente (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R.M.N. (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQXWnmOvh9GlcRJ29WXMSBeiv1Q.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",R.M.N. (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A la intemperie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvkXF5GAKiywWOVKcCiYrQrt6BL.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",A la intemperie (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alex Borstein - Corsets & Clown Suits (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCdsU5xEW1ZKoheTonRZQABrCMF.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Alex Borstein - Corsets & Clown Suits (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Thousand and One (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yMQxHIQERFxNPnbbhxOO8nqVdq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",A Thousand and One (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hora de Brillar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxKfXSoU0CwUzAM1eozA34ZVwWk.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Hora de Brillar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Longest Third Date (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyECVwOybdYKuyuAoZJCf9E6Ln0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Longest Third Date (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers: Ayer, hoy y siempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qj1NrdMSm2xinqchBDD23U83vj8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Power Rangers: Ayer, hoy y siempre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nueva oportunidad (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fl6KZtnlqC5nQZTohWUtoG1DsSw.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Nueva oportunidad (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Righteous Thieves (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZKTYOTe5hYIVxM8JvKljjONJm4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Righteous Thieves (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seriously Red (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Seriously Red (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Tutor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gbSI23sXhVzOYOT1YqQEGUhJ0W.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Tutor (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Y qué tendrá que ver el amor? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TeJM4rWDCEnkJnogr9ofIcvQqv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",¿Y qué tendrá que ver el amor? (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Última Yarda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF8qePejJvjFcFix4KwUGpzrb7s.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Última Yarda (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tausend Zeilen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZfjI7gBwrfMXMAJIm879J5CHAr.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tausend Zeilen (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belle et Sébastien : Nouvelle génération (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yRDnNMonoERrHoi3qJ31cwsQyG.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Belle et Sébastien : Nouvelle génération (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DogMan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NnhSn0hOV6z39SSZFFE2CxdyoP.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",DogMan (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El guardián de la reliquia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIujNNzBxAm37vOPpW4lTJLZpmZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El guardián de la reliquia (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harpoon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36zt0v54vRmgn1Zgvlfw0azQK9h.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Harpoon (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sociedad de Honor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUyM9VBcIuGzACORtXEMD9tcgWv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sociedad de Honor (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ipersonnia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjOKPY90tPPd3mZFuL2IOaBpRXg.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ipersonnia (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los casos de Victoria (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeUD7nNMejBWpFhJhiDhdf8iUrJ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los casos de Victoria (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roman J. Israel, Esq. (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lM9QFGKoMln5oV03KwZzMZgVFb.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Roman J. Israel, Esq. (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saturday Fiction (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIoOzU9iTi0EbtLxcT35UN1PkSE.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Saturday Fiction (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Schweigend steht der Wald (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rmMBZJpQFAq9x2m0yKkgKrCPbi.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Schweigend steht der Wald (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shin Ultraman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6E7MiAdPh0qA9ZqGKWmD4X1GUH.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Shin Ultraman (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tres anuncios en las afueras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VtVgiwgQ2DOIS1EtIPpvXLOOmG.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tres anuncios en las afueras (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Veden vartija (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g73aCigvlPIRRBvrC2o65I3cJnZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Veden vartija (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1945: tres mujeres (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBfuq7lkQR5tXmYe2l3LLfxmniv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",1945: tres mujeres (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lo que sabemos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulCSi83gWcBV1mKJp4ZML3dIegU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lo que sabemos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Janis. La reina del blues (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qosDLnAcHRAUjgmZIU0c1ktEhx2.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Janis. La reina del blues (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La orquesta terrestre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWjM6D3d6CtaJevK2PwbpceYMGZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La orquesta terrestre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Litchi Hikari Club (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwj6ZEmeYoIr1lmjJMOHPDszhcf.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Litchi Hikari Club (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marcel, la concha con zapatos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v74drP806W96VdGGtckBuShoeQj.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Marcel, la concha con zapatos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quasi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpiOgZL3rkKPHLvEZv1jm8aJm6l.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Quasi (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Simone, la mujer del siglo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/baaNF7nnwGFXmXRoCwFaVcHORib.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Simone, la mujer del siglo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zombillénium (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97OrQruLLUKo3nuOXlb0p3b5c4Z.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Zombillénium (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Con la soga al cuello (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3K64qyJfykNCt2XVP5rXH6VbAwU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Con la soga al cuello (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dieciocho otra vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1TQbQMGyPQxTwZ8HqqNTdtcjOe.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Dieciocho otra vez (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghosting (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSw2JeQ03GivcS4VKJmWK5sYi1F.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ghosting (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guía de viaje hacia el amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnUZ5EPdBNvsmCej4o6dQhtfCVj.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Guía de viaje hacia el amor (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sliver (Acosada) (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ti9X4MdOXRhm1PQSIS5RrZQ2NZ.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Sliver (Acosada) (1993)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Con los años que me quedan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3njsXDhwRJOjvl461mhMxQoru9j.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Con los años que me quedan (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cuarto hombre (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZJ5WsfU5jBcKQeDTrqsAQfmx1j.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El cuarto hombre (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eric, oficial de la reina (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w936SEUY7rUqB10JPRYDEqJTT9X.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Eric, oficial de la reina (1977)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Goliath (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4wfoXGp2uyT2Awlr2j1OhngSqr.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Goliath (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La balada de la mala suerte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUdb9Z8Bh4Y9WfghdsoQhDlbeAI.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La balada de la mala suerte (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La huella (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGZrvkCm0FSKvjuPnu1svE3pNls.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La huella (1972)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La maternal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MSSx8RAkBIUPlZa4DpiDq2mxyH.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La maternal (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los hombres que no amaban a las mujeres (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYeXySqKa5uiqFM8OMSdxs3hGK3.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los hombres que no amaban a las mujeres (2009)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memorias de París (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAB3q3fOFICqkMbop4NxwTj6W0V.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Memorias de París (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monster's Ball (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjN2vt5sMqmJ6Vke58ClfOaOcBB.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Monster's Ball (2001)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece Film Red (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ovEtMHpv1UKDJB6Wq69DB4q8xG.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",One Piece Film Red (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La isla (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqubdg1F7XTYgmDm84LA45plzvK.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La isla (2000)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Starlet (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upvSfkiajMmCYiENW9toTBBuQpy.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Starlet (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todos lo hacen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wKnypXIVtMd7hLROss67dwwvQB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Todos lo hacen (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Informe+ Víctimas de Indurain (2023)" tvg-logo="https://image.tmdb.org/t/p/w1280/sYmXL2iSUbQLzRcFgsePOYgpFyg.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Informe+ Víctimas de Indurain (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Offering (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eodXetH5ozVr6iiVVRk6Hostonv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Offering (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diabolik - Ginko all'attacco! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QVbWBv94BAT9u1q9uJccwOxMzt.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Diabolik - Ginko all'attacco! (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Judy Blume Forever (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rILugHTeDPvzQiy3G1n4gHpQLMq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Judy Blume Forever (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Puerta Mágica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0LnQfMOCxY1SXrs9SyWXtR9mMI.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Puerta Mágica (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia x RWBY: Parte 1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7twNCiHS1rR7P2fyGOH1sUmLDyY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Liga de la Justicia x RWBY: Parte 1 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pokusa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ4qzue0kpe4KSdrNnOnPwYycMW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Pokusa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream 2 (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znWATQlDq5TmVm2miW4KHmMOr3V.jpg" group-title="⚡Todas las Sagas Épicas⚡",Scream 2 (1997)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream 3 (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEEvUjBFW1JOVoDnJ7LxZRw75Ik.jpg" group-title="⚡Todas las Sagas Épicas⚡",Scream 3 (2000)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/161999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream 4 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg" group-title="⚡Todas las Sagas Épicas⚡",Scream 4 (2011)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream V (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L5u2cdXfyMOFhiLYT0UBsjqZmC.jpg" group-title="⚡Todas las Sagas Épicas⚡",Scream V (2022)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream VI (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvvfHkEinSUWUPtJeWvxOx5hozm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Scream VI (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream (Vigila quién llama) (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO39MWOrEmJYthKyWT79BYCVRrO.jpg" group-title="⚡Todas las Sagas Épicas⚡",Scream (Vigila quién llama) (1996)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream 6 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvvfHkEinSUWUPtJeWvxOx5hozm.jpg" group-title="⚡Todas las Sagas Épicas⚡",Scream 6 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conspiración en El Cairo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE9luVrvniOZZ63Zf7qoguNARrM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Conspiración en El Cairo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ecos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57vCdJjkEHd1VMXOq6PDmCXKWdi.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ecos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El sutil arte de que (casi todo) te importe una mi*rda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lhtwll8eQTyvvTXvafqpNamLNS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El sutil arte de que (casi todo) te importe una mi*rda (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan & Wendy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eelbIlq9Iv4Hg9WPSHwuqNij1eo.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Peter Pan & Wendy (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Delicias turcas (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7X7f4SPNeqVgV9FTh3H2ubV0mX4.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Delicias turcas (1973)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elle (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdzV9fvgonYV4He2ic0Fd5p7YyJ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Elle (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lila dice (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPYxrRXL8FQqakrVIpld2mkoRdx.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Lila dice (2005)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmlYg0HdVQDvvNlWishWT2WdxkE.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Alias (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clock (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCADhsz1DGb2eT35v4Pcq7widm1.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Clock (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conspiración en El Cairo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE9luVrvniOZZ63Zf7qoguNARrM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Conspiración en El Cairo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misión: Imposible 7, Sentencia mortal Part.1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHwE7q0OueJPAiyPjTMNuKR3sTF.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Misión: Imposible 7, Sentencia mortal Part.1 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un fin de semana estupendo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9O8jKruyHRYTdGJg5I1u7b2JbVE.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un fin de semana estupendo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BZRP Live Tour 2023 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o690ugcCVwgYPHAEm5KcjZuHjtc.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",BZRP Live Tour 2023 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: Honor entre ladrones (2023)4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77XBzUUFX5aHI3Jz3ipJTtsDWzk.jpg" group-title="☢️Películas en 4K⭐️",Dungeons & Dragons: Honor entre ladrones (2023)4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: Honor entre ladrones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77XBzUUFX5aHI3Jz3ipJTtsDWzk.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Dungeons & Dragons: Honor entre ladrones (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista del papa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcknZEeD71byJ3XSalDDZ5iHpNr.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El exorcista del papa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista del papa (2023) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcknZEeD71byJ3XSalDDZ5iHpNr.jpg" group-title="☢️Películas en 4K⭐️",El exorcista del papa (2023) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gigi & Nate (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xP1GXV1gms9b5BpHZP7S8qs8FO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Gigi & Nate (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Governance - Il prezzo del potere (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkFyyZtWjfS2F8V14wLoVS7zQui.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Governance - Il prezzo del potere (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quizás para siempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfODWkrxyC8kRrTOMyCCVIknJg8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Quizás para siempre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Renfield (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGw4zPyiBAx9B1j9pKYWSvFiLug.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Renfield (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy inocente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdgVuWwp0UBAnpRdbhoLkObatsV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Soy inocente (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Matchmaker (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53h5Z8ll4ahF08CQcZvDeRVGyvw.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Matchmaker (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Tank (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUgX2s9OmZfXw287SbSE9Re5p0D.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Tank (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos pecadoras y una mula (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8JbQe3WqhnX1yDglxUvkspNugJ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Dos pecadoras y una mula (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wildflower (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsNulf9CgHSSRSCgdhNsLynUTvm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Wildflower (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Que se besen! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RaNad34VW30h7g6LgaqBCERaPU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",¡Que se besen! (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El increíble Hulk (2008) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg" group-title="☢️Películas en 4K⭐️",El increíble Hulk (2008) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Joker (2019) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="☢️Películas en 4K⭐️",Joker (2019) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: Siguiente nivel (2019) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8R5yw0vShsgHSjeikVcPdkaWAW.jpg" group-title="☢️Películas en 4K⭐️",Jumanji: Siguiente nivel (2019) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park (Parque Jurásico) (1993) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg" group-title="☢️Películas en 4K⭐️",Jurassic Park (Parque Jurásico) (1993) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia Addams (2019) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/307Y96L1iJ6gujCfuGPWNTqgbBd.jpg" group-title="☢️Películas en 4K⭐️",La familia Addams (2019) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Increíbles 2 (2018) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rebOnIOf2AYadW3TsvaPWeghKdG.jpg" group-title="☢️Películas en 4K⭐️",Los Increíbles 2 (2018) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La caza (2020) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WCuPRfa0h8jMT4Iu2jIIQXqllM.jpg" group-title="☢️Películas en 4K⭐️",La caza (2020) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: el mundo oscuro (2013) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg" group-title="☢️Películas en 4K⭐️",Thor: el mundo oscuro (2013) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venom (2018) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMBTJQiHAyGlZR05J2sq5coA6ew.jpg" group-title="☢️Películas en 4K⭐️",Venom (2018) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El club de los asesinos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El club de los asesinos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Petite nature (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g675YSbbvwZ4akwgXOeFAeGBh9B.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Petite nature (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Artifice Girl (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3qrVjsBd4IZ3QWHMs2x1dwRxuX.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Artifice Girl (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Huntress of Auschwitz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Swo97IutuMDSUulAfpPvmZ7ybp.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Huntress of Auschwitz (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wait With Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34cgjVoAIXVsZ2uZkTsdxWhv2Si.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Wait With Me (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="300 (2007) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLQG9fqH01f8eFRAaSUJY7va92x.jpg" group-title="☢️Películas en 4K⭐️",300 (2007) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barbarian (2022) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHDL6LTRgc9h3oGkeoWVJpnkhTI.jpg" group-title="☢️Películas en 4K⭐️",Barbarian (2022) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Independence Day (1996) Ver. Extendida 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5DEw5OWMVSn5tm6mL4osl4aNp1.jpg" group-title="☢️Películas en 4K⭐️",Independence Day (1996) Ver. Extendida 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los archivos del Pentágono (2017) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhUoPnkR7aAJgkQ1fq1Rm3jaenH.jpg" group-title="☢️Películas en 4K⭐️",Los archivos del Pentágono (2017) 4K
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4 (2019) 4K Ver. Extendida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg" group-title="☢️Películas en 4K⭐️",Toy Story 4 (2019) 4K Ver. Extendida
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En la cama (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llDD0c4uFy6hf9BqJHPua2E7k79.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",En la cama (2005)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Vivir a tope! (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9uYeVR2vGMhSPPqzHrmIXfFP92.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",¡Vivir a tope! (1980)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ali & Ratu Ratu Queens (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8Cl3INZDciQMEhEkZtFOQvc37t.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Ali & Ratu Ratu Queens (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Confidential Assignment 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGzfZHlOQNCggWwCiDjl3cLbWfB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Confidential Assignment 2 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dialogando con la vida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wWJIjOpd00zAHWTkqmJRfN1vP4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Dialogando con la vida (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El falsificador de pasaportes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7DyvPLdrz41CyMRJy8LlNT1waO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El falsificador de pasaportes (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El libro del amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmV65p9u3aET87uZL2eq4hzcUtv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El libro del amor (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Identidad desbloqueada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2o6sK6yUOcQQUC9qJ37CaaXwhu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Identidad desbloqueada (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La vaca que cantó una canción hacia el futuro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nXRJNpGs3sIgxtQhdJ94m9DjrZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La vaca que cantó una canción hacia el futuro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Hasta la madre del día de las madres! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j741ip55NOzabrllOXHJv2vpag7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",¡Hasta la madre del día de las madres! (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lo que sabemos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulCSi83gWcBV1mKJp4ZML3dIegU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lo que sabemos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mafia Mamma (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zi0Lrmtvhrz52VXUjwEKlXItF9q.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mafia Mamma (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una estafa celestial (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evpyqT25VJzFT5juDflTM6OW5zW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una estafa celestial (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uno para morir (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tP0xZWNqNNM0PEhkURsKriTQT9j.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Uno para morir (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hogar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jAU8PoS80O8ojsk6mMhF3Sekle.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El Hogar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eugénie Grandet (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cOnZ3BEptXHoGul3wHO3hJNKR0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Eugénie Grandet (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Simulant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOPQfKJXYquH12pP7UoQWxoM0kN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Simulant (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El club del odio (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYNb0eDCeGscxwiG639YK6zGEp2.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El club del odio (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ran (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbOJCLmJo28EuSnKmBGGyVKkqXp.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Ran (1985)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fanny y Alexander (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heSihYfiOqSNeWcuCRP2GoApZJO.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Fanny y Alexander (1982)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La ley de la calle (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhkBx2ehlxZVLclBXuojUZuSjB6.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La ley de la calle (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mujeres al borde de un ataque de nervios (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrKTdxVnAToD1xYLvPgDkYPMLEC.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Mujeres al borde de un ataque de nervios (1988)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="París, Texas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7G6ea5djDvCxfqfoMAX8479T4UB.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",París, Texas (1984)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Top Secret! (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkG8jtkrfoTCqKlV3c9ef8Yblwd.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Top Secret! (1984)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zelig (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGqM1TtnpPjOIDsCpMNDxuwrnnF.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Zelig (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gran Maurice (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NyJrjuWppb3EaFR5rgcSRAQOsu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El gran Maurice (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Retorno a Seul (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKVu2QqARzNZUkO9IpoSFaOXIRG.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Retorno a Seul (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sebastiane (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBek1olo2OUVmK3j0NMYRvKprpA.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Sebastiane (1976)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baby Ruby (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUizkrlKbT4nHXUElvnIrjcPsDd.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Baby Ruby (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cráter: Un viaje inolvidable (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppEvMrq2nvV9DfBHuCRilf2MBnm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Cráter: Un viaje inolvidable (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jacir (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4w5ENsy1E43lZ7ppbkq8E6GU2t.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Jacir (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La madre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNYtkngatCVyDvbSkaYV2ZOr0lS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La madre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las ocho montañas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k005afxR9TZSFRcFN5XiPEjNQ8C.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Las ocho montañas (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Ritual Killer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VtHaELqLMovl8EueBWHDtihhzF.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Ritual Killer (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Y qué tendrá que ver el amor? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TeJM4rWDCEnkJnogr9ofIcvQqv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",¿Y qué tendrá que ver el amor? (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casi legal (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gV98nDSnwjumY0OYyjoWB0RxKBB.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Casi legal (2005)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey de la mentira (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzCwMUwbBlta7g0h7cHlB1Rd476.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El rey de la mentira (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Irati (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uwbef3ip9qcoD0j36jy1Ik294J.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Irati (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paint (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Paint (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Royalteen: La princesa Margrethe (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OJDfBoMXYrkSkLQOqtWD3bHnKX.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Royalteen: La princesa Margrethe (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Best Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Best Man (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guy Ritchie's The Covenant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aX0H63vho7rZ9Rm3I567Zf00Z1t.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Guy Ritchie's The Covenant (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tierra sin ley (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DrJ19myvxs9knBO2q9oQFKnmfo.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tierra sin ley (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amén. (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mtN5NibaTPfYT8nJwTS0vlbSXS.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Amén. (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="An American Crime (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vj3s5KeX5j4JFvYaY1R3MYnVEhh.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",An American Crime (2007)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caso Murer: El carnicero de Vilnius (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6ZQG0sNDy7EkCrhasdFoDJjlbE.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Caso Murer: El carnicero de Vilnius (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Charlotte Gray (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kL761UQoKJY6bueghxUxy54d41p.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Charlotte Gray (2001)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corazones en Atlántida (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zawlaoIjaH7ezAYU0WcaEKbQNrV.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Corazones en Atlántida (2001)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Alamein - La línea de fuego (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEwhYa1ujViWRSHUvSfqXmyLLHE.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El Alamein - La línea de fuego (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El coronel Von Ryan (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZVIHDX7niuhV8mQttlbJCfkf7i.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El coronel Von Ryan (1965)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Election (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OetgQOUc4VRhj2tgjOUWwywh9K.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Election (1999)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En la niebla (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeA8etvUyukfVstlJqurj2UkFza.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",En la niebla (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Feliz Navidad (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34nEcjsYTaggGbcaERZkyG7Pw2Y.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Feliz Navidad (2005)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Aventura De Blue En La Ciudad (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MPU8RGqNW10IKtHDlqHZhfqj64.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Gran Aventura De Blue En La Ciudad (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Morituri (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXhWg0m92zVGaei06FYw5lQFAoQ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Morituri (1965)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Napola, escuela de élite nazi (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG1F2M8vSflAweknkKSo8wSEO70.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Napola, escuela de élite nazi (2004)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Senderos de Honor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HkQbu061A61KyTBDq35wM1G63v.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Senderos de Honor (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Senna (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Senna (2010)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tigerland (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnFdCvxxL44sPLkKEIJCUaIZa7M.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Tigerland (2000)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tommy (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyOZI8GHUwkbublxRmtmZp8zJsD.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Tommy (1975)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una historia real (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MIj60A45VbmtUFYObXgvg7ztkG.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Una historia real (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Name (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Your Name (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anna Nicole Smith: Tú no me conoces (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G0lRuW4PmVoyCqwIrm2qfNsu5I.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Anna Nicole Smith: Tú no me conoces (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fanfik (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qgkVtpVabAzjQaJTgx3Vmqnmyj.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Fanfik (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PLAN 75 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hveZXkNJOrTOFLIrFs0VKwue6sp.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",PLAN 75 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sisu (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sisu (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Astérix y Obélix: El reino medio (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQy5hTqiioNHe85RuPcMyaio9Sp.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Astérix y Obélix: El reino medio (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El puño del cóndor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/un2Yq2QFMvXlWlBdM0orrkiFUtb.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El puño del cóndor (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hitler: una biografía (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v3CCJO6QRCeWpqvGqDR6e7i766.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Hitler: una biografía (1977)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La extorsión (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fn3Z1gfVUDWd8ZQ9m2VhdwCFCMW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La extorsión (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misántropo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfjxw4nBFe7DlOMujBBcDnRb6KR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Misántropo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nunca llueve en California (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMIcIiJRRHEmEFssiYAAyQtr3zb.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Nunca llueve en California (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pasando página (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsgu9dtmeJlxvgRbfrRJQ8gfYD4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Pasando página (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Robots (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Robots (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sleepy Hollow (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEsDyXI4LTjS0RmlUehHUGI7Xny.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Sleepy Hollow (1999)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El otro lado de la esperanza (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhYEvAxTuahWGtqFunfl3X1dFkN.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El otro lado de la esperanza (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="White Men Can't Jump (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faxmOb7s9Snm4hA6qJN8eYvfpcu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",White Men Can't Jump (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los colores del incendio (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0gdCYwLIWfFzYGTNxNIkk6wd6F.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los colores del incendio (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Swan Princess: A Fairytale Is Born (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2axXVpi3dKfESWzgncbakLB7o7f.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Swan Princess: A Fairytale Is Born (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Día de la Madre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0cgE4w92PyQ3Xyc8ClBHlAlsLu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Día de la Madre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El niño y el tigre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7LfZhnN96Zs2xv8c0PeaExU1yw.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El niño y el tigre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En tus sueños (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfykO4wU6xwhvLBby3jQbxdYYpm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",En tus sueños (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los tres mosqueteros: D'Artagnan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los tres mosqueteros: D'Artagnan (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love to Love You, Donna Summer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vEx3khgj8I2saMfny2hlFXw6uD.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Love to Love You, Donna Summer (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muchas mas hormigas entre las piernas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PuK45DWcRlp47v7hbOO0IZZSi6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Muchas mas hormigas entre las piernas (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tina (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQwPlfEhgWOwCskGqcP5993eZiy.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Tina (1993)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big George Foreman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Big George Foreman (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Polite Society (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lv1WqAo2ulQy9aSOG7ikR44p8RR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Polite Society (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sorry We Missed You (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAoc7qOhbmxG2PHd6L0rmZ7Qc2n.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Sorry We Missed You (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calvary (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzgiam18I0gR20LB8BAE5u4dIdm.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Calvary (2014)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Comanchería (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGihwoxhAjPrnrjpTPowuIOU3jy.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Comanchería (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y un destino (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2w6Ik8P1E20KOH5ykQlfTjawAIf.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Dos hombres y un destino (1969)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo sobre ruedas (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwGsxfMNLx3RUQGyl23419CC1RO.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El diablo sobre ruedas (1971)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grupo salvaje (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RLSKxIbW10kFKJirxVYDwwmDAl.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Grupo salvaje (1969)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La propuesta (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4j7s9SzaJTfjkorMX1iY38IzZi.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La propuesta (2005)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La vida de David Gale (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TuVaT4OyBwVk7cbMrGujvNQj6m.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La vida de David Gale (2003)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los tres entierros de Melquiades Estrada (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PjrJ4xxjditSnfYsSBl2igj8TA.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los tres entierros de Melquiades Estrada (2005)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vividores (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSBoPqIWaUNZB98JEWnCutyy0QR.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los vividores (1971)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Olvídate de mí! (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bHEXzzccUsBNOS6rn9uvi3vAGW.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",¡Olvídate de mí! (2004)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Open Range (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0zydHSE3kaidjDdlc4T6xnp113.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Open Range (2003)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vidas rebeldes (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UhAj0KDpUfSx0dRoI4KNRCF4a7.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Vidas rebeldes (1961)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invitación a un asesinato (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OyzvMrVx2tXjyJiE3GZpvaXE2T.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Invitación a un asesinato (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Trampa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXhPTEIEDxekCZg9DwZQNshZ432.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Trampa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Crimenes De Fjallbacka: Las huellas imborrables (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzP46IOF8CN8bhGkTohxoJP4iIv.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los Crimenes De Fjallbacka: Las huellas imborrables (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162326.avi
+#EXTINF:-1 tvg-id="" tvg-name="Posesión infernal: El despertar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Posesión infernal: El despertar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sangre y oro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Tdu098zuhY4AGG5CHYJZRIu5yO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sangre y oro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tin y Tina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tin y Tina (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kurak Günler (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bcxQtrTYvHnHrThrXrFQZmjC2H.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Kurak Günler (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Disquiet (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmGxyO7EijpDs3Zjyfpx1AM251S.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Disquiet (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Asombroso Mauricio (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El Asombroso Mauricio (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último vagón (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31IB4VXpan7JrQYnnr7g75YqOu8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El último vagón (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: Skipper y su gran aventura como canguro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PeshC5r6QoCzXT9RWj7fhArEX8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Barbie: Skipper y su gran aventura como canguro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El vestido de Oskar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UxD4S7v32x6I7IA0tQmqvoGVdb.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El vestido de Oskar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Es su vida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/getCiw4gm6zhtPUJ2EzfEuRoUU9.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Es su vida (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mixed by Erry (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eNtOleY02KXbYYyljwEE0YhdYb.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mixed by Erry (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coffee Wars (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUFyMJqKU6Izip7Hx4rzRnR9jIW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Coffee Wars (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El asistente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA7E73LT4xIgPOiix9lvIvYhM4Z.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El asistente (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cuchillo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqDqQzyUYiJFFFhGyN5WYpMd2YZ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El cuchillo (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medellin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Hp8o8iMQUWyR3MVuZqSDc4nCI1.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Medellin (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ricos de Amor 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdAVVJT8TtC3S1VVHzh5eIX0CzQ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ricos de Amor 2 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sólo los tontos se enamoran (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxn69rfJhG1fSowYEH7TDsbeqfl.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Sólo los tontos se enamoran (1997)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una vida maravillosa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcDL57ZP833yQLC4kIqNpRziWOF.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una vida maravillosa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El show de Truman (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BGVZSwv5n0hMIAWwiSjMFDQ63K.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El show de Truman (1998)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hazme girar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0NVmOTJdYXsSIcTPf4yjkn9v3.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Hazme girar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ángel Nieto: El hombre que venció al tiempo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afbOGDvvx4kYrdJrCu5MSTMd15O.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ángel Nieto: El hombre que venció al tiempo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barton Fink (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8Jd8T2UktNkECPfaleruDt3zUf.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Barton Fink (1991)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bienvenido Mr. Chance (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjVUeQluMfAwbP5MFwDVULTKmu5.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Bienvenido Mr. Chance (1979)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey Arturo (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVN4j2Kp8k91qe0DmJp8RheBDSx.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El rey Arturo (2004)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gran salto (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOjTpUOD0y4NQbjNpP0A0z8I4K9.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El gran salto (1994)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escuela de jóvenes asesinos (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ASp83nXqK6Vf6XiAKZYSpxAiOJ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Escuela de jóvenes asesinos (1989)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esperando la carroza (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkSThbNiC6kimvLlWrgeTNYLCeq.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Esperando la carroza (1985)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maquia: Una historia de amor inmortal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUJvmSl8EOFAYgXO1VfwNoQPRLX.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Maquia: Una historia de amor inmortal (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gumraah (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2b4tehQxGI9RJdlyEES1vbl8lg0.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Gumraah (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demonio negro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohxEF8mZb7eVeUZonUk60BAVN5u.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Demonio negro (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Año Inolvidable – Verano (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/325sMn8WmtFsbtROkmqJseBWnAz.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un Año Inolvidable – Verano (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious X (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmdi62j5uJV60EtYY8zsE1LRYEf.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Fast & Furious X (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hypnotic (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IhGkkalwXguTlceGSl8XUJZOVI.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Hypnotic (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reality (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rS1rcaeIJd2zdTn2G8RMfTNeiV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Reality (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malum (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1rcLLs0KmS8Cg60sLoMZC2OyDR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Malum (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Book Club: Ahora Italia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZFPQjmh2zsWBcpJtlwWuxnMxe5.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Book Club: Ahora Italia (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kathal: El misterio de las Yacas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzVMUMN3tkLXdGbLHbOJ6sfXYI.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Kathal: El misterio de las Yacas (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BlackBerry (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neV35lK7em4rIY9QIoH1cruErPA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",BlackBerry (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cita con el engaño (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO2qwy63X17ii7Qj4zCyZf9v4Mf.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Cita con el engaño (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Missed Connections (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olTz451Gk1EhVlzUUT6SUv2Nwrg.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Missed Connections (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flamin'Hot: La historia de los Cheetos picantes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMPbgcM3Fp30pneRCVd7lA4EHxN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Flamin'Hot: La historia de los Cheetos picantes (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Last Sentinel (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1o9B0ibENdNroYrBCQemG2jnr.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Last Sentinel (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nene revancha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vImrNiQO20QgkWIFbhdP00PpY9m.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Nene revancha (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Please Baby Please (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csdPm6ROtpfvZCvLmPioi48jg6M.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Please Baby Please (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ricos de Amor 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdAVVJT8TtC3S1VVHzh5eIX0CzQ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ricos de Amor 2 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siempre fiel (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnkEFuFG4M20Y3Ir06woW8eGMVp.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Siempre fiel (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro con la muerte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bw5vCQVaXnvXUI7zYWA24aElhFu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Encuentro con la muerte (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invitación a un asesinato (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMA79k1ClhT0AKNEwKlZ3YhdP2A.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Invitación a un asesinato (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La viajante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ly3RDAZbDHGmJ8YdcBt3SLQ0XoM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La viajante (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pasando página (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsgu9dtmeJlxvgRbfrRJQ8gfYD4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Pasando página (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la Galaxia: Volumen 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voAxRv011XHK2qFBXmZKXPj2wWB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Guardianes de la Galaxia: Volumen 3 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sé tú misma (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jOLkhDWmmzcJEhZNpDU39CNbCe.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sé tú misma (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Showing Up (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klzlMxr8G8OQMqzxJXQ0rcO9fEH.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Showing Up (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Somewhere in Queens (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AenJ68E9z4IeasZs72jUgwO4Fo5.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Somewhere in Queens (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Cruzando el Multiverso (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Spider-Man: Cruzando el Multiverso (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BOL: AGRO TV ᴮᵒˡⁱᵛᵃ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Agro_TV_logo.png" group-title="BOLIVIA⭐️PREMIUM",BOL: AGRO TV ᴮᵒˡⁱᵛᵃ ᴴᴰ
+http://magmas5.com:8000/reynaldovigodsky/IE8c9qX4t8/162553
+#EXTINF:-1 tvg-id="" tvg-name="Amar es madurar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MN8Qxg691Az7nofmXkZPsuIZVD.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Amar es madurar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brooklyn 45 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dN8IIAvzIW3XX8aOvA9aQubK4hd.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Brooklyn 45 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Confession (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UKp0P1tvZV2XXFwWoCCWjekGfR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Confession (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El general Witchfinder (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OwL9KIyjIG2jvAYrvfW0mzejQT.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El general Witchfinder (1968)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El plenilunio de las vírgenes (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMhscF0jvJQjgJ9E80jASENIJI.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El plenilunio de las vírgenes (1973)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los demonios (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hdL0VAC90FzI6vfNKJHuBFxCIO.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Los demonios (1973)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los amantes del Pont-Neuf (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zji0PfBrJrWBBMrRK5NngWxIrG1.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los amantes del Pont-Neuf (1991)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thy Neighbor's Wife (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cYHtflqJOftAfCWRmeqhjsCcBh.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Thy Neighbor's Wife (2001)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saint-Narcisse (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcOr3yo6UQ4GIvIANZDqvMf7RxJ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Saint-Narcisse (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Killer Pussy (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzh3OMGLiKI8AwaVltwSIjkaNr2.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Killer Pussy (1988)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silip (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v49jwF7f3aTzQrrOnWmEnW0mStH.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Silip (1985)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de Dios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCCvVvhBmps5cKMImGiIuvQ26Rv.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Tierra de Dios (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un toque de canela (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1sylFQKfEeKb9mzOg7yBCu8NGw.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Un toque de canela (2003)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Clover: La espada del rey mago (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqaSA9MW9nZLbl7NKVDlTQ2Fwwo.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Black Clover: La espada del rey mago (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esposa de Alquiler (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yL2YJkJRWLWbadhM6EOFvnO1op7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Esposa de Alquiler (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hijo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SgIad0VaPFYQJu8gZ6BfmuZjlU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El hijo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Joyland (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26FoI57nVRuvjWKZghD0fSqFnxk.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Joyland (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sissy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMGE2kvlG4LPZm4IgiEtC9ZsPKb.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sissy (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spoonful of Sugar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4cLHdAJCHqAWIIplCHEyG6JgrR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Spoonful of Sugar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas al Mediodia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viR50oQCs8ObciADFGWHUyChexZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Las Estrellas al Mediodia (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="To Leslie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEMK2q0VDqlHje7rx88lKmZpm0R.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",To Leslie (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chevalier (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRvqJLGhhW43DNTgn5IJzIuqkqk.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Chevalier (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rumba terapia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQsOK0wPsMsLUE7ZbC6R2gU2yLX.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Rumba terapia (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tyler Rake 2 (2023)*uhd" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT0Eyfw0VXlnk8sMKfyFiKj8UsK.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tyler Rake 2 (2023)*uhd
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tyler Rake 2 (2023) HQ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT0Eyfw0VXlnk8sMKfyFiKj8UsK.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tyler Rake 2 (2023) HQ
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El pueblo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCN60OSsGz8FQRda0ZwQJtwPcrU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El pueblo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pathfinder, el guía del desfiladero (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXUHaRA5jR3E3uqfex7uV6XQI5c.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Pathfinder, el guía del desfiladero (1987)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Handia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozmAjrtZPupU5Op4epv6Qg87MY9.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Handia (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I am not a serial killer (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfhVJQGUV3Lmun9wzdaPmBJ8s2u.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",I am not a serial killer (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juego de manos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvTleGJNOqS3Ambey6rfGQr1mBC.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Juego de manos (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La batalla de Solférino (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ga63T8UvWRgtyk9oUzTU9ZEizks.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La batalla de Solférino (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La orgía de la sangre (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJqmoXegFG2vzDvkaFnSnKyxMi4.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La orgía de la sangre (1972)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matewan (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdQ2MCsrsC39Ta9x05sWOb9wi5B.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Matewan (1987)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Onibaba (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptk0GHF7xwVxFinfsG31UGUlcl6.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Onibaba (1964)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operación Kandahar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE2EsMv37IjXLjc6ixOU3LeRtZl.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Operación Kandahar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Play Dead (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ge53bTF46mWEod19IqM3sW7fA6B.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Play Dead (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Quiet Girl (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrq5A54Zb2y2MfHcVhBG3t2OJgS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Quiet Girl (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En lo bueno y en lo malo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgwwvYHiNlzETpofFVWD6YgIYJT.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",En lo bueno y en lo malo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Expediente 39 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qT3IxgoA8aDZyKPIFLEWqshwLLR.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Expediente 39 (2009)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hillbilly, una elegía rural (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Hillbilly, una elegía rural (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Qué les pasa a los hombres (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xA1V7JmGeGbXYaLxh3wLdTIwZ0.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Qué les pasa a los hombres (2009)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abandonada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Abandonada (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El lado bueno de las cosas (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YXWHl2oP8OFT5CtG3EoeMQtAAD.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El lado bueno de las cosas (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El color del cielo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCxfBUnqxnmF6iggs5Pj3jeadKo.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El color del cielo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El misterio Von Bülow (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4t5VSYdivg6Yvya3CwtKdMfriu.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El misterio Von Bülow (1990)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harley Queen: Un muy problemático San Valentín (2023)" tvg-logo="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609122126l/24907919.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Harley Queen: Un muy problemático San Valentín (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La inspiración. El gran Pirandello (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8krV0EfvEDpfIg8836jaGM6qJyg.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La inspiración. El gran Pirandello (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla americana (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWa89Rr95zFYqTKVfDPKpjrofsM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Pesadilla americana (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tengo sueños eléctricos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB4eLVPwOnfjpNo2rsqVF6LQ5DM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tengo sueños eléctricos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un año, una noche (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1E3lYdfsiWRe3pJrSGnYWUpiZ2W.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un año, una noche (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A través del mar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykS1waU5GsEjPbiNnsHG2bl9QvS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",A través del mar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bendita Suegra (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Bendita Suegra (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La combinación perfecta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DGWP1xSdm87g1NkTX9qGNFYmv3.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La combinación perfecta (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Guerra De Los Mundos: El Ataque (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0xF7q5k07BRVJz9Z3A8dGdbpLR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Guerra De Los Mundos: El Ataque (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Usurpadora (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40UPlmnQcG71KSmjijksZjbsH2q.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Usurpadora (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Jones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpCKOsAmKLD67mwugN6hrPvdPZl.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mr. Jones (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nada que ver (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Nada que ver (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="iNumber Number: El oro de Johannesburgo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDB9jDwOe3XsctylK1cTbPBtFdl.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",iNumber Number: El oro de Johannesburgo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Propiedad privada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8PuDdMqAOcaXGbaQRonev2KVV9.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Propiedad privada (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy una buena persona (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gptu4fXCs7LjuqAhNIvftTyozXp.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Soy una buena persona (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una imagen para creer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eocY3RtunPbRPrZHHZxhvNZxbJ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una imagen para creer (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mejor del mundo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giJ6X8za9OeYccavGPvg7Vbeuoq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El mejor del mundo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="99 Moons (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hdVTMczTVcKEGgdL7ze5Xfor4n.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",99 Moons (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amy Schumer: Emergency Contact (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yi3rC99fntOrrdX3Dg54cM5cKK6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Amy Schumer: Emergency Contact (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tocando el cielo (Spinning Gold) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZ8SrE8frfpTzz9JxoTNScscoIL.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Tocando el cielo (Spinning Gold) (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El maestro jardinero (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLzoUtTN1yf2RZkA7NiZTjvKI4B.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El maestro jardinero (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Invisible Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jobwUwGIKRS1NwdEjYGlk6Rao5H.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Fear the Invisible Man (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La inspección (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0TDsnWxdVyWo6jCYY0DwZjf9UO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La inspección (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jagged Mind (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llvoAqUBvnhuo6M4iQah1SGE6kZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Jagged Mind (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nefarious (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwjWUAajQJPj5aik1tounPguZbz.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Nefarious (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sanctuary (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpVGR5tPhTmTiqSu8kvrSsNCQLl.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sanctuary (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shadow Master (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41855k2Ex9VQ6OUMmzPz63NNLnx.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Shadow Master (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sparta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKYXcKmJngpKWgwtrJr4RQCdwF9.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sparta (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stan Lee (Documental) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP70daoMEPRoeAxnI0bQ4n5SgH6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Stan Lee (Documental) (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Surrounded (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVVvlosgMU6aePXavihV3L3V3D6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Surrounded (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuiden a Maya (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Cuiden a Maya (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taz: búsqueda de hamburguesa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qS2KvIftgBf32ijeMuAwb6DbHkP.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Taz: búsqueda de hamburguesa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las semanas mágicas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/at2D9VBuZoZU6SDLt7ZMqoDggfY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Las semanas mágicas (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ira de Becky (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La ira de Becky (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: El despertar de las bestias (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu24fXpro7jx4XFlgEWwElW1kgW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Transformers: El despertar de las bestias (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trigal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7hHt7uGV7U7P91C3e4exfWAPPr.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Trigal (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="You Hurt My Feelings (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/do9UvkcDJeYbhYVoQPS00yOCYdc.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",You Hurt My Feelings (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adivina quién viene esta noche (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7r92JSmLXlKhUTma0uSYEg4Cufz.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Adivina quién viene esta noche (1967)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ali G anda suelto (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzmCrJJrsOyi80HIqRLXEudM73F.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Ali G anda suelto (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clara y Claire (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGym4gblB9H2hRhfimZuaFZmw9p.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Clara y Claire (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clerks (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY0PDi3ZiyExPzeW9rzYMe1fnDo.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Clerks (1994)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En el calor de la noche (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRkD04pmGpVSYsObL4LZctxiCt9.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",En el calor de la noche (1967)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Figuras ocultas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiufjE3kfM9e0qIlEdGEmkUcXky.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Figuras ocultas (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Brown (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6bCO7BhJJCQehaEqHc4fx80kiG.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Jackie Brown (1997)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kramer contra Kramer (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9quU6B8aO7rrx7wUGzkpSlHkz9.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Kramer contra Kramer (1979)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cena de los idiotas (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWl88GNb0yWGA6WC0jabopZp4Z0.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La cena de los idiotas (1998)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La herencia del viento (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upW1VQj2rvwjvI8a34UU3BoXKzW.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La herencia del viento (1960)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pequeña Miss Sunshine (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGuIFlvqX6R3zvR4c05uId6fj5i.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Pequeña Miss Sunshine (2006)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood, príncipe de los ladrones (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Robin Hood, príncipe de los ladrones (1991)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Señora Doubtfire, papá de por vida (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pgGifaw3nrjm9NtnbVhqtBiHPb.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Señora Doubtfire, papá de por vida (1993)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tootsie (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoza1QYYc0Ukh5yY1emL6HRdSYm.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Tootsie (1982)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un funeral de muerte (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnYc8kN8RVfW0X8ogAi06pAprZD.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Un funeral de muerte (2007)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cazador de recompensas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L7MhsmvQ43fSIE202UcvJJ3kJT.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El cazador de recompensas (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Isósceles (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJarhodfImuUp2DiAlHO2y2ujkt.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Isósceles (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Again (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFZp6cZjASgJhoRZ6nLP9CrWwAC.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Love Again (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Y todos arderán (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc3VXNFCnVqBCcQjiYsRL0uViJq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Y todos arderán (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zambezia (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aJl440TlbyqthklVrvCnSbjKYe.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Zambezia (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aashiqui 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOaqgAHVz6Zaen8zPwBdzBxBuEz.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Aashiqui 3 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El club de mama (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xnwPH5V4PBeZIhFCtRlX4237PV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El club de mama (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey de los clones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJAF2h2iLLCpKUocEnoJz7wKtWq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El rey de los clones (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hex (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCBjrtjbwFKL5JUY5BHJglMJSoW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Hex (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La combinación perfecta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DGWP1xSdm87g1NkTX9qGNFYmv3.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La combinación perfecta (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Caballeros del Zodíaco (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqhO44oc0pWM32seJeXMcjPLvwV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los Caballeros del Zodíaco (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snag (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhj4Q39qMSk6X5Ly9j9Yqyjrg5A.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Snag (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Moderator (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNyW8niMiA74JHciyQZSzIN2bmz.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Moderator (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Park (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hR1jdCw0A9czgsbp45TASkjjBhA.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Park (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atraco en Familia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5xFBESbR2z1PRDA2VK9Ld6MJHX.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Atraco en Familia (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carajita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMUGz4OsBhOTlyy8Ilmp9P0LDPD.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Carajita (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Custodia compartida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gk6keGOI1ATnpXtnOXJfDhiBdwW.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Custodia compartida (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Link: El origen perdido (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKLnA7SRgSUvsm81KLjgcDl0rDc.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Mr. Link: El origen perdido (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sinfonía erótica (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSEnDyo0qhhID28WoUSInCCEUx8.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Sinfonía erótica (1980)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Southland Tales (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74mnlHxAYSuXNz7kP84d7qijkxm.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Southland Tales (2007)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La teta asustada (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjlfAZXBIZLrBK4dcYtX0WWatoo.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La teta asustada (2009)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo sobre mi padre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFkGF6Nl46GkASRgdgFsvTn6ZfR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Todo sobre mi padre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Human Position (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5okttbNFi5oPS0c8EgwwedOco7e.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",A Human Position (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Culpa mía (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp31EwMH5D2bftOjscwkgTmoLAB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Culpa mía (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Huye, conejo, huye (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWPEl0K0t697HGjIPZStNMByjY3.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Huye, conejo, huye (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nimona (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWRY8HRXI1DVWB7rNvpmFWwSnCC.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Nimona (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sucias mentiras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukwRqmkKNj7FD2lSUa2usdyqFsv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sucias mentiras (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Machine (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9dGI7LIOMMlFzyIBUta1svft2Y.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Machine (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yuku y la flor del Himalaya (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr07zky3TEj8ABXYoU46WU7ZUqi.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Yuku y la flor del Himalaya (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie (1999) Inedit." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnuUgdlpB6gVEqieR7TrEtYL23T.jpg" group-title="⚡Todas las Sagas Épicas⚡",American Pie (1999) Inedit.
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap9SAk1FgcoPETCn60QUGw9jbbp.jpg" group-title="⚡Todas las Sagas Épicas⚡",American Pie 2 (2001)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie: El reencuentro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prurn3HioMykwlFMZdfvJ88iPlM.jpg" group-title="⚡Todas las Sagas Épicas⚡",American Pie: El reencuentro (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie ¡Menuda boda! (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg" group-title="⚡Todas las Sagas Épicas⚡",American Pie ¡Menuda boda! (2003)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Band Camp (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aH2DwyuUi63o65Ciw9sUfmNMFZg.jpg" group-title="⚡Todas las Sagas Épicas⚡",American Pie presenta: Band Camp (2005)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: El libro del amor (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WDbcnxUdhBNtMv8BzO1agc1ozp.jpg" group-title="⚡Todas las Sagas Épicas⚡",American Pie presenta: El libro del amor (2009)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Fraternidad Beta (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE99yrphO0UsQRd9bFn8zu4HXuc.jpg" group-title="⚡Todas las Sagas Épicas⚡",American Pie presenta: Fraternidad Beta (2007)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Una fiesta de pelotas (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18uUWwuAK4B56Cwf1sEY5OzYAUM.jpg" group-title="⚡Todas las Sagas Épicas⚡",American Pie presenta: Una fiesta de pelotas (2006)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La teoría de los vidrios rotos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpdhGnYXkSz7Q3vSSXkEW9F3O90.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",La teoría de los vidrios rotos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Dios pongo por testigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7sKAmF8E38EuZbfkpiwRqglYvV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",A Dios pongo por testigo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Contigo a muerte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCaAcunvp2yabxG5I1HACKbKw1p.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Contigo a muerte (2021)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crimen en portada (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BgX4IUMTNgfB7VDQTAS4SIx2Uh.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Crimen en portada (1997)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El libro del amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmV65p9u3aET87uZL2eq4hzcUtv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El libro del amor (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El velo pintado (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksJvgX9bnx35kPBpRTkRFPFMjSy.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El velo pintado (2006)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espías desde el cielo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NGQs6IB5DyD3lssfLX0B6YZ7yf.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Espías desde el cielo (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Che, hasta la victoria siempre (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9O5foYJsnf4ZXsGV1GAFdyrUtZG.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Che, hasta la victoria siempre (1997)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sociedad de Honor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUyM9VBcIuGzACORtXEMD9tcgWv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sociedad de Honor (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La verdad sobre perros y gatos (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNroQvsVS77VwpHEzTbAsH24xkU.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La verdad sobre perros y gatos (1996)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nunca te dije pero debería haberte dicho (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLe01lWFtLJBxOoFEh7uBWTItc.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Nunca te dije pero debería haberte dicho (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los violadores del amanecer (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13PaVZDDSd717Q0aFh7P4I9Smin.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Los violadores del amanecer (1978)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maquíllame Otra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKV3WLdHOL313IImAoR2GFWC1W.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Maquíllame Otra Vez (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No hay salida (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIoktShqoxPVdc1RfuYBK6KvKlg.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",No hay salida (1987)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quiero Tu Vida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hk2kW6uwTEa8cxDeF1UPfIpEYkF.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Quiero Tu Vida (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saint Omer, el pueblo contra Laurence Coly (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skC8lc8VvWv3mkAdUPUnkiNvhkg.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Saint Omer, el pueblo contra Laurence Coly (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una femmina: código de silencio (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwE6kAOaCICVCXqvspUuFsjA7xR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una femmina: código de silencio (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Madre contra George W. Bush (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHBDu1ew4FpfLTTAd5nneAxH5bv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una Madre contra George W. Bush (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zama (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pfgZyIJ1AyXD4JB6b0d2IHzTLV.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Zama (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balaur (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyJrK89QJlW7Uhsa6lSPZnrxbup.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Balaur (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brad Pitt: todas las caras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoWINFTr9g6mYc0khUhq5s0vRRV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Brad Pitt: todas las caras (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Be Water (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUDtBBQEpmYptyk6wbYR54Sa2OD.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Be Water (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cielo no puede esperar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCbNscxh1Em6iDA3n64ZSceHc7N.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El Cielo no puede esperar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El despertar de María (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9PI9xX6hsedOYtWn0n3n1CQlJ9.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El despertar de María (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Empieza el baile (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEoR6wJA6uioAu8Pb1uU2UHLPc.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Empieza el baile (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Érase una vez en América (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4VnqaxINtKVscmdldZsBojU6jm.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Érase una vez en América (1984)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162924.avi
+#EXTINF:-1 tvg-id="" tvg-name="En los límites de la realidad (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s66HVGW0sxQWvh7APdzgEKF4XYP.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",En los límites de la realidad (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los impostores (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ueIvtH31S9nT6hddfRHHDuiYmM.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los impostores (2003)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sergio Leone, el italiano que inventó América (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRGp6TYdZ7NmvVSgI5Itw6Jylen.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sergio Leone, el italiano que inventó América (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La conspiración del Diablo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1czkLtquPkiQg3OqubHqNzr6jM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La conspiración del Diablo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tormenta blanca (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqYL0ybsIaEpEZtGxs8nz6tfijP.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Tormenta blanca (1996)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un buen año (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiBCP1XHF0IrtF3KCUIn2sKWtZd.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Un buen año (2006)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoe y Tempestad (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elD8P3zXAOy6k4SdpSPb7nCmH07.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Zoe y Tempestad (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cash (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x9u5HsxeSJu9SW9Pf6fVVDPwxv.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Cash (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad City (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btWOXgek5QlhhPO2U1Eup8AWCZ7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Bad City (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue Jean (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1T6e8WedMWQTTSTASSv6XHXtmUH.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Blue Jean (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La gran aventura suiza (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91aQLM2U4GFkgMTbiOYsLVKdzlH.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La gran aventura suiza (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los agitadores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVsm9S2fOj9pOohbAWBQEn0pjTO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los agitadores (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los iniciados (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51sVbW7cwa7UU6rPsCOqsM5dUec.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los iniciados (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un lugar por el que luchar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jctRQzzRqv2Ouvgj9HPRzRooafi.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un lugar por el que luchar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unos suegros de armas tomar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SCokFkHM5dTTTfiGXmPWysucMX.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Unos suegros de armas tomar (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vida y muerte en un almacén (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ybji7bQzOresjIwBAnIhiBEMip.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Vida y muerte en un almacén (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Austerlitz (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOXWAnF4blJ39UjtkQpn7ph4Plc.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Austerlitz (1960)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El día en que la Tierra se incendió (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhJuZxX3UrrRo2Fq4jUJ51RJIWO.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El día en que la Tierra se incendió (1961)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A ghost story (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IilPYDb2yVXaYhngoErjtfEAk.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",A ghost story (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blondi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beVSYThQxFrbMmvYnmRB4USwXlM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Blondi (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El frio en los huesos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El frio en los huesos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy inocente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdgVuWwp0UBAnpRdbhoLkObatsV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Soy inocente (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/162975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kurak Günler (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bcxQtrTYvHnHrThrXrFQZmjC2H.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Kurak Günler (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don Cochecito y los caballeros templarios (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNWSKYJtFR66zX6CeMSijQC4C0q.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Don Cochecito y los caballeros templarios (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Goodbye Berlin (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMAOtXRUvPEXJzrMhjqqwzD6IBi.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Goodbye Berlin (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lo Desconocido: Los Robots Asesinos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZ61VGpdRiMUlptBucnjBc64Wrj.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lo Desconocido: Los Robots Asesinos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maravilloso desastre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Maravilloso desastre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigos hasta la muerte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqSNWHKAmVudHhMDhUuV8qhSJLt.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Amigos hasta la muerte (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bird Box Barcelona (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Bird Box Barcelona (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asteroid City (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7LIE7oNZ6WU4ajf1FaXWyMYdpX.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Asteroid City (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lo desconocido: La pirámide perdida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KV7WxGjF5O5fhBJnjNME4jkJC7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lo desconocido: La pirámide perdida (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Volpina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phB6xCXDCj2iP9qEx57bVkrIwVB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Volpina (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acidman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzd14POdi80yv6kQ7w4vHAGPGF5.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Acidman (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lust Stories 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0kEiqWdbnXjlahZKkeJzHjF3Up.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lust Stories 2 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Being Mary Tyler Moore (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9048vuX1RucNdXAQVdFNLqheEd.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Being Mary Tyler Moore (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CMA Fest: 50 Years of Fan Fair (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EWNbC505dGxVSjJluH1jhoGu2i.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",CMA Fest: 50 Years of Fan Fair (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Confidential Informant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyU7H6OIvojQW0pjgjZjyNCP343.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Confidential Informant (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Leyenda de los Chaneques (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Leyenda de los Chaneques (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lionel Messi: Destiny (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaZjJeFNKVq8rpd4ElSFlONVLh6.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lionel Messi: Destiny (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maquíllame Otra Vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKV3WLdHOL313IImAoR2GFWC1W.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Maquíllame Otra Vez (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mari(dos) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJQx8Ba9NTWfMqWngoMDhIOiDCN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mari(dos) (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mercy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8voINwqMlscROrjhN97fGkmhvEV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mercy (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los tiburones blancos de Cabo Cod (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6DHXUeW7Tzhx5b4x5xl5MSczo5.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los tiburones blancos de Cabo Cod (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scarlet (L'envol) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPG2sVgjDwi1FUAg33d7vrDD5Qq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Scarlet (L'envol) (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sheroes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUAkQmihFmRxMYTa3AkvIzMCV4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sheroes (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seasons (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aS5ZUUFwRzQA1koExStJOk9UWoQ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Seasons (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blackening (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Blackening (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Jewel Thief (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXkcAw1vbLpPgW5G1C9jiW3zgRI.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Jewel Thief (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Roundup: No Way Out (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbremGnsRR4XZMDj97YHt20isRP.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Roundup: No Way Out (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Starling Girl (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysgnrkXwfFCxaBwviG2yNvzpfw5.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Starling Girl (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oppenheimer: el dilema de la bomba atómica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAgXJGC00jzO8An9On4QHeYMJqP.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Oppenheimer: el dilema de la bomba atómica (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lo Desconocido: Los Robots Asesinos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRisSnqHK4rZYy3FcJfMps5j4NU.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lo Desconocido: Los Robots Asesinos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Warhorse One (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laFhAOqkWFi4sFeGPg8uun2Julw.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Warhorse One (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wham! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7drGW0r92hORioVOigC7hWpVMm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Wham! (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Estás ahí Dios? Soy yo, Margarita (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",¿Estás ahí Dios? Soy yo, Margarita (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El caftán azul (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvEIodsUKbE5wR7WTHJZifMIu1R.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El caftán azul (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El clon de Tyrone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnzXoDaK346U4ByfvQenu2DZnTg.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El clon de Tyrone (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La inspiración. El gran Pirandello (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8krV0EfvEDpfIg8836jaGM6qJyg.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La inspiración. El gran Pirandello (2022)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las flores del vicio (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FcZMId4YJKkCHoJ8hfBf6Z0vbr.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Las flores del vicio (1979)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mrs. Chatterjee Vs Norway (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuYqRgLfiS2tfE2U1C5X5HQn6Ag.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mrs. Chatterjee Vs Norway (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uno para morir (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tP0xZWNqNNM0PEhkURsKriTQT9j.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Uno para morir (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mar del Norte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYnlT2TbgSMytw0mVTQWAZ4mXNq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El mar del Norte (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El reino secreto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kagV5DoK76Dk98mldw4H8ME3kN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El reino secreto (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gringa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7K3MPwWgUu2i6VT0P3Kcp6s8yi8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Gringa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loli Tormenta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkdVfqRayyAlzX79Ri8P2Z9vRK8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Loli Tormenta (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oppenheimer (2023) Cam Latino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Oppenheimer (2023) Cam Latino
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Isla de la Muerte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEWftodqakZu0RcfqhVr9f7ZdUH.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Resident Evil: Isla de la Muerte (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barbie (2023) V.Rest." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Barbie (2023) V.Rest.
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eldorado: Todo lo que odian los nazis (2023) V.Ext." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nA2b8InigvsaAPC2R9u9fFbjmFS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Eldorado: Todo lo que odian los nazis (2023) V.Ext.
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flash (2023) VIMAX." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Flash (2023) VIMAX.
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ruby: Aventuras de una kraken adolescente (2023)V.Ext." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdJZsSRscoorp23oN9D4sJPYq4L.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Ruby: Aventuras de una kraken adolescente (2023)V.Ext.
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El frio en los huesos (2023) V.Ext." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WcmeDb6HQjofrWWLsCk94yGdbZ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El frio en los huesos (2023) V.Ext.
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lo desconocido La cueva de los huesos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZZCxHqw5KIXRb70QeMLR4TFY4K.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lo desconocido La cueva de los huesos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misión: Imposible: Sentencia mortal parte uno (2023)V.Ext." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83sGKvCv2T2CulYbd40Aeduc7n2.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Misión: Imposible: Sentencia mortal parte uno (2023)V.Ext.
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Happy Ending (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8YaaRIDzvHL4NyHJQxIvm0qDng.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",My Happy Ending (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shooting Stars (2023) V.Ext." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Shooting Stars (2023) V.Ext.
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: El despertar de las bestias (2023)V.Ext." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu24fXpro7jx4XFlgEWwElW1kgW.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Transformers: El despertar de las bestias (2023)V.Ext.
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yuzuru Hanyu ICE STORY “GIFT” at Tokyo Dome (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDmhiwlTJBxDvmFipqssnzv29p9.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Yuzuru Hanyu ICE STORY “GIFT” at Tokyo Dome (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/163883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beau tiene miedo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bvITjsMqTcPYQDqiLEkL1SJ27p.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Beau tiene miedo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La inspiración más profunda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rl4AkmB2nAMaTaYZQV0pwesOz3e.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La inspiración más profunda (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matria (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duRBDfvwHMVoGkEjuccdW6UqDrD.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Matria (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Violeta, el hada traviesa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GmSsEw1D7IAtG2EEJ9W4Vkrmp8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Violeta, el hada traviesa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zodi y Tehu, aventuras en el desierto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGgjg6J7jbrwzlNcrb0cvCo9l02.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Zodi y Tehu, aventuras en el desierto (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Canción de paz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpLRIDaSAsvPQW2Hfk3UWM36Ygx.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Canción de paz (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Felicidad para principiantes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUfV8e0ub6oHngppOQ4XPtV9QbE.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Felicidad para principiantes (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La fuga del capitán Volkonogov (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ut8aYq7fJ91WqJFVULuiy4sbbQQ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La fuga del capitán Volkonogov (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Paul Newman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bY6El2ZwmgelSCpBan1ghvcTh38.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La leyenda de Paul Newman (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paradise (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGz88hNPcHUJkUx7MPm0Ue6GZt7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Paradise (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Miraculous: Las Adventuras de Ladybug (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnA985vXdiUFVNbi0QgR080j2rJ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Miraculous: Las Adventuras de Ladybug (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roger Waters – This is not a drill – Live from Prague (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vQQCOeWYVPVT6iEX2MJdGpRJEm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Roger Waters – This is not a drill – Live from Prague (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sueños y pan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vW1ayuyRIuIm3UhC3XxPenaVbv2.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sueños y pan (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La fiebre de los peluches Beanie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btBF02RQyUCKfY1N0U3lBQEJaS2.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La fiebre de los peluches Beanie (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buen trabajo (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aVQFvGkLnpA71mYoDkVkzSzBZM.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Buen trabajo (2000)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ese oscuro objeto del deseo (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SjPvUTtdsK4TqALKryKkWZpE5x.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Ese oscuro objeto del deseo (1977)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Control (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOJiaOhwrDdwqTRZvZOhbndqHGp.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Control (2007)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deseando amar (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57iJR6wTAGmH3FEyFJcDca8ljYi.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Deseando amar (2000)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Holy Motors (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htqJeUz86S2sowWpnQX4LK0Nlcm.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Holy Motors (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Irma Vep (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAS2egLUnQnDKZ5fSnE7jr7Jinw.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Irma Vep (1996)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche de San Lorenzo (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLPEm7QTlM6jPXRmwRUIQVZMhce.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La noche de San Lorenzo (1982)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La noire de... (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6b2aPQmJsk8YIPO9pzKaCWSLju.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La noire de... (1966)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los vividores (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSBoPqIWaUNZB98JEWnCutyy0QR.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los vividores (1971)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manos peligrosas (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivDjP5NavnBQDzDsdaI8eWekzo5.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Manos peligrosas (1953)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shampoo (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/151seJCpS4FF6V0UFMjQSILPriP.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Shampoo (1975)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asedio (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvlqHFtc5ImSoBa63DvUcbQrmR7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Asedio (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hidden Strike (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Hidden Strike (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lo desconocido: La máquina del tiempo cósmica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xWW3M7oTUngdCzZCX4CP8V2i9C.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lo desconocido: La máquina del tiempo cósmica (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Impacto (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw09f0iZqNtapfia6f4cFgVOldj.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Impacto (1981)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como Dios manda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kI2wF5PNWjAmh6uqpPxTt8PWOcq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Como Dios manda (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De Caperucita a loba (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XmCuwIwriQMMaHmkfh7T756Htd.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",De Caperucita a loba (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El muelle (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykoMHTuzXfSgVjSDkzH8ImG6ETo.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El muelle (1962)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paint (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Paint (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sinéad O'Connor: Nothing Compares (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GndW8LtfOonZsqmV3XKgxvmNeY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sinéad O'Connor: Nothing Compares (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Apaches (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUez9nfKgolfL2seCMFz2VofgI2.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Apaches (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asombrosa Elisa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6s4zqn0MSZ0Qs6AJuWFjMswpJi.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Asombrosa Elisa (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atrapaalmas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Atrapaalmas (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hotel de los líos. García y García 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9phlLb8OIcImfJCxCWczNpCJFBM.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El hotel de los líos. García y García 2 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El impacto de Van Damme (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVnOq6KT7QSoR61K0XjsMjdhUS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El impacto de Van Damme (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frente a frente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZuPAT74OHH49OesHQ0mlRrmvqd.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Frente a frente (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mavka: Guardiana del bosque (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo8KSDeqFpCK9T7CJLx0wWbgWWj.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Mavka: Guardiana del bosque (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Róise y Frank (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G0re8AavvO8kXOxSz71NRgCPTX.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Róise y Frank (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cien cosas que quiero hacer antes de convertirme en Zombi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7mf6YZepJA6nbWrYUTtWb0xvSw.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Cien cosas que quiero hacer antes de convertirme en Zombi (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El pico del diablo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfrGhxKkLBfpmHXLuAwGlVUXDIX.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El pico del diablo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Sirenita (2023) Versión Ext." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdszPVnIY7cWgbgJ8zbwu1PiU5V.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Sirenita (2023) Versión Ext.
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La sombra del crimen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fQyr4C5sMfQkfZHxruG0ZBcu0g.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La sombra del crimen (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lincessa. Los silencios del bosque (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0aMUojewj1uVP713mfbq5wnwCY.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Lincessa. Los silencios del bosque (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los olvidados: Cicatrices (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6i3U4jGGSjsdl5h8Um9kppW6PD.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Los olvidados: Cicatrices (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dampyr (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJPsDY127duiG6cxqt8e0mTOQi7.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Dampyr (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intoxicación: Cruda verdad de nuestra comida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJLSPzS1zdFDNQRBe8zvi3m4oMS.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Intoxicación: Cruda verdad de nuestra comida (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maya Nilo (Laura) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkOuep9bary47dA9IO2eJm2oXz4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Maya Nilo (Laura) (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nicole Kidman en primera persona (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4rD0P5v10QzmRFppv20fXaqSU9.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Nicole Kidman en primera persona (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oink Oink (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18DnWfoUDVZBOY8PUFjVUoJVWcu.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Oink Oink (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un fin de semana en Gaza (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1620qOIBmUkqrZzh0ushmpX9I1m.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Un fin de semana en Gaza (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin malos rollos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKlpYtDLBtJEvYVvaUIq39Gh6rI.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sin malos rollos (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Donor Party (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWOPibu4RqGz9Y4zj657HslR964.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Donor Party (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Seven Deadly Sins: El rencor de Edimburgo - Parte 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9WwpYRfKz3LcGva19v1SXsln1h.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",The Seven Deadly Sins: El rencor de Edimburgo - Parte 2 (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/164996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente Stone (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iEjVseteIY8YnryTKWgVB91Uil.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Agente Stone (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de Manson (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ECl5Yf0SiQwtXNfQg6jZcuvXkm.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El regreso de Manson (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fatum (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzmmJAa3OX302flRxg6fEf18FLL.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Fatum (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jagun Jagun: The Warrior (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTLgX0DgJS8vMCroe4NGgUD04jd.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Jagun Jagun: The Warrior (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia de rojo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TWr0A8eyPj7JO6WhdctWrrSIQq.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La novia de rojo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rojo, blanco y sangre azul (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Hk7in9Vck0tW6KG7LD2l5DrjdB.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Rojo, blanco y sangre azul (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El amor mata (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e36sJmk7hit55RT3a7P9CFuVTfJ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El amor mata (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El primer gran asalto al tren (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Q7bH5LU1FTe7UqUo8BbiwyO3ff.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El primer gran asalto al tren (1978)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jugando con el corazón (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/josPjcxJOejk4HflcvVvDuDIGp6.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Jugando con el corazón (1998)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La colina de los hombres perdidos (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygREBneYznQa3IMtciRuxUZ3IIg.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La colina de los hombres perdidos (1965)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ofensa (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Y2RJaqnoLlz5AuNJ6Y9vDdf40H.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La ofensa (1973)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La tienda roja (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAGaksgutHHf5S4fiUKimhZRxS3.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La tienda roja (1969)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La mujer de paja (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTPwd6jUbqABabasfpXJaiMPVPN.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La mujer de paja (1964)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La trampa (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33TgkZ5XuVPCarCSylm3g8iYK1k.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La trampa (1999)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165158.avi
+#EXTINF:-1 tvg-id="" tvg-name="Marnie, la ladrona (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeT1khBPdXrLhBktqH4wfNzQsQs.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Marnie, la ladrona (1964)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sí, quiero... o no (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vu2kXcmGOtZou1CnZafcepCpp4.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Sí, quiero... o no (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Odio en las entrañas (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5F6PdlUyUZuEI1fmrs7IrfiKmMg.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Odio en las entrañas (1970)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El viento y el león (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GpZMQyg918iWegVMqUImWnB6tQ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El viento y el león (1975)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los héroes del tiempo (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU1A4f9T8rfE7hBERz6mN5jT6v4.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los héroes del tiempo (1981)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Reina de la velocidad. Michèle Mouton (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7joRyyflptPJ7WhtHruBWKWvgGj.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",La Reina de la velocidad. Michèle Mouton (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Undertow (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWjsI848P3kPT0wbVYZ8huydJPW.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Undertow (2004)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cleo de 5 a 7 (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5dXkYYgjRcWFfgm8dSdYr9abAc.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Cleo de 5 a 7 (1962)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El final que quiero (My Happy Ending) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgJmAAho5Ghki8dltVfL3S84LNR.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El final que quiero (My Happy Ending) (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los hermanos Sisters (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8wlFbdZZZ1oSyVE8Vbl7MdNNSJ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los hermanos Sisters (2018)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Palm Springs (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPCueD0NCt9RnI6udKD43AI9XtR.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Palm Springs (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paso de ti (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSKVemmRF2JhFOo5Qvm1TZfHa3H.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Paso de ti (2008)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secretary (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXjS9ALVbKxu9xSEWJ4QO7c3RNX.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Secretary (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Burning days (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bcxQtrTYvHnHrThrXrFQZmjC2H.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Burning days (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beau Geste (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wvth4zmbRkSUwhRl6FoXfeDTC.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Beau Geste (1966)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La selva esmeralda (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnOh4LMQ7sm73lc8r1JOd8CvZkU.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La selva esmeralda (1985)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los demonios de la noche (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSA0bmScT6gOjYp18IS5EEFijhv.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los demonios de la noche (1996)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mujer blanca soltera busca... (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRkrGTcTCd4LHYyKZSyXkY3zt4m.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Mujer blanca soltera busca... (1992)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Odessa (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p21LJJSLMwJKLfv77pJcojecqM1.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Odessa (1974)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pat Garrett y Billy el Niño (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGfUVB3myNH4T8qa48SYkfw50RO.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Pat Garrett y Billy el Niño (1973)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Porky's (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqCOt1cWfKqCepxK7LIdT812idH.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Porky's (1981)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Propiedad condenada (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdxSDn0ChaOmlKQ9N2R5TYfSbhK.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Propiedad condenada (1966)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Regreso al paraíso (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35VGfpPlydcmDAIWdEFebkn5sfZ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Regreso al paraíso (1998)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dialogando con la vida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziGStCIES7uUMpL29rC8q0iihNP.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Dialogando con la vida (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="H4Z4RD (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUjmpgsG7fxPWejTmPMDLxFT7Yr.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",H4Z4RD (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resistencia desesperada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qywelTNMzMzMhJBWzjvU9W9fuHV.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Resistencia desesperada (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una imagen para creer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eocY3RtunPbRPrZHHZxhvNZxbJ.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Una imagen para creer (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10 días de un mal hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",10 días de un mal hombre (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alguien que cuide de mí (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DkjqLckutZDNeY87CRrwjvYbd8.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Alguien que cuide de mí (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Rey de La Habana (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o98ATOqRX1LBgL7a9trTosD0ttF.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El Rey de La Habana (2015)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Rey Mono (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJ9MZHG3XQDusXLIbhRAzTlcZ2v.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El Rey Mono (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El robo de mil millones de dólares (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PmOINzsZAIqMeUMFWPruQvnYgf.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",El robo de mil millones de dólares (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wolf & Dog (Lobo & Perro) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8tiCMVje9vOQ23rZc006l1Z2Ca.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Wolf & Dog (Lobo & Perro) (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harka (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DUEJoXjEzRwt6w12SiI3OfOabw.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Harka (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las pequeñas victorias (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7abkBKQ65ktmLus53D8d9BVEDvp.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",Las pequeñas victorias (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Disney Princess: Misión castillo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktAzb7Ygf3hwq84tOWXL8ox832k.jpg" group-title="Estrenos 2023: ⭐️¡Nuevas Joyas del Cine!⭐️",LEGO Disney Princess: Misión castillo (2023)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los invasores del abismo (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi3NfWS5cv3uD3T37l0gn5ZNs1g.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Los invasores del abismo (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Otilia Rauda (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU6I7YRRrt5cPEqbOVXDknBjQtO.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Otilia Rauda (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boi neon (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCJAHuqbmDzcjbUjlXnaMohHqi5.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Boi neon (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/165846.mkv
