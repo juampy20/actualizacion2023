@@ -5142,3 +5142,69 @@ http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139427.mkv
 http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139428.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit 2: A la fuga (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gj4Lwldois15IaNnl4tadesHGC4.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Peter Rabbit 2: A la fuga (2021)
 http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/139457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beber de tu sangre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4b6HY7rud6LMO00EatxrJfFaBJV.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Beber de tu sangre (2020)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chuck (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRowWuf8Q5bazuPRIqYLaKRxxs.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Chuck (2017)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista: El comienzo. La versión prohibida (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIH6Q5TmtIJAyjxC7rIODj3o22d.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",El exorcista: El comienzo. La versión prohibida (2005)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La cripta de las condenadas (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTHlM4fMrDfREeEFCUYUmyMa4sV.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La cripta de las condenadas (1980)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xngdRuec2IAifKMlp63X9rFOxdM.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",La noche (2016)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mujer Lobo (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20I38nOSriW2diRd7iHnC2psTKI.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Mujer Lobo (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sleeping Beauty (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16ZnflyFScT9pgrqn7WoZwIJvKv.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Sleeping Beauty (2011)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una vida nueva (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBqAh4BZfQ5UBD3RW02PJHulveF.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Una vida nueva (2002)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V de Vendetta (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RGtqJD856BJ7kZ88v7ZPz84tU6.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",V de Vendetta (2006)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Queimada (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qd8PjcwDYZJP4gcAXgtHIpYiyGX.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Queimada (1969)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los tigres del mar (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAm0bgwj2zdAgFKYTWxZcLC8UbY.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Los tigres del mar (1960)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los jugadores de ajedrez (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vP5gBD45qi61jpjYo6GAIQ1y8SA.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Los jugadores de ajedrez (1977)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los días que vendrán (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4yNptIe78FjpXotnAq6zC2XdfN.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Los días que vendrán (2019)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La última carga (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sc9RkbqFnBYVVQagPRwXUczeDc8.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La última carga (1968)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La batalla de Hadiza (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUfXGuipKIw2xKs64yrTPOwRTtd.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",La batalla de Hadiza (2007)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La batalla de Argel (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw3GaZhFDxtVJdibJwbnE3FSthl.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",La batalla de Argel (1966)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="King Rat (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQbhB9YZqcMTNWwhCZ5cxuYJYjC.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",King Rat (1965)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="India Song (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVqU4IHhwWmdDhJflXQxTbdT5xa.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",India Song (1975)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gandhi (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPfSPYPdSojfRAuXSN7c8PHPXvH.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Gandhi (1982)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fitzcarraldo (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxhGOYfgobe5nEjISPJxrmvzqUJ.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Fitzcarraldo (1982)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excalibur (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPAC1Bso6KsViv8YhzJ60pl9y04.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Excalibur (1981)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre copas (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae4kP6wQsBEmDUO8pZ1UVk9WCA7.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Entre copas (2004)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rápidos y Furiosos 9 - Fast & Furious 9  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TX1T3c3CDBN0y8iDNvlQbtiA5Z.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Rápidos y Furiosos 9 - Fast & Furious 9  
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tristana (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaiLcib2Hd4cbSDUMlVW8411pav.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Tristana (1970)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mis escenas de lucha (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mP0818rfGk6Tg5gsWoqMaoRPYG.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Mis escenas de lucha (2013)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pola X (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjX7MhOAshQhOM5Ttsy10GycppM.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Pola X (1999)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El ansia (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIMgMrVVJABB1QBnDld6LPYhLP0.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",El ansia (1983)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La insoportable levedad del ser (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xRgZ7SCHSHGeVE4hVYirGWzqT5.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",La insoportable levedad del ser (1988)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kartum (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neLUyVJMXhVXOhHFWJDHyatf56l.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Kartum (1966)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El último metro (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nj6wa47Eahgv55vE37CEFPhAwBq.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",El último metro (1980)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Repulsión (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GQ8F7Dd9oV493LvtdhgmukXl1I.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Repulsión (1965)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pasaje a la India (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ki58NEeFxHZFvJ4984WjRbaC9nD.jpg" group-title="✪ Clásicos del Cine y del Oeste ✪",Pasaje a la India (1984)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hemel (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9ZasMEcjaRB32CCqurSy1vh13s.jpg" group-title="⭐️¡Las Recién Agregadas!⭐️",Hemel (2012)
+http://magmas5.com:8000/movie/reynaldovigodsky/IE8c9qX4t8/140502.mp4
