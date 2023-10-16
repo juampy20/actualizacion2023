@@ -1662,7 +1662,6 @@ https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u
 #EXTINF:-1 tvg-logo="https://www.zurbaran.com.ar/wp-content/uploads/2016/11/logo-hipodromo-palermo.png"  group-title="W*TURF",401 Hipodromo de Palermo
 https://ythls.onrender.com/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://hipodromosanisidro.com/wp-content/uploads/2019/05/logo_hsi_home_Mesa-de-trabajo-1.png"  group-title="W*TURF", 402 Hipodromo de San Isidro
 https://ythls.onrender.com/channel/UC3M7efaO9uxT0LTl3BSKvGg.m3u8
 
@@ -1768,11 +1767,11 @@ https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="W*TURF",435 RACING TV 1 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium554/index.m3u8?|referer=https://widevine.licenses4.me/
+https://ddh2.vipboxtv.stream/ddh2/premium554/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="W*TURF",436 RACING TV 2 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium555/index.m3u8?|referer=https://widevine.licenses4.me/
+https://ddh2.vipboxtv.stream/ddh2/premium555/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/
 
 
 
