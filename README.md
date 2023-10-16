@@ -1038,6 +1038,16 @@ https://sitsastr.qvixsolutions.com/stsa_tntsportshd/index.m3u8
 https://csc-ptn-edge01.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 
 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.1302367661_TNTSportsNuevoLogo2021.png.627311d86b79f82412c3f88d01f38395.png" group-title="SPORTS FUTBOL ARGENTINA",192 TNT SPORTS flow
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
 
 --------------------------------------- DEPORTES DIRECTV ----------------------------------------
 -------------------------------------------------------------------------------------------------
