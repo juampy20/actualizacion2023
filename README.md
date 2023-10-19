@@ -2258,4 +2258,19 @@ http://vod.tuxchannel.mx/peliculas/720/dejame%20entrar.mkv
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg",El amanecer de los muertos (2004)
 http://vod.tuxchannel.mx/peliculas/720/dawn%20of%20the%20dead.mkv
 
-
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",Avatar 1 (2009)
+http://vod.tuxchannel.mx/peliculas/720/avatar.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",Avatar (2009)
+http://vod.tuxchannel.mx/peliculas/720/avatar.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nUEIwqzTWYvEJEcMkHZ8BAi2rL0.jpg",Autómata (2014)
+http://vod.tuxchannel.mx/peliculas/720/automata.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7mlA2czXUhiB53huT9qu2vRJ36w.jpg",Attraction (2017)
+http://vod.tuxchannel.mx/peliculas/720/attraction.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",Atomic Blonde (2017)
+http://vod.tuxchannel.mx/peliculas/720/atomic%20blonde.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tI8ocADh22GtQFV28vGHaBZVb0U.jpg",Artemis Fowl (2020)
+http://vod.tuxchannel.mx/peliculas/720/artemis%20fowl%202020.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",Armageddon (1998)
+http://vod.tuxchannel.mx/peliculas/720/armageddon.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg",Apocalypto (2006)
+http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
