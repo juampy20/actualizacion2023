@@ -2033,3 +2033,45 @@ http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan%202.mkv
 
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9QB6wIc6XOtoi02uUCLSvY0onSL.jpg",La máquina del tiempo (2002)
 http://vod.tuxchannel.mx/peliculas/720/the%20time%20machine.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1gSmNsz16HyYW5R0GVS54w4AGZx.jpg",Miedo profundo (2016)
+http://vod.tuxchannel.mx/peliculas/720/the%20shallows.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg",El único (2001)
+http://vod.tuxchannel.mx/peliculas/720/the%20one.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lWJC8om086h01f0CMGR9ombdpnI.jpg",La historia sin fin 1 (1984)
+http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/o75HHfr23sgeqIeUPwjKY0V9Ppi.jpg",La historia sin fin 3 (1994)
+http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story%203%20escape%20from%20fantasia%201994.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5QfUCbgKzWzjHO5X4ANsDmuTxNQ.jpg",La historia sin fin 2 (1990)
+http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story%202%20the%20next%20chapter%201990.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jLKdbksOvi5cDqUhwXdIpeLpKki.jpg",El poder del talismán (2003)
+http://vod.tuxchannel.mx/peliculas/720/the%20medallion.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",Maze Runner 1 (2014)
+http://vod.tuxchannel.mx/peliculas/720/the%20maze%20runner.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/s9t9kliNmv2uc9dVyQLhruk2tXW.jpg",El llanero solitario (2012)
+http://vod.tuxchannel.mx/peliculas/720/the%20lone%20ranger.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",El último samurái (2003)
+http://vod.tuxchannel.mx/peliculas/720/the%20last%20samurai.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lQWtLTy7xBxXx1l89sSQRfplHXm.jpg",El bosque maldito (2019)
+http://vod.tuxchannel.mx/peliculas/720/the%20hole%20in%20the%20ground%202019.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/idb1ACZCQAsYJCFMfs9vgyBIbP1.jpg",El incidente (2008)
+http://vod.tuxchannel.mx/peliculas/720/the%20happening.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",Qué pasó ayer? 1 (2009)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",Que pasó ayer? 3 (2013)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20III.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jrP9zmdSUpOzzUXpEqPqg3dryUr.jpg",Qué pasó ayer? 2 (2011)
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20II.mkv
