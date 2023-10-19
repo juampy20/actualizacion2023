@@ -2010,6 +2010,7 @@ https://s2.suenalive.com:7329/stream
 ----------------------------------------------------------------------------
 
 
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",Triple Frontier (2019)
 http://vod.tuxchannel.mx/peliculas/720/triple%20frontier%202018.mkv
 
@@ -2034,44 +2035,134 @@ http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan%202.mkv
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9QB6wIc6XOtoi02uUCLSvY0onSL.jpg",La máquina del tiempo (2002)
 http://vod.tuxchannel.mx/peliculas/720/the%20time%20machine.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1gSmNsz16HyYW5R0GVS54w4AGZx.jpg",Miedo profundo (2016)
-http://vod.tuxchannel.mx/peliculas/720/the%20shallows.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg",Cuatro Fantásticos (2015)
+http://vod.tuxchannel.mx/peliculas/720/the%20fantastic%20four.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg",El único (2001)
-http://vod.tuxchannel.mx/peliculas/720/the%20one.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tDynwDj3pvexrEQ8wb0uy8EdcGQ.jpg",Los mercenarios 1 (2010)
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lWJC8om086h01f0CMGR9ombdpnI.jpg",La historia sin fin 1 (1984)
-http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d63qz4XeNtbpDC5c70AlSUIbnTQ.jpg",Los mercenarios 3 (2014)
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables%203.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/o75HHfr23sgeqIeUPwjKY0V9Ppi.jpg",La historia sin fin 3 (1994)
-http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story%203%20escape%20from%20fantasia%201994.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4EBO8aIeP2bF1jGpwbuRS4CFMca.jpg",Los mercenarios 2 (2012)
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables%202.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5QfUCbgKzWzjHO5X4ANsDmuTxNQ.jpg",La historia sin fin 2 (1990)
-http://vod.tuxchannel.mx/peliculas/720/the%20neverending%20story%202%20the%20next%20chapter%201990.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3lBFvzhSkkzVfgjXRcH97NmwbUJ.jpg",El ático (2016)
+http://vod.tuxchannel.mx/peliculas/720/the%20disappointments%20room.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jLKdbksOvi5cDqUhwXdIpeLpKki.jpg",El poder del talismán (2003)
-http://vod.tuxchannel.mx/peliculas/720/the%20medallion.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zPSB6B5duZIjF0QOBsP1aPBjNRg.jpg",Los muertos no mueren (2019)
+http://vod.tuxchannel.mx/peliculas/720/the%20dead%20dont%20die%202019.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",Maze Runner 1 (2014)
-http://vod.tuxchannel.mx/peliculas/720/the%20maze%20runner.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kNKy8eJemg6sCAMBgh4xrD0lleX.jpg",El día después de mañana (2004)
+http://vod.tuxchannel.mx/peliculas/720/the%20day%20after%20tomorrow%20open%20matte.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/s9t9kliNmv2uc9dVyQLhruk2tXW.jpg",El llanero solitario (2012)
-http://vod.tuxchannel.mx/peliculas/720/the%20lone%20ranger.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg",Crónicas de Navidad 2 (2020)
+http://vod.tuxchannel.mx/peliculas/720/the%20christmas%20chronicles%202%202020.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",El último samurái (2003)
-http://vod.tuxchannel.mx/peliculas/720/the%20last%20samurai.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uxJJIzw3lDM0RbFQMQsTTRyFO2D.jpg",El niño 1 (2016)
+http://vod.tuxchannel.mx/peliculas/720/the%20boy.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lQWtLTy7xBxXx1l89sSQRfplHXm.jpg",El bosque maldito (2019)
-http://vod.tuxchannel.mx/peliculas/720/the%20hole%20in%20the%20ground%202019.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",El libro de Eli (2010)
+http://vod.tuxchannel.mx/peliculas/720/the%20book%20ok%20eli.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/idb1ACZCQAsYJCFMfs9vgyBIbP1.jpg",El incidente (2008)
-http://vod.tuxchannel.mx/peliculas/720/the%20happening.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña 4 (2012)
+http://vod.tuxchannel.mx/peliculas/720/the%20amazing%20spiderman.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",Qué pasó ayer? 1 (2009)
-http://vod.tuxchannel.mx/peliculas/720/the%20hangover.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Terremoto:la falla de San Andrés (2015)
+http://vod.tuxchannel.mx/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",Que pasó ayer? 3 (2013)
-http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20III.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",Tenet (2020)
+http://vod.tuxchannel.mx/peliculas/720/tenet%202020.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jrP9zmdSUpOzzUXpEqPqg3dryUr.jpg",Qué pasó ayer? 2 (2011)
-http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20II.mkv
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sytFL6ALMAesKZoarlp7bIDKnns.jpg",Super 8 (2011)
+http://vod.tuxchannel.mx/peliculas/720/super%208.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pn51im1JIMJgq9eqRAIvoQ1b1cv.jpg",Saw 9 (2021)
+http://vod.tuxchannel.mx/peliculas/720/spiral%20from%20the%20book%20of%20saw%202021.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",El Hombre Araña 1 (2002)
+http://vod.tuxchannel.mx/peliculas/720/spiderman.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña un nuevo universo (2018)
+http://vod.tuxchannel.mx/peliculas/720/spiderman%20un%20nuevo%20universo.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña 6 (2019)
+http://vod.tuxchannel.mx/peliculas/720/spider-man%20far%20from%20home%202019.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",El Hombre Araña 3 (2007)
+http://vod.tuxchannel.mx/peliculas/720/spiderman%203.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",El Hombre Araña 2 (2004)
+http://vod.tuxchannel.mx/peliculas/720/spiderman%202.mkv
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña 5 (2017)
+http://vod.tuxchannel.mx/peliculas/720/spider%20man%20homecoming.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/AtQDTlj3MFOXJd5C9OopaRo3rRo.jpg",8 Minutos Antes De Morir (2011)
+http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/AtQDTlj3MFOXJd5C9OopaRo3rRo.jpg",Código Fuente (2011)
+http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",Sonic la película (2020)
+http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%202020.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Silent Hill 1 (2006)
+http://vod.tuxchannel.mx/peliculas/720/silent%20hill.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg",Silent Hill 2 (2012)
+http://vod.tuxchannel.mx/peliculas/720/silent%20hill%20revelation.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg",Nos vemos ayer (2019)
+http://vod.tuxchannel.mx/peliculas/720/see%20you%20yesterday%202019.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9WQ5e3Jxj6Tz1ZZhF9RMXf6Cc7V.jpg",Scream 1 (1996)
+http://vod.tuxchannel.mx/peliculas/720/scream%20grita%20antes%20de%20morir.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/g0YcSd5QpgGXOjg9tl0if0soOkE.jpg",Scream 4 (2011)
+http://vod.tuxchannel.mx/peliculas/720/scream%204.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",Scream 3 (2000)
+http://vod.tuxchannel.mx/peliculas/720/scream%203%20la%20mascara%20de%20la%20muerte.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",Scream 2 (1997)
+http://vod.tuxchannel.mx/peliculas/720/scream%202%20grita%20y%20vuelve%20a%20gritar.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lRQiJXETkCnVVurHmglNvMXrZOx.jpg",Scary Movie (2000)
+http://vod.tuxchannel.mx/peliculas/720/scary%20movie.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vC9T3hjrV9jEBIQ5Ce9eZzN1xxJ.jpg",Saw 7 (2010)
+http://vod.tuxchannel.mx/peliculas/720/saw%20VII.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9fFI57FuE9X4pUCIiKZZZCB7caK.jpg",Saw 6 (2009)
+http://vod.tuxchannel.mx/peliculas/720/saw%20VI.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dpiS8OcDaTkBdQZkkrdQPPXdJgK.jpg",Saw 5 (2008)
+http://vod.tuxchannel.mx/peliculas/720/saw%20V.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/e3pLI0qN1AKGHwOcMuwTpyI2SLN.jpg",Saw 4 (2007)
+http://vod.tuxchannel.mx/peliculas/720/saw%20IV.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/plyiG0xAkrMZWy1kEC5Rz9lSu7s.jpg",Saw 3 (2006)
+http://vod.tuxchannel.mx/peliculas/720/saw%20III.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vadsox7kS3dTzODeGdeWg3cbW9z.jpg",Saw 2 (2005)
+http://vod.tuxchannel.mx/peliculas/720/saw%20II.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/h2x0kRZWvwpw8GvghmQUn1m1jQo.jpg",Saw 1 (2004)
+http://vod.tuxchannel.mx/peliculas/720/saw%20I.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg",RoboCop 3 (1993)
+http://vod.tuxchannel.mx/peliculas/720/robocop%203.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",RoboCop 4 (1994)
+http://vod.tuxchannel.mx/peliculas/720/robocop%202014.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bmErS9eMqctVSpNaieU56SLfMEC.jpg",RoboCop 2 (1990)
+http://vod.tuxchannel.mx/peliculas/720/robocop%202.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",Robocop 1 (1987)
+http://vod.tuxchannel.mx/peliculas/720/robocop%201.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",Riddick 1 (2013)
+http://vod.tuxchannel.mx/peliculas/720/riddick.mkv
