@@ -2010,6 +2010,26 @@ https://s2.suenalive.com:7329/stream
 ----------------------------------------------------------------------------
 
 
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",Triple Frontier (2019)
+http://vod.tuxchannel.mx/peliculas/720/triple%20frontier%202018.mkv
 
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rs6P8hg1BTf6AdpGlRnGE4DFlYF.jpg",Transformers 1 (2007)
+http://vod.tuxchannel.mx/peliculas/720/transformers.mkv
 
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg",Transformers 5 (2017)
+http://vod.tuxchannel.mx/peliculas/720/transformers%20the%20last%20knight.mkv
 
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg",Transformers 2 (2009)
+http://vod.tuxchannel.mx/peliculas/720/transformers%20revenge%20of%20the%20fallen.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/54HFDOswRfShCr25Tvt7JaLiIaf.jpg",Transformers 4 (2014)
+http://vod.tuxchannel.mx/peliculas/720/transformers%20age%20of%20extinction.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",Estación Zombie 1 (2016)
+http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg",Estación Zombie 2 (2020)
+http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan%202.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9QB6wIc6XOtoi02uUCLSvY0onSL.jpg",La máquina del tiempo (2002)
+http://vod.tuxchannel.mx/peliculas/720/the%20time%20machine.mkv
