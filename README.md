@@ -2241,6 +2241,21 @@ http://vod.tuxchannel.mx/peliculas/720/heilstatten%202018.mkv
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ik1uZyiMSxF9HqrgRKUNfMCfr3z.jpg",Hardcore Henry (2015)
 http://vod.tuxchannel.mx/peliculas/720/hardcore%20henry.mkv
 
-
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",Destino final 1 (2000)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg",Destino final 5 (2011)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%205.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg",Destino final 4 (2009)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%204.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",Destino final 3 (2006)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%203.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sDsdhVmGzh4L56QvtLLinvXjDs3.jpg",Destino final 2 (2003)
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%202.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jq4TVchWAWac6zGmCuriFhfBSzo.jpg",Demonic (2015)
+http://vod.tuxchannel.mx/peliculas/720/demonic.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9OkZ94drVlmLfa1uBYaP8yMv7Ow.jpg",Déjame entrar (2008)
+http://vod.tuxchannel.mx/peliculas/720/dejame%20entrar.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg",El amanecer de los muertos (2004)
+http://vod.tuxchannel.mx/peliculas/720/dawn%20of%20the%20dead.mkv
 
 
