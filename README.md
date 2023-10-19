@@ -2274,3 +2274,46 @@ http://vod.tuxchannel.mx/peliculas/720/artemis%20fowl%202020.mkv
 http://vod.tuxchannel.mx/peliculas/720/armageddon.mkv
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg",Apocalypto (2006)
 http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rJOj0T5DyChfECevDg0xpEGznsl.jpg",Alien Warfare (2019)
+http://vod.tuxchannel.mx/peliculas/720/alien_warfare_2019.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pe9mSStpQC2doKtYY3VDJdBEBHr.jpg",Alien Abduction (2014)
+http://vod.tuxchannel.mx/peliculas/720/alien%20abduction.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fhyun1mja3WwQsYr1a3x1x9BttP.jpg",Aladdin (2019)
+http://vod.tuxchannel.mx/peliculas/720/aladdin%202019.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2Zn9yHhNlZmqfuKpBovQJ9RWIOr.jpg",Mas allá de la muerte (2009)
+http://vod.tuxchannel.mx/peliculas/720/after%20life%202009.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",Después de la Tierra (2013)
+http://vod.tuxchannel.mx/peliculas/720/after%20earth.mkv
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",Un lugar en silencio 2 (2021)
+http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20part%20II%202021.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg",La cura siniestra (2016)
+http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/96VOJmyoYEj9QvUfYJ1EElRhIjD.jpg",Un cuento de Navidad (1984)
+http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20carol%201984.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",4:44 El último día en la Tierra (2011)
+http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7LwSrvFA0gz1KAlcrGcinoQPene.jpg",30 Días de oscuridad (2007)
+http://vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg",28 Dias Exterminio (2012)
+http://vod.tuxchannel.mx/peliculas/720/28%20days%20later.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",2001: odisea del espacio (1968)
+http://vod.tuxchannel.mx/peliculas/720/2001%20a%20space%20odyssey.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/48pWtaTngOHkq2xOc8pFAoro1fU.jpg",Armados y peligrosos (2013)
+http://vod.tuxchannel.mx/peliculas/720/2%20guns.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg",1922 (2017)
+http://vod.tuxchannel.mx/peliculas/720/1922.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",Black Panther: Wakanda Forever (2022)
+http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tq8x5F17q95T1j0up5rpzXFAylN.jpg",Embaucadores (2023)
+http://208.88.245.85/nuevo/sharper.2023.dual.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg",Un paraíso peligroso (2023)
+http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",Narvik (2023)
+http://208.88.245.85/nuevo/narvik.2023.dual.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",Malcriados (2023)
+http://208.88.245.85/nuevo/malcriados.2023.latino.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5C9rerMqV1X0jnRdbbsM1BswVI2.jpg",El último baile de Magic Mike (2023)
+http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",Llaman a la puerta (2023)
+http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
