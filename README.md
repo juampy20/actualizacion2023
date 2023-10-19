@@ -2166,3 +2166,34 @@ http://vod.tuxchannel.mx/peliculas/720/robocop%201.mkv
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",Riddick 1 (2013)
 http://vod.tuxchannel.mx/peliculas/720/riddick.mkv
+
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg",Power Rangers (2017)
+http://vod.tuxchannel.mx/peliculas/720/power%20rangers.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",Piratas del caribe 1 (2003)
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20the%20curse%20of%20the%20black%20pearl.mkv
+#EXTINF:-1 g type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",Piratas del Caribe 4 (2011)
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20on%20stranger%20tides.mkv
+#EXTINF:-1 g type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qwoGfcg6YUS55nUweKGujHE54Wy.jpg",Piratas del Caribe 5 (2017)
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20men%20tell%20no%20tales.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",Piratas del Caribe 2 (2006)
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20mans%20chest.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",Piratas del Caribe 3 (2007)
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20at%20worlds%20end.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tOOIl9keHUnfeHXPX9S7y3MZgX9.jpg",Pig (2021)
+http://vod.tuxchannel.mx/peliculas/720/pig%202021.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cjcrkPeQkrkEVYrd3lHWJbfBdrv.jpg",Pan Viaje a Nunca Jamás (2015)
+http://vod.tuxchannel.mx/peliculas/720/pan.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cAZk4y7JZswALX6nTf5KXNjPMUE.jpg",Ouija: El origen del mal (2016)
+http://vod.tuxchannel.mx/peliculas/720/ouija%20%20origin%20of%20evil.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",Máquinas mortales (2018)
+http://vod.tuxchannel.mx/peliculas/720/mortal%20engines%202018.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lq9n07JSzdhK5l1TKxQ9SHawNYn.jpg",Maze Runner 2 (2015)
+http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20scorch%20trials.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg",Maze Runner 3 (2018)
+http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20death%20cure.mkv
+#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",Maléfica 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/maleficent%20mistress%20of%20evil%202019.mkv
+
+
+
+
