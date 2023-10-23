@@ -1585,7 +1585,50 @@ VENUS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0ZZ2hw/venus.png" group-title="ADULTOS", 322 VENUS
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/943_Live_Cams.png", Live Cams  | US
+http://cdn.adultiptv.net/livecams.m3u8
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/942_Gangbang.png", Gangbang  | US
+http://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/923_Big_Tits.png", Big Tits  | US
+http://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/930_Big_Dick.png", Big Dick  | US
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/931_Big_Ass.png", Big Ass  | US
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/932_Anal.png", Anal  | US
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/933_Teen.png", Teen  | US
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/934_Latina.png", Latina  | US
+http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/935_Blonde.png", Blonde  | US
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/936_Brunette.png", Brunette  | US
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/937_Interracial.png", Interracial  | US
+http://cdn.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/938_POV.png", POV  | US
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/939_Blowjob.png", Blowjob  | US
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1  group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/940_Threesome.png", Threesome  | US
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/941_Rough.png", Rough  | US
+http://cdn.adultiptv.net/rough.m3u8
 
 
 ----------------------------------- REGIONALES ----------------------------------------
