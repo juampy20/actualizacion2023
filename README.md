@@ -26,23 +26,35 @@ https://cdn.wholive2.pro:8089/hls/Uglpx2WpJuGZ/index.m3u8?st=cv6NQ_wGX1xe009cWMV
 https://vp02.dlive.click/3G7ClpxNtA0gYd8-J1JhqA/1697703247/34352e372e3230392e313939/ff158/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="-" group-title="MLS",test 1
+#EXTINF:-1 tvg-logo="-" group-title="MLS",tnt sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-referrer=https://givemereddit.eu/
 https://givemereddit.cloud/hls/btsport2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="-" group-title="MLS",test 2
+#EXTINF:-1 tvg-logo="-" group-title="MLS",tnt sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-referrer=https://givemereddit.eu/
 https://givemereddit.cloud/hls/btsport3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="-" group-title="MLS",test 3
+#EXTINF:-1 tvg-logo="-" group-title="MLS",test 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-referrer=https://givemereddit.eu/
-https://givemereddit.cloud/hls/btsport1/chunks.m3u8
+https://givemereddit.cloud/hls/btsport4/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MLS",test 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-referrer=https://givemereddit.eu/
+https://givemereddit.cloud/hls/btsport5/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MLS",test 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-referrer=https://givemereddit.eu/
+https://givemereddit.cloud/hls/btsport6/chunks.m3u8
 
 
 --------------------------------------------------------
