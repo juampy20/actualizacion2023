@@ -32,6 +32,18 @@ https://vp02.dlive.click/3G7ClpxNtA0gYd8-J1JhqA/1697703247/34352e372e3230392e313
 #EXTVLCOPT:http-referrer=https://givemereddit.eu/
 https://givemereddit.cloud/hls/btsport2/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="MLS",test 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-referrer=https://givemereddit.eu/
+https://givemereddit.cloud/hls/btsport3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MLS",test 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-referrer=https://givemereddit.eu/
+https://givemereddit.cloud/hls/btsport1/chunks.m3u8
+
 
 --------------------------------------------------------
 -------------------------------------------------------------
