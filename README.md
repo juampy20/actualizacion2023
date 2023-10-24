@@ -38,36 +38,6 @@ https://givemereddit.cloud/hls/btsport2/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://givemereddit.eu/
 https://givemereddit.cloud/hls/btsport3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="-" group-title="MLS",test 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-referrer=https://givemereddit.eu/
-https://givemereddit.cloud/hls/btsport4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MLS",test 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-referrer=https://givemereddit.eu/
-https://givemereddit.cloud/hls/btsport5/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MLS",test 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-referrer=https://givemereddit.eu/
-https://givemereddit.cloud/hls/btsport6/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MLS",test 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-referrer=https://givemereddit.eu/
-https://givemereddit.cloud/hls/btsport7/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MLS",v1 m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-referrer=https://espnv2.online/
-https://ds1.espnv2.online/stream/es7/tracks-v1a1/mono.m3u8
-
 
 
 --------------------------------------------------------
