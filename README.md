@@ -2,6 +2,14 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="PAQUETE MPD FULL", TELEFE 
+https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="PAQUETE MPD FULL",  EL TRECE 
+https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
+
+
+
 
 ----------------------------------------- SPORTS MLS MESSI -----------------------------------------
 ----------------------------------------------------------------------------------------------------
