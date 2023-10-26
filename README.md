@@ -20,7 +20,11 @@ https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="PAQUETE MPD FULL", espn 
 https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="PAQUETE MPD FULL", ESPN 2 
+https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="PAQUETE MPD FULL", ESPN 3 
+https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
 
 
 
