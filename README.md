@@ -29,6 +29,8 @@ https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="PAQUETE MPD FULL", ESPN 4
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="PAQUETE MPD FULL", TYC SPORTS 
+https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
 ----------------------------------------- SPORTS MLS MESSI -----------------------------------------
 ----------------------------------------------------------------------------------------------------
