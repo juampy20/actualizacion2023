@@ -35,6 +35,9 @@ https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="PAQUETE MPD FULL", TODO NOTICIAS
 https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cronica.webp" group-title="PAQUETE MPD FULL", CRONICA 
+https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
+
 
 
 ----------------------------------------- SPORTS MLS MESSI -----------------------------------------
