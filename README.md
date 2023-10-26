@@ -26,6 +26,8 @@ https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="PAQUETE MPD FULL", ESPN 3 
 https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="PAQUETE MPD FULL", ESPN 4
+https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 
 
 ----------------------------------------- SPORTS MLS MESSI -----------------------------------------
@@ -969,7 +971,7 @@ https://sitsastr.qvixsolutions.com/stsa_espn3hd/index.m3u8
 
 ESPN EXTRA
 
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="SPORTS ESPN",103 ESPN EXTRA lpq
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="SPORTS ESPN",103 ESPN EXTRA lpq
 https://sitsastr.qvixsolutions.com/stsa_espnextrahd/index.m3u8
 
 
