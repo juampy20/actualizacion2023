@@ -4,44 +4,7 @@
 #EXTINF:-1 tvg-logo="-" group-title="TURF EXCLUSIV>O", moli 
 https://stream.robertsstream.com/streammobile.m3u8?stream=delaware_mbr&referer=RTN&usr=38843&optp=pid%3A96%7Ctid%3A&t=1698436785&h=9f21677488525b52b011985e7caeaab8&forceformat=ios&hd=1
 
------------------------paquete mpd ----------------
----------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="PAQUETE MPD FULL", TELEFE 
-https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
-
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="PAQUETE MPD FULL",  EL TRECE 
-https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
-
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="PAQUETE MPD FULL",  EL NUEVE 
-https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/america.webp" group-title="PAQUETE MPD FULL",  AMERICA 
-https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
-
-#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="PAQUETE MPD FULL", espn 
-https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
-
-#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="PAQUETE MPD FULL", ESPN 2 
-https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="PAQUETE MPD FULL", ESPN 3 
-https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="PAQUETE MPD FULL", ESPN 4
-https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="PAQUETE MPD FULL", TYC SPORTS 
-https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
-
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="PAQUETE MPD FULL", TODO NOTICIAS
-https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
-
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cronica.webp" group-title="PAQUETE MPD FULL", CRONICA 
-https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
-
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/c5n.webp" group-title="PAQUETE MPD FULL",  C5N 
-https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 
 ----------------------------------------- SPORTS MLS MESSI -----------------------------------------
