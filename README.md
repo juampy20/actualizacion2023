@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="-" group-title="TURF EXCLUSIV>O", moli 
-https://stream.robertsstream.com/streammobile.m3u8?stream=delaware_mbr&referer=RTN&usr=38843&optp=pid%3A96%7Ctid%3A&t=1698436785&h=9f21677488525b52b011985e7caeaab8&forceformat=ios&hd=1
+
 
 
 
