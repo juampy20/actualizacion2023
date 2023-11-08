@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="-" group-title="TURF EXCLUSIV>O", moli 
-
+#EXTINF:-1 tvg-logo="-" group-title="Padel TV", Padel tv
+http://weib-tv.com:80/juampy20/bWE9TEe3r1/327924
 
 
 
