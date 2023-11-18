@@ -1,15 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="-" group-title="Padel TV", test
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:network-caching=3000
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/153
-
-#EXTINF:-1 tvg-logo="-" group-title="Padel TV", test 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:network-caching=3000
-http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/152
 
 
 
