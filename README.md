@@ -1,67 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Afizzionados" tvg-logo="https://images.vix.com/prd/channel/62bb763127d9223af3d6b23c/d7d41c898a5cbe48804bcfa6751359c1" group-title="-- VIX --",Afizzionados
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332406.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sala de Emergencias" tvg-logo="https://images.vix.com/prd/channel/62157679eb81d23f03bf40cc/2bde47cad28616eab255d220cbef5838" group-title="-- VIX --",Sala de Emergencias
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332429.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="40 y 20" tvg-logo="https://images.vix.com/prd/channel/6487380bc436df2859e5d2a2/40cca8d54d603fedefa2eaa35a229563" group-title="-- VIX --",40 y 20
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332430.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Angelique" tvg-logo="https://images.vix.com/prd/channel/61b7548308f1b3188136f54a/640ecca7759644f570f64a30587135f6" group-title="-- VIX --",Angelique
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332400.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MasterChef" tvg-logo="https://images.vix.com/prd/channel/6238484eef97565e59fe8141/f20719cd8aa5e53056a5a2b7bdc7f9f5" group-title="-- VIX --",MasterChef
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332401.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Miamivelas" tvg-logo="https://images.vix.com/prd/channel/63add9ad1271385d62723087/01cddd76269a2fff0a6a884a10dddd2f" group-title="-- VIX --",Miamivelas
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332402.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Guerra de Chistes" tvg-logo="https://images.vix.com/prd/channel/624261716c89e21b955f4e6b/43d12e8f45102272b5188002f845de8f" group-title="-- VIX --",Guerra de Chistes
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332403.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="La Rosa de Guadalupe" tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69" group-title="-- VIX --",La Rosa de Guadalupe
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332407.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Canal 5" tvg-logo="https://images.vix.com/prd/channel/62bb775205c378e21e18aaa4/55833d55f79e78a84a91df0d3efd13ad" group-title="-- VIX --",Canal 5
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332408.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cine VIP" tvg-logo="https://images.vix.com/prd/channel/6243048ce2515e12568e9e2b/7ec70ad8082c6fb905d840142af079fc" group-title="-- VIX --",Cine VIP
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332409.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cine Suspenso" tvg-logo="https://images.vix.com/prd/channel/62275177ed9b67fce66f4c73/0ffb747f9bca79487f289edfdd809603" group-title="-- VIX --",Cine Suspenso
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332411.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Vecinos" tvg-logo="https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891" group-title="-- VIX --",Vecinos
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332412.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hasta Que el Dinero Nos Separe" tvg-logo="https://images.vix.com/prd/channel/6235c3b13bef6caae937b824/86c4687f5c02234d8646d1577045ef85" group-title="-- VIX --",Hasta Que el Dinero Nos Separe
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332413.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="La Ley y el Desorden" tvg-logo="https://images.vix.com/prd/channel/61fcc7adba45d441d774eca3/382b7442de02167f3a50bdb4e09dbcfb" group-title="-- VIX --",La Ley y el Desorden
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332414.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Golden Multiplex" tvg-logo="https://images.vix.com/prd/channel/62bb78304ca474b0472555ba/7f36a9be41928b9aa3f6c851f7df3aae" group-title="-- VIX --",Golden Multiplex
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332415.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Una Familia Con Suerte" tvg-logo="https://images.vix.com/prd/channel/636ebe541a8b6d7bbe45418a/e5f6c4f0ddd18e7380bdecd7d39fea56" group-title="-- VIX --",Una Familia Con Suerte
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332417.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Las Estrellas-1" tvg-logo="https://images.vix.com/prd/channel/62bb795c96912845550b592c/5d682396ad6515d39a0ca103a84398c2" group-title="-- VIX --",Las Estrellas-1
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332418.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bandamax" tvg-logo="https://images.vix.com/prd/channel/62bb76bfa9459bc60e17fcb5/f304644fbca9b7bad5a16ee46cbd0d31" group-title="-- VIX --",Bandamax
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332422.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Golden Plus" tvg-logo="https://images.vix.com/prd/channel/62bb77fc30eae0cea539a974/1e8ab32c68282ada5106e234bb18cfea" group-title="-- VIX --",Golden Plus
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332423.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Delicioso" tvg-logo="https://images.vix.com/prd/channel/62004f14cec505054dbe8f59/ddbbce61bd626b9ee7d1d7a917588274" group-title="-- VIX --",Delicioso
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332424.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cine Boom" tvg-logo="https://images.vix.com/prd/channel/61b75fe408f1b351a136f666/b5e632243827726e27e854c88e10661c" group-title="-- VIX --",Cine Boom
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332425.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cine Retro" tvg-logo="https://images.vix.com/prd/channel/62274e72ed9b67bf206f1a5e/239fe6fbfe883777cfb427e23256f1fc" group-title="-- VIX --",Cine Retro
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332427.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cine Terror" tvg-logo="https://images.vix.com/prd/channel/62e7eff7cdfab6f2c640632d/17fc776ae5886ca428d62b6e5bf2b991" group-title="-- VIX --",Cine Terror
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332431.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="La Fea Mas Bella" tvg-logo="https://images.vix.com/prd/channel/63701e2e67207e64e143e707/5bff2e28466ab6fcff4e321a8881d43c" group-title="-- VIX --",La Fea Mas Bella
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332432.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Minuto Para Ganar" tvg-logo="https://images.vix.com/prd/channel/6206426314936d365f73dcd8/4df648bb22c933c17d6cb2635c2d5413" group-title="-- VIX --",Minuto Para Ganar
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332433.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Camino al Cielo" tvg-logo="https://images.vix.com/prd/channel/6234966459579b8050a2096c/d39fda882d6e25841d096e4662d21404" group-title="-- VIX --",Camino al Cielo
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332434.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amor Real" tvg-logo="https://images.vix.com/prd/channel/63725ab167207e64e143e70f/ad4d5ad2dd52d6519d673d3a939d79b7" group-title="-- VIX --",Amor Real
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332438.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Televisa Monterrey" tvg-logo="https://images.vix.com/prd/channel/62c717cf95ada734e65d07bb/5020f8f9cb66d1641a4f1cbcf60e45d6" group-title="-- VIX --",Televisa Monterrey
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332439.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cine en Familia" tvg-logo="https://images.vix.com/prd/channel/61b753aa08f1b3231d36f537/256e03ca6d7c8e258ae6d7a129d89aef" group-title="-- VIX --",Cine en Familia
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332440.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="La Familia P. Luche" tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da" group-title="-- VIX --",La Familia P. Luche
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332442.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cine de Oro" tvg-logo="https://images.vix.com/prd/channel/62274abded9b67e9806eef58/e589cadaabcf0bf7291bd08048006fd2" group-title="-- VIX --",Cine de Oro
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/332444.m3u8
+
 
 
 
