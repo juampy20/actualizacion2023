@@ -31,27 +31,6 @@ https://jkhdsfj.bfst.live/scripts/MTUxNjk=/caxi2.m3u8
 
 
 
---------------------------------------------------------
--------------------------------------------------------------
-
-
-
-EVENTOS
-
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTC2-NBB1sTTAvCK8dtOVpowiIuTQG_VySGRuFN6w=s900-c-k-c0x00ffffff-no-rj" group-title="EVENTOS",eventos 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://soccerinhd.com/
-https://live.welchi.xyz/hls/de_1080p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTC2-NBB1sTTAvCK8dtOVpowiIuTQG_VySGRuFN6w=s900-c-k-c0x00ffffff-no-rj" group-title="EVENTOS",eventos 4 full hd
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://live.telelatinohd.com/
-https://live.telelatinohd.com:8080/NDUuNy4yMDkuMTk5/362_.m3u8?token=xeT85DUeLtaP1E6hlGP15A&expires=1696555689
-
-
-
-
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
 
