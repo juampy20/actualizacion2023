@@ -2000,7 +2000,8 @@ https://5bff1bf18a887.streamlock.net/rtvla/rtvla/playlist.m3u8
 ------------------------------ RADIOS -------------------------------
 ---------------------------------------------------------------------
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE", PUNTO DE ENCUENTRO PORTEÑA
+https://s2.suenalive.com:7329/stream
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",LA 100
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
@@ -2093,18 +2094,82 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 
 
 
-------------------------------- radio porteña ------------------------
-----------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="-" group-title="RADIO PUNTO DE ENCUENTRO", PUNTO DE ENCUENTRO PORTEÑA
-https://s2.suenalive.com:7329/stream
+
 
 
 ------------------------------PELICULAS ON DEMAND----------------------------
 ----------------------------------------------------------------------------
 
-
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="David Holmes: El chico que sobrevivió (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pL8BuguWW1ZRksHIMwuK9UD4ROd.jpg" group-title="ESTRENOS 2023 CASTELLANO",David Holmes: El chico que sobrevivió (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436624.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bihter, pasión oculta (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIbgMCU9lOGxJ7yR6owBgDqBVxT.jpg" group-title="ESTRENOS 2023 CASTELLANO",Bihter, pasión oculta (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436570.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amor en aguas turbulentas (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV8oX27hhYrWIaGFok6tVgsKYNn.jpg" group-title="ESTRENOS 2023 CASTELLANO",Amor en aguas turbulentas (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436569.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="A Christmas Masquerade (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsHdkcuKlYrSBBIuw086oebBmAW.jpg" group-title="ESTRENOS 2023 CASTELLANO",A Christmas Masquerade (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436568.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Mejor Navidad, ¡imposible! (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFhKtkrZMc382q6U5mf9ngb84dV.jpg" group-title="ESTRENOS 2023 CASTELLANO",Mejor Navidad, ¡imposible! (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436567.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Los alienígenas han abducido a mis padres (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHzgfoSsdxD0WOJqAjGrzi2tbmt.jpg" group-title="ESTRENOS 2023 CASTELLANO",Los alienígenas han abducido a mis padres (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436566.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Los hombres que no amaban a las mujeres (2009) (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzG01EgpRvB5Nk0HtM54YAlePjP.jpg" group-title="CINE SUSPENSE AUDIO CASTELLANO",Los hombres que no amaban a las mujeres (2009) (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430466.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Down Low (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRJ8gn4lapIhQhZDy1222CWCztc.jpg" group-title="ESTRENOS 2023 CASTELLANO",Down Low (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430183.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tiroteo en Río Bravo (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92hYmHw1XpMEF7yZUzjOzcO4zmC.jpg" group-title="ESTRENOS 2023 CASTELLANO",Tiroteo en Río Bravo (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430182.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="The Creator (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6otMCRG9bZzI97o9V8hCkOgUvA.jpg" group-title="ESTRENOS 2023 CASTELLANO",The Creator (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430181.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Te estoy amando locamente (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDx3YfFDEAZfK8wMZ1MzvXsnywF.jpg" group-title="ESTRENOS 2023 CASTELLANO",Te estoy amando locamente (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430180.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="The Baker (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7APW2AfqUxIkEXZWllaWQRYixD.jpg" group-title="ESTRENOS 2023 CASTELLANO",The Baker (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430179.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="La Heredera de la Mafia (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2za7Cbo2DuZfW8RuXSZNYMtdUJN.jpg" group-title="ESTRENOS 2023 CASTELLANO",La Heredera de la Mafia (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430178.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cuando la Navidad era joven (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Fdku46UeJnny4xZK8E1sTVMBRe.jpg" group-title="ESTRENOS 2023 CASTELLANO",Cuando la Navidad era joven (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430177.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Una cuestión de honor (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vST94cRfgHSvUqKagmQgE3K120g.jpg" group-title="ESTRENOS 2023 CASTELLANO",Una cuestión de honor (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430176.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="This Is Christmas (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCbmauk51911Sd5aSkDCYivhwDy.jpg" group-title="ESTRENOS 2023 CASTELLANO",This Is Christmas (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430175.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sabotaje (2022) (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HJF47ywTuxxouVdAHAZ7iPzB4T.jpg" group-title="ESTRENOS 2023 CASTELLANO",Sabotaje (2022) (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430174.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Navidad a la Medida (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihF4eJoGBZW7UOUMGaXh7qXw2I.jpg" group-title="ESTRENOS 2023 CASTELLANO",Navidad a la Medida (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430173.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Oppenheimer (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg" group-title="ESTRENOS 2023 CASTELLANO",Oppenheimer (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/428043.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sly (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flnrKe85SfgcRCW2KgUhz2Bn9yE.jpg" group-title="ESTRENOS 2023 CASTELLANO",Sly (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427878.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="La reina de los concursos (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zxuw5pyFrmlpsyQey3qVfLDT9O.jpg" group-title="ESTRENOS 2023 CASTELLANO",La reina de los concursos (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427877.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NYAD (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fm1UBC4HGA3INXZvdkBSIUH6T6L.jpg" group-title="ESTRENOS 2023 CASTELLANO",NYAD (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427876.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Las Maggie Moore(s) (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Uos457Qe5OeZOnPdEst1PmHYZ0.jpg" group-title="ESTRENOS 2023 CASTELLANO",Las Maggie Moore(s) (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427875.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="La ira de Becky (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg" group-title="ESTRENOS 2023 CASTELLANO",La ira de Becky (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427874.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="El templo (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af6SQL9PMz2scTivtC9WT41oI4o.jpg" group-title="ESTRENOS 2023 CASTELLANO",El templo (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427873.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fuga de Prisión (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRJAJazcHRDwvbQzXiVxrTxd7Bw.jpg" group-title="ESTRENOS 2023 CASTELLANO",Fuga de Prisión (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427872.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Shooting Stars (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlB8pQBfg3L1hCU7HceNWZMNRtP.jpg" group-title="ESTRENOS 2023 CASTELLANO",Shooting Stars (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427520.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Esto va a doler (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Llwyv1uEH37naeRavP61eRmRc.jpg" group-title="ESTRENOS 2023 CASTELLANO",Esto va a doler (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427516.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Baby Assassins: 2 Babies (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xyLR2IjTXpMKPys9E6bD7nqTUp.jpg" group-title="ESTRENOS 2023 CASTELLANO",Baby Assassins: 2 Babies (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427515.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Vacaciones de verano (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMNSvbjxikKJBuufaMTHruI6jh2.jpg" group-title="ESTRENOS 2023 CASTELLANO",Vacaciones de verano (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427514.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ladronas (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDTnt1TuFm4s38KIhAOpmgGGlkL.jpg" group-title="ESTRENOS 2023 CASTELLANO",Ladronas (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427513.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="La Patrulla Canina: La superpelícula (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojsARUPhtbMAcA3dCR3UwcHW1wM.jpg" group-title="ESTRENOS 2023 CASTELLANO",La Patrulla Canina: La superpelícula (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427512.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Nuovo Olimpo (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg" group-title="ESTRENOS 2023 CASTELLANO",Nuovo Olimpo (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427511.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Encierro (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIuQioqs28F6VjPzblUMVGMm8bB.jpg" group-title="ESTRENOS 2023 CASTELLANO",Encierro (CAST.)
+http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/427510.mkv
 
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",Triple Frontier (2019)
 http://vod.tuxchannel.mx/peliculas/720/triple%20frontier%202018.mkv
