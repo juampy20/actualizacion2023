@@ -71,6 +71,7 @@ https://sitsastr.qvixsolutions.com/stsa_americahd/index.m3u8
 
 
 
+
 EL TRECE
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
