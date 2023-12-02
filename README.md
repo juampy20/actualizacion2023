@@ -73,6 +73,16 @@ https://sitsastr.qvixsolutions.com/stsa_americahd/index.m3u8
 
 EL TRECE
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbe3bc448126a05697b4750ab0d294bb:27965a5e47515c52af970def8230142c
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 3 EL TRECE dtv
+https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 3 EL TRECE app
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
