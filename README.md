@@ -117,10 +117,18 @@ https://sitsastr.qvixsolutions.com/stsa_tvpublicahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tvpublica.webp" group-title="ARGENTINA",5 TV PUBLICA flow
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
+EL GARAGE 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" group-title="ARGENTINA", EL GARAGE TV lpq
-https://sitsastr.qvixsolutions.com/stsa_garagehd/index.m3u8
+https://sitsastr.qvixsolutions.com/stsa_garagehd/index.m3u8  
 
+EL RURAL
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es" group-title="ARGENTINA", EL RURAL lpq  
+https://streamlovcd1.alsolnet.com/elrural/live/chunklist_w1205483771.m3u8
+
+
+ 
 METRO
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
