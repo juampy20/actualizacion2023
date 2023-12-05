@@ -13,7 +13,7 @@
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",01 OPCION 1 ingles
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:network-caching=2000
-https://mcdn.mrgamingstreams.com/mrgamingsoccer1.m3u8
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/151.m3u8
 
 
 
@@ -24,7 +24,7 @@ https://mcdn.mrgamingstreams.com/mrgamingsoccer1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-referrer=https://streameast.app/
-https://jkhdsfj.bfst.live/scripts/MTUxNjk=/caxi2.m3u8
+http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/152.m3u8
 
 
 
