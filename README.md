@@ -15,14 +15,13 @@
 http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/417200.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",02 OPCION 2 español
+http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/417204.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",02 OPCION 2 español
-#EXTVLCOPT:sout=#transcode:MPEG-1/2
-#EXTVLCOPT:sout-transcode-ab=256
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/417200.m3u8
+http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/417201.m3u8
 
 
 
