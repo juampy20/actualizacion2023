@@ -17,7 +17,7 @@ http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/417200.m3u8
 
 PADEL
 
-#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="PADEL TV",My Padel Tv
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/ratoca/ratoca1803/ratoca180300167/97593279-dise%C3%B1o-de-s%C3%ADmbolo-de-p%C3%A1del.jpg?ver=6" group-title="PADEL TV",My Padel Tv
 #EXTVLCOPT:network-caching=1500
 http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/327924.m3u8
 
