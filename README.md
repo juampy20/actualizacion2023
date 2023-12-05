@@ -11,7 +11,8 @@
    
 
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",01 OPCION 1 ingles
-#EXTVLCOPT:sout-transcode-vcodec=mp2v
+#EXTVLCOPT:sout=#transcode:std
+#EXTVLCOPT:sout-transcode-ab=256
 http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/151.m3u8
 
 
@@ -20,7 +21,8 @@ http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/151.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",02 OPCION 2 español
-#EXTVLCOPT:sout-transcode-vcodec=mp2v
+#EXTVLCOPT:sout=#transcode:std
+#EXTVLCOPT:sout-transcode-ab=256
 http://138.255.102.3:25461/$$gdgr6dGd/XAFE574758!!1/152.m3u8
 
 
