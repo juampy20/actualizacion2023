@@ -2,7 +2,7 @@
 
 parx
 
-#EXTINF:-1 tvg-logo="-" group-title="W*TURF",parx
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Parx_Casino_and_Racing_Logo.png" group-title="W*TURF",1 parx racing
 https://www.youtube.com/watch?v=UhP9eY-d1Hs
 
 ----------------------------------------- SPORTS MLS MESSI -----------------------------------------
