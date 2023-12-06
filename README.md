@@ -13,7 +13,8 @@ https://www.youtube.com/watch?v=UhP9eY-d1Hs
 
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",01 OPCION 1 ingles
 #EXTVLCOPT:sout=#transcode:MPEG-1/2
-http://weib-tv.com:80/live/juampy20/bWE9TEe3r1/417200.m3u8
+http://68.235.56.91/live/play/V1hoTVpVdHRSV1Y1TTBnemQwbFlkM1pNVFdWeGNtaGxUR2RFY1VGemVrazNXbnBFY1V0dmVETXhiejA9/417200
+
 
 
 
