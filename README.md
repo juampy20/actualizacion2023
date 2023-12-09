@@ -27,8 +27,8 @@ https://anevia115.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTVLCOPT:sout=#transcode:MPEG-1/2
 http://pwwlxclo271388y.fuuun.privacymonster.co/live/play/VURZMFQyb3dVRmhtZEZGMVRUQnNNMUZuWlhwa2RHaEZTbVZEVFd0VUwxbDFaMlV4UzNwcVF5OW1kejA9/327924
 
-
-
+-----------------------------------------padel----------------------------
+--------------------------------------------------------------------------
 
 PADEL
 
