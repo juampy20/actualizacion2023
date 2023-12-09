@@ -4,7 +4,6 @@ parx
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Parx_Casino_and_Racing_Logo.png" group-title="str mas",1star
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://blackface.world/
 https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2023/12/09/Mallorca_vs_Sevilla_20231209_1702146031065/ctr-all-complete.m3u8
 
