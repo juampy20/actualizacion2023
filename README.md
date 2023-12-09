@@ -1169,7 +1169,8 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TyC_Sports.png" group-title="SPORTS TYC SPORTS PLAY",1998 tyc sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TyC_Sports.png" group-title="SPORTS TYC SPORTS PLAY",1998 tyc sports lpq
+https://sitsastr.qvixsolutions.com/stsa_tychd/index.m3u8
 
 T Y C SPORTS
 
