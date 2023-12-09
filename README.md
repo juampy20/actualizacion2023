@@ -1,6 +1,10 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="test",test eleeven
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://librefutboltv.com/
+#EXTVLCOPT:network-caching=1000
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd
 
 
 ----------------------------------------- SPORTS MLS MESSI -----------------------------------------
