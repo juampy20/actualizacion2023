@@ -1164,7 +1164,15 @@ DIRECTV SPORTS 2 ARGENTINA
 https://1063-vos-da-mt.dtvott.com/DASH/manifest.mpd
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="SPORTS DIRECTV",205 DIRECTV SPORTS plus
+https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd?
 
 
 
