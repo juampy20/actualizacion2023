@@ -1163,6 +1163,8 @@ DIRECTV SPORTS 2 ARGENTINA
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="SPORTS DIRECTV",205 DIRECTV SPORTS 2
 https://1063-vos-da-mt.dtvott.com/DASH/manifest.mpd
 
+DIRECTV MAS
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
