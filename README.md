@@ -1149,11 +1149,12 @@ DIRECTV SPORTS COLOMBIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fa59463176f3dc2964b91b4f7ae1d7c:81d5b95cc9057d6b0f85c78e6f0e41e7
+#KODIPROP:inputstream.adaptive.license_key=3e1c0dd8d951335d9d8c534d29277c91:978f073eee32606a3f2544306fb1a7b3
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 https://1059-vos.dtvott.com/DASH/manifest.mpd
+
 
 
 DIRECTV SPORTS 2 ARGENTINA
