@@ -1,12 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="Mundial de Clubes", canal 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://linenstandard.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/vsg649tgjupj50.m3u8?s=An6frorXCakG9PGMrqtJhg&e=1703026151
-
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="Mundial de Clubes", canal 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
