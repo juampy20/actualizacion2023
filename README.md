@@ -7,8 +7,15 @@
 #EXTVLCOPT:http-referrer=https://linenstandard.net/
 https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/vsg649tgjupj50.m3u8?s=An6frorXCakG9PGMrqtJhg&e=1703026151
 
-
-
+#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="Mundial de Clubes", canal 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
+https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
 
 
 
