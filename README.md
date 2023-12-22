@@ -2710,3 +2710,39 @@ http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/263032.mkv
 http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/263033.mp4
 #EXTINF:-1,Snoopy presenta: Por los viejos tiempos (2021)
 http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/263034.mkv
+
+#EXTINF:-1,El encargado S01 El encargado - S01E01 - Episodio 1
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/395148.mkv
+#EXTINF:-1,El encargado S01 El encargado - S01E02 - Episodio 2
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/395149.mkv
+#EXTINF:-1,El encargado S01 El encargado - S01E03 - Episodio 3
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/395150.mkv
+#EXTINF:-1,El encargado S01 El encargado - S01E04 - Episodio 4
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/395151.mkv
+#EXTINF:-1,El encargado S01 El encargado - S01E05 - Episodio 5
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/395152.mkv
+#EXTINF:-1,El encargado S01 El encargado - S01E06 - Episodio 6
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/395153.mkv
+#EXTINF:-1,El encargado S01 El encargado - S01E07 - Episodio 7
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/395154.mkv
+#EXTINF:-1,El encargado S01 El encargado - S01E08 - Episodio 8
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/395155.mkv
+#EXTINF:-1,El encargado S01 El encargado - S01E09 - Episodio 9
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/395156.mkv
+#EXTINF:-1,El encargado S01 El encargado - S01E10 - Episodio 10
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/395157.mkv
+#EXTINF:-1,El encargado S01 El encargado - S01E11 - Episodio 11
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/395158.mkv
+#EXTINF:-1,El encargado S02 El encargado - S02E01 - Episodio 1
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/444366.mkv
+#EXTINF:-1,El encargado S02 El encargado - S02E02 - Episodio 2
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/444367.mkv
+#EXTINF:-1,El encargado S02 El encargado - S02E03 - Episodio 3
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/444368.mkv
+#EXTINF:-1,El encargado S02 El encargado - S02E04 - Episodio 4
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/444421.mkv
+#EXTINF:-1,El encargado S02 El encargado - S02E05 - Episodio 5
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/444370.mkv
+#EXTINF:-1,El encargado S02 El encargado - S02E06 - Episodio 6
+http://weib-tv.com:80/series/userweib1940/eHURNB911D/444371.mkv
+#EXTINF:-1,El encargado S02 El encargado - S02E07 - Episodio 7
