@@ -146,7 +146,10 @@ EL RURAL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es" group-title="ARGENTINA",7 EL RURAL lpq  
 https://streamlovcd1.alsolnet.com/elrural/live/chunklist_w1205483771.m3u8
 
+CHACRA
 
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2017/03/58de3e4a33307__838x390.jpg" group-title="ARGENTINA",7 CHACRA TV 
+https://s8.stweb.tv/chacra/live/chunks.m3u8
  
 METRO
 
