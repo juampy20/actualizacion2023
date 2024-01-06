@@ -30,6 +30,18 @@ https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #KODIPROP:inputstream.adaptive.license_key=ab5c23c340814b1fa204d7b941295929:1ee7c0d2946dd0adb8f046ff71aaad6e
 https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/01/06/Sassuolo_vs_Fiorentina_20240106_1704562845068/ctr-all-complete.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",02 OPCION 1 ingles
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ee7c0d2946dd0adb8f046ff71aaad6e:ab5c23c340814b1fa204d7b941295929
+https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/01/06/Sassuolo_vs_Fiorentina_20240106_1704562845068/ctr-all-complete.m3u8
+
+
+
 -----------------------------------------padel----------------------------
 --------------------------------------------------------------------------
 
