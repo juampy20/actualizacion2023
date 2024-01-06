@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="Mundial de Clubes", canal 1
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -9,6 +9,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
+#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="Mundial de Clubes", canal 1
 https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
 
 
@@ -20,7 +21,6 @@ https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
    INTER MIAMI  
    
 
-#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",01 OPCION 1 ingles
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -28,9 +28,10 @@ https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab5c23c340814b1fa204d7b941295929:1ee7c0d2946dd0adb8f046ff71aaad6e
+#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",01 OPCION 1 ingles
 https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/01/06/Sassuolo_vs_Fiorentina_20240106_1704562845068/ctr-all-complete.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",02 OPCION 1 ingles
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -38,6 +39,7 @@ https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/01/0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ee7c0d2946dd0adb8f046ff71aaad6e:ab5c23c340814b1fa204d7b941295929
+#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",02 OPCION 1 ingles
 https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/01/06/Sassuolo_vs_Fiorentina_20240106_1704562845068/ctr-all-complete.m3u8
 
 
