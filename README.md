@@ -21,8 +21,7 @@ https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
    
 
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",01 OPCION 1 ingles
-#EXTVLCOPT:sout=#transcode:MPEG-1/2
-http://pwwlxclo271388y.fuuun.privacymonster.co/live/play/VURZMFQyb3dVRmhtZEZGMVRUQnNNMUZuWlhwa2RHaEZTbVZEVFd0VUwxbDFaMlV4UzNwcVF5OW1kejA9/327924
+https://blackface.world/star_jwp.html?get=https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/01/06/Sassuolo_vs_Fiorentina_20240106_1704562845068/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/89A23EB962837EC3384C9AFE239375D820E8D90D5D7DC22722BD4177DEB07BAB/scale?width=1920&aspectRatio=1.78&format=jpeg&key=ab5c23c340814b1fa204d7b941295929&key2=1ee7c0d2946dd0adb8f046ff71aaad6e
 
 -----------------------------------------padel----------------------------
 --------------------------------------------------------------------------
