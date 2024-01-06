@@ -20,7 +20,7 @@ https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
    INTER MIAMI  
    
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",02 OPCION 1 ingles
-https://vercanalesonline.com/embed/eventos/?r=aHR0cHM6Ly9ibGFja2ZhY2Uud29ybGQvc3Rhcl9qd3AuaHRtbD9nZXQ9aHR0cHM6Ly9saXZlLWZ0Yy1uYS1zb3V0aC0yLm1lZGlhLnN0YXJvdHQuY29tL2dydTEvcWIwMS9zdGFycGx1cy9ldmVudC8yMDI0LzAxLzA2L0FyYW5kaW5hX0NGX3ZzX1JlYWxfTWFkcmlfMjAyNDAxMDZfMTcwNDU2NDA0NjAyNi9jdHItYWxsLWNvbXBsZXRlLm0zdTgmaW1nPWh0dHBzOi8vcHJvZC1yaXBjdXQtZGVsaXZlcnkuZGlzbmV5LXBsdXMubmV0L3YxL3ZhcmlhbnQvc3Rhci9ENEY2QTA3NUMzQTczQTNFMjFCQkFDQTBFMjA4NjcxQkVFRkRFMDdCOUUwOEYxMUUyNzNDRUVERkQwNUI1QzlFL3NjYWxlP3dpZHRoPTE5MjAmYXNwZWN0UmF0aW89MS43OCZmb3JtYXQ9anBlZyZrZXk9Y2JiNDI4NTA4NGRmNGJhYTg4YWJhMjIxZmM2ZjcwMWYma2V5Mj0wMWIzYjBlNDZiMjRkNmI1ZTY4NDkwYjc4ZDMwYjdlZQ
+https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/01/06/Arandina_CF_vs_Real_Madri_20240106_1704564046026/ctr-all-complete.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",02 OPCION 2 ingles
 https://blackface.world/star_jwp.html?get=https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/01/06/Arandina_CF_vs_Real_Madri_20240106_1704564046026/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/D4F6A075C3A73A3E21BBACA0E208671BEEFDE07B9E08F11E273CEEDFD05B5C9E/scale?width=1920&aspectRatio=1.78&format=jpeg&key=cbb4285084df4baa88aba221fc6f701f&key2=01b3b0e46b24d6b5e68490b78d30b7ee
