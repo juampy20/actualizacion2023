@@ -20,10 +20,10 @@ https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
    INTER MIAMI  
    
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",02 OPCION 1 ingles
-https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/01/06/Arandina_CF_vs_Real_Madri_20240106_1704564046026/ctr-all-complete.m3u8
+https://online.rtn.tv/index.php
 
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS",02 OPCION 2 ingles
-https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/01/06/Arandina_CF_vs_Real_Madri_20240106_1704564046026/ctr-all-complete.m3u8
+
 
 
 
