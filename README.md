@@ -17,15 +17,16 @@ https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 ----------------------------------------- SPORTS MLS MESSI -----------------------------------------
 ----------------------------------------------------------------------------------------------------
 
-   INTER MIAMI  
+   turf moli 
    
-#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="turf moli ",opc 1
+#EXTINF:-1 tvg-logo="-" group-title="turf moli ",opc 1
 https://shlsakamai4.akamaized.net/hlsorigin/gulfstream_hd_fm_771/chunklist.m3u8?stream=monticello_mbr&cust=TVG&user=&t=1704842076&h=d2880f01c10fd434cbb609fc8d379efd&type=live
 
-#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="turf moli",opc 2
+#EXTINF:-1 tvg-logo="-" group-title="turf moli",opc 2
 https://shlsakamai3.akamaized.net/hlsorigin/laurel_hd_fm_771/chunklist.m3u8?stream=monticello_mbr&cust=TVG&user=&t=1704842076&h=d2880f01c10fd434cbb609fc8d379efd&type=live
 
-
+#EXTINF:-1 tvg-logo="-" group-title="turf moli",opc 3
+https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_771/chunklist.m3u8?stream=chester_downs_mbr&cust=TVG&user=&t=1704893202&h=9921c5341efb51f3dc3923455c4b3c4d&type=live
 
 -----------------------------------------padel----------------------------
 --------------------------------------------------------------------------
