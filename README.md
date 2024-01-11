@@ -1389,26 +1389,20 @@ DAZN F1 EN ESPAÑOL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://weib-tv.com:80/play/NCql1ONV9dul8YdFuoSvjdiI_NcdRuo4_tCVga0RLsq5Rhuu6PammkrwDbel-K-G/m3u8
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
+
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
 
 
 DAZN 1 
 
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,251 DAZN 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://weib-tv.com:80/play/NCql1ONV9dul8YdFuoSvjaCKxB_yoRIJ9seWJ8g59TVbkIXjdjtq9R54hBd1ngIL/m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://01-24.webhd.ru/ddy4/premium445/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 
 
 DAZN 2
@@ -1424,7 +1418,7 @@ DAZN 2
 http://weib-tv.com:80/play/NCql1ONV9dul8YdFuoSvjaCKxB_yoRIJ9seWJ8g59TUO6ef5oauiAZKlRRgziDI8/m3u8
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
 
 
 DAZN 4
@@ -1439,7 +1433,7 @@ DAZN 4
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
 
 DAZN 1 A
@@ -1454,7 +1448,7 @@ DAZN 1 A
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd
 
 
 DAZN ZONA
@@ -1469,7 +1463,7 @@ DAZN ZONA
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 
 
 DAZN 2 A
@@ -1484,7 +1478,7 @@ DAZN 2 A
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
 
 DAZN 1 UK
@@ -1499,7 +1493,7 @@ DAZN 1 UK
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 
 
 DAZN ELEVEN 2
@@ -1514,7 +1508,7 @@ DAZN ELEVEN 2
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 
 
 DAZN ELEVEN 3
@@ -1529,7 +1523,7 @@ DAZN ELEVEN 3
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
 
 
 DAZN ELEVEN 4
@@ -1544,7 +1538,7 @@ DAZN ELEVEN 4
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
 
 
 DAZN ELEVEN 5
@@ -1559,7 +1553,7 @@ DAZN ELEVEN 5
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
 
 
 DAZN ELEVEN 6
@@ -1574,7 +1568,7 @@ DAZN ELEVEN 6
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 
 
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
+//dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
 
 
 
@@ -1882,9 +1876,7 @@ https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ddh2.vipboxtv.stream/ddh2/premium554/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="W*TURF",436 RACING TV 2 USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ddh2.vipboxtv.stream/ddh2/premium555/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/
+
 
 
 
