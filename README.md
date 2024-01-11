@@ -1418,6 +1418,7 @@ DAZN 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://weib-tv.com:80/play/NCql1ONV9dul8YdFuoSvjaCKxB_yoRIJ9seWJ8g59TUO6ef5oauiAZKlRRgziDI8/m3u8
 
 
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
