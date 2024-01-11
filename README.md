@@ -8,25 +8,14 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
-#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="Mundial de Clubes", canal 1
+#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="Eventos", canal 1
 https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
 
 
 
 
------------------------------------------ SPORTS MLS MESSI -----------------------------------------
-----------------------------------------------------------------------------------------------------
 
-   turf moli 
-   
-#EXTINF:-1 tvg-logo="-" group-title="turf moli ",opc 1
-https://online.rtn.tv/
-
-#EXTINF:-1 tvg-logo="-" group-title="turf moli",opc 2
-https://shlsakamai4.akamaized.net/hlsorigin/capitalotb_fm_1308/chunklist.m3u8?stream=chester_downs_mbr&cust=TVG&user=&t=1704893202&h=9921c5341efb51f3dc3923455c4b3c4d&type=live
-
-#EXTINF:-1 tvg-logo="-" group-title="turf moli",opc 3
-https://shlsakamai3.akamaized.net/hlsorigin/vsin_fm_771/chunklist.m3u8?stream=chester_downs_mbr&cust=TVG&user=&t=1704893202&h=9921c5341efb51f3dc3923455c4b3c4d&type=live
+ 
 
 -----------------------------------------padel----------------------------
 --------------------------------------------------------------------------
@@ -1413,6 +1402,9 @@ DAZN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://weib-tv.com:80/play/NCql1ONV9dul8YdFuoSvjaCKxB_yoRIJ9seWJ8g59TVbkIXjdjtq9R54hBd1ngIL/m3u8
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 
 
@@ -1426,6 +1418,8 @@ DAZN 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
 
 
@@ -1439,6 +1433,8 @@ DAZN 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
 
@@ -1452,6 +1448,8 @@ DAZN 1 A
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd
 
 
@@ -1465,6 +1463,8 @@ DAZN ZONA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 
 
@@ -1478,6 +1478,8 @@ DAZN 2 A
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
 
@@ -1491,6 +1493,8 @@ DAZN 1 UK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 
 
@@ -1504,6 +1508,8 @@ DAZN ELEVEN 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 
 
@@ -1517,6 +1523,8 @@ DAZN ELEVEN 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
 
 
@@ -1530,6 +1538,8 @@ DAZN ELEVEN 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
 
 
@@ -1543,6 +1553,8 @@ DAZN ELEVEN 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
 
 
@@ -1556,6 +1568,8 @@ DAZN ELEVEN 6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+
+
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
 
 
