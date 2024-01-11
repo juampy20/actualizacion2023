@@ -20,7 +20,7 @@ https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
    turf moli 
    
 #EXTINF:-1 tvg-logo="-" group-title="turf moli ",opc 1
-https://www.youtube.com/watch?v=ue0RP3C1Brg&list=RDue0RP3C1Brg&start_radio=1
+https://online.rtn.tv/
 
 #EXTINF:-1 tvg-logo="-" group-title="turf moli",opc 2
 https://shlsakamai4.akamaized.net/hlsorigin/capitalotb_fm_1308/chunklist.m3u8?stream=chester_downs_mbr&cust=TVG&user=&t=1704893202&h=9921c5341efb51f3dc3923455c4b3c4d&type=live
