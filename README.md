@@ -1408,14 +1408,10 @@ https://01-24.webhd.ru/ddy4/premium445/tracks-v1a1/mono.m3u8?|referer=https://wi
 DAZN 2
 
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,252 DAZN 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://weib-tv.com:80/play/NCql1ONV9dul8YdFuoSvjaCKxB_yoRIJ9seWJ8g59TUO6ef5oauiAZKlRRgziDI8/m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://01-24.webhd.ru/ddh2/premium446/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/
+
+
 
 
 //dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
