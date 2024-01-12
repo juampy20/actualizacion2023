@@ -1894,6 +1894,84 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 ------------------------------PELICULAS ON DEMAND----------------------------
 ----------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-calle-de-la-navidad.jpg"group-title="",La calle de la Navidad
+https://archive.org/download/mtaymjk2na-latino-full-hd-0-0-online/mtaymjk2na-latino-full-hd-0-0-online.mp4
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/le-nouveau-jouet.jpg"group-title="",Le nouveau jouet
+https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/647da78e4fb3ec4b7f5e3c8d55f779d6/EP.0.2.v0.1701317519.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/malos-padres.jpg"group-title="",malos padres
+https://pc-19.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ca9c97cfacb34ff3db842abc066c8e68/EP.0.2.v0.1701006282.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-lista-de-los-besos.jpg"group-title="",La lista de los besos
+https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/eb39f30374e2e5ca8ddcff1eb785e60b/EP.0.0.v0.1701149724.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-sneak-over-1697282789.png"group-title="",The Sneak Over
+https://pc-18.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/88f2f670788ece73d177305129d64a00/EP.0.2.v0.1697289263.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/equipo-paranormal.jpg"group-title="",Equipo Paranormal
+https://pc-33.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/28d97a4f188ae500864a446183835243/EP.0.1.v0.1677411664.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-ladykillers-1578587105.jpg"group-title="",El Quinteto de La Muerte(SUB)
+https://pc-03.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6b86fc7c1164f62886fa9dc0d98f916a/EP.0.0.v0.1677550099.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/una-loca-pelicula-epica-1578514205.jpg"group-title="",Una Loca Película Épica
+https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/aae8c4939b50150ff7580f657fceece1/EP.0.1.v0.1677288213.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/diabolica-tentacion.jpg"group-title="",Diabólica Tentación
+https://pc-37.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/dff3ee9a9d0f2fd6212ca2a77d54ae15/EP.0.1.v0.1677071062.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-muerte-le-sienta-bien.jpg"group-title="",La muerte Le Sienta Bien
+https://pc-45.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/acc73092da5201925481df79ccce0958/EP.0.1.v0.1678068167.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/phillip-morris-te-quiero.jpg"group-title="",Phillip Morris ¡Te quiero!
+https://pc-28.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/dc9db74a6263c58b2492238761c4879e/EP.0.1.v0.1677354173.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/brothers-nest.jpg"group-title="",Brothers' Nest(SUB)
+https://pc-37.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/042f20e76725dea978d1b3195b633c39/EP.0.0.v0.1677411167.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/noche-de-juegos-game-night.jpg"group-title="",Noche de Juegos (Game Night) 
+https://pc-34.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/989ff6b7e8d9924b96de22a76c8a3d47/EP.0.1.v0.1677420232.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/vidas-criminales.jpg"group-title="",Vidas Criminales
+https://pc-20.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/67d906766673be6f494e837151667cc3/EP.0.1.v0.1677318381.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/siete-psicopatas.jpg"group-title="",Siete Psicopatas
+https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/48c6e956598c618f2afab53b41629941/EP.0.1.v0.1678021589.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dotado-para-triunfar.jpg"group-title="",Dotado para Triunfar
+https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5a29ab43f9d307a2ceb300bc023faaa8/EP.0.1.v0.1677419893.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jefe.jpg"group-title="",jefe
+https://pc-21.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0a953d38a681b272f7cc2e2ca8fbd3e1/EP.0.1.v0.1677575939.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/nacion-asesina.jpg"group-title="",nación asesina
+https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0f33a5d60546cbc29354bc587584fe33/EP.0.1.v0.1679701174.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/un-gol-mas-por-favor.jpg"group-title="",Un Gol Mas, Por favor...
+https://pc-40.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/fe650999541f2da0ceabf4217083dd01/EP.0.1.v0.1677257770.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mama-y-papa.jpg"group-title="",https://pc-27.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/83c06a7e77cb488e25d696d401ca5aaa/EP.0.1.v0.1678275142.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/yucatan.jpg"group-title="",Yucatán
+https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e7c81baa66fb251bfabe4c8d0b8247ec/EP.0.1.v0.1677473904.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-favorita.jpg"group-title="",La Favorita
+https://pc-34.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ae55ec1d3386acf876dad48c3006a8e8/EP.0.2.v1.1676528911.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/summer-03.jpg"group-title="",Summer ’03(SUB)
+https://pc-21.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ceb6486e34ea756534fbfeea2f423ae7/EP.0.0.v0.1677638526.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/malos-momentos-en-el-hotel-royale.jpg"group-title="",Malos Momentos en el Hotel Royale
+https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ede8ec0f266ed91e29959271c87bd1fd/EP.0.1.v0.1677386642.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-dia-de-la-novia.jpg"group-title="",El Día de La Novia
+https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e055841f8c7a5814b28017cf366e33be/EP.0.1.v0.1677796542.360.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-navidad-de-las-madres-rebeldes.jpg"group-title="",La Navidad de las Madres Rebeldes
+https://pc-12.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/adcf2c3c8a349d16e566196732182dc2/EP.0.2.v1.1676346354.360.m3u8
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/do_not_disturb_ayzek_ile_bir_gece-484736025-mmed.jpg"group-title="",NO MOLESTAR
+https://archive.org/download/219022-738931f-5-600d-4751-9468-b-83590f-066c-3-kuzs-1814573-doodstream/219022--738931f5-600d-4751-9468-b83590f066c3--kuzs--1814573-doodstream.mp4
+#EXTINF:-1 tvg-logo="https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsELPfcRyVmqncxbHCd1Lxc8HdXD.jpg&w=640&q=75"group-title="",Mi gran boda griega 3
+https://dl.dropbox.com/scl/fi/x1riicaw4i048rr62yh77/218334-0e7184d4-682b-4654-9d18-e5a83a925d15-iemo-1807020-doodstream.mp4?rlkey=io9ivvel5jfxc63w8wp85djls&dl=0
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-plan-de-jubilacion-1695738634.png"group-title="",El Plan de Jubilación(SUB)
+https://pc-10.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/84fa9730df8c85631df4168395b6beca/EP.0.0.v0.1695744400.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tener-tiempo-1695654254.png"group-title="",Tener tiempo
+https://pc-11.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5420edf9203f93dd9e0edce0c7158972/EP.0.1.v0.1695658208.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/soltera-codiciada-2-1695555846.png"group-title="",Soltera codiciada 2
+https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4aa81686b4772484edb1d3650f7274b3/EP.0.2.v0.1695594408.1080.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/miniespias-armagedon-1695465486.png"group-title="",Miniespías: Armagedón
+https://pc-27.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/189f63fa9397116c8477af21f8871d0c/EP.0.2.v0.1695473308.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/no-estas-invitada-a-mi-bat-mitzvah-1693122055.png"group-title="", No estás invitada a mi bat Mitzvah!
+https://server15.mxcdnab.online/newhls/5dffdb7d860c3253b06dd70089f598cb/EP.0.1.v1.1693213491.720.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" group-title=“”,BARBIE (2023)
+https://archive.org/download/peliculas-bluray.-com-barbie-2023-7200-p-hd/%5BPeliculasBluray.Com%5D%20Barbie%20%282023%29%20%5B7200P%5D%5BHD%5D.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n1hqbSCtyBAxaXEl1Dj3ipXJAJG.jpg" group-title="",Hijos de perra(FHD)
+https://archive.org/download/hijos-de-perra-2023_202310/Hijos%20de%20perra%20%282023%29.mkv
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/muertos-de-risa.jpg" group-title="", Muertos de risa 
+https://pc-41.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5d3b6d545065bec86aca2180116b6e60/EP.0.1.v0.1677663386.360.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg" group-title="", Barbie (2023)(CAM)
+https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a0d0c19e4b961dcec4eb18b67cb766cc/EP.0.2.v2.1691864601.720.m3u8
+
+
+
+
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="David Holmes: El chico que sobrevivió (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pL8BuguWW1ZRksHIMwuK9UD4ROd.jpg" group-title="ESTRENOS 2023 CASTELLANO",David Holmes: El chico que sobrevivió (CAST.)
 http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436624.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bihter, pasión oculta (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIbgMCU9lOGxJ7yR6owBgDqBVxT.jpg" group-title="ESTRENOS 2023 CASTELLANO",Bihter, pasión oculta (CAST.)
