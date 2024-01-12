@@ -1894,113 +1894,9 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 ------------------------------PELICULAS ON DEMAND----------------------------
 ----------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-calle-de-la-navidad.jpg"group-title="",La calle de la Navidad
-https://archive.org/download/mtaymjk2na-latino-full-hd-0-0-online/mtaymjk2na-latino-full-hd-0-0-online.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/le-nouveau-jouet.jpg"group-title="",Le nouveau jouet
-https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/647da78e4fb3ec4b7f5e3c8d55f779d6/EP.0.2.v0.1701317519.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/malos-padres.jpg"group-title="",malos padres
-https://pc-19.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ca9c97cfacb34ff3db842abc066c8e68/EP.0.2.v0.1701006282.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-lista-de-los-besos.jpg"group-title="",La lista de los besos
-https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/eb39f30374e2e5ca8ddcff1eb785e60b/EP.0.0.v0.1701149724.1080.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-sneak-over-1697282789.png"group-title="",The Sneak Over
-https://pc-18.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/88f2f670788ece73d177305129d64a00/EP.0.2.v0.1697289263.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/equipo-paranormal.jpg"group-title="",Equipo Paranormal
-https://pc-33.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/28d97a4f188ae500864a446183835243/EP.0.1.v0.1677411664.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-ladykillers-1578587105.jpg"group-title="",El Quinteto de La Muerte(SUB)
-https://pc-03.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6b86fc7c1164f62886fa9dc0d98f916a/EP.0.0.v0.1677550099.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/una-loca-pelicula-epica-1578514205.jpg"group-title="",Una Loca Película Épica
-https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/aae8c4939b50150ff7580f657fceece1/EP.0.1.v0.1677288213.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/diabolica-tentacion.jpg"group-title="",Diabólica Tentación
-https://pc-37.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/dff3ee9a9d0f2fd6212ca2a77d54ae15/EP.0.1.v0.1677071062.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-muerte-le-sienta-bien.jpg"group-title="",La muerte Le Sienta Bien
-https://pc-45.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/acc73092da5201925481df79ccce0958/EP.0.1.v0.1678068167.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/phillip-morris-te-quiero.jpg"group-title="",Phillip Morris ¡Te quiero!
-https://pc-28.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/dc9db74a6263c58b2492238761c4879e/EP.0.1.v0.1677354173.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/brothers-nest.jpg"group-title="",Brothers' Nest(SUB)
-https://pc-37.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/042f20e76725dea978d1b3195b633c39/EP.0.0.v0.1677411167.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/noche-de-juegos-game-night.jpg"group-title="",Noche de Juegos (Game Night) 
-https://pc-34.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/989ff6b7e8d9924b96de22a76c8a3d47/EP.0.1.v0.1677420232.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/vidas-criminales.jpg"group-title="",Vidas Criminales
-https://pc-20.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/67d906766673be6f494e837151667cc3/EP.0.1.v0.1677318381.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/siete-psicopatas.jpg"group-title="",Siete Psicopatas
-https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/48c6e956598c618f2afab53b41629941/EP.0.1.v0.1678021589.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/dotado-para-triunfar.jpg"group-title="",Dotado para Triunfar
-https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5a29ab43f9d307a2ceb300bc023faaa8/EP.0.1.v0.1677419893.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/jefe.jpg"group-title="",jefe
-https://pc-21.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0a953d38a681b272f7cc2e2ca8fbd3e1/EP.0.1.v0.1677575939.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/nacion-asesina.jpg"group-title="",nación asesina
-https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0f33a5d60546cbc29354bc587584fe33/EP.0.1.v0.1679701174.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/un-gol-mas-por-favor.jpg"group-title="",Un Gol Mas, Por favor...
-https://pc-40.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/fe650999541f2da0ceabf4217083dd01/EP.0.1.v0.1677257770.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mama-y-papa.jpg"group-title="",https://pc-27.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/83c06a7e77cb488e25d696d401ca5aaa/EP.0.1.v0.1678275142.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/yucatan.jpg"group-title="",Yucatán
-https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e7c81baa66fb251bfabe4c8d0b8247ec/EP.0.1.v0.1677473904.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-favorita.jpg"group-title="",La Favorita
-https://pc-34.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ae55ec1d3386acf876dad48c3006a8e8/EP.0.2.v1.1676528911.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/summer-03.jpg"group-title="",Summer ’03(SUB)
-https://pc-21.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ceb6486e34ea756534fbfeea2f423ae7/EP.0.0.v0.1677638526.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/malos-momentos-en-el-hotel-royale.jpg"group-title="",Malos Momentos en el Hotel Royale
-https://pc-15.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ede8ec0f266ed91e29959271c87bd1fd/EP.0.1.v0.1677386642.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-dia-de-la-novia.jpg"group-title="",El Día de La Novia
-https://pc-16.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e055841f8c7a5814b28017cf366e33be/EP.0.1.v0.1677796542.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-navidad-de-las-madres-rebeldes.jpg"group-title="",La Navidad de las Madres Rebeldes
-https://pc-12.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/adcf2c3c8a349d16e566196732182dc2/EP.0.2.v1.1676346354.360.m3u8
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/do_not_disturb_ayzek_ile_bir_gece-484736025-mmed.jpg"group-title="",NO MOLESTAR
-https://archive.org/download/219022-738931f-5-600d-4751-9468-b-83590f-066c-3-kuzs-1814573-doodstream/219022--738931f5-600d-4751-9468-b83590f066c3--kuzs--1814573-doodstream.mp4
-#EXTINF:-1 tvg-logo="https://www.cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsELPfcRyVmqncxbHCd1Lxc8HdXD.jpg&w=640&q=75"group-title="",Mi gran boda griega 3
-https://dl.dropbox.com/scl/fi/x1riicaw4i048rr62yh77/218334-0e7184d4-682b-4654-9d18-e5a83a925d15-iemo-1807020-doodstream.mp4?rlkey=io9ivvel5jfxc63w8wp85djls&dl=0
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-plan-de-jubilacion-1695738634.png"group-title="",El Plan de Jubilación(SUB)
-https://pc-10.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/84fa9730df8c85631df4168395b6beca/EP.0.0.v0.1695744400.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tener-tiempo-1695654254.png"group-title="",Tener tiempo
-https://pc-11.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5420edf9203f93dd9e0edce0c7158972/EP.0.1.v0.1695658208.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/soltera-codiciada-2-1695555846.png"group-title="",Soltera codiciada 2
-https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4aa81686b4772484edb1d3650f7274b3/EP.0.2.v0.1695594408.1080.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/miniespias-armagedon-1695465486.png"group-title="",Miniespías: Armagedón
-https://pc-27.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/189f63fa9397116c8477af21f8871d0c/EP.0.2.v0.1695473308.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/no-estas-invitada-a-mi-bat-mitzvah-1693122055.png"group-title="", No estás invitada a mi bat Mitzvah!
-https://server15.mxcdnab.online/newhls/5dffdb7d860c3253b06dd70089f598cb/EP.0.1.v1.1693213491.720.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" group-title=“”,BARBIE (2023)
-https://archive.org/download/peliculas-bluray.-com-barbie-2023-7200-p-hd/%5BPeliculasBluray.Com%5D%20Barbie%20%282023%29%20%5B7200P%5D%5BHD%5D.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n1hqbSCtyBAxaXEl1Dj3ipXJAJG.jpg" group-title="",Hijos de perra(FHD)
-https://archive.org/download/hijos-de-perra-2023_202310/Hijos%20de%20perra%20%282023%29.mkv
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/muertos-de-risa.jpg" group-title="", Muertos de risa 
-https://pc-41.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5d3b6d545065bec86aca2180116b6e60/EP.0.1.v0.1677663386.360.m3u8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg" group-title="", Barbie (2023)(CAM)
-https://pc-24.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a0d0c19e4b961dcec4eb18b67cb766cc/EP.0.2.v2.1691864601.720.m3u8
 
 
 
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="David Holmes: El chico que sobrevivió (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pL8BuguWW1ZRksHIMwuK9UD4ROd.jpg" group-title="ESTRENOS 2023 CASTELLANO",David Holmes: El chico que sobrevivió (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436624.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bihter, pasión oculta (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIbgMCU9lOGxJ7yR6owBgDqBVxT.jpg" group-title="ESTRENOS 2023 CASTELLANO",Bihter, pasión oculta (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436570.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amor en aguas turbulentas (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV8oX27hhYrWIaGFok6tVgsKYNn.jpg" group-title="ESTRENOS 2023 CASTELLANO",Amor en aguas turbulentas (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436569.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="A Christmas Masquerade (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsHdkcuKlYrSBBIuw086oebBmAW.jpg" group-title="ESTRENOS 2023 CASTELLANO",A Christmas Masquerade (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436568.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Mejor Navidad, ¡imposible! (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFhKtkrZMc382q6U5mf9ngb84dV.jpg" group-title="ESTRENOS 2023 CASTELLANO",Mejor Navidad, ¡imposible! (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436567.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Los alienígenas han abducido a mis padres (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHzgfoSsdxD0WOJqAjGrzi2tbmt.jpg" group-title="ESTRENOS 2023 CASTELLANO",Los alienígenas han abducido a mis padres (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/436566.mkv
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Down Low (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRJ8gn4lapIhQhZDy1222CWCztc.jpg" group-title="ESTRENOS 2023 CASTELLANO",Down Low (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430183.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tiroteo en Río Bravo (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92hYmHw1XpMEF7yZUzjOzcO4zmC.jpg" group-title="ESTRENOS 2023 CASTELLANO",Tiroteo en Río Bravo (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430182.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="The Creator (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6otMCRG9bZzI97o9V8hCkOgUvA.jpg" group-title="ESTRENOS 2023 CASTELLANO",The Creator (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430181.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Te estoy amando locamente (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDx3YfFDEAZfK8wMZ1MzvXsnywF.jpg" group-title="ESTRENOS 2023 CASTELLANO",Te estoy amando locamente (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430180.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="The Baker (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7APW2AfqUxIkEXZWllaWQRYixD.jpg" group-title="ESTRENOS 2023 CASTELLANO",The Baker (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430179.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="La Heredera de la Mafia (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2za7Cbo2DuZfW8RuXSZNYMtdUJN.jpg" group-title="ESTRENOS 2023 CASTELLANO",La Heredera de la Mafia (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430178.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cuando la Navidad era joven (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Fdku46UeJnny4xZK8E1sTVMBRe.jpg" group-title="ESTRENOS 2023 CASTELLANO",Cuando la Navidad era joven (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430177.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Una cuestión de honor (CAST.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vST94cRfgHSvUqKagmQgE3K120g.jpg" group-title="ESTRENOS 2023 CASTELLANO",Una cuestión de honor (CAST.)
-http://weib-tv.com:80/movie/juampy20/bWE9TEe3r1/430176.mkv
 
 
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",Triple Frontier (2019)
@@ -2161,152 +2057,220 @@ http://vod.tuxchannel.mx/peliculas/720/riddick.mkv
 
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg",Power Rangers (2017)
 http://vod.tuxchannel.mx/peliculas/720/power%20rangers.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",Piratas del caribe 1 (2003)
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20the%20curse%20of%20the%20black%20pearl.mkv
+
 #EXTINF:-1 g type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",Piratas del Caribe 4 (2011)
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20on%20stranger%20tides.mkv
+
 #EXTINF:-1 g type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qwoGfcg6YUS55nUweKGujHE54Wy.jpg",Piratas del Caribe 5 (2017)
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20men%20tell%20no%20tales.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",Piratas del Caribe 2 (2006)
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20mans%20chest.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",Piratas del Caribe 3 (2007)
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20at%20worlds%20end.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tOOIl9keHUnfeHXPX9S7y3MZgX9.jpg",Pig (2021)
 http://vod.tuxchannel.mx/peliculas/720/pig%202021.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cjcrkPeQkrkEVYrd3lHWJbfBdrv.jpg",Pan Viaje a Nunca Jamás (2015)
 http://vod.tuxchannel.mx/peliculas/720/pan.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cAZk4y7JZswALX6nTf5KXNjPMUE.jpg",Ouija: El origen del mal (2016)
 http://vod.tuxchannel.mx/peliculas/720/ouija%20%20origin%20of%20evil.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",Máquinas mortales (2018)
 http://vod.tuxchannel.mx/peliculas/720/mortal%20engines%202018.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lq9n07JSzdhK5l1TKxQ9SHawNYn.jpg",Maze Runner 2 (2015)
 http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20scorch%20trials.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg",Maze Runner 3 (2018)
 http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20death%20cure.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",Maléfica 2 (2019)
 http://vod.tuxchannel.mx/peliculas/720/maleficent%20mistress%20of%20evil%202019.mkv
 
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",Kong: la Isla Calavera (2017)
 http://vod.tuxchannel.mx/peliculas/720/kong%20skull%20island.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xn6t1nYJaUMmudnHHiK390AORNu.jpg",Kill Command (2016)
 http://vod.tuxchannel.mx/peliculas/720/kill%20command.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg",John Carter (2012)
 http://vod.tuxchannel.mx/peliculas/720/john%20carter.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2mUqHJG7ZiGwZYIylczFCsRPbXM.jpg",Saw 8 (2017)
 http://vod.tuxchannel.mx/peliculas/720/jigsaw.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dabXVfrAFfhDte8XVemom3mTJog.jpg",IT 2 (2019)
 http://vod.tuxchannel.mx/peliculas/720/it%20chapter%20two%202019.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg",Invasión a la Tierra (2011)
 http://vod.tuxchannel.mx/peliculas/720/invancion%20del%20mundo%20batalla%20los%20angeles.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9S50foUIYGwiNPWOxi1WJF6IPwI.jpg",Día de la Independencia: contraataque (2016)
 http://vod.tuxchannel.mx/peliculas/720/independence%20day%20-%20resurgence.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5DSVYlKwEzGBxTkS95L73c3oxLs.jpg",Ocultos por la luna (2019)
 http://vod.tuxchannel.mx/peliculas/720/in%20the%20shadow%20of%20the%20moon%202019.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Escupiré sobre tu tumba 1 (2010)
 http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jG5GDIcqiqHXkvINZSjyzBUO2vH.jpg",Escupiré sobre tu tumba 3 (2015)
 http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave%203.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cy3zp7PA4JFq8bT0WwSi8uDlrbD.jpg",Escupiré sobre tu tumba 2 (2013)
 http://vod.tuxchannel.mx/peliculas/720/i%20spit%20on%20your%20grave%202.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg",Cazadora de gigantes (2017)
 http://vod.tuxchannel.mx/peliculas/720/i%20kill%20giants.mkv
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/b3jWxwWRFqvNDJTvBcmKJVHnzKK.jpg",I Am Mother (2019)
 http://vod.tuxchannel.mx/peliculas/720/i%20am%20mother%202019.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dbhC6qRydXyRmpUdcl9bL9rARya.jpg",El Halloween de Hubie (2020)
 http://vod.tuxchannel.mx/peliculas/720/hubie%20halloween%202020.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/prdFM08mGvVDA6uQxKJh8n8Vek1.jpg",El final de todo (2018)
 http://vod.tuxchannel.mx/peliculas/720/how%20it%20ends.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Hotel Transylvania 1 (2012)
 http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg",Hotel Transylvania 3 (2018)
 http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%203.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kKFgwQnR5q08UFsAvtoYyTIiHyj.jpg",Hotel Transylvania 2 (2015)
 http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%202.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg",Hostel 1 (2005)
 http://vod.tuxchannel.mx/peliculas/720/hostal.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fedRspcT8CoALqSvUZTtdoJqP9p.jpg",Hostel 3 (2011)
 http://vod.tuxchannel.mx/peliculas/720/hostal%20parte%203.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9IFgKpXWF5GWgtyoXPAL1AkO3Zs.jpg",Hostel 2 (2007)
 http://vod.tuxchannel.mx/peliculas/720/hostal%20parte%202.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2MCKRii4gzkbg4YBqPkexcoimrL.jpg",El manicomio (2018)
 http://vod.tuxchannel.mx/peliculas/720/heilstatten%202018.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ik1uZyiMSxF9HqrgRKUNfMCfr3z.jpg",Hardcore Henry (2015)
 http://vod.tuxchannel.mx/peliculas/720/hardcore%20henry.mkv
 
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",Destino final 1 (2000)
 http://vod.tuxchannel.mx/peliculas/720/destino%20final.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg",Destino final 5 (2011)
 http://vod.tuxchannel.mx/peliculas/720/destino%20final%205.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg",Destino final 4 (2009)
 http://vod.tuxchannel.mx/peliculas/720/destino%20final%204.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",Destino final 3 (2006)
 http://vod.tuxchannel.mx/peliculas/720/destino%20final%203.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sDsdhVmGzh4L56QvtLLinvXjDs3.jpg",Destino final 2 (2003)
 http://vod.tuxchannel.mx/peliculas/720/destino%20final%202.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jq4TVchWAWac6zGmCuriFhfBSzo.jpg",Demonic (2015)
 http://vod.tuxchannel.mx/peliculas/720/demonic.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9OkZ94drVlmLfa1uBYaP8yMv7Ow.jpg",Déjame entrar (2008)
 http://vod.tuxchannel.mx/peliculas/720/dejame%20entrar.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg",El amanecer de los muertos (2004)
 http://vod.tuxchannel.mx/peliculas/720/dawn%20of%20the%20dead.mkv
 
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",Avatar 1 (2009)
 http://vod.tuxchannel.mx/peliculas/720/avatar.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",Avatar (2009)
 http://vod.tuxchannel.mx/peliculas/720/avatar.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nUEIwqzTWYvEJEcMkHZ8BAi2rL0.jpg",Autómata (2014)
 http://vod.tuxchannel.mx/peliculas/720/automata.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7mlA2czXUhiB53huT9qu2vRJ36w.jpg",Attraction (2017)
 http://vod.tuxchannel.mx/peliculas/720/attraction.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",Atomic Blonde (2017)
 http://vod.tuxchannel.mx/peliculas/720/atomic%20blonde.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tI8ocADh22GtQFV28vGHaBZVb0U.jpg",Artemis Fowl (2020)
 http://vod.tuxchannel.mx/peliculas/720/artemis%20fowl%202020.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",Armageddon (1998)
 http://vod.tuxchannel.mx/peliculas/720/armageddon.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg",Apocalypto (2006)
 http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
 
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rJOj0T5DyChfECevDg0xpEGznsl.jpg",Alien Warfare (2019)
 http://vod.tuxchannel.mx/peliculas/720/alien_warfare_2019.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pe9mSStpQC2doKtYY3VDJdBEBHr.jpg",Alien Abduction (2014)
 http://vod.tuxchannel.mx/peliculas/720/alien%20abduction.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fhyun1mja3WwQsYr1a3x1x9BttP.jpg",Aladdin (2019)
 http://vod.tuxchannel.mx/peliculas/720/aladdin%202019.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2Zn9yHhNlZmqfuKpBovQJ9RWIOr.jpg",Mas allá de la muerte (2009)
 http://vod.tuxchannel.mx/peliculas/720/after%20life%202009.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",Después de la Tierra (2013)
 http://vod.tuxchannel.mx/peliculas/720/after%20earth.mkv
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",Un lugar en silencio 2 (2021)
 http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20part%20II%202021.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg",La cura siniestra (2016)
 http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/96VOJmyoYEj9QvUfYJ1EElRhIjD.jpg",Un cuento de Navidad (1984)
 http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20carol%201984.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",4:44 El último día en la Tierra (2011)
 http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7LwSrvFA0gz1KAlcrGcinoQPene.jpg",30 Días de oscuridad (2007)
 http://vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg",28 Dias Exterminio (2012)
 http://vod.tuxchannel.mx/peliculas/720/28%20days%20later.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",2001: odisea del espacio (1968)
 http://vod.tuxchannel.mx/peliculas/720/2001%20a%20space%20odyssey.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/48pWtaTngOHkq2xOc8pFAoro1fU.jpg",Armados y peligrosos (2013)
 http://vod.tuxchannel.mx/peliculas/720/2%20guns.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg",1922 (2017)
 http://vod.tuxchannel.mx/peliculas/720/1922.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",Black Panther: Wakanda Forever (2022)
 http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tq8x5F17q95T1j0up5rpzXFAylN.jpg",Embaucadores (2023)
 http://208.88.245.85/nuevo/sharper.2023.dual.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg",Un paraíso peligroso (2023)
 http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",Narvik (2023)
 http://208.88.245.85/nuevo/narvik.2023.dual.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",Malcriados (2023)
 http://208.88.245.85/nuevo/malcriados.2023.latino.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5C9rerMqV1X0jnRdbbsM1BswVI2.jpg",El último baile de Magic Mike (2023)
 http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv
+
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",Llaman a la puerta (2023)
 http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
 
