@@ -1399,7 +1399,7 @@ DAZN 1
 
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,251 DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://01-24.webhd.ru/ddy4/premium445/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.webhd.ru/lb/premium445/index.m3u8?|referer=https://widevine.licenses4.me/
 
 
 //dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
@@ -1409,7 +1409,7 @@ DAZN 2
 
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,252 DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://01-24.webhd.ru/ddh2/premium446/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.webhd.ru/lb/premium446/index.m3u8?|referer=https://widevine.licenses4.me/
 
 
 
