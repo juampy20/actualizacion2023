@@ -1388,7 +1388,9 @@ https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
 
 DAZN 1 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="SPORTS DAZN",dazn opc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.webhd.ru/lb/premium445/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
