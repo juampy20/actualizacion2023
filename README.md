@@ -1898,7 +1898,14 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 ----------------------------------------------------------------------------
 
 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",Volver al futuro 1 (1985)
+http://vod.tuxchannel.mx/peliculas/720/volver%20al%20futuro.mkv
 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",Volver al futuro 3 (1990)
+http://vod.tuxchannel.mx/peliculas/720/volver%20al%20futuro%203.mkv
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",Volver al futuro 2 (1989)
+http://vod.tuxchannel.mx/peliculas/720/volver%20al%20futuro%202.mkv
 
 
 
