@@ -2238,8 +2238,6 @@ http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/96VOJmyoYEj9QvUfYJ1EElRhIjD.jpg",Un cuento de Navidad (1984)
 http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20carol%201984.mkv
 
-#EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",4:44 El último día en la Tierra (2011)
-http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
 
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7LwSrvFA0gz1KAlcrGcinoQPene.jpg",30 Días de oscuridad (2007)
 http://vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv
