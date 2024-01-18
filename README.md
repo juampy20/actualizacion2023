@@ -14,7 +14,7 @@
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="Eventos", canal 1
 https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://www.freyre.com.ar/static/media/canal.0cb9f2d2.svg" group-title="Eventos",tiver monterrey
+#EXTINF:-1 tvg-logo="https://www.freyre.com.ar/static/media/canal.0cb9f2d2.svg" group-title="Eventos",River monterrey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://abolishstand.net/
 https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/dw4k0efjo1w.m3u8?s=QNyLedoFOTrIWl9amfUmdw&e=1705562689
