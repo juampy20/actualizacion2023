@@ -19,7 +19,7 @@ https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 https://cdnhd.iblups.com/hls/mPkyt6ZMC6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freyre.com.ar/static/media/canal.0cb9f2d2.svg" group-title="Eventos",inter miami
-https://py2.dlive.click/NnhF1OopjcyyACfiw8GBKw/1705993813/34352e372e3230392e313939/ff165/playlist.m3u8
+https://bcovlive-a.akamaihd.net/c1a66a600971476e88b80e6a22f57331/us-east-1/5530036772001/profile_3/chunklist.m3u8
 
 
 ---------------------ARGENTINAS --------------------------
