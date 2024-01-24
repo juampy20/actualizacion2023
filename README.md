@@ -1524,6 +1524,10 @@ EL DOCE DE CORDOBA
 https://csc-ptn-edge01.sensa.com.ar/output/Canal12D/output.mpd
 
 
+#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",343 Venado Tuerto
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+
+
 CANAL 8 TUCUMAN
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
