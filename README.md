@@ -281,6 +281,18 @@ https://1187-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/teledoce.webp" group-title="URUGUAY",15 Teledoce Uruguay dtv
 https://edge5-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/tvc.png" group-title="URUGUAY",15 TvCiudad Uruguay dtv
+https://edge-live17-sl.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd
+
+
+
 
 --------------------------------------- NOTICIAS ------------------------------------------
 -------------------------------------------------------------------------------------------
