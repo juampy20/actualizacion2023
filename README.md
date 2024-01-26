@@ -271,7 +271,15 @@ https://edge-vod04-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal
 #EXTINF:-1 tvg-logo="-" group-title="URUGUAY",15 Canal 10 Uruguay dtv
 https://1187-vos.dtvott.com/DASH/manifest.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
+#EXTINF:-1 tvg-logo="-" group-title="URUGUAY",15 Teledoce Uruguay dtv
+https://edge5-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd
 
 
 --------------------------------------- NOTICIAS ------------------------------------------
