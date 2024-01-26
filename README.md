@@ -258,7 +258,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
-#EXTINF:-1 tvg-logo="-" group-title="URUGUAY",15 Canal 4 Uruguay flow
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/canal4uy.webp" group-title="URUGUAY",15 Canal 4 Uruguay flow
 https://edge-vod04-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -268,7 +268,7 @@ https://edge-vod04-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7baf323b4717329ca4db5c9eca6fa396:85eb3ccdd825b8cfbb18e07ef22cd111
-#EXTINF:-1 tvg-logo="-" group-title="URUGUAY",15 Canal 10 Uruguay dtv
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/canal10.webp" group-title="URUGUAY",15 Canal 10 Uruguay dtv
 https://1187-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -278,7 +278,7 @@ https://1187-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
-#EXTINF:-1 tvg-logo="-" group-title="URUGUAY",15 Teledoce Uruguay dtv
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/teledoce.webp" group-title="URUGUAY",15 Teledoce Uruguay dtv
 https://edge5-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd
 
 
