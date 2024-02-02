@@ -383,8 +383,17 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/Croni
 
 LA NACION
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/lanacion.webp" group-title="NOTICIAS", 23 LA NACION lpq
-https://sitsastr.qvixsolutions.com/stsa_ln/index.m3u8
+https://edge-live01-bel.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd
+
 
 
 TELESUR
