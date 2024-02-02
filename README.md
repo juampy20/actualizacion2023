@@ -41,7 +41,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.m
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="ARGENTINA", 1 EL NUEVE lpq
-https://sitsastr.qvixsolutions.com/stsa_canal9hd/index.m3u8
+
 
 
 
@@ -59,7 +59,7 @@ https://edge-live16-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/Ameri
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/america.webp" group-title="ARGENTINA", 2 AMERICA lpq
-https://sitsastr.qvixsolutions.com/stsa_americahd/index.m3u8
+
 
 
 
@@ -85,7 +85,7 @@ https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 3 EL TRECE lpq
-https://sitsastr.qvixsolutions.com/stsa_canal13hd/index.m3u8
+
 
 
 
@@ -103,7 +103,7 @@ TELEFE
 https://edge6-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 4 TELEFE lpq
-https://sitsastr.qvixsolutions.com/stsa_telefehd/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 4 TELEFE  app
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -121,7 +121,7 @@ TV PUBLICA
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tvpublica.webp" group-title="ARGENTINA", 5 TV PUBLICA lpq
-https://sitsastr.qvixsolutions.com/stsa_tvpublicahd/index.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -136,7 +136,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.m
 EL GARAGE 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" group-title="ARGENTINA",6 EL GARAGE TV lpq
-https://sitsastr.qvixsolutions.com/stsa_garagehd/index.m3u8  
+ 
 
 EL RURAL
 
@@ -165,7 +165,7 @@ VOLVER
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/volver.webp" group-title="ARGENTINA", 9 VOLVER lpq
-https://sitsastr.qvixsolutions.com/stsa_volverhd/index.m3u8
+
 
 
 
@@ -313,7 +313,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/canal26.webp" group-title="NOTICIAS",  18 CANAL 26 lpq
-https://sitsastr.qvixsolutions.com/stsa_c26/index.m3u8
+
 
 
 
@@ -325,14 +325,14 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="NOTICIAS", 19 TODO NOTICIAS lpq
-https://sitsastr.qvixsolutions.com/stsa_tnhd/index.m3u8
+
 
 
 A 24
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/a24.webp" group-title="NOTICIAS", 20 AMERICA 24 lpq
-https://sitsastr.qvixsolutions.com/stsa_a24hd/index.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -360,7 +360,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/c5n.webp" group-title="NOTICIAS", 21 C5N lpq
-https://sitsastr.qvixsolutions.com/stsa_c5n/index.m3u8
+
 
 
 
@@ -368,7 +368,7 @@ CRONICA TV
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cronica.webp" group-title="NOTICIAS", 22 CRONICA TV lpq
-https://sitsastr.qvixsolutions.com/stsa_cronicatvhd/index.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -411,21 +411,21 @@ QUIERO
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/quiero.webp" group-title="MUSICA", 35 QUIERO MUSICA lpq
-https://sitsastr.qvixsolutions.com/stsa_quierohd/index.m3u8
+
 
 
 CM CANALDELAMUSICA
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cm.webp" group-title="MUSICA", 36 CM lpq
-https://sitsastr.qvixsolutions.com/stsa_cmhd/index.m3u8
+
 
 
 MTV
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtv.webp" group-title="MUSICA", 37 MTV lpq
-https://sitsastr.qvixsolutions.com/stsa_mtvhd/index.m3u8
+
 
 
 MTV HITS
@@ -475,43 +475,43 @@ https://edge-live17-sl.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 HBO
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo.webp" group-title="CINE", 52 HBO lpq
-https://sitsastr.qvixsolutions.com/stsa_hbohd/index.m3u8
+
 
 
 HBO 2
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo2.webp" group-title="CINE", 53 HBO 2 lpq
-https://sitsastr.qvixsolutions.com/stsa_hbo2hd/index.m3u8
+
 
 
 HBO FAMILY
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbofam.webp" group-title="CINE", 54 HBO FAMILY lpq
-https://sitsastr.qvixsolutions.com/stsa_hbofamilyhd/index.m3u8
+
 
 
 HBO PLUS
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hboplus.webp" group-title="CINE", 54 HBO FAMILY lpq
-https://sitsastr.qvixsolutions.com/stsa_hboplushd/index.m3u8
+
 
 
 HBO XTREME
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hboxtreme.webp" group-title="CINE", 56 HBO XTREME lpq
-https://sitsastr.qvixsolutions.com/stsa_hboxtremehd/index.m3u8
+
 
 
 HBO SIGNATURE
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbosig.webp" group-title="CINE", 58 HBO SIGNATURE lpq
-https://sitsastr.qvixsolutions.com/stsa_hbosignaturehd/index.m3u8
+
 
 
 STAR CHANELL
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/star.webp" group-title="CINE", STAR CHANELL lpq
-https://sitsastr.qvixsolutions.com/stsa_starhd/index.m3u8
+
 
 
 UNIVERSAL
@@ -653,19 +653,19 @@ https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 NAT GEO
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="DOCUMENTALES Y CULTURA", 85 NAT GEO lpq
-https://sitsastr.qvixsolutions.com/stsa_natgeohd/index.m3u8
+
 
 
 HISTORY
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history.webp" group-title="DOCUMENTALES Y CULTURA", 86 HISTORY lpq
-https://sitsastr.qvixsolutions.com/stsa_historyhd/index.m3u8
+
 
 
 H 2
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history2.webp" group-title="DOCUMENTALES Y CULTURA", 87 H2 lpq
-https://sitsastr.qvixsolutions.com/stsa_h2hd/index.m3u8
+
 
 
 TRU TV
@@ -686,13 +686,13 @@ DISCOVERY INVESTIGATION
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/id.webp" group-title="DOCUMENTALES Y CULTURA", 
  89 INVESTIGATION DISCOVERY lpq
-https://sitsastr.qvixsolutions.com/stsa_idhd/index.m3u8
+
 
 
 TCL
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tlc.webp" group-title="DOCUMENTALES Y CULTURA",90 TLC
-https://sitsastr.qvixsolutions.com/stsa_tlchd/index.m3u8
+
 
 
 
@@ -928,7 +928,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr
 DISCOVERY KIDS
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/diskids.webp" group-title="INFANTILES",129 DISCOVERY KIDS lpq
-https://sitsastr.qvixsolutions.com/stsa_discoverykidshd/index.m3u8
+
 
 
 
@@ -978,7 +978,7 @@ https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD
 ESPN
 
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SPORTS ESPN",100 espn lpq
-https://sitsastr.qvixsolutions.com/stsa_espnhd/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SPORTS ESPN",100 espn ss
@@ -1003,7 +1003,7 @@ https://edge-live17-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2
 
 
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="SPORTS ESPN",101 ESPN 2 lpq
-https://sitsastr.qvixsolutions.com/stsa_espn2hd/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="SPORTS ESPN",101 ESPN 2 ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1026,13 +1026,13 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="SPORTS ESPN",102 ESPN 3 lpq
-https://sitsastr.qvixsolutions.com/stsa_espn3hd/index.m3u8
+
 
 
 ESPN EXTRA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="SPORTS ESPN",103 ESPN EXTRA lpq
-https://sitsastr.qvixsolutions.com/stsa_espnextrahd/index.m3u8
+
 
 
 ESPN CLARO
@@ -1068,7 +1068,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/Fo
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SPORTS FOX SPORTS",170 FOX SPORTS lpq
-https://sitsastr.qvixsolutions.com/stsa_foxsportshd/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SPORTS FOX SPORTS",170 FOX SPORTS ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1091,7 +1091,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SPORTS FOX SPORTS",172 FOX SPORTS 2 lpq
-https://sitsastr.qvixsolutions.com/stsa_foxsports2hd/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SPORTS FOX SPORTS",172 FOX SPORTS 2 ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1115,7 +1115,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="SPORTS FOX SPORTS",178 FOX SPORTS 3 lpq
-https://sitsastr.qvixsolutions.com/stsa_foxsports3hd/index.m3u8
+
 
 
 FOX SPORTS claro
@@ -1141,7 +1141,7 @@ ESPN PREMIUM
 
 https://edge-live02-bel.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPNPremium.png" group-title="SPORTS FUTBOL ARGENTINA",191 ESPN PREMIUM lpq
-https://sitsastr.qvixsolutions.com/stsa_foxsportspremiumhd/index.m3u8
+
 
 
 
@@ -1168,7 +1168,7 @@ https://edge-live17-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_da
 TNT SPORTS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="SPORTS FUTBOL ARGENTINA",192 TNT SPORTS lpq
-https://sitsastr.qvixsolutions.com/stsa_tntsportshd/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="SPORTS FUTBOL ARGENTINA",192 TNT SPORTS ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1244,7 +1244,7 @@ https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd?
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TyC_Sports.png" group-title="SPORTS TYC SPORTS PLAY",1998 tyc sports lpq
-https://sitsastr.qvixsolutions.com/stsa_tychd/index.m3u8
+
 
 T Y C SPORTS
 
@@ -1291,7 +1291,7 @@ DEPORTV
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="SPORTS DEPORTES VARIOS", 219 DEPORTV lpq
-https://sitsastr.qvixsolutions.com/stsa_deportvhd/index.m3u8
+
 
 
 
@@ -1784,8 +1784,7 @@ https://ddh2.vipboxtv.stream/ddh2/premium554/tracks-v1a1/mono.m3u8?|referer=http
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
 
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVE-1.png" group-title="Espanha",602 LA UNO
-https://ztnr.rtve.es/ztnr/1688876.m3u8
+
 
 
 
