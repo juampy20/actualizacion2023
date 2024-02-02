@@ -483,7 +483,15 @@ https://edge-live17-sl.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 
 HBO
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo.webp" group-title="CINE", 52 HBO lpq
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24c2a4df8e8ddd176661ca6e0d61b26b:b1b13889f71a96902c28582302163a5c
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo.webp" group-title="CINE", 52 HBO clr
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_HD_MX)/manifest.mpd
 
 
 
