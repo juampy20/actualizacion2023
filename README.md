@@ -59,8 +59,8 @@ AMERICA
 https://edge-live16-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
 
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/america.webp" group-title="ARGENTINA", 2 AMERICA lpq
-
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/america.webp" group-title="ARGENTINA", 2 AMERICA WB
+http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfmEjJ6_RIRVOkhGuLBsOjKyWKU7cYbm3WYwG72uejBQx/m3u8
 
 
 
