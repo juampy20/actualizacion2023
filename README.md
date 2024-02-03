@@ -41,8 +41,8 @@ EL NUEVE
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
 
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="ARGENTINA", 1 EL NUEVE lpq
-
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="ARGENTINA", 1 EL NUEVE WB
+http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfke2EAO7KHXrzqajr7uWJY3wNFDAoRaAredZz0Cnilel/m3u8
 
 
 
