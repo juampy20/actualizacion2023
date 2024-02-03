@@ -42,7 +42,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.m
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="ARGENTINA", 1 EL NUEVE WB
-http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfke2EAO7KHXrzqajr7uWJY3wNFDAoRaAredZz0Cnilel/m3u8
+http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfke2EAO7KHXrzqajr7uWJY3wNFDAoRaAredZz0Cnilel
 
 
 
@@ -60,8 +60,7 @@ https://edge-live16-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/Ameri
 
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/america.webp" group-title="ARGENTINA", 2 AMERICA WB
-http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfmEjJ6_RIRVOkhGuLBsOjKyWKU7cYbm3WYwG72uejBQx/m3u8
-
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuVFSDQb9HarcvBH18-akyet/m3u8
 
 
 
