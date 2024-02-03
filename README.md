@@ -119,8 +119,8 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 TV PUBLICA
 
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tvpublica.webp" group-title="ARGENTINA", 5 TV PUBLICA lpq
-
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tvpublica.webp" group-title="ARGENTINA", 5 TV PUBLICA WB
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuVPUaUrUJpHwr5vCWmrn2Pn/m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
