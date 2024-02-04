@@ -1232,7 +1232,8 @@ DIRECTV SPORTS COLOMBIA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-https://1059-vos.dtvott.com/DASH/manifest.mpd
+https://1059-vos-da-mt.dtvott.com/DASH/manifest.mpd?
+
 
 
 
