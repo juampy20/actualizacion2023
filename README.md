@@ -704,7 +704,7 @@ TRU TV
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/trutv.webp" group-title="DOCUMENTALES Y CULTURA", 88 TRUTV
-https://edge-vod03-hr.cvattv.com.ar/live/c7eds/TruTV/SA_Live_dash_enc/TruTV.mpd
+
 
 
 DISCOVERY INVESTIGATION
