@@ -678,7 +678,16 @@ https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 NAT GEO
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="DOCUMENTALES Y CULTURA", 85 NAT GEO lpq
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="DOCUMENTALES Y CULTURA", 85 NAT GEO flow
+https://edge-live02-mun.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
 
 
 
