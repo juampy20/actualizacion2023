@@ -1330,7 +1330,7 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 DEPORTV
 
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS DEPORTES VARIOS", 219 NBA TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/NBA_TV_II.svg/revision/latest/scale-to-width-down/250" group-title="SPORTS DEPORTES VARIOS", 219 NBA TV
 http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfke2EAO7KHXrzqajr7uWJY0CR05BQRVLzLEVCFMCKVpx/m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
