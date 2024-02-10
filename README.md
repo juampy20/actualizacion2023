@@ -1777,7 +1777,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/LaSextaHD.svg/220px-LaSextaHD.svg.png" group-title="Espanha", 600 La Sexta
 http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfthdP8lFWSmtMwpFRUPNfcuFGao_6MxTxBZWDkMaYeWw/m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="Espanha", 600 La Uno
+http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfthdP8lFWSmtMwpFRUPNfcscZCaAapAFque_Y8hTTN3k/m3u8
 
 
 
