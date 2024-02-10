@@ -1709,23 +1709,6 @@ https://www.365video.ar/selectoreeuu-cerrado
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.zurbaran.com.ar/wp-content/uploads/2016/11/logo-hipodromo-palermo.png"  group-title="W*TURF",401 Hipodromo de Palermo
-https://ythls.onrender.com/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
-
-#EXTINF:-1 tvg-logo="https://hipodromosanisidro.com/wp-content/uploads/2019/05/logo_hsi_home_Mesa-de-trabajo-1.png"  group-title="W*TURF", 402 Hipodromo de San Isidro
-https://ythls.onrender.com/channel/UC3M7efaO9uxT0LTl3BSKvGg.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="W*TURF", 403 EL PINGO Transmisiones
-https://ythls.onrender.com/channel/UCJeWGui4-cGKZ2TW9PpTFaw.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="W*TURF", 404 Turfpremium
-https://ythls.onrender.com/channel/UCfL8NluVGEYOTO0r1xMPFew.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="W*TURF", 405 Hipica TV
-https://ythls.onrender.com/channel/UCTgORvzgyWjxLUHhWQgALdg.m3u8
 
 #EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="W*TURF",406 Teletrak TV
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
