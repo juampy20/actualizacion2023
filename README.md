@@ -1333,8 +1333,15 @@ DEPORTV
 #EXTINF:-1 tvg-logo="-" group-title="SPORTS DEPORTES VARIOS", 219 NBA TV
 http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfke2EAO7KHXrzqajr7uWJY0CR05BQRVLzLEVCFMCKVpx/m3u8
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="SPORTS DEPORTES VARIOS", 219 DEPORTV lpq
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
 
 
 
