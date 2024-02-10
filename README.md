@@ -1330,6 +1330,9 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 DEPORTV
 
+#EXTINF:-1 tvg-logo="-" group-title="SPORTS DEPORTES VARIOS", 219 NBA TV
+http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfke2EAO7KHXrzqajr7uWJY0CR05BQRVLzLEVCFMCKVpx/m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="SPORTS DEPORTES VARIOS", 219 DEPORTV lpq
 
