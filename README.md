@@ -1287,6 +1287,19 @@ https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd?
 https://1279-abc-da-bpk.dtvott.com/dash_live_1279/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36b2c6b7736a5901bf408916a454abf9:9bd7ec1ba802a7164edacaa493c2347c
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="SPORTS DIRECTV",207 DIRECTV FIGHT
+https://1259-abc-da-bpk.dtvott.com/dash_live_1259/manifest.mpd
+
+
+
+
 --------------------------------------- pack tyc sports -------------------------------------------
 ---------------------------------------------------------------------------------------------------
 
