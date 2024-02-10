@@ -7,22 +7,7 @@
 -------------------eventos------------
 --------------------------------------
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
-#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="Eventos", canal 1
-https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://www.freyre.com.ar/static/media/canal.0cb9f2d2.svg" group-title="Eventos",evento
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdnhd.iblups.com/hls/mPkyt6ZMC6.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freyre.com.ar/static/media/canal.0cb9f2d2.svg" group-title="Eventos",inter miami
-https://bcovlive-a.akamaihd.net/c1a66a600971476e88b80e6a22f57331/us-east-1/5530036772001/profile_3/chunklist.m3u8
 
 
 ---------------------ARGENTINAS --------------------------
