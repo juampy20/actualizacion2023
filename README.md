@@ -1179,12 +1179,12 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/ch
 ESPN PREMIUM 
 
 https://edge-live02-bel.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPNPremium.png" group-title="SPORTS FUTBOL ARGENTINA",191 ESPN PREMIUM lpq
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="SPORTS FUTBOL ARGENTINA",191 ESPN PREMIUM lpq
 
 
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPNPremium.png" group-title="SPORTS FUTBOL ARGENTINA",191 ESPN PREMIUM ss
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="SPORTS FUTBOL ARGENTINA",191 ESPN PREMIUM ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
