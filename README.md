@@ -1875,36 +1875,7 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-------------------------- RELIGION ------------------------------
------------------------------------------------------------------
 
-
-#EXTINF:-1 tvg-logo="https://www.familiacristianatv.com/wp-content/uploads/2019/08/cropped-logo1.png" group-title="RELIGION", DIOS TE VE
-https://emisoras.hn:8081/diostevetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.familiacristianatv.com/wp-content/uploads/2019/08/cropped-logo1.png" group-title="RELIGION", ISB CHILE
-https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.familiacristianatv.com/wp-content/uploads/2019/08/cropped-logo1.png" group-title="RELIGION", CRISTIANA TV
-https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.familiacristianatv.com/wp-content/uploads/2019/08/cropped-logo1.png" group-title="RELIGION", PODER DE DIOS
-https://vdo.miserver.pro/p/3487/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.familiacristianatv.com/wp-content/uploads/2019/08/cropped-logo1.png" group-title="RELIGION", MUNDO CRISTIANO ECUADOR
-https://stmv2.zcasthn.com.br/escuchame/escuchame/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.familiacristianatv.com/wp-content/uploads/2019/08/cropped-logo1.png" group-title="RELIGION", GOSPEL MOVIES TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.familiacristianatv.com/wp-content/uploads/2019/08/cropped-logo1.png" group-title="RELIGION", GRACIA TV
-https://v4.tustreaming.cl/graciatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.familiacristianatv.com/wp-content/uploads/2019/08/cropped-logo1.png" group-title="RELIGION", JEHOVA TELEVISION
-https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.familiacristianatv.com/wp-content/uploads/2019/08/cropped-logo1.png" group-title="RELIGION", RENUEVO TV
-https://5bff1bf18a887.streamlock.net/rtvla/rtvla/playlist.m3u8
 
 
 
