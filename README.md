@@ -3,6 +3,7 @@
 
 
 
+
 -------------------eventos------------
 --------------------------------------
 
@@ -1705,8 +1706,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 ---------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="-"  group-title="W*TURF",399  Selector multifuncion
-https://www.365video.ar/selectoreeuu-cerrado
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="W*TURF",400 Hipodromo de la plata
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
