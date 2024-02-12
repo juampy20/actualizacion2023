@@ -717,6 +717,7 @@ https://edge-live02-mun.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/Hist
 
 DISCOVERY CIENSE
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -753,13 +754,6 @@ DISCOVERY TURBO
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/turbo.webp" group-title="DOCUMENTALES Y CULTURA",  DISCOVERY turbo
 https://edge-live01-mun.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd
-
-
-
-
-TCL
-
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tlc.webp" group-title="DOCUMENTALES Y CULTURA",90 TLC
 
 
 
