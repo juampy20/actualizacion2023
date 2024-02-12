@@ -5,19 +5,13 @@
 --------------------------------------
 
 
-
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="evento turf", 1
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:8
 #EXT-X-MEDIA-SEQUENCE:60
 #EXT-X-PROGRAM-DATE-TIME:2024-02-12T16:34:03.357+00:00
 #EXT-X-KEY:METHOD=AES-128,URI="https://auth.robertsstream.com/aes/hls.php?key=4fd22&stream=saratoga_harness_mbr&cust=TVG&user=&t=1707755657&h=8d7b5460818fcca73f030a304659bf66&type=live&stream=saratoga_harness_mbr&cust=TVG&user=&t=1707755657&h=8d7b5460818fcca73f030a304659bf66&type=live"
-#EXTINF:6.006,
-media-uj2zb43qy_60.ts?stream=saratoga_harness_mbr&cust=TVG&user=&t=1707755657&h=8d7b5460818fcca73f030a304659bf66&type=live
-#EXTINF:6.006,
-media-uj2zb43qy_61.ts?stream=saratoga_harness_mbr&cust=TVG&user=&t=1707755657&h=8d7b5460818fcca73f030a304659bf66&type=live
-#EXTINF:6.006,
-media-uj2zb43qy_62.ts?stream=saratoga_harness_mbr&cust=TVG&user=&t=1707755657&h=8d7b5460818fcca73f030a304659bf66&type=live
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="evento turf", 1
+
 
 
 ---------------------ARGENTINAS --------------------------
