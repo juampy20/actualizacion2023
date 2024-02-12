@@ -7,6 +7,8 @@
 -------------------eventos------------
 --------------------------------------
 
+
+
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:8
 #EXT-X-MEDIA-SEQUENCE:60
