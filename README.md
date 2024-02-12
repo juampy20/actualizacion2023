@@ -717,7 +717,16 @@ https://edge-live02-mun.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/Hist
 
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=46ba409fb04e40fb86b466d97e3a9588:f129fb9b5d213e20e2abe529b8cf2597
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/disscience.webp" group-title="DOCUMENTALES Y CULTURA", 
+ 89  DISCOVERY science
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd
 
 
 
