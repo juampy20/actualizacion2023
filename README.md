@@ -715,7 +715,7 @@ H 2
 https://edge-live02-mun.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
 
 
-
+DISCOVERY CIENSE
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -724,8 +724,7 @@ https://edge-live02-mun.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/Hist
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/disscience.webp" group-title="DOCUMENTALES Y CULTURA", 
- 89  DISCOVERY science
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/disscience.webp" group-title="DOCUMENTALES Y CULTURA",  DISCOVERY science
 https://edge-live16-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd
 
 
@@ -739,10 +738,11 @@ DISCOVERY
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/discovery.webp" group-title="DOCUMENTALES Y CULTURA", 
- 89  DISCOVERY 
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/discovery.webp" group-title="DOCUMENTALES Y CULTURA",  DISCOVERY 
 https://edge-live16-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
 
+
+DISCOVERY TURBO
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -751,8 +751,7 @@ https://edge-live16-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/Dis
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/turbo.webp" group-title="DOCUMENTALES Y CULTURA", 
- 89  DISCOVERY turbo
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/turbo.webp" group-title="DOCUMENTALES Y CULTURA",  DISCOVERY turbo
 https://edge-live01-mun.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd
 
 
