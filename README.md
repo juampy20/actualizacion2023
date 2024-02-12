@@ -729,11 +729,18 @@ TRU TV
 
 
 
-DISCOVERY INVESTIGATION
+DISCOVERY 
 
-
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/id.webp" group-title="DOCUMENTALES Y CULTURA", 
- 89 INVESTIGATION DISCOVERY lpq
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/discovery.webp" group-title="DOCUMENTALES Y CULTURA", 
+ 89  DISCOVERY 
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
 
 
 
