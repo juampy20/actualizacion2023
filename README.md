@@ -716,16 +716,8 @@ https://edge-live02-mun.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/Hist
 
 
 
-TRU TV
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d0cecffe9c29734343cf9983978c1a1:f86b5ac05f2a2626b6c61bd4e13344d8
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/trutv.webp" group-title="DOCUMENTALES Y CULTURA", 88 TRUTV
+
 
 
 
