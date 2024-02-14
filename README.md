@@ -1032,6 +1032,18 @@ DISNEY CHANELL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1024px-Disney_Channel_logo.svg.png" group-title="INFANTILES", DISNEY CHANNEL
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd
 
+DISNEY JR
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/9696199307756.png" group-title="INFANTILES",129 DISNEY JUNIOR
+https://csc-ptn-edge01.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd
+
+
 
 nick jr
 
