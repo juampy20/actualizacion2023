@@ -5,14 +5,7 @@
 --------------------------------------
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="MEXICO" tvg-logo="-"  group-title="test id",test id
-https://csc-ptn-edge01.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
+
 
 
 
@@ -51,8 +44,14 @@ AMERICA
 https://edge-live16-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
 
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/america.webp" group-title="ARGENTINA", 2 AMERICA WB
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuVFSDQb9HarcvBH18-akyet/m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/america.webp" group-title="ARGENTINA", 2 AMERICA ss
+https://csc-ptn-edge01.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 
 
 
