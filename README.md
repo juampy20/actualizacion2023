@@ -590,7 +590,7 @@ STAR CHANELL
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/star.webp" group-title="CINE", STAR CHANELL lpq
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/star.webp" group-title="CINE", STAR CHANELL ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd
 
 
