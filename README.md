@@ -5,6 +5,14 @@
 --------------------------------------
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vexedkindergarten.com/sbar.json?key=33a3af0c29be07a2460f507fcc8304c1
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/10/Wolverhampton_vs_Brentfor_20240210_1707571500694/audio-1-128K/128_complete.m3u8
+
 
 
 
@@ -1643,10 +1651,7 @@ https://webudit.webhd.ru/lb/premium445/index.m3u8
 https://webudit.webhd.ru/lb/premium446/index.m3u8
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.nexos.tv/
-#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,251 TEST
-https://sitsastr.qvixsolutions.com/stsa_canal13hd/index.mpd?filter.tracks=v1v2a1a2&token=7da4521b2136b79d5948f7b259e735ea12ef4d4d-a8ze-1707011632-1706996932&qvAudioOnly=false
+
 
 
 
