@@ -17,6 +17,18 @@
 https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/10/Wolverhampton_vs_Brentfor_20240210_1707571500694/ctr-all-complete.m3u8
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://danix1610.com
+#KODIPROP:inputstream.adaptive.license_key=https://de.tynt.com/deb/v2?id=w!qcch7d9eh3&dn=TC&cc=5&chpv=4.15.0&chuav=Chromium%3Bv%3D121.0.6167.160%2C%20Not%20A(Brand%3Bv%3D99.0.0.0&chp=Linux&chmob=0&chua=Chromium%3Bv%3D121%2C%20Not%20A(Brand%3Bv%3D99&r=&pu=https%3A%2F%2Ftucanaldeportivo.com%2Fcanal8.php
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 1 test 1
+https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/10/Wolverhampton_vs_Brentfor_20240210_1707571500694/ctr-all-complete.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://danix1610.com
+#KODIPROP:inputstream.adaptive.license_key=https://de.tynt.com/deb/v2?id=w!qcch7d9eh3
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 1 test 1
+https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/10/Wolverhampton_vs_Brentfor_20240210_1707571500694/ctr-all-complete.m3u8
+
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
 
