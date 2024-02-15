@@ -997,7 +997,7 @@ GUSTO TV CANAGA (ENG)
 #EXTVLCOPT:network-caching=2500
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/4542d9ab-6fc4-40da-bdf0-8ea8ad573c3c/1.m3u8
 
-#EXTINF:-1 tvg-logo="-" group-title="COCINA Y MODA", 121 TASTEMADE
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="COCINA Y MODA", 121 TASTEMADE
 https://tastemade-es16tm-samsung.amagi.tv/playlist480p.m3u8
 
 
