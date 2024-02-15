@@ -1326,7 +1326,7 @@ https://edge-live02-bel.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_d
 https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
 
 
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="SPORTS FUTBOL ARGENTINA",191 ESPN PREMIUM flow
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="SPORTS FUTBOL ARGENTINA",192 ESPN PREMIUM flow
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1336,7 +1336,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxS
 #EXTVLCOPT--http-reconnect=true
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="SPORTS FUTBOL ARGENTINA",191 ESPN PREMIUM opc
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="SPORTS FUTBOL ARGENTINA",193 ESPN PREMIUM opc
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1345,6 +1345,13 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_das
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="SPORTS FUTBOL ARGENTINA",194 ESPN PREMIUM php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://salamus2023.onlinehdhls.ru/ddh1/premium387/tracks-v1a1/mono.m3u8?|referer=https://weblivehdplay.ru/
+
+
 
 
 TNT SPORTS
@@ -1833,7 +1840,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="W*TURF",400 Hipodromo de la plata
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="W*",400 Hipodromo de la plata
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
 
 
