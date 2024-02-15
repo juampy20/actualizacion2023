@@ -4,7 +4,7 @@
 -------------------eventos------------
 --------------------------------------
 
-
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 1 test 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vexedkindergarten.com/sbar.json?key=33a3af0c29be07a2460f507fcc8304c1
@@ -13,7 +13,7 @@
 #EXTVLCOPT:http-user-agent=Firefox
 https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/10/Wolverhampton_vs_Brentfor_20240210_1707571500694/audio-1-128K/128_complete.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 1 test
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ic.tynt.com/b/p?id=w!zih6jfsg50
