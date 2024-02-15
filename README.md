@@ -23,9 +23,13 @@ https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/1
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 1 test 1
 https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/10/Wolverhampton_vs_Brentfor_20240210_1707571500694/audio-1-128K/128_complete.m3u8
-https://ic.tynt.com/b/p?id=w!zih6jfsg50
 
 
+
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 1 test 1
+#KODIPROP:inputstream.adaptive.license_key=https://ic.tynt.com/b/p?id=w!zih6jfsg50
+https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/10/Wolverhampton_vs_Brentfor_20240210_1707571500694/ctr-all-complete.m3u8
 
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
