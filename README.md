@@ -4,22 +4,24 @@
 -------------------eventos------------
 --------------------------------------
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 1 test 2
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vexedkindergarten.com/sbar.json?key=33a3af0c29be07a2460f507fcc8304c1
 #EXTVLCOPT:http-referrer=https://danix1610.com/playerdash.php?get=https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/10/Wolverhampton_vs_Brentfor_20240210_1707571500694/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/1046ACDDEF50820FDF4227D35B393CF4D74773C0B3D5ADCB892E1C9940855FD7/scale?width=1920&aspectRatio=1.78&format=jpeg&key=7c1765738b9044cc97443901cd7e40e4&key2=3bab2c83cdeb896042d5297a6488a221
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 1 test 2
 https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/10/Wolverhampton_vs_Brentfor_20240210_1707571500694/audio-1-128K/128_complete.m3u8
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 1 test
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ic.tynt.com/b/p?id=w!zih6jfsg50
 #EXTVLCOPT:http-referrer=https://danix1610.com/playerdash.php?get=https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/10/Wolverhampton_vs_Brentfor_20240210_1707571500694/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/1046ACDDEF50820FDF4227D35B393CF4D74773C0B3D5ADCB892E1C9940855FD7/scale?width=1920&aspectRatio=1.78&format=jpeg&key=7c1765738b9044cc97443901cd7e40e4&key2=3bab2c83cdeb896042d5297a6488a221
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 1 test 1
 https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/02/10/Wolverhampton_vs_Brentfor_20240210_1707571500694/audio-1-128K/128_complete.m3u8
 https://ic.tynt.com/b/p?id=w!zih6jfsg50
 
