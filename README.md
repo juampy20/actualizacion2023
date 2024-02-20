@@ -13,7 +13,11 @@
 #EXTVLCOPT:http-referrer=https://abolishstand.net/
 https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/oguu22xaxhgpc.m3u8?s=KI2ciZSYK2n4n4PdWweFBA&e=1708480671
 
-
+#EXTINF:-1 tvg-logo="-" group-title="evento city", city
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://weakspell.to/
+https://cvbeap91.azureedge.net/live/usa/chunks.m3u8
 
 
 
@@ -1662,7 +1666,6 @@ https://webudit.webhd.ru/lb/premium445/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,251 DAZN 2
 https://webudit.webhd.ru/lb/premium446/index.m3u8
-
 
 
 
