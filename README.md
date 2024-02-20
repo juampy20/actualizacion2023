@@ -8,7 +8,7 @@
 
 #EXTINF:-1 tvg-logo="-" group-title="php", php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://videos.redirectme.net/T2.php?canal=saracing_mbr?|referer=https://streamvideohd.com/
+https://stream.robertsstream.com/streamlive.php?t=1708436805&h=7be135ea2c1a5e942bc6d301314be92c&usr=&forceformat=ios&stream=saracing_mbr&referer=TVG&hd=&speed=2200
 
 
 
