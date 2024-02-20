@@ -4,9 +4,13 @@
 -------------------eventos------------
 --------------------------------------
 
-#EXTINF:-1 tvg-logo="-" group-title="INTER MIAMI", INTER MIAMI
+
+
+#EXTINF:-1 tvg-logo="-" group-title="php", php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://asdfasdft.onlinehdhls.ru/fls/cdn/8ZogU1OKh3/index.m3u8?|referer=https://claplivehdplay.ru/
+https://videos.redirectme.net/T2.php?canal=saracing_mbr?|referer=https://streamvideohd.com/
+
+
 
 
 ---------------------ARGENTINAS --------------------------
