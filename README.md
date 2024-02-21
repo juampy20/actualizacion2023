@@ -7,17 +7,14 @@
 
 
 
-#EXTINF:-1 tvg-logo="-" group-title="evento city", city
+#EXTINF:-1 tvg-logo="-" group-title="MLS INTER MIAMI", INTER - REAL STAKE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/oguu22xaxhgpc.m3u8?s=KI2ciZSYK2n4n4PdWweFBA&e=1708480671
+#EXTVLCOPT:http-referrer=https://lovesomecommunity.com/
+https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=s0wDHTa019YMt7pS9mIXpg&expires=1708561267
 
-#EXTINF:-1 tvg-logo="-" group-title="evento city", city 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://weakspell.to/
-https://cvbeap91.azureedge.net/live/usa/chunks.m3u8
+
+
 
 
 
