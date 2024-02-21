@@ -7,13 +7,13 @@
 
 
 
-#EXTINF:-1 tvg-logo="-" group-title="MLS INTER MIAMI", INTER - REAL STAKE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="MLS INTER MIAMI", INTER - REAL STAKE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://lovesomecommunity.com/
 https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=s0wDHTa019YMt7pS9mIXpg&expires=1708561267
 
-#EXTINF:-1 tvg-logo="-" group-title="MLS INTER MIAMI", INTER - REAL STAKE opc 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="MLS INTER MIAMI", INTER - REAL STAKE opc 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIswbW3-OIHIxHDC2GV5EGRALkE6n2V9SOI2wNS1G9LC6/m3u8
 
