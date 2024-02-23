@@ -1909,11 +1909,7 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png"  group-title="TURF CARRERAS DE CABALLOS", 408 RACING CH
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS", 409 Monterrico Tv
-https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",410 TURF Movil
-https://janus.tvturf.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Equidia.png"  group-title="TURF CARRERAS DE CABALLOS",411 Equidia Pro
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
@@ -1921,8 +1917,7 @@ https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.stoixima.com.gr/wp-content/uploads/2019/10/stoixima-logo-330px-v2-inv.png"  group-title="TURF CARRERAS DE CABALLOS",412 Estoixima
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie_1000.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",413 Digital Vision V63
-https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",414 Dubai Racing 
 https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
