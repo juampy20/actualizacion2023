@@ -164,8 +164,8 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.m
 
 EL GARAGE 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" group-title="ARGENTINA",6 EL GARAGE TV lpq
- 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" group-title="ARGENTINA",6 EL GARAGE TV cdn
+https://delivery.cdn.rcs.net.ar/mnp/garage_hls/playlist.m3u8 
 
 EL RURAL
 
