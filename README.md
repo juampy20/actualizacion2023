@@ -105,7 +105,8 @@ https://edge-live03-cen.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/Artea
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 3 EL TRECE app
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 3 EL TRECE cdn
+https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 
 
 
@@ -123,8 +124,8 @@ TELEFE
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 4 TELEFE flow
 https://edge6-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
-
-
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 4 TELEFE  cdn
+https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 4 TELEFE  app
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
