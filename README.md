@@ -39,6 +39,13 @@ https://salamus2023.onlinehdhls.ru/ddh1/premium116/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://salamus2023.onlinehdhls.ru/ddh1/premium117/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="Sports Pack Bein", Bein sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh1/premium118/tracks-v1a1/mono.m3u8
+
+
 
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
