@@ -457,6 +457,10 @@ QUIERO
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/quiero.webp" group-title="MUSICA", 35 QUIERO MUSICA ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
 
+CM
+
+#EXTINF:-1 tvg-logo="https://vercanalesonline.com/img/logo_canal/CMTV.png" group-title="MUSICA", 35 CM cdn
+https://delivery.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
 
 
 MI MUSICA
