@@ -2622,40 +2622,40 @@ http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
 
 
 
-#EXTINF:-1,El encargado S01E01
+#EXTINF:-1 tvg-logo="-" group-title="Series", El encargado S01E01
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdCZhge8X7VxpiMCoq1Rb7iL
-#EXTINF:-1,El encargado S01E02
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E02
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdAgIfHTfLDPYNkSnJhU1kK0
-#EXTINF:-1,El encargado S01E03
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E03
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdDjCxi_jkz8vi8OpLY9oVVN
-#EXTINF:-1,El encargado S01E04
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E04
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdDo517fWsuX4tS-bGTR7yre
-#EXTINF:-1,El encargado S01E05
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E05
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdCHuxDz2pHzArQMvUhXDwwz
-#EXTINF:-1,El encargado S01E06
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E06
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdAf8MH5_DvzRzuSJNSr2P8p
-#EXTINF:-1,El encargado S01E07
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E07
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdBNgsOgOwWpvUp2Oce2bLHi
-#EXTINF:-1,El encargado S01E08
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E08
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdAyZXJv6N-vJOKBWNZko3uT
-#EXTINF:-1,El encargado S01E09
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E09
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdAQHRZMg9_ACOYdoFLRnJEo
-#EXTINF:-1,El encargado S01E10
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E10
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdCPbAS_C7NDyD-mRfCD9RjR
-#EXTINF:-1,El encargado S01E11
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E11
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdBlln3lO3AyfPNsYtt3KgbH
-#EXTINF:-1,El encargado S02E01
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E01
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmWB8fy9FtJ8elUT51iByqr3
-#EXTINF:-1,El encargado S02E02
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E02
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmXRC7LsokO9AJKNewQlS3m9
-#EXTINF:-1,El encargado S02E03
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E03
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmXA9HI52rs1PoNWJupb5kY9
-#EXTINF:-1,El encargado S02E04
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E04
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmWSTGKCzZDfH6uXaatidjCe
-#EXTINF:-1,El encargado S02E05
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E05
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmU8nt89hpiJkX9SMv1VSWdc
-#EXTINF:-1,El encargado S02E06
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E06
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmVPlJaZIQamBQ06NDXKecpd
-#EXTINF:-1,El encargado S02E07
+#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E07
 http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmVDsRfDaFU5_X-SFmHjRKJH
 
