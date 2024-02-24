@@ -1,13 +1,8 @@
 #EXTM3U
 
 
-------------------------camaras----------------------------
-------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/175/613/png-transparent-video-cameras-logo-graphy-camera-text-camera-lens-rectangle-thumbnail.png" group-title="CAMARAS DEL MUDO EN VIVO", Obelisco Bs As
-https://hd-auth.skylinewebcams.com/live.m3u8?a=4ut5c3lle3dldaa4itfd1u39f4
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/175/613/png-transparent-video-cameras-logo-graphy-camera-text-camera-lens-rectangle-thumbnail.png" group-title="CAMARAS DEL MUDO EN VIVO", Usuaia
-https://hd-auth.skylinewebcams.com/live.m3u8?a=4ut5c3lle3dldaa4itfd1u39f4
+
 
 
 
