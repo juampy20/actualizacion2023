@@ -27,7 +27,8 @@ https://s4.noshwsmkm.com:999/hls/mlspasshd1.m3u8?md5=h3m063DSHEJ4lyFCyX7TEw&expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://beesporthd.com/
-https://live_tv.starcdnup.com/Sky_Sports_Main_Event_Live_TV/index.m3u8
+https://live_tv.starcdnup.com/Sky_Sports_Main_Event_Live_TV/tracks-v1a1/mono.m3u8
+
 
 
 ------------------------------------Bein------------------------------------------------
