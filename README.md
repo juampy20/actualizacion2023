@@ -38,7 +38,8 @@ https://hls.streambtw.com/live/stream_10.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="EVENTOS SPORTS", test 11
 https://hls.streambtw.com/live/stream_11.m3u8
 
-
+-----------------------------messi----------------
+----------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="MLS INTER MIAMI", INTER - REAL STAKE opc 2
@@ -171,8 +172,7 @@ https://edge-live03-cen.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/Artea
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 3 EL TRECE app
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ALTERNATIVOS", 3 EL TRECE cdn
-https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+
 
 
 
@@ -190,8 +190,7 @@ TELEFE
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 4 TELEFE flow
 https://edge6-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ALTERNATIVOS", 4 TELEFE  cdn
-https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 4 TELEFE  app
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -231,7 +230,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.m
 EL GARAGE 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" group-title="ALTERNATIVOS",6 EL GARAGE TV cdn
-https://delivery.cdn.rcs.net.ar/mnp/garage_hls/playlist.m3u8 
+ 
 
 EL RURAL
 
@@ -407,8 +406,7 @@ CANAL 26
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/canal26.webp" group-title="ALTERNATIVOS",  18 CANAL 26 cdn
-https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
+
 
 
 
@@ -418,8 +416,7 @@ TN TODO NOTICIAS
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="NOTICIAS", 19 TODO NOTICIAS app
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="ALTERNATIVOS", 19 TODO NOTICIAS cdn
-https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -436,8 +433,7 @@ https://edge-live01-mun.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/T
 A 24
 
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/a24.webp" group-title="ALTERNATIVOS", 20 AMERICA 24 cdn
-https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -464,16 +460,14 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/c5n.webp" group-title="ALTERNATIVOS", 21 C5N cdn
-https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
+
 
 
 
 CRONICA TV
 
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cronica.webp" group-title="ALTERNATIVOS", 22 CRONICA TV cdn
-https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -525,8 +519,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMu
 
 CM
 
-#EXTINF:-1 tvg-logo="https://vercanalesonline.com/img/logo_canal/CMTV.png" group-title="ALTERNATIVOS", 35 CM cdn
-https://delivery.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
+
 
 
 MI MUSICA
@@ -1326,8 +1319,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/Fo
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="ALTERNATIVOS",170 FOX SPORTS cdn
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SPORTS FOX SPORTS",170 FOX SPORTS ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1349,8 +1341,7 @@ FOX SPORTS 2
 https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="ALTERNATIVOS",172 FOX SPORTS 2 cdn
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SPORTS FOX SPORTS",172 FOX SPORTS 2 ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1373,8 +1364,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="ALTERNATIVOS",178 FOX SPORTS 3 cdn
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
 
 
 FOX SPORTS claro
@@ -1418,9 +1408,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 
 ESPN PREMIUM 
 
-https://edge-live02-bel.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="ALTERNATIVOS",191 ESPN PREMIUM cdn
-https://delivery.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
+
 
 
 
@@ -1462,8 +1450,7 @@ http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfrgLso2A8tUF3wuhEtYvTM1e4oU2Gv
 
 TNT SPORTS
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="ALTERNATIVOS",195 TNT SPORTS cdn
-https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="SPORTS FUTBOL ARGENTINA",196 TNT SPORTS ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
