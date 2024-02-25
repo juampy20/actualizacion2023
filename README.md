@@ -22,8 +22,41 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-022/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", SPORTDIGITALE
+#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", DAZN 1 ESPAÑOL
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-037/stream.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", DAZN 2 ESPAÑOL
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-038/stream.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", DAZN 2 DE
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-018/stream.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", DAZN 1 DE
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-017/stream.mpd
+
+
 
 
 
