@@ -182,6 +182,17 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", TSN4
 https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
+#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", TSN5
+https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
+
+
 
 
 -------------------eventos------------
