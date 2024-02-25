@@ -192,6 +192,28 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", TSN5
 https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", EUROSPORTS 1
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-031/stream.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", EUROSPORTS 2
+https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-032/stream.mpd
+
+
 
 
 
