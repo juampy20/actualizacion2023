@@ -78,6 +78,15 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-043/stream.mpd
 #EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", ZONA DAZN ITALIA
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-024/stream.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL",  DAZN LA LIGA OPC 2
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
