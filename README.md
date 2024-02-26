@@ -158,7 +158,7 @@ https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", TSN1
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1104783!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="SPORTS MUNDIAL", TSN1
 https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -168,7 +168,7 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", TSN2
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1104783!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="SPORTS MUNDIAL", TSN2
 https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -178,7 +178,7 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", TSN3
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1104783!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="SPORTS MUNDIAL", TSN3
 https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -188,7 +188,7 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", TSN4
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1104783!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="SPORTS MUNDIAL", TSN4
 https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -198,7 +198,7 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", TSN5
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1104783!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="SPORTS MUNDIAL", TSN5
 https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -208,7 +208,7 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", EUROSPORTS 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" group-title="SPORTS MUNDIAL", EUROSPORTS 1
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-031/stream.mpd
 
 
@@ -219,7 +219,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-031/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", EUROSPORTS 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aSWGQG5OsISrSB9Vz6gjT9mqiY7GY8IDGQjGpCkJMwRT99_WLyNnjJx4-MPdkwtUvi0&usqp=CAU" group-title="SPORTS MUNDIAL", EUROSPORTS 2
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-032/stream.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -229,7 +229,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-032/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", SKY SPORTS 1 ITALIA
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-cIoEETaueLkWYUbAizN98H20ES55XwYqvjRwyP7tZPFy4Yrf6xMruUulOooEe47_pU" group-title="SPORTS MUNDIAL", SKY SPORTS 1 ITALIA
 https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
 
 
