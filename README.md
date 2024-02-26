@@ -22,7 +22,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-022/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", DAZN 1 ESPAÑOL
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="SPORTS MUNDIAL", DAZN 1 ESPAÑOL
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-037/stream.mpd
 
 
@@ -33,7 +33,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-037/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", DAZN 2 ESPAÑOL
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="SPORTS MUNDIAL", DAZN 2 ESPAÑOL
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-038/stream.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -43,7 +43,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-038/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", DAZN 2 DE
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="SPORTS MUNDIAL", DAZN 2 DE
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-018/stream.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -53,7 +53,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-018/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", DAZN 1 DE
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="SPORTS MUNDIAL", DAZN 1 DE
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-017/stream.mpd
 
 
@@ -64,7 +64,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-017/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", DAZN LA LIGA
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="SPORTS MUNDIAL", DAZN LA LIGA
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-043/stream.mpd
 
 
@@ -75,7 +75,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-043/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", ZONA DAZN ITALIA
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="SPORTS MUNDIAL", ZONA DAZN ITALIA
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-024/stream.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -85,7 +85,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-024/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL",  DAZN LA LIGA OPC 2
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="SPORTS MUNDIAL",  DAZN LA LIGA OPC 2
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -95,7 +95,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="-" group-title="SPORTS MUNDIAL", FORMULA 1
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="SPORTS MUNDIAL", FORMULA 1
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-016/stream.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
