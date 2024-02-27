@@ -337,7 +337,8 @@ EL NUEVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="ARGENTINA", 1 EL NUEVE flow
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
+https://edge-live17-hr.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
