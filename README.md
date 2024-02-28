@@ -1586,7 +1586,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/T
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-https://cdn.cvattv.com.ar/live/c7eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="SPORTS FUTBOL ARGENTINA",10 TNT SPORTS wb
 http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfoQgQGruhYxWHcoNe6yM6shMv_OU7UBt9F8Vhts7peHD/m3u8
