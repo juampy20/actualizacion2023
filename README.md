@@ -1662,7 +1662,7 @@ DIRECTV MAS
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="SPORTS DIRECTV",205 DIRECTV SPORTS plus
-https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd?
+https://1071-abc-da-mt.dtvott.com/dash_live_1071/manifest.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
