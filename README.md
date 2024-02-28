@@ -1548,6 +1548,17 @@ https://edge-live17-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_da
 #EXTVLCOPT--http-reconnect=true
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="SPORTS FUTBOL ARGENTINA",4 ESPN PREMIUM uru
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://edge-vod04-hr.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="SPORTS FUTBOL ARGENTINA",5 ESPN PREMIUM php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
