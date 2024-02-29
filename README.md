@@ -64,39 +64,7 @@ https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=87EfSQRQ-qG1pNySX_XVmA
 ------------------------------------Bein------------------------------------------------
 -------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="SPORTS BEIN",1 Bein sports español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://olacast.live/
-https://salamus2023.onlinehdhls.ru/ddh1/premium372/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="SPORTS BEIN",2 Bein sports 2 france
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium116/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="SPORTS BEIN",3 Bein sports 2 france
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium117/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="SPORTS BEIN",4 Bein sports 3 france
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium118/playlist.m3u8
 
 
 
@@ -1983,7 +1951,7 @@ DAZN 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-037/stream.mpd
 
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,3 DAZN 2
@@ -1993,7 +1961,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-037/stream.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-038/stream.mpd
 
 
@@ -2005,7 +1973,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-038/stream.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-016/stream.mpd
 
 
@@ -2287,16 +2255,7 @@ https://e3wx7wloxn.zoeweb.tv/pmu7/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",24 Jockey C BR 8
 https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="TURF CARRERAS DE CABALLOS",25 RACING TV 1 USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium554/playlist.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="TURF CARRERAS DE CABALLOS",26 RACING TV 2 USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium555/playlist.m3u8
 
 
 
