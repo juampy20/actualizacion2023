@@ -67,6 +67,18 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS", ARENA SPORTS 6
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="SUPERDEPORTES SPORTS", BEIN SPORTS 1 TH
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+
+
+
 -------------------eventos------------
 --------------------------------------
 
