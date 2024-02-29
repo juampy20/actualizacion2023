@@ -121,7 +121,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.m
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="ARGENTINA", 1 EL NUEVE ss
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="ARGENTINA", 2 EL NUEVE ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
 
 
@@ -136,7 +136,7 @@ AMERICA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/america.webp" group-title="ARGENTINA", 2 AMERICA flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/america.webp" group-title="ARGENTINA", 3 AMERICA flow
 https://edge-live16-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
 
 
@@ -146,7 +146,7 @@ https://edge-live16-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/Ameri
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/america.webp" group-title="ARGENTINA", 2 AMERICA ss
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/america.webp" group-title="ARGENTINA", 4 AMERICA ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 
 
@@ -163,7 +163,7 @@ EL TRECE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27965a5e47515c52af970def8230142c:fbe3bc448126a05697b4750ab0d294bb
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 3 EL TRECE dtv
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 5 EL TRECE dtv
 https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -173,11 +173,11 @@ https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 3 EL TRECE flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 6 EL TRECE flow
 https://edge-live03-cen.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 3 EL TRECE app
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 7 EL TRECE app
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
@@ -195,15 +195,15 @@ TELEFE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 4 TELEFE flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 8 TELEFE flow
 https://edge6-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 4 TELEFE  app
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 9 TELEFE  app
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 4 TELEFE  ss
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/telefe.webp" group-title="ARGENTINA", 10 TELEFE  ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
@@ -221,7 +221,7 @@ TV PUBLICA
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tvpublica.webp" group-title="ARGENTINA",5 TV PUBLICA ss
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tvpublica.webp" group-title="ARGENTINA",11 TV PUBLICA ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 
 
@@ -232,23 +232,23 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tvpublica.webp" group-title="ARGENTINA",5 TV PUBLICA flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tvpublica.webp" group-title="ARGENTINA",12 TV PUBLICA flow
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 
 EL GARAGE 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" group-title="ALTERNATIVOS",6 EL GARAGE TV cdn
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" group-title="ALTERNATIVOS",13 EL GARAGE TV cdn
  
 
 EL RURAL
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es" group-title="ARGENTINA",7 EL RURAL 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es" group-title="ARGENTINA",14 EL RURAL 
 https://streamlovcd1.alsolnet.com/elrural/live/chunklist_w1205483771.m3u8
 
 CHACRA
 
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2017/03/58de3e4a33307__838x390.jpg" group-title="ARGENTINA",7 CHACRA TV 
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2017/03/58de3e4a33307__838x390.jpg" group-title="ARGENTINA",15 CHACRA TV 
 https://s8.stweb.tv/chacra/live/chunks.m3u8
  
 METRO
@@ -260,7 +260,7 @@ METRO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_65cc78db8f8f42f8b54a2254a826df18~mv2.png/v1/fill/w_90,h_90/34a0d2_65cc78db8f8f42f8b54a2254a826df18~mv2.png" group-title="ARGENTINA",8 METRO flow
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_65cc78db8f8f42f8b54a2254a826df18~mv2.png/v1/fill/w_90,h_90/34a0d2_65cc78db8f8f42f8b54a2254a826df18~mv2.png" group-title="ARGENTINA",16 METRO flow
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
 
 
@@ -281,7 +281,7 @@ DIPUTADOS TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/dtv.webp" group-title="ARGENTINA", 10 DIPUTADOS TV flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/dtv.webp" group-title="ARGENTINA", 17 DIPUTADOS TV flow
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd
 
 
@@ -294,7 +294,7 @@ ENCUENTRO
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/encuentro.webp" group-title="ARGENTINA", 11 ENCUENTRO flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/encuentro.webp" group-title="ARGENTINA", 18 ENCUENTRO flow
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd
 
 
@@ -308,7 +308,7 @@ TELEMAX
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" group-title="ARGENTINA", 12 TELEMAX flow
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" group-title="ARGENTINA", 19 TELEMAX flow
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd
 
 
@@ -321,7 +321,7 @@ ARGENTINISIMA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Argentinisima-Satelital-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="ARGENTINA", 13 ARGENTINISIMA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Argentinisima-Satelital-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="ARGENTINA", 20 ARGENTINISIMA
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd
 
 
@@ -334,7 +334,7 @@ MAGAZINE
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/ciudad.webp" group-title="ARGENTINA", 14 MAGAZINE flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/ciudad.webp" group-title="ARGENTINA", 21 MAGAZINE flow
 https://edge-live17-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd
 
 
@@ -347,7 +347,7 @@ NET TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
-#EXTINF:-1 tvg-logo="https://canalnet.tv/_templates/mobile/includes/img/_logo-alt.png" group-title="ARGENTINA",15 NET TV flow
+#EXTINF:-1 tvg-logo="https://canalnet.tv/_templates/mobile/includes/img/_logo-alt.png" group-title="ARGENTINA",22 NET TV flow
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd
 
 ----------------------------------URUGUAY----------------------------------------
@@ -362,7 +362,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/canal4uy.webp" group-title="URUGUAY",15 Canal 4 Uruguay flow
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/canal4uy.webp" group-title="URUGUAY",1 Canal 4 Uruguay flow
 https://edge-vod04-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -372,7 +372,7 @@ https://edge-vod04-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7baf323b4717329ca4db5c9eca6fa396:85eb3ccdd825b8cfbb18e07ef22cd111
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/canal10.webp" group-title="URUGUAY",15 Canal 10 Uruguay dtv
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/canal10.webp" group-title="URUGUAY",2 Canal 10 Uruguay dtv
 https://1187-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -382,7 +382,7 @@ https://1187-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/teledoce.webp" group-title="URUGUAY",15 Teledoce Uruguay dtv
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/teledoce.webp" group-title="URUGUAY",3 Teledoce Uruguay dtv
 https://edge5-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -392,7 +392,7 @@ https://edge5-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/tvc.png" group-title="URUGUAY",15 TvCiudad Uruguay dtv
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/tvc.png" group-title="URUGUAY",4 TvCiudad Uruguay dtv
 https://edge-live17-sl.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd
 
 
@@ -411,7 +411,7 @@ CANAL 26
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/canal26.webp" group-title="NOTICIAS",  18 CANAL 26 flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/canal26.webp" group-title="NOTICIAS",  1 CANAL 26 flow
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -420,7 +420,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/canal26.webp" group-title="NOTICIAS",  18 CANAL 26 ss
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/canal26.webp" group-title="NOTICIAS",  2 CANAL 26 ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 
 
@@ -429,7 +429,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 TN TODO NOTICIAS
 
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="NOTICIAS", 19 TODO NOTICIAS app
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="NOTICIAS", 3 TODO NOTICIAS app
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 
@@ -439,7 +439,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="NOTICIAS", 19 TODO NOTICIAS ss
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="NOTICIAS", 4 TODO NOTICIAS ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
 
 
@@ -452,7 +452,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="NOTICIAS", 19 TODO NOTICIAS flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="NOTICIAS", 5 TODO NOTICIAS flow
 https://edge-live01-mun.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
 
 
@@ -469,7 +469,7 @@ A 24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/a24.webp" group-title="NOTICIAS",20 A 24 flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/a24.webp" group-title="NOTICIAS",6 A 24 flow
 https://edge-live17-hr.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 
 
@@ -479,7 +479,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/Ameri
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/a24.webp" group-title="NOTICIAS",20 A 24 ss
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/a24.webp" group-title="NOTICIAS",7 A 24 ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
 
 
@@ -492,7 +492,7 @@ C5N
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/c5n.webp" group-title="NOTICIAS", 21 C5N flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/c5n.webp" group-title="NOTICIAS", 8 C5N flow
 https://edge-live17-hr.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -501,7 +501,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/c5n.webp" group-title="NOTICIAS", 21 C5N ss
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/c5n.webp" group-title="NOTICIAS", 9 C5N ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 
 
@@ -516,7 +516,7 @@ CRONICA TV
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cronica.webp" group-title="NOTICIAS",22 CRONICA TV ss
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cronica.webp" group-title="NOTICIAS",10 CRONICA TV ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 
 
@@ -528,7 +528,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cronica.webp" group-title="NOTICIAS",22 CRONICA TV flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cronica.webp" group-title="NOTICIAS",11 CRONICA TV flow
 https://edge-live17-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
 
 
@@ -541,7 +541,7 @@ LA NACION
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/lanacion.webp" group-title="NOTICIAS", 23 LA NACION ss
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/lanacion.webp" group-title="NOTICIAS", 12 LA NACION ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
 
 
@@ -553,7 +553,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/lanacion.webp" group-title="NOTICIAS", 23 LA NACION flow
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/lanacion.webp" group-title="NOTICIAS", 13 LA NACION flow
 https://edge-live17-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd
 
 
@@ -564,7 +564,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Na
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png" group-title="NOTICIAS", 24 CNN ss
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png" group-title="NOTICIAS", 14 CNN ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd
 
 
@@ -575,13 +575,13 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" group-title="NOTICIAS", 25 CNN ESPAÑOL ss
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" group-title="NOTICIAS", 15 CNN ESPAÑOL ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd
 
 
 TELESUR
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="NOTICIAS" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",27 TeleSurᴴᴰ  app
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="NOTICIAS" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",16 TeleSurᴴᴰ  app
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/chunklist_w384365430.m3u8
 
 
