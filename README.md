@@ -2287,12 +2287,13 @@ https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="TURF CARRERAS DE CABALLOS",25 RACING TV 1 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webudit.webhd.ru/lb/premium554/index.m3u8
+https://salamus2023.onlinehdhls.ru/ddy5/premium554/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="TURF CARRERAS DE CABALLOS",26 RACING TV 2 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webudit.webhd.ru/lb/premium555/index.m3u8
+https://salamus2023.onlinehdhls.ru/ddy5/premium555/tracks-v1a1/mono.m3u8
+
 
 
 
