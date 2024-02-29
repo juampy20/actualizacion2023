@@ -71,7 +71,8 @@ https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=87EfSQRQ-qG1pNySX_XVmA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium372/tracks-v1a1/mono.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium372/index.m3u8
+
 
 
 
@@ -80,7 +81,8 @@ https://salamus2023.onlinehdhls.ru/ddh1/premium372/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium116/tracks-v1a1/mono.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium116/index.m3u8
+
 
 
 
@@ -88,7 +90,8 @@ https://salamus2023.onlinehdhls.ru/ddh1/premium116/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium117/tracks-v1a1/mono.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium117/index.m3u8
+
 
 
 
@@ -96,7 +99,8 @@ https://salamus2023.onlinehdhls.ru/ddh1/premium117/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium118/tracks-v1a1/mono.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium118/index.m3u8
+
 
 
 
@@ -1980,7 +1984,7 @@ DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,2 DAZN 1
-https://webudit.webhd.ru/lb/premium445/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium445/index.m3u8
 
 
 
@@ -1988,30 +1992,30 @@ https://webudit.webhd.ru/lb/premium445/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,3 DAZN 2
-https://webudit.webhd.ru/lb/premium446/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium446/index.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,4 DAZN 3
-https://webudit.webhd.ru/lb/premium447/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium447/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,5 DAZN 4
-https://webudit.webhd.ru/lb/premium448/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium448/index.m3u8
 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,6 DAZN 1 RU
-https://webudit.webhd.ru/lb/premium426/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium426/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,7 DAZN 2 RU
-https://webudit.webhd.ru/lb/premium427/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8
 
 
 
@@ -2287,12 +2291,14 @@ https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="TURF CARRERAS DE CABALLOS",25 RACING TV 1 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy5/premium554/tracks-v1a1/mono.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium554/index.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="TURF CARRERAS DE CABALLOS",26 RACING TV 2 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy5/premium555/tracks-v1a1/mono.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium555/index.m3u8
+
 
 
 
