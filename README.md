@@ -10,7 +10,7 @@
 #EXTINF:-1 group-title="EVENTOS SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png",_A&E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+#KODIPROP:inputstream.adaptive.license_key=b8d35746ec9e9f5c3ebfc5ec945ebf42:78531faef00ddfcf9dfe029812c9f40f
 https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="EVENTOS SPORTS", Eventos 1
