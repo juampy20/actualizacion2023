@@ -2199,93 +2199,94 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="TURF CARRERAS DE CABALLOS",400 Hipodromo de la plata
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="TURF CARRERAS DE CABALLOS",1 Hipodromo de la plata
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="TURF CARRERAS DE CABALLOS",406 Teletrak TV
+#EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="TURF CARRERAS DE CABALLOS",2 Teletrak TV
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.atg.se/services/cms/img/e1647ee6a70df5933c8130e6f6ba8f3a465f11fe6002c4814721d9149b0348c9/1a758aa7-9716-42ce-b1d1-63e3812eb4b8/atg-logo-campaign-site-logo.png"  group-title="TURF CARRERAS DE CABALLOS", 407 ATG Live
+#EXTINF:-1 tvg-logo="https://www.atg.se/services/cms/img/e1647ee6a70df5933c8130e6f6ba8f3a465f11fe6002c4814721d9149b0348c9/1a758aa7-9716-42ce-b1d1-63e3812eb4b8/atg-logo-campaign-site-logo.png"  group-title="TURF CARRERAS DE CABALLOS", 3 ATG Live
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png"  group-title="TURF CARRERAS DE CABALLOS", 408 RACING CH
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png"  group-title="TURF CARRERAS DE CABALLOS", 4 RACING CH
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Equidia.png"  group-title="TURF CARRERAS DE CABALLOS",411 Equidia Pro
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Equidia.png"  group-title="TURF CARRERAS DE CABALLOS",5 Equidia Pro
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.stoixima.com.gr/wp-content/uploads/2019/10/stoixima-logo-330px-v2-inv.png"  group-title="TURF CARRERAS DE CABALLOS",412 Estoixima
+#EXTINF:-1 tvg-logo="https://www.stoixima.com.gr/wp-content/uploads/2019/10/stoixima-logo-330px-v2-inv.png"  group-title="TURF CARRERAS DE CABALLOS",6 Estoixima
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie_1000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",414 Dubai Racing 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",7 Dubai Racing 
 https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",415 Dubai Racing 2
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",8 Dubai Racing 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 419 SAT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 9 SAT 1
 https://5.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",420 SAT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",10 SAT 2
 https://5.trstream01.xyz/canal3/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",421 SAT 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",11 SAT 3
 https://2.trstream01.xyz/canal4/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",422 SAT 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",12 SAT 4
 https://3.trstream01.xyz/canal2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",423 SAT 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",13 SAT 5
 https://2.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",424 SAT 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",14 SAT 6
 https://3.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 425 SAT 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 15 SAT 7
 https://1.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 426 SAT 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 16 SAT 8
 https://4.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",427 Jockey C BR 1
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",17 Jockey C BR 1
 https://e3wx7wloxn.zoeweb.tv/pmu1/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",428 Jockey C BR 2
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",18 Jockey C BR 2
 https://e3wx7wloxn.zoeweb.tv/pmu2/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",429 Jockey C BR 3
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",19 Jockey C BR 3
 https://e3wx7wloxn.zoeweb.tv/pmu3/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",430 Jockey C BR 4
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",20 Jockey C BR 4
 https://e3wx7wloxn.zoeweb.tv/pmu4/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",431 Jockey C BR 5
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",21 Jockey C BR 5
 https://e3wx7wloxn.zoeweb.tv/pmu5/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",432 Jockey C BR 6
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",22 Jockey C BR 6
 https://e3wx7wloxn.zoeweb.tv/pmu6/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",433 Jockey C BR 7
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",23 Jockey C BR 7
 https://e3wx7wloxn.zoeweb.tv/pmu7/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",434 Jockey C BR 8
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",24 Jockey C BR 8
 https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="TURF CARRERAS DE CABALLOS",435 RACING TV 1 USA
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="TURF CARRERAS DE CABALLOS",25 RACING TV 1 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ddh2.vipboxtv.stream/ddh2/premium554/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.webhd.ru/lb/premium554/index.m3u8
 
-
-
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="TURF CARRERAS DE CABALLOS",26 RACING TV 2 USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.webhd.ru/lb/premium555/index.m3u8
 
 
 
