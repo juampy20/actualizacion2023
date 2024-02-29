@@ -9,9 +9,9 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" group-title="LIGAS EUROPEAS", SERIE A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=65e100dd-9d06-4c8c-8c28-4d2a039336b5
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium554/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://candler.beauty/
+https://tvup-live.akamaized.net/la1-neutra/la1-neutra.mpd
+
 
 
 
