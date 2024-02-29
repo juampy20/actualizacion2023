@@ -5,7 +5,6 @@
 --------------------------------------
 
 
-
 #EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="EVENTOS SPORTS", Eventos 1
 https://hls.streambtw.com/live/stream_1.m3u8
 
