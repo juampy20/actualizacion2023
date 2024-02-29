@@ -13,7 +13,7 @@
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87234ef8a0328b000941fd18bd75d78e:2bbbeb8783509a4e77e3b79cd7b1869f
+#KODIPROP:inputstream.adaptive.license_key=b8d35746ec9e9f5c3ebfc5ec945ebf42:78531faef00ddfcf9dfe029812c9f40f
 #EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="EVENTOS SPORTS", izzigo
 https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 
