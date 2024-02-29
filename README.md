@@ -2091,7 +2091,7 @@ https://online.coopmorteros.coop/canal50/vivo.m3u8
 
 FREYRE
 
-#EXTINF:-1 tvg-logo="https://www.freyre.com.ar/static/media/canal.0cb9f2d2.svg" group-title="REGIONAL",337FREYRE
+#EXTINF:-1 tvg-logo="https://freyre.gob.ar/wp-content/uploads/2016/01/logoWebretina.jpg" group-title="REGIONAL",337 FREYRE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=http://streaming.freyre.com.ar/
 https://online.coopmorteros.coop/freyre/freyre.m3u8
@@ -2115,7 +2115,7 @@ EL DOCE DE CORDOBA
 https://csc-ptn-edge01.sensa.com.ar/output/Canal12D/output.mpd
 
 
-#EXTINF:-1 tvg-logo="-" group-title="REGIONAL",343 Venado Tuerto
+#EXTINF:-1 tvg-logo="https://venadotuerto.gob.ar/wp-content/uploads/2021/01/MVT-Logo-ColorPNG-1-e1610489973787.png" group-title="REGIONAL",343 Venado Tuerto
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
 
