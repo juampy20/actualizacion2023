@@ -7,7 +7,11 @@
 -------------------eventos------------
 --------------------------------------
 
-
+#EXTINF:-1 group-title="EVENTOS SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png",_A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="EVENTOS SPORTS", Eventos 1
 https://hls.streambtw.com/live/stream_1.m3u8
