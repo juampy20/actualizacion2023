@@ -71,7 +71,8 @@ https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=87EfSQRQ-qG1pNySX_XVmA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webudit.webhd.ru/lb/premium372/index.m3u8
+https://salamus2023.onlinehdhls.ru/ddh1/premium372/tracks-v1a1/mono.m3u8
+
 
 
 
