@@ -414,7 +414,14 @@ CANAL 26
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/canal26.webp" group-title="NOTICIAS",  18 CANAL 26 flow
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
 
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/canal26.webp" group-title="NOTICIAS",  18 CANAL 26 ss
+https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 
 
 
@@ -424,6 +431,17 @@ TN TODO NOTICIAS
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="NOTICIAS", 19 TODO NOTICIAS app
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tn.webp" group-title="NOTICIAS", 19 TODO NOTICIAS ss
+https://csc-ptn-edge01.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
+
 
 
 
@@ -455,6 +473,16 @@ A 24
 https://edge-live17-hr.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/a24.webp" group-title="NOTICIAS",20 A 24 ss
+https://csc-ptn-edge01.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
+
+
 C5N 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -467,14 +495,29 @@ C5N
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/c5n.webp" group-title="NOTICIAS", 21 C5N flow
 https://edge-live17-hr.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 
-
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/c5n.webp" group-title="NOTICIAS", 21 C5N ss
+https://csc-ptn-edge01.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 
 
 
 
 CRONICA TV
 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/cronica.webp" group-title="NOTICIAS",22 CRONICA TV ss
+https://csc-ptn-edge01.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 
 
 
@@ -490,6 +533,17 @@ https://edge-live17-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/Croni
 
 
 LA NACION
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/lanacion.webp" group-title="NOTICIAS", 23 LA NACION ss
+https://csc-ptn-edge01.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
