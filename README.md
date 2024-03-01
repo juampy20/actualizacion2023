@@ -11,7 +11,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SUPERDEPORTES SPORTS", BEIN SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SUPERDEPORTES SPORTS",1 BEIN SPORTS
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -21,18 +21,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SUPERDEPORTES SPORTS", BEIN SPORTS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SUPERDEPORTES SPORTS",2 BEIN SPORTS 3
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SUPERDEPORTES SPORTS", BEIN SPORTS 3
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib3/manifest.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -42,7 +34,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib3/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS", ARENA SPORTS 1
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",3 ARENA SPORTS 1
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 
@@ -53,7 +45,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS", ARENA SPORTS 2
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",4 ARENA SPORTS 2
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -63,7 +55,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS", ARENA SPORTS 3
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",5 ARENA SPORTS 3
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -73,7 +65,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS", ARENA SPORTS 4
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",6 ARENA SPORTS 4
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 
@@ -84,7 +76,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS", ARENA SPORTS 5
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",7 ARENA SPORTS 5
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -94,7 +86,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS", ARENA SPORTS 6
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",8 ARENA SPORTS 6
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 
@@ -105,7 +97,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="SUPERDEPORTES SPORTS", BEIN SPORTS 1 TH
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="SUPERDEPORTES SPORTS",9 BEIN SPORTS 1 TH
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
 
@@ -116,7 +108,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="SUPERDEPORTES SPORTS", BEIN SPORTS 2 TH
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="SUPERDEPORTES SPORTS",10 BEIN SPORTS 2 TH
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -126,7 +118,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="SUPERDEPORTES SPORTS", BEIN SPORTS 3 TH
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="SUPERDEPORTES SPORTS",11 BEIN SPORTS 3 TH
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -136,7 +128,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS", SSC1
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS",12 SSC1
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -146,7 +138,7 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS", SSC2
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS",13 SSC2
 https://ssc-2-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -156,7 +148,7 @@ https://ssc-2-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS", SSC3
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS",14 SSC3
 https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -166,7 +158,7 @@ https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS", SSC4
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS",15 SSC4
 https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -176,7 +168,7 @@ https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS", SSC4
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS",16 SSC4
 https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
 
@@ -187,7 +179,7 @@ https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltf067295452c6f475/5f5f463021ecf947895d945a/Sky_Sports_Logo_September_2020.jpg" group-title="SUPERDEPORTES SPORTS", SKY SPORTS 1 ITALIA
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltf067295452c6f475/5f5f463021ecf947895d945a/Sky_Sports_Logo_September_2020.jpg" group-title="SUPERDEPORTES SPORTS",0 SKY SPORTS 1 ITALIA
 https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
 
 
