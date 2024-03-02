@@ -2127,6 +2127,41 @@ FORMULA 1
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,1 DAZN Formula 1
 http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfrgLso2A8tUF3wuhEtYvTM3gf0o367xy4sxvRYRGwdiD/m3u8
 
+DAZN Formula opcion 2
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIjJcaiUUlc44LeJ5l0B71-9tV2ZVXk5CpOZCreycRZHg/m3u8
+
+#EXTINF:-1 group-title="SPORTS DAZN",INSIDE FORMULA 1
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokUiAoF7VzAa47lyNj8tusBZ/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN" ,F1TV: Fernando Alonso Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokVn_QCSUGceRnsq7SFkDBT0/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Carlos Sainz Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokXRz72sZkNkjbWsWdjBQEQM/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Charles Leclerc Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokXjdFvNYFkl-SZ1ccPzlTxW/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Daniel Ricciardo Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokVzCdHX5bB5hQntCG8sts0N/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Esteban Ocon Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokXMildv4LRMb8Rxh3N3ixGK/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: George Russell Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokVWqD0-bcso2sSfx6XyCtNh/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Kimi Raikkonen Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokWQksMHN7U-om_i195ET046/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Lance Stroll Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokXBoNnztzf5OzWV_w4fEWMM/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Lando Norris Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokWqH8F0PhYnuw4iDCrchvbk/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Lewis Hamilton Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokU4J_v4XRjTy-mjRrw6jXHg/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Antonio Giovinazzi Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokVVJvezHyaEZfR8gyz9WnOb/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Max Verstappen Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokWPhidtKW6oLjMyGnEF73jb/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Mick Schumacher Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokU2J_ydj0B7cuSne3lKf27u/m3u8
+#EXTINF:-1 group-title="SPORTS DAZN",F1TV: Nicholas Latifi Helmet Camera
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokW-cSeM2Lsz0WZqNN1Votdb/m3u8
+
+
 DAZN 1 
 
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,3 DAZN 1
