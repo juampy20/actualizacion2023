@@ -2127,9 +2127,12 @@ FORMULA 1
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,1 DAZN Formula 1
 http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfrgLso2A8tUF3wuhEtYvTM3gf0o367xy4sxvRYRGwdiD/m3u8
 
-DAZN Formula opcion 2
-#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,1 DAZN Formula ocion 2
+#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,1 DAZN Formula opcion 2
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIjJcaiUUlc44LeJ5l0B71-9tV2ZVXk5CpOZCreycRZHg/m3u8
+
+
+#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,1 DAZN Formula 1 sky tv
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIjJcaiUUlc44LeJ5l0B71-8M17drs0h4b65vkOLNOgbQ/m3u8
 
 
 
