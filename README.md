@@ -227,6 +227,11 @@ https://hls.streambtw.com/live/stream_10.m3u8
 #EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="EVENTOS SPORTS", Eventos 11
 https://hls.streambtw.com/live/stream_11.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="EVENTOS SPORTS", Eventos 12  m3u
+https://hls.streambtw.com/live/stream_11.m3u8
+https://sportsleading.online/live/stream_5.m3u8
+
+
 -----------------------------messi----------------
 ----------------------------------------------------
 
