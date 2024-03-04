@@ -258,15 +258,12 @@ https://jan-5.totototorina.com:999/hls/mlspasshd1.m3u8?md5=wsGnepLlRroGs6VBgvK63
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="tes", beiñ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=5jnX9+oBu6TjHHZNOB5FK4yfN0o1zNR+cvP4YNmItKGvvJJAFxpaBsDaO0z51F3Uqc7iOKwuwobmfNe3epleNGhBuJuC1r9x5znS4YOaxpYQ+AhHqYUutBzzxfjrX+SotC2aHTZxiwUFxI5CdIe33ao+AauN7w1gRXTUVtaGOx+W62J/VTXdVeR9/ZDkK5M+ngBFOZ6EwXjHMxnInWsrJPMNhTUopCGUUoPPryCDq6FSuZc89f2UaaSd5N9znc8f2OjKIBfO61wdw7ErO2VcCMgPcIqY+iKQFhRMcK8vrYYYnymO8IAiLgWNWImQve16DPuvD0166KzotUcuRRzZsNR3GpHOybZpOBKq7lYMIPk=
+#KODIPROP:inputstream.adaptive.license_key=https://opensignal.cdnbye.com/?id=107SkEvLS0Sg&p=web&v=1.21.0
 #EXTVLCOPT:http-referrer=https://tutlehd3.xyz/
 https://e3.ttlpro.futbol/live/ST18b4985ca2e5b53.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="tes", beiñ 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tutlehd3.xyz/embed.php?&a=7&s=iqngors90ri414jgjfk5367gdk&ip=45.7.209.199&useragent=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36&referer=
-https://e3.ttlpro.futbol/live/ST18b4985ca2e5b53.m3u8
+
 
 
 
