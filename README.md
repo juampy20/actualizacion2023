@@ -247,8 +247,6 @@ https://freehdgames.lol/chunklist/hlsch2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80Lz
 
 
 
-`
-
 
 
 
