@@ -242,8 +242,8 @@ https://jan-5.totototorina.com:999/hls/mlspasshd1.m3u8?md5=wsGnepLlRroGs6VBgvK63
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="MLS INTER MIAMI", inter opc 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://lovesomecommunity.com/
-https://jan-5.totototorina.com:999/hls/mlspasshd1.m3u8?md5=wsGnepLlRroGs6VBgvK63Q&expires=1709425562
+#EXTVLCOPT:http-referrer=https://hdfungamezz.xyz/
+https://freehdgames.lol/chunklist/hlsch2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjQgNDo1NzoxMSBQTSZoYXNoX3ZhbHVlPWZ3VFBVYTlJNHQxNzN5czQrS1hSdFE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTQ1LjcuMjA5LjE5OSZzdHJtX2xlbj01
 
 
 
@@ -256,11 +256,7 @@ https://jan-5.totototorina.com:999/hls/mlspasshd1.m3u8?md5=wsGnepLlRroGs6VBgvK63
 -------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="tes", beiñ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://opensignal.cdnbye.com/?id=107SkEvLS0Sg&p=web&v=1.21.0
-#EXTVLCOPT:http-referrer=https://tutlehd3.xyz/
-https://e3.ttlpro.futbol/live/ST18b4985ca2e5b53.m3u8
+
 
 
 
