@@ -1,11 +1,11 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test", aa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://w3.mp.lura.live/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjogIkFOViIsICJ2IjogImFkc3RPWjVScWUwN045RUciLCAidG9rZW4iOiAiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjM01pT2lKdFVXSmhNazlrWjFCSVVsZFdlamRvVG01MFRuaE5NbkpwT0RGeFRsZDVXQ0lzSW5acFpDSTZJbUZrYzNSUFdqVlNjV1V3TjA0NVJVY2lMQ0psZUhBaU9qRTNNRGszT0RnMU9Ua3NJbWxoZENJNk1UY3dPVGN3TWpFNU9YMC4tQ2FtdE5Qc09wQUtfNFR3Y29rWW4xUC1jZkNReHhlN1RrMHlHcXdxUHlVIiwgImFudmFjayI6ICJtUWJhMk9kZ1BIUldWejdoTm50TnhNMnJpODFxTld5WCJ9
+#EXTVLCOPT:http-referrer=https://television-libre.online/
 https://dcs3-live-uc1-2.mp.lura.live/server/play/7GnqnNT9v6Prtp9j/manifest.mpd?anvsid=m176971573-n1088c9ca658e63daf72d8459dd69d345
+
 
 
 -----------------------super deportes----------------
