@@ -2179,27 +2179,30 @@ https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,DAZN FORMULA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium537/tracks-v1a1/mono.m3u8|Origin=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium537/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+
 
 DAZN 1 
 
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,DAZN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh2/premium426/tracks-v1a1/mono.m3u8|Origin=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium426/index.m3u8|Origin=https://weblivehdplay.ru/
 
 DAZN 2
 
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh2/premium427/tracks-v1a1/mono.m3u8|Origin=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
 #EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,DAZN la liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh1/premium538/tracks-v1a1/mono.m3u8|Origin=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
 
