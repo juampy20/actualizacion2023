@@ -2302,6 +2302,25 @@ EL DOCE DE CORDOBA
 https://csc-ptn-edge01.sensa.com.ar/output/Canal12D/output.mpd
 
 
+SRLP
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/941/CH_LOGO/160/160/0/0/12926473072353.png" group-title="REGIONAL",6 SRLP
+https://csc-ptn-edge01.sensa.com.ar/output/ARR/SRLPD/output.mpd
+
+TELEVICE
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1601/CH_LOGO/160/160/0/0/87441261073156.png" group-title="REGIONAL",6 TELEVICE TV
+https://csc-ptn-edge01.sensa.com.ar/output/SMT2/TELD/output.mpd
+
+MUNDO AGRO
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/866/CH_LOGO/160/160/0/0/88623159076702.png" group-title="REGIONAL",6 MUNDO AGRO 
+https://csc-ptn-edge01.sensa.com.ar/output/ARR/DehezaD/output.mpd
+
+
+
+VENADO  TUERTO
+
 #EXTINF:-1 tvg-logo="https://venadotuerto.gob.ar/wp-content/uploads/2021/01/MVT-Logo-ColorPNG-1-e1610489973787.png" group-title="REGIONAL",7 Venado Tuerto
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
