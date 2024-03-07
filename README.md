@@ -364,6 +364,7 @@ EL TRECE
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 5 EL TRECE dtv
 https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
