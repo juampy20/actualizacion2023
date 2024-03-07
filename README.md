@@ -2304,35 +2304,42 @@ https://csc-ptn-edge01.sensa.com.ar/output/Canal12D/output.mpd
 
 SRLP
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/941/CH_LOGO/160/160/0/0/12926473072353.png" group-title="REGIONAL",6 SRLP
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/941/CH_LOGO/160/160/0/0/12926473072353.png" group-title="REGIONAL",7 SRLP
 https://csc-ptn-edge01.sensa.com.ar/output/ARR/SRLPD/output.mpd
 
 TELEVICE
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1601/CH_LOGO/160/160/0/0/87441261073156.png" group-title="REGIONAL",6 TELEVICE TV
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1601/CH_LOGO/160/160/0/0/87441261073156.png" group-title="REGIONAL",8 TELEVICE TV
 https://csc-ptn-edge01.sensa.com.ar/output/SMT2/TELD/output.mpd
 
 MUNDO AGRO
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/866/CH_LOGO/160/160/0/0/88623159076702.png" group-title="REGIONAL",6 MUNDO AGRO 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/866/CH_LOGO/160/160/0/0/88623159076702.png" group-title="REGIONAL",9 MUNDO AGRO 
 https://csc-ptn-edge01.sensa.com.ar/output/ARR/DehezaD/output.mpd
 
 NEXOCOSMOS
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1321/CH_LOGO/160/160/0/0/46132478077122.png" group-title="REGIONAL",6 NEXO COSMOS
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1321/CH_LOGO/160/160/0/0/46132478077122.png" group-title="REGIONAL",10 NEXO COSMOS
 https://csc-ptn-edge01.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
 
 RIO PRIMERO
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1361/CH_LOGO/160/160/0/0/30214768077125.png" group-title="REGIONAL",6 RIO PRIMERO TV
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1361/CH_LOGO/160/160/0/0/30214768077125.png" group-title="REGIONAL",11 RIO PRIMERO TV
 https://csc-ptn-edge01.sensa.com.ar/output/STAROSA/RIO1TVD/output.mpd
 
 
 
 VENADO  TUERTO
 
-#EXTINF:-1 tvg-logo="https://venadotuerto.gob.ar/wp-content/uploads/2021/01/MVT-Logo-ColorPNG-1-e1610489973787.png" group-title="REGIONAL",7 Venado Tuerto
+#EXTINF:-1 tvg-logo="https://venadotuerto.gob.ar/wp-content/uploads/2021/01/MVT-Logo-ColorPNG-1-e1610489973787.png" group-title="REGIONAL",12 Venado Tuerto
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1363/CH_LOGO/160/160/0/0/89469456077129.png" group-title="REGIONAL",13 SANTA ROSA
+https://csc-ptn-edge01.sensa.com.ar/output/STAROSA/COVISARD/output.mpd
+
+
 
 
 CANAL 8 TUCUMAN
@@ -2344,7 +2351,7 @@ CANAL 8 TUCUMAN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 8 CANAL 8 TUCUMAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 14 CANAL 8 TUCUMAN
 https://edge-live17-hr.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd
 
 
@@ -2357,7 +2364,7 @@ TELEFE NEUQUEN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55828b728b8affe6d1d57d050025645d:8ac11ed6d0ccaeac3f8218419f65bb94
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 9 TELEFE NEUQUEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 15 TELEFE NEUQUEN
 https://edge-live17-hr.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd
 
 
@@ -2370,13 +2377,13 @@ TELEFE SALTA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 10 TELEFE SALTA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 16 TELEFE SALTA
 https://edge-live17-hr.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd
 
 
 TELEFE APLICACION
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 11 TELEFE APLICACION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 17 TELEFE APLICACION
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
