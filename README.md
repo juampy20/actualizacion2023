@@ -2317,6 +2317,16 @@ MUNDO AGRO
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/866/CH_LOGO/160/160/0/0/88623159076702.png" group-title="REGIONAL",6 MUNDO AGRO 
 https://csc-ptn-edge01.sensa.com.ar/output/ARR/DehezaD/output.mpd
 
+NEXOCOSMOS
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1321/CH_LOGO/160/160/0/0/46132478077122.png" group-title="REGIONAL",6 NEXO COSMOS
+https://csc-ptn-edge01.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
+
+RIO PRIMERO
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1361/CH_LOGO/160/160/0/0/30214768077125.png" group-title="REGIONAL",6 RIO PRIMERO TV
+https://csc-ptn-edge01.sensa.com.ar/output/STAROSA/RIO1TVD/output.mpd
+
 
 
 VENADO  TUERTO
