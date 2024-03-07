@@ -365,6 +365,18 @@ EL TRECE
 https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/eltrece.webp" group-title="ARGENTINA", 5 EL TRECE ss
+https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
+
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
