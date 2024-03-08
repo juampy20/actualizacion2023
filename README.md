@@ -270,7 +270,8 @@ https://sportsleading.online/live/stream_12.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://lovesomecommunity.com/
-https://jan-5.totototorina.com:999/hls/mlspasshd1.m3u8?md5=wsGnepLlRroGs6VBgvK63Q&expires=1709425562
+https://jan-5.totototorina.com:999/hls/mlspasshd1.m3u8?md5=gVXxke593DdmXGiLMFVstw&expires=1709872532
+
 
 
 
