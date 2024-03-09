@@ -1803,7 +1803,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSP3MXHD)/manifest.mpd
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTVLCOPT:network-caching=1000 #EXTVLCOPT:http-user-agent="FireFox" #EXTVLCOPT--http-reconnect=true #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=cf4c78e21fe219ad4aa5429ae93d43be:26db38a968a1b65d7270ee92632a7ce1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="MOTO GP", 7 FOX SPORTS PREMIUM MEXICO https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
 
 FOX SPORTS claro
 
