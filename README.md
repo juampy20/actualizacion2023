@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
   #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" group-title="DEPORTES", Dazn 1 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
