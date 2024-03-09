@@ -1,7 +1,44 @@
 #EXTM3U
 
 
-
+ 
+#EXTINF:-1 group-title="test"  , ESPN  (🇨🇴)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rwdtYt_mSoKh8gWxbC9f9w","k":"jXHeSMr94CJGWvR_djmyQQ"},{"kty":"oct","kid":"gldi_vZnRN--8IUsRlGULA","k":"OoZM1ZUt5xFogJ0ctbFw4A"}]}
+https://1279247418.rsc.cdn77.org/bpk-tv/QFENPU/dash/manifest.mpd
+ 
+ 
+#EXTINF:-1 group-title="test"  , ESPN 2  (🇨🇴)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LEO70iL6S1ix-XTvyncu1A","k":"V3XN0YH9Xg6R88rLsMqO1A"},{"kty":"oct","kid":"nUDOLGNFTvyCbyblE38Txg","k":"iusccUFqdmhADlyZAFqLPg"}]}
+https://1279247418.rsc.cdn77.org/bpk-tv/QFENP2/dash/manifest.mpd
+ 
+#EXTINF:-1 group-title="test"  , ESPN 3  (🇨🇴)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"R-4TwhHiTa21iZC20JwTUg","k":"qw7ETmsI2f0gXpKmaMdiNw"},{"kty":"oct","kid":"ksS3olwFTt29Y-Nx6iCXpw","k":"4-IqPjgoLeAuOgC39zzWvA"}]}
+https://1279247418.rsc.cdn77.org/bpk-tv/QESPNTTV/dash/manifest.mpd
+ 
+ 
+#EXTINF:-1 group-title="test"  , ESPN 4 (🇨🇴)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Kvr0mIrYRLeiYrjfW3BeMw","k":"BxcsilCNo766bwXJBh249Q"},{"kty":"oct","kid":"609HIwWzQr6buX7ZIou6pg","k":"ZXy64rS2DGpK7mlJnIuIcQ"}]}
+https://1279247418.rsc.cdn77.org/bpk-tv/QESPNETV/dash/manifest.mpd
+ 
+#EXTINF:-1 group-title="test"  , ESPN 5 (🇨🇴)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"c6MypyKjLWjbn2PyHLBzwQ","k":"HNFATP5qA3U1PxASfrHhEw"},{"kty":"oct","kid":"RajYaqD_n3PFqQk4SNQLHg","k":"fG2-cmP3TTnUm3j1OCrSbw"}]}
+https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTUTV/dash/manifest.mpd
+ 
+#EXTINF:-1 group-title="test"  , ESPN 6 (🇨🇴)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PprYdgvURfGRnYLq9kfB_g","k":"8MGO-YMkXMHtLsUkHdaNig"},{"kty":"oct","kid":"PnoSPvDdT-aYZGSRh2dYTw","k":"DmWJOEQIs9zZkXc8QEf30w"}]}
+https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTTTV/dash/manifest.mpd
+ 
+ 
+#EXTINF:-1 group-title="test"  , ESPN 7 (🇨🇴)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IqiiAReaSMGecLzO-1UuTA","k":"gdwZo50wB3QJo18fDY60gw"},{"kty":"oct","kid":"HyyT3Ym7T1W9Xa0EHF1rgw","k":"rRJ_kUsRm5Fik6UARSPFwg"}]}
+https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTDTV/dash/manifest.mpd
 
 
 
