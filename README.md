@@ -11,13 +11,13 @@
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="MOTO GP", 1 fox sports mexico 3
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="MOTO GP",sky moto gp
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="MOTO GP",2 sky moto gp
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIt10FBbhHt8f5EPxwez3Pq0n-8SgTYLRKN0cGrwgPbcu/m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="MOTO GP",dazn moto gp español
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="MOTO GP",3 dazn moto gp español
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIvvkLhZdT70wiaktQVzJk3lxr0_8BAvmlVfXnxbUlPjW/m3u8
 
-#EXTINF:-1 group-title="MOTO GP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,DAZN español 
+#EXTINF:-1 group-title="MOTO GP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,4 DAZN español 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium445/index.m3u8|Origin=https://weblivehdplay.ru/
