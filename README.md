@@ -11,11 +11,7 @@
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="MOTO GP", 1 fox sports mexico 3
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="MOTO GP",2 sky moto gp
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIt10FBbhHt8f5EPxwez3Pq0n-8SgTYLRKN0cGrwgPbcu/m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="MOTO GP",3 dazn moto gp español
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIvvkLhZdT70wiaktQVzJk3lxr0_8BAvmlVfXnxbUlPjW/m3u8
 
 #EXTINF:-1 group-title="MOTO GP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,4 DAZN español 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -1886,8 +1882,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_da
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium387/index.m3u8|Origin=https://weblivehdplay.ru/
 
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="SPORTS FUTBOL ARGENTINA",6 ESPN PREMIUM wb
-http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfrgLso2A8tUF3wuhEtYvTM1e4oU2GvK0T5gaGUxtgbo4/m3u8
+
 
 
 
@@ -1925,12 +1920,10 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/T
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="SPORTS FUTBOL ARGENTINA",12 TNT SPORTS wb
-http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfoQgQGruhYxWHcoNe6yM6shMv_OU7UBt9F8Vhts7peHD/m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="SPORTS FUTBOL ARGENTINA",13 TNT SPORTS wb
-http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfoQgQGruhYxWHcoNe6yM6sjqOzxR6TAo12f_sEUP0-dR/m3u8
+
+
 
 --------------------------------------- DEPORTES DIRECTV ----------------------------------------
 -------------------------------------------------------------------------------------------------
@@ -2053,8 +2046,7 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/NBA_TV_II.svg/revision/latest/scale-to-width-down/250" group-title="SPORTS DEPORTES VARIOS", 1 NBA TV
-http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfke2EAO7KHXrzqajr7uWJY0CR05BQRVLzLEVCFMCKVpx/m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2536,11 +2528,7 @@ https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="ESPAÑA", 1 ANTENA 3 internacional
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/LaSextaHD.svg/220px-LaSextaHD.svg.png" group-title="ESPAÑA", 2 La Sexta
-http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfthdP8lFWSmtMwpFRUPNfcuFGao_6MxTxBZWDkMaYeWw/m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="ESPAÑA", 3 La Uno
-http://totalplay.site:80/play/Fzy8ctQVoaANwe_kT7ubfthdP8lFWSmtMwpFRUPNfcscZCaAapAFque_Y8hTTN3k/m3u8
 
 
 
