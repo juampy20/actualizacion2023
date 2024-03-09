@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="MOTO GP",sky moto gp
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIt10FBbhHt8f5EPxwez3Pq0n-8SgTYLRKN0cGrwgPbcu/m3u8
+
 -----------------------super deportes----------------
 --------------------------------------------------------
 
