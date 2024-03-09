@@ -1,6 +1,16 @@
 #EXTM3U
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf4c78e21fe219ad4aa5429ae93d43be:26db38a968a1b65d7270ee92632a7ce1
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="MOTO GP", 1 fox sports mexico 3
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="MOTO GP",sky moto gp
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIt10FBbhHt8f5EPxwez3Pq0n-8SgTYLRKN0cGrwgPbcu/m3u8
 
