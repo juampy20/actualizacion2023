@@ -1779,12 +1779,12 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QESPNTTV/dash/manifest.mpd
  
 #EXTINF:-1  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SPORTS ESPN"  , ESPN 3 test (🇨🇴)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e991d37856c522191454ec61681a8864:66e038222dca0b0e034fed31d6ee8999
+#KODIPROP:inputstream.adaptive.license_key=44521cb791ec4bb271c803be50d25e70:b2e7a04368065f9f14f56453e6aaebb3
 https://1279247418.rsc.cdn77.org/bpk-tv/QESPNTTV/dash/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SPORTS ESPN"  , ESPN 3 test 2 (🇨🇴)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=937ac0b6bda6c518c9e4935142e149a9:15b241a74f5503a6cb34c66b43d43edf
+#KODIPROP:inputstream.adaptive.license_key=a5ec39973d7e002fd2215f0c3127a035:19fc78838d45debc801ca473db2ceb63
 https://1279247418.rsc.cdn77.org/bpk-tv/QESPNTTV/dash/manifest.mpd
 
  
