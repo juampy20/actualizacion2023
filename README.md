@@ -2645,7 +2645,57 @@ https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="ESPAÑA", 1 ANTENA 3 internacional
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
+#EXTINF:-1 tvg-id="gol.es" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/mega-1695.png", group-title="ESPAÑA", MEGA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c944d115b73959cda41f33066a9877b8":"f7bc864c6d3aa6ff92525d7fed9ec8b4","0100ddf2f5eb56bb9d11553af0669203":"26a225912583d730e35791abfe513790"}
+https://tvup-live.secure.footprint.net/mega6/mega6.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+
+#EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://i.imgur.com/4edrIQg.png" group-title="ESPAÑA", TELEDEPORTE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dfd2c747f51754679a03feaa47a7e179":"8cce238cb42b12d1a57ca6fe3ec067d0","d962c3675d745fdab592691e4bfb9363":"3a6ba1c2c1861ea8f0faac107fd720f6"}
+https://tvup-live.akamaized.net/teledeporte/teledeporte.mpd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1024px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA",M+ Campeones Hbomax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0101547b2cd786ae1ed623a6e406f764":"1aa71ec5c5b1d44d8a6dff9c09a36b9d"}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031615/dash/cenc/36420/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ioL55Wd.png" group-title="ESPAÑA",Antena 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a9e74b80c7cefa177926fc90eb05988:54e2cb64384e73b37b19d8c50e9479a4
+https://ott.zapitv.com/live/eds_c2/test/dash_live_enc/test.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",SURF CHANNEL
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA", La Sexta HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=239e5526ecb62d7b41c97641ea486549:93bfa21ee2211c271b7f0e1944a87818
+https://ott.zapitv.com/live/eds_c2/la_sexta/dash_live_enc/la_sexta.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="ESPAÑA", CAZA & PESCA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
+https://cache4.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/500px-DMax_Espa%C3%B1a.svg.png" group-title="ESPAÑA",DMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73e55164b719d1210351f86093bc3ec3:792ffb4e6ebbe2aae394061f01948e40
+https://ott.zapitv.com/live/eds_c2/dmax/dash_live_enc/dmax.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAV4tLc.png" group-title="ESPAÑA", Cuatro
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
+https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
 
 
 
