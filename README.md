@@ -2246,8 +2246,7 @@ CLARO SPORTS
 #KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="119" tvg-logo="https://logo.iptveditor.com/tudn.png"  group-title="DEPORTES VARIOS",TUDN (🇲🇽)
-http://208.88.246.11:5473/encoder84/evento17/chunk_Auth=ix08x/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
 
 
 TRACE SPORTS 
