@@ -2319,14 +2319,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8|Origin=https://webliveh
 https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
-#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://i.imgur.com/YcZ6VfT.png",10 Dazn 1 🇩🇪
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
- 
-#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://i.imgur.com/YcZ6VfT.png",11 Dazn 2 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
+
 
 
 -------------------------------------------- ADULTOS ----------------------------------------------
@@ -2642,8 +2635,6 @@ https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 ------------------------------------- ESPAÑA ---------------------------------------------
 ------------------------------------------------------------------------------------------
 
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2662,7 +2653,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 https://ott.zapitv.com/live/eds_c2/test/dash_live_enc/test.mpd
 
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA", 3 SURF CHANNEL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgYiC29RyJ5dIBpcTD1T571vIqMeBYZz9XV17WKezl1esFT6HqTlQnHfkBb56Eb30_4I&usqp=CAU" group-title="ESPAÑA", 3 SURF CHANNEL
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/manifest.mpd
  
 #EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",4 La Sexta HD
@@ -2683,7 +2674,7 @@ https://cache4.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesc
 #KODIPROP:inputstream.adaptive.license_key=73e55164b719d1210351f86093bc3ec3:792ffb4e6ebbe2aae394061f01948e40
 https://ott.zapitv.com/live/eds_c2/dmax/dash_live_enc/dmax.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wAV4tLc.png" group-title="ESPAÑA",7 Cuatro
+#EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="ESPAÑA",7 Cuatro
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
 https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
@@ -2697,6 +2688,8 @@ https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
 https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
+
+
 
 ------------------------------------- MEXICO ------------------------------------
 ---------------------------------------------------------------------------------
