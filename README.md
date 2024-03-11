@@ -1,14 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FS1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg", FS1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=322e03cb37854abdb33fc10ce83a6084:685d1f88bb343563748303a5a49bada5
-https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(82547-FS1HD)/manifest.mpd
+
 
 
 -----------------------super deportes----------------
