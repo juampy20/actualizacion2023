@@ -2319,11 +2319,11 @@ https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8|Origin=https://webliveh
 https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/YcZ6VfT.png",10 Dazn 1 🇩🇪
+#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://i.imgur.com/YcZ6VfT.png",10 Dazn 1 🇩🇪
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
  
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/YcZ6VfT.png",11 Dazn 2 🇩🇪
+#EXTINF:-1 group-title="SPORTS DAZN" tvg-logo="https://i.imgur.com/YcZ6VfT.png",11 Dazn 2 🇩🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
