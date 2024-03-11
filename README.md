@@ -2660,6 +2660,9 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/man
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=239e5526ecb62d7b41c97641ea486549:93bfa21ee2211c271b7f0e1944a87818
 https://ott.zapitv.com/live/eds_c2/la_sexta/dash_live_enc/la_sexta.mpd
+
+
+
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="ESPAÑA",5 CAZA & PESCA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2676,7 +2679,15 @@ https://ott.zapitv.com/live/eds_c2/dmax/dash_live_enc/dmax.mpd
 #KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
 https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
 
-
+#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" group-title="ESPAÑA",8 La 1 España
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
+ 
+#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/250px-Logo_TVE-2.svg.png" group-title="ESPAÑA",9 La 2 España
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
+https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
 
 ------------------------------------- MEXICO ------------------------------------
 ---------------------------------------------------------------------------------
