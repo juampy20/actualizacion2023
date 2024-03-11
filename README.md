@@ -2545,85 +2545,85 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="TURF CARRERAS DE CABALLOS",1 Hipodromo de la plata
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="TURF CARRERAS DE CABALLOS",1 Hipodromo de la plata (🇦🇷)
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="TURF CARRERAS DE CABALLOS",2 Teletrak TV
+#EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="TURF CARRERAS DE CABALLOS",2 Teletrak TV (🇨🇱)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.atg.se/services/cms/img/e1647ee6a70df5933c8130e6f6ba8f3a465f11fe6002c4814721d9149b0348c9/1a758aa7-9716-42ce-b1d1-63e3812eb4b8/atg-logo-campaign-site-logo.png"  group-title="TURF CARRERAS DE CABALLOS", 3 ATG Live
+#EXTINF:-1 tvg-logo="https://www.atg.se/services/cms/img/e1647ee6a70df5933c8130e6f6ba8f3a465f11fe6002c4814721d9149b0348c9/1a758aa7-9716-42ce-b1d1-63e3812eb4b8/atg-logo-campaign-site-logo.png"  group-title="TURF CARRERAS DE CABALLOS", 3 ATG Live (🇦🇺)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png"  group-title="TURF CARRERAS DE CABALLOS", 4 RACING CH
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png"  group-title="TURF CARRERAS DE CABALLOS", 4 RACING CH (🇦🇺)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Equidia.png"  group-title="TURF CARRERAS DE CABALLOS",5 Equidia Pro
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Equidia.png"  group-title="TURF CARRERAS DE CABALLOS",5 Equidia Pro (🇦🇺)
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.stoixima.com.gr/wp-content/uploads/2019/10/stoixima-logo-330px-v2-inv.png"  group-title="TURF CARRERAS DE CABALLOS",6 Estoixima
+#EXTINF:-1 tvg-logo="https://www.stoixima.com.gr/wp-content/uploads/2019/10/stoixima-logo-330px-v2-inv.png"  group-title="TURF CARRERAS DE CABALLOS",6 Estoixima (🇺🇸)
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie_1000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",7 Dubai Racing 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",7 Dubai Racing (🇸🇦)
 https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",8 Dubai Racing 2
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",8 Dubai Racing 2 (🇸🇦)
 https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 9 SAT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 9 SAT 1 (🇺🇸)
 https://5.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",10 SAT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",10 SAT 2 (🇺🇸)
 https://5.trstream01.xyz/canal3/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",11 SAT 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",11 SAT 3 (🇺🇸)
 https://2.trstream01.xyz/canal4/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",12 SAT 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",12 SAT 4 (🇺🇸)
 https://3.trstream01.xyz/canal2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",13 SAT 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",13 SAT 5 (🇺🇸)
 https://2.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",14 SAT 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",14 SAT 6 (🇺🇸)
 https://3.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 15 SAT 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 15 SAT 7 (🇺🇸)
 https://1.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 16 SAT 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 16 SAT 8 (🇺🇸)
 https://4.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",17 Jockey C BR 1
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",17 Jockey C BR 1 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu1/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",18 Jockey C BR 2
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",18 Jockey C BR 2 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu2/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",19 Jockey C BR 3
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",19 Jockey C BR 3 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu3/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",20 Jockey C BR 4
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",20 Jockey C BR 4 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu4/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",21 Jockey C BR 5
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",21 Jockey C BR 5 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu5/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",22 Jockey C BR 6
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",22 Jockey C BR 6 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu6/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",23 Jockey C BR 7
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",23 Jockey C BR 7 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu7/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",24 Jockey C BR 8
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",24 Jockey C BR 8 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 
 
@@ -2642,21 +2642,21 @@ https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="ESPAÑA", 1 ANTENA 3 internacional
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="ESPAÑA", 1 ANTENA 3 INT (🇪🇸) fw
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_antena3_antes.jpg" group-title="ESPAÑA", 2 Antena 3
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_antena3_antes.jpg" group-title="ESPAÑA", 2 ANTENA TRES (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a9e74b80c7cefa177926fc90eb05988:54e2cb64384e73b37b19d8c50e9479a4
 https://ott.zapitv.com/live/eds_c2/test/dash_live_enc/test.mpd
 
  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgYiC29RyJ5dIBpcTD1T571vIqMeBYZz9XV17WKezl1esFT6HqTlQnHfkBb56Eb30_4I&usqp=CAU" group-title="ESPAÑA", 3 SURF CHANNEL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgYiC29RyJ5dIBpcTD1T571vIqMeBYZz9XV17WKezl1esFT6HqTlQnHfkBb56Eb30_4I&usqp=CAU" group-title="ESPAÑA", 3 SURF CHANNEL (🇪🇸) mpd
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/manifest.mpd
  
-#EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",4 La Sexta HD
+#EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",4 LA SEXTA HD (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=239e5526ecb62d7b41c97641ea486549:93bfa21ee2211c271b7f0e1944a87818
 https://ott.zapitv.com/live/eds_c2/la_sexta/dash_live_enc/la_sexta.mpd
@@ -2664,27 +2664,27 @@ https://ott.zapitv.com/live/eds_c2/la_sexta/dash_live_enc/la_sexta.mpd
 
 
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="ESPAÑA",5 CAZA & PESCA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="ESPAÑA",5 CAZA & PESCA (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
 https://cache4.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/500px-DMax_Espa%C3%B1a.svg.png" group-title="ESPAÑA", 6 DMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/500px-DMax_Espa%C3%B1a.svg.png" group-title="ESPAÑA", 6 DMAX (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73e55164b719d1210351f86093bc3ec3:792ffb4e6ebbe2aae394061f01948e40
 https://ott.zapitv.com/live/eds_c2/dmax/dash_live_enc/dmax.mpd
 
-#EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="ESPAÑA",7 Cuatro
+#EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="ESPAÑA",7 CUATRO (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
 https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
 
-#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" group-title="ESPAÑA",8 La 1 España
+#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" group-title="ESPAÑA",8 LA UNO (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
  
-#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/250px-Logo_TVE-2.svg.png" group-title="ESPAÑA",9 La 2 España
+#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/250px-Logo_TVE-2.svg.png" group-title="ESPAÑA",9 LA DOS (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
 https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
@@ -2704,7 +2704,7 @@ EL CANAL DE LAS ESTRELLAS
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/120px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="MEXICO", 1 LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/120px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="MEXICO", 1 LAS ESTRELLAS (🇲🇽) fw
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd
 
 
@@ -2717,7 +2717,7 @@ PASIONES
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="MEXICO",2 PASIONES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="MEXICO",2 PASIONES (🇲🇽) fw
 https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
 
 
@@ -2729,7 +2729,7 @@ NOVELISIMA
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/160/160/0/0/68355397076898.png" group-title="MEXICO",3 NOVELISIMA
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/160/160/0/0/68355397076898.png" group-title="MEXICO",3 NOVELISIMA (🇲🇽) ss
 https://csc-ptn-edge01.sensa.com.ar/bpk-tv/Novelis/default/index.mpd
 
 
@@ -2742,7 +2742,7 @@ TELENOVELAS
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png" group-title="MEXICO",4 TELENOVELAS
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png" group-title="MEXICO",4 TELENOVELAS (🇲🇽) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd
 
 TELEMUNDO
@@ -2753,7 +2753,7 @@ TELEMUNDO
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093074301.png" group-title="MEXICO",5 TELEMUNDO
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093074301.png" group-title="MEXICO",5 TELEMUNDO (🇲🇽) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
 
 
@@ -2761,13 +2761,13 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.m
 
 AZTECA INTERNACIONAL
 
-#EXTINF:-1 tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" group-title="MEXICO", 6 AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" group-title="MEXICO", 6 AZTECA INTERNACIONAL (🇲🇽)
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
 TELEMUNDO
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="MEXICO", 7 TELEMUNDO CA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="MEXICO", 7 TELEMUNDO CA (🇲🇽)
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
@@ -2780,96 +2780,96 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 ------------------------------ RADIOS -------------------------------
 ---------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE", PUNTO DE ENCUENTRO PORTEÑA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE", PUNTO DE ENCUENTRO PORTEÑA (🇦🇷)
 https://s2.suenalive.com:7329/stream
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",LA 100
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",LA 100 (🇦🇷)
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO MITRE
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO MITRE (🇦🇷)
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56.mp3
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",ASPEN 102.3
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",ASPEN 102.3 (🇦🇷)
 https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",LA RED
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",LA RED(🇦🇷) 
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RIVADAVIA
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RIVADAVIA (🇦🇷)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",BLUE FM 100.7
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",BLUE FM 100.7(🇦🇷) 
 https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO DEL SUR
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO DEL SUR(🇦🇷) 
 https://cnnsanjuan.com:9999/icecast/radiodelsuraudio/icecast.audio
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",LOS 40 PRINCIPALES
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",LOS 40 PRINCIPALES (🇦🇷)
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC.aac
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO DISNEY
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO DISNEY (🇦🇷)
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM ROCK & POP
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM ROCK & POP (🇦🇷) 
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",POP RADIO 101.5
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",POP RADIO  101.5 (🇦🇷)
 https://popradio.stweb.tv/popradio/live/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO MIA
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO MIA (🇦🇷)
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC.aac
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",CADENA TRES
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",CADENA TRES (🇦🇷)
 https://liveradio.mediainbox.net/radio3.mp3
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",URBANA PLAY
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",URBANA PLAY(🇦🇷) 
 https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO 10
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO 10 (🇦🇷)
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO NACIONAL
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO NACIONAL (🇦🇷)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",VALE 97.5
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",VALE 97.5 (🇦🇷)
 https://vale.stweb.tv/vale/live/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 750
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 750 (🇦🇷)
 https://mdstrm.com/audio/6237761f64b72676f05cf6ab/live.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO POPULAR
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO POPULAR (🇦🇷)
 https://liveradio.mediainbox.net/popular.mp3
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO CON VOS
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO CON VOS(🇦🇷) 
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 530
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 530 (🇦🇷)
 https://ipanel.instream.audio:7000/stream
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",EL DESTAPE RADIO
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",EL DESTAPE (🇦🇷) RADIO
 https://ipanel.instream.audio/8004/stream
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM CORDOBA
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM CORDOBA (🇦🇷)
 https://liveradio.mediainbox.net/fmcordoba.mp3
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",METRO 95.1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",METRO 95.1 (🇦🇷)
 https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO CIELO
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO CIELO (🇦🇷)
 https://streamall.alsolnet.com/radiocielo
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO BELGRANO SUARDI
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO BELGRANO SUARDI (🇦🇷)
 https://pad20.com:8310/vivo
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM 95.5 MORTEROS
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM 95.5 MORTEROS (🇦🇷)
 https://edge-st1-audio.masterhost.com.ar/listen/radio_republica_955/radio.mp3
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM 102.9 BRINKMAN
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM 102.9 BRINKMAN (🇦🇷)
 https://servidor2.hostradios.com/proxy/sc_larad?mp=/stream
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 1050 SAN FRANCISCO
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 1050 SAN FRANCISCO (🇦🇷)
 https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 
 
