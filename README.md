@@ -1,7 +1,12 @@
 #EXTM3U
 
-
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM=
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 2  (🇦🇷) ss
+https://edge5-hr.cvattv.com.ar/live/c2live/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd
 
 
 -----------------------super deportes----------------
