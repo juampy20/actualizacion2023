@@ -2254,14 +2254,8 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/FIFA-logo-png-large-800x263.png" group-title="SPORTS DEPORTES VARIOS",13 FIFA 2 (🏴󠁧󠁢󠁥󠁮󠁧󠁿)
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-id="TNTSports3.cl" tvg-name="TNTSports3.cl" tvg-logo="https://i.imgur.com/XgjZPy3.png" group-title="DEPORTES",TNT Sports 1 (🇨🇱) 
-http://live1.cl.cdn.lla.vtrplay.com/tntsports1hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-
-#EXTINF:-1 tvg-chno="11" tvg-id="TNTSports3.cl" tvg-name="TNTSports3.cl" tvg-logo="https://i.imgur.com/XgjZPy3.png" group-title="DEPORTES",TNT Sports 2 (🇨🇱)
-http://live1.cl.cdn.lla.vtrplay.com/tntsports2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="11" tvg-id="TNTSports3.cl" tvg-name="TNTSports3.cl" tvg-logo="https://i.imgur.com/XgjZPy3.png" group-title="DEPORTES",TNT Sports 3 (🇨🇱)
+#EXTINF:-1 tvg-chno="11" tvg-id="TNTSports3.cl" tvg-name="TNTSports3.cl" tvg-logo="https://i.imgur.com/XgjZPy3.png" group-title="SPORTS DEPORTES VARIOS",TNT Sports 3 (🇨🇱)
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 
