@@ -6,7 +6,7 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 2  (🇦🇷) ss
-https://edge5-hr.cvattv.com.ar/live/c2live/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd
+https://chromecast.cvattv.com.ar/live/c2live/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 
 -----------------------super deportes----------------
