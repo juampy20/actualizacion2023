@@ -1413,15 +1413,6 @@ https://csc-ptn-edge01.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd
 
 TV CORTOS
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6df41a825a3e5fb092e980e4873bcf07:fda83457d54092f972f8e1a7e608f102
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TVCortos.png" group-title="DOCUMENTALES Y CULTURA", 13 TV CORTOS (🇦🇷) dtv
-https://dtvott-abc.akamaized.net/dash_live_1238/manifest.mpd
 
 
 
