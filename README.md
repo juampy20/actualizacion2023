@@ -2247,23 +2247,24 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(C
 
 TRACE SPORTS 
 
-#EXTINF:-1 group-title="SPORTS DEPORTES VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" ,11 TRACE SPORTS (🇺🇸) 
+#EXTINF:-1 group-title="SPORTS DEPORTES VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" ,11 TRACE SPORTS (🇺🇸) m3u
 https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
 
 
  
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/FIFA-logo-png-large-800x263.png" group-title="SPORTS DEPORTES VARIOS",12 FIFA (🏴󠁧󠁢󠁥󠁮󠁧󠁿)
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/FIFA-logo-png-large-800x263.png" group-title="SPORTS DEPORTES VARIOS",12 FIFA (🏴󠁧󠁢󠁥󠁮󠁧󠁿) m3u
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/FIFA-logo-png-large-800x263.png" group-title="SPORTS DEPORTES VARIOS",13 FIFA 2 (🏴󠁧󠁢󠁥󠁮󠁧󠁿)
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/FIFA-logo-png-large-800x263.png" group-title="SPORTS DEPORTES VARIOS",13 FIFA 2 (🏴󠁧󠁢󠁥󠁮󠁧󠁿) m3u
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 
 
-#EXTINF:-1 tvg-chno="11" tvg-id="TNTSports3.cl" tvg-name="TNTSports3.cl" tvg-logo="https://i.imgur.com/XgjZPy3.png" group-title="SPORTS DEPORTES VARIOS",TNT Sports 3 (🇨🇱)
+#EXTINF:-1 tvg-chno="11" tvg-id="TNTSports3.cl" tvg-name="TNTSports3.cl" tvg-logo="https://i.imgur.com/XgjZPy3.png" group-title="SPORTS DEPORTES VARIOS",TNT Sports 3 (🇨🇱) m3u
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 
-
+#EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="SPORTS DEPORTES VARIOS", UNIVISION (🇲🇽) m3u
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
 --------------------------------------- DEPORTES DAZN --------------------------------------------
 --------------------------------------------------------------------------------------------------
