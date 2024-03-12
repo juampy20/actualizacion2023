@@ -1524,6 +1524,7 @@ https://tastemade-es16tm-samsung.amagi.tv/playlist480p.m3u8
 
 
 #EXTINF:-1 group-title="COCINA Y MODA" , tvg-logo="https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052",10 CANAL COCINA (🇲🇽)
+#EXTVLCOPT:network-caching=2500
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
 https://cache4.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
