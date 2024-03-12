@@ -1241,7 +1241,10 @@ AXN
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/axn.webp" group-title="CINE", 21 AXN (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
-
+DE PELICULA
+ 
+#EXTINF:-1 group-title="CINE" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", DE PELICULA (🇦🇷) m3u 
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 
 
 
