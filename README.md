@@ -9,6 +9,14 @@
 https://chromecast.cvattv.com.ar/live/c2live/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/keyeventos.php
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test", 1  (🇦🇷) ss
+https://dtv-latam-abc.akamaized.net/dash/live/2006957/dtv/dtvlatam_dtv_sports_live_events_channel_occ1/master.mpd
+
 -----------------------super deportes----------------
 --------------------------------------------------------
 
