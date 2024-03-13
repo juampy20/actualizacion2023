@@ -19,6 +19,13 @@ https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=BVns5VS
 #EXTVLCOPT:http-referrer=https://abolishstand.net/
 https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/dm4f0c0bxcxxsau.m3u8?s=Wx2t4r9ATFHS8go6WohISQ&e=1710372061
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://abolishstand.net/
+https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/4h80gffrr5803z.m3u8?s=rcbpHPSWdaLv3HTuEhzyuQ&e=1710372093
+
+
 -----------------------super deportes----------------
 --------------------------------------------------------
 
