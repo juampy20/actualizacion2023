@@ -17,7 +17,7 @@ https://live-ftc-nasouth2.media.starott.com/clt2/va01/starplus/event/2024/03/13/
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PROGRAM-DATE-TIME:2024-03-13T13:49:56.486Z
 #EXT-X-MAP:URI="map.mp4a"
-#EXTINF:-1 tvg-logo="-" group-title="test", 1 
+#EXTINF:-1 tvg-logo="-" group-title="test", 2
 https://live-ftc-nasouth2.media.starott.com/clt2/va01/starplus/event/2024/03/13/AC_Milan_vs_Real_Madrid_20240313_1710336054018/ctr-allcomplete.m3u8
 
 
