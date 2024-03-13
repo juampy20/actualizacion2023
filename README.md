@@ -16,6 +16,11 @@ http://totalplay.site:80/hzuArMCpny/aTxg5c4TuV/526041.m3u8
 #EXTINF:-1 group-title="STAR +",19:00 | CONCACAF Champions Cup | Inter Miami vs. Nashville SC | HD |
 http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/526041.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="STAR +", INTER miami en vivo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://lovesomecommunity.com/
+https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=fOoO6xh3UTbwdljCtv_Tdw&expires=1710380318
 
 
 test--------------
@@ -433,7 +438,7 @@ https://hls.streambtw.com/live/stream_13.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://lovesomecommunity.com/
-https://n4.totototorina.com:999/hls/mlspasshd1.m3u8?md5=uH6s7nMPavmg1nEsrP0YiQ&expires=1710376876
+https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=fOoO6xh3UTbwdljCtv_Tdw&expires=1710380318
 
 
 
