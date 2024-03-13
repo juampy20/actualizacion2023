@@ -1,7 +1,16 @@
 #EXTM3U
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54e233408c80009c00f90439fc09c86c:c8804d10393f44e7956b477c4f6dbe63
 #EXTINF:-1 tvg-logo="-" group-title="test", 1 
-https://alkadea.com/players/star_jwp.html?get=https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/03/13/AC_Milan_vs_Real_Madrid_20240313_1710336054018/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/FC61319E49798E44ADEB18F2E148837276BC960700EDE3F3C7E4946C08257B8D/scale?width=1920&aspectRatio=1.78&format=jpeg&key=c8804d10393f44e7956b477c4f6dbe63&key2=54e233408c80009c00f90439fc09c86c&title=Milan%20vs%20Real%20Madri
+https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/03/13/AC_Milan_vs_Real_Madrid_20240313_1710336054018/ctr-all-complete.m3u8
+
 
 
 -----------------------super deportes----------------
