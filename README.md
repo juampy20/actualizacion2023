@@ -3,13 +3,12 @@
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54e233408c80009c00f90439fc09c86c:c8804d10393f44e7956b477c4f6dbe63
 #EXTINF:-1 tvg-logo="-" group-title="test", 1 
-https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/03/13/AC_Milan_vs_Real_Madrid_20240313_1710336054018/audio-1-128K/128_complete.m3u8
+https://live-ftc-nasouth2.media.starott.com/clt2/va01/starplus/event/2024/03/13/AC_Milan_vs_Real_Madrid_20240313_1710336054018/ctr-allcomplete.m3u8
+
 
 
 
