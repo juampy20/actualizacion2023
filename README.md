@@ -433,7 +433,7 @@ https://hls.streambtw.com/live/stream_13.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://lovesomecommunity.com/
-https://jan-5.totototorina.com:999/hls/mlspasshd1.m3u8?md5=gVXxke593DdmXGiLMFVstw&expires=1709872532
+https://n4.totototorina.com:999/hls/mlspasshd1.m3u8?md5=uH6s7nMPavmg1nEsrP0YiQ&expires=1710376876
 
 
 
