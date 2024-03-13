@@ -4,7 +4,7 @@
 #EXTINF:-1 group-title="test" tvg-logo="-" ,1 tets 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.elixx.xyz/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/s426q9grik.m3u8?s=qA4fIMFwm_P3OQbb6p-qYw&e=1710368056
+https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/s426q9grik.m3u8?s=83JEskF8GPR6Bd-oKuj3ZQ&e=1710368200|Origin=https://www.elixx.xyz/
 
 
 
