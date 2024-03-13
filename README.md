@@ -9,8 +9,16 @@
 #EXTINF:-1 tvg-logo="-" group-title="test", 1 
 https://live-ftc-nasouth2.media.starott.com/clt2/va01/starplus/event/2024/03/13/AC_Milan_vs_Real_Madrid_20240313_1710336054018/ctr-allcomplete.m3u8|Origin=https://alkadea.com
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXT-X-VERSION:6
+#EXT-X-TARGETDURATION:6
+#EXT-X-PLAYLIST-TYPE:EVENT
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PROGRAM-DATE-TIME:2024-03-13T13:49:56.486Z
+#EXT-X-MAP:URI="map.mp4a"
+#EXTINF:-1 tvg-logo="-" group-title="test", 1 
+https://live-ftc-nasouth2.media.starott.com/clt2/va01/starplus/event/2024/03/13/AC_Milan_vs_Real_Madrid_20240313_1710336054018/ctr-allcomplete.m3u8
 
 
 -----------------------super deportes----------------
