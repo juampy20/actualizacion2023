@@ -23,6 +23,10 @@ http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/526041.m3u8
 https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=fOoO6xh3UTbwdljCtv_Tdw&expires=1710380318
 
 
+#EXTINF:-1 group-title="STAR +", RIVER
+https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
+
+
 test--------------
 ------------------
 
