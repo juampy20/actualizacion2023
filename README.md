@@ -13,7 +13,7 @@ http://totalplay.site:80/silvana1941/aTxg5c4TuV/526045.m3u8
 #EXTINF:-1 group-title="STAR +" ,19:00 | CONCACAF Champions Cup | Inter Miami vs. Nashville SC | HD |
 http://totalplay.site:80/hzuArMCpny/aTxg5c4TuV/526041.m3u8
 
-#EXTINF:-1group-title="STAR +",19:00 | CONCACAF Champions Cup | Inter Miami vs. Nashville SC | HD |
+#EXTINF:-1 group-title="STAR +",19:00 | CONCACAF Champions Cup | Inter Miami vs. Nashville SC | HD |
 http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/526041.m3u8
 
 
