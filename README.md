@@ -7,7 +7,11 @@
 #EXTVLCOPT:http-referrer=https://www.elixx.xyz/
 https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/s426q9grik.m3u8?s=qA4fIMFwm_P3OQbb6p-qYw&e=1710368056|Origin=https://www.elixx.xyz/
 
-
+#EXTINF:-1 group-title="test" tvg-logo="-" ,2 tets 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://www.elixx.xyz/
+https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/dw4k0efjo1w.m3u8?s=yoFQTTdfWOgtx2RWF1prBw&e=1710368411|Origin=https://www.elixx.xyz/
 
 -----------------------super deportes----------------
 --------------------------------------------------------
