@@ -1413,8 +1413,9 @@ https://edge-live17-hr.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun
 https://csc-ptn-edge01.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd
 
 
-TV CORTOS
 
+#EXTINF: -1 tvg-chno="840" tvg-logo="https://www.pngitem.com/pimgs/m/504-5041014_transparent-background-wild-earth-calligraphy-hd-png-download.png" group-title="DOCUMENTALES Y CULTURA", WILD EARTH (🇨🇦)
+https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
 
 
 
