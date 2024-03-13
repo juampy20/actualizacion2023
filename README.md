@@ -5,10 +5,10 @@ star plus--------
 --------------------
 
 
-#EXTINF:-1,19:10 | Supercopa Argentina | River Plate vs. Estudiantes | HD |
+#EXTINF:-1, group-title="STAR + ",19:10 | Supercopa Argentina | River Plate vs. Estudiantes | HD |
 http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/526045.m3u8
 
-#EXTINF:-1,19:00 | CONCACAF Champions Cup | Inter Miami vs. Nashville SC | HD |
+#EXTINF:-1,group-title="STAR + ",  19:00 | CONCACAF Champions Cup | Inter Miami vs. Nashville SC | HD |
 http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/526041.m3u8
 
 
