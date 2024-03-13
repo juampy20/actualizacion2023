@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54e233408c80009c00f90439fc09c86c:c8804d10393f44e7956b477c4f6dbe63
 #EXTINF:-1 tvg-logo="-" group-title="test", 1 
-https://live-ftc-nasouth2.media.starott.com/clt2/va01/starplus/event/2024/03/13/AC_Milan_vs_Real_Madrid_20240313_1710336054018/ctr-allcomplete.m3u8
+https://live-ftc-nasouth2.media.starott.com/clt2/va01/starplus/event/2024/03/13/AC_Milan_vs_Real_Madrid_20240313_1710336054018/ctr-allcomplete.m3u8|Origin=https://alkadea.com
 
 
 
