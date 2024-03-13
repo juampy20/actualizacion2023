@@ -1,6 +1,16 @@
 #EXTM3U
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ade0533ba667bb7e9847d8f215f03076:00f9f3c0783536b832a8f0326fbdc02e
+#EXTINF:-1 tvg-logo="-" group-title="test",1 
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
+
 
 -----------------------super deportes----------------
 --------------------------------------------------------
