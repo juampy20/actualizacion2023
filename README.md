@@ -7,6 +7,17 @@
 https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/dw4k0efjo1w.m3u8?s=x8YgTiIQ3DWkKtoNP9shcw&e=1710371895
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://abolishstand.net/
+https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=BVns5VSmpqFqgYw62k7JZA&e=1710372017
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://abolishstand.net/
+https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/dm4f0c0bxcxxsau.m3u8?s=Wx2t4r9ATFHS8go6WohISQ&e=1710372061
 
 -----------------------super deportes----------------
 --------------------------------------------------------
