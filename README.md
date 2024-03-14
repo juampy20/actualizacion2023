@@ -1,10 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="YOUTUBE EN VIVO" , PALERMO
+#EXTINF:-1 group-title="YOUTUBE EN VIVO" ,  HIPODROMO DE PALERMO
 https://www.youtube.com/@palermoturf/live
 
-
+#EXTINF:-1 group-title="YOUTUBE EN VIVO" , SAN GUILLERMO (STA FE)
+https://www.youtube.com/@CooperativaTelefonicaSanGuille/live
 
 
 
