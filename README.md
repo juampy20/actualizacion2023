@@ -4,11 +4,7 @@
 star plus--------
 --------------------
 
-#EXTINF:-1 group-title="STAR +",19:10 | Supercopa Argentina | River Plate vs. Estudiantes | HD |
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/526045.m3u8
 
-#EXTINF:-1 group-title="STAR +" ,19:10 | Supercopa Argentina | River Plate vs. Estudiantes | HD |
-http://totalplay.site:80/silvana1941/aTxg5c4TuV/526045.m3u8
 
 #EXTINF:-1 group-title="STAR +" ,19:00 | CONCACAF Champions Cup | Inter Miami vs. Nashville SC | HD |
 http://totalplay.site:80/hzuArMCpny/aTxg5c4TuV/526041.m3u8
@@ -24,7 +20,8 @@ https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=fOoO6xh3UTbwdljCtv_Tdw
 
 
 #EXTINF:-1 group-title="STAR +", RIVER
-https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CskFz5nX107FJUmGCVujg5nWmEmM-DZ_lyl30T2UmiMheZuuv28u9RLlwH_ZvP9eLipo04piZza4S5vPJhX8mAH5boMZ3k8CfIsYyNQUVAK2YlJZhU8f7fL1OP_ZGMyVPa2_FcKVgrGJrQXUQl0WhPcBjL75M7BS-hGvv38KkZ4t7ZRXHkRKHk7YtGW2I__EBrr4mfQTzRCwUzsPUb9HSpakbKrpnRhubxATntdB3EMzJFN36kJiCxBM_XA683Fjvu3fAbZ1ZUj2cn4TfInuxdAJtiMmKfHYweEvnhZln5snytdQ9T_os0iYX-xi3zrVH-hgtO6bjMlX9Mjnt2cvZi_1Fh3pga8hq3pa2I8IlFPLXEU38JU23x7HHQ0rrzrWS8BZzxN3dz8H1SnVEhIP-pmKSOc7d4bHivewOY0vpDx3UruGVaRUvqY0RxeB-d44kkybhgRx2-LIVsbsd_HWhpBQKFhE064ka1BCfFpR_eztu1_GSnruAhIebbht-9JeGjlMss3R08ZkxBWNrdrShRAaOhlIFCkeAw46Aw-XjokYQKWFngzqqzY_Oj4ZSyghNKWyKuSWzJemeD0SchPQe4HERKpSIpTBfQFehtNDhEwFlWNMdOH8VoUQgURxuh2CC6NADWIL2MuqXwIuIvlwWjlUW6FHpHSJXmOY-rzwxtD13rAj9HJ4MEcZ-nBauxmR1jFe0e4iqZoWPnE8uIF2Y63E73x85wxnPlshu88Q0z9rMJzRtUSNucIEGkCDzm1Mszgbd-epzvPlCAn423pNPs8l6fw9mY2dGGepaTH5rmfJlLzyMho13pBQlGGYPknh8uW0oQH84eJUQ1hJgpfGjoviHQYmjO55rtGceo-NLLek8WZt1HGEkhVCyrwupIIjhZxQKPrnA0VjL4bBPEqkW7B3Ba9fVakLDGfR0PlQTxrtShy5rPa_3ghkJbUaDLaDgmhonPaXg1q5TSABKgl1cy1lYXN0LTEwrgc.m3u8
+
 
 
 test--------------
