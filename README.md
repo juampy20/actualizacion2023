@@ -5,7 +5,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.basquetpass.tv/
-https://node-153.basquetpass.tv/9559/hls/live.m3u8
+https://storage.gra.cloud.ovh.net/v1/AUTH_8549ac1840b448048f7e9d07080dc0e5/gr1/9559/hls/stream.m3u8
+
 
 
 
