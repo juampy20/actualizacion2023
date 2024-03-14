@@ -7,7 +7,8 @@ https://www.youtube.com/@palermoturf/live
 #EXTINF:-1 group-title="YOUTUBE EN VIVO" , SAN GUILLERMO (STA FE)
 https://www.youtube.com/@CooperativaTelefonicaSanGuille/live
 
-
+#EXTINF:-1 group-title="YOUTUBE EN VIVO" , EL TRECE 
+https://www.youtube.com/@eltrece/live
 
 ---poker-----
 -------------
