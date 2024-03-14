@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+---poker-----
+-------------
 
 #EXTINF:-1 group-title="POKER TOUR" , POKER TOUR esp
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -26,84 +27,6 @@ https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=fOoO6xh3UTbwdljCtv_Tdw
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CskFz5nX107FJUmGCVujg5nWmEmM-DZ_lyl30T2UmiMheZuuv28u9RLlwH_ZvP9eLipo04piZza4S5vPJhX8mAH5boMZ3k8CfIsYyNQUVAK2YlJZhU8f7fL1OP_ZGMyVPa2_FcKVgrGJrQXUQl0WhPcBjL75M7BS-hGvv38KkZ4t7ZRXHkRKHk7YtGW2I__EBrr4mfQTzRCwUzsPUb9HSpakbKrpnRhubxATntdB3EMzJFN36kJiCxBM_XA683Fjvu3fAbZ1ZUj2cn4TfInuxdAJtiMmKfHYweEvnhZln5snytdQ9T_os0iYX-xi3zrVH-hgtO6bjMlX9Mjnt2cvZi_1Fh3pga8hq3pa2I8IlFPLXEU38JU23x7HHQ0rrzrWS8BZzxN3dz8H1SnVEhIP-pmKSOc7d4bHivewOY0vpDx3UruGVaRUvqY0RxeB-d44kkybhgRx2-LIVsbsd_HWhpBQKFhE064ka1BCfFpR_eztu1_GSnruAhIebbht-9JeGjlMss3R08ZkxBWNrdrShRAaOhlIFCkeAw46Aw-XjokYQKWFngzqqzY_Oj4ZSyghNKWyKuSWzJemeD0SchPQe4HERKpSIpTBfQFehtNDhEwFlWNMdOH8VoUQgURxuh2CC6NADWIL2MuqXwIuIvlwWjlUW6FHpHSJXmOY-rzwxtD13rAj9HJ4MEcZ-nBauxmR1jFe0e4iqZoWPnE8uIF2Y63E73x85wxnPlshu88Q0z9rMJzRtUSNucIEGkCDzm1Mszgbd-epzvPlCAn423pNPs8l6fw9mY2dGGepaTH5rmfJlLzyMho13pBQlGGYPknh8uW0oQH84eJUQ1hJgpfGjoviHQYmjO55rtGceo-NLLek8WZt1HGEkhVCyrwupIIjhZxQKPrnA0VjL4bBPEqkW7B3Ba9fVakLDGfR0PlQTxrtShy5rPa_3ghkJbUaDLaDgmhonPaXg1q5TSABKgl1cy1lYXN0LTEwrgc.m3u8
 
 
-
-test--------------
-------------------
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", test
-https://techflower.bio/star_jwp.html?get=https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/03/13/Bournemouth_vs_Luton_Town_20240313_1710352548029/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/5805B2A110A2F14D5B8590174B63BF91EB5E931408A701A44AA3215DFE56A9CA/scale?width=1920&aspectRatio=1.78&format=jpeg&key=6997f086ecd94170ad0af6c0bab15cc1&key2=18b6fe62f962311fa8763c76ebc14702
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/dw4k0efjo1w.m3u8?s=x8YgTiIQ3DWkKtoNP9shcw&e=1710371895
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=BVns5VSmpqFqgYw62k7JZA&e=1710372017
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/dm4f0c0bxcxxsau.m3u8?s=Wx2t4r9ATFHS8go6WohISQ&e=1710372061
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/4h80gffrr5803z.m3u8?s=rcbpHPSWdaLv3HTuEhzyuQ&e=1710372093
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/hqwwgwycxiiy.m3u8?s=BJP90zUtK7H6C0xUAxpflg&e=1710372128
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/vndxx07b0.m3u8?s=R910HBtjQ_Hb6t__8FGm0g&e=1710372154
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/iubkxytogk0uw.m3u8?s=uzJGlo5-kylziBfu-7W67w&e=1710372275
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/qh3uoith1cywjf.m3u8?s=SqaHZ7OiJdGIyy0m6ML4fg&e=1710372326
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/oguu22xaxhgpc.m3u8?s=D5NfSOQinYtyFLS4RIpx3w&e=1710372357
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/61i6q3jvgok.m3u8?s=A61hqf9_hSzqw79wpYXJdA&e=1710372509
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="test!", EVENTOS 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://abolishstand.net/
-https://bemakcyxfsgzrvpj.cdnessential.net:8443/hls/iubkxytogk0uw.m3u8?s=7g0PTunu5ESsqrdjZ__wMw&e=1710372600
 
 -----------------------super deportes----------------
 --------------------------------------------------------
