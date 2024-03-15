@@ -2477,7 +2477,8 @@ http://204.199.3.2/.m3u8
 BRINKMAN
 
 #EXTINF:-1 tvg-logo="https://coonet.com.ar/public/assets/images/coonet-logo-icono.png" group-title="REGIONAL",5 BRINKMAN (🇦🇷)
-https://csc-ptn-edge01.sensa.com.ar/output/ARR3/BRKD/output.mpd
+https://csc-ptn-edge01.sensa.com.ar/output/SMT4/BRKD/output.mpd
+
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/160/160/0/0/86198033078075.png" group-title="REGIONAL", 6 SUARDI (🇦🇷)
 https://csc-ptn-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
