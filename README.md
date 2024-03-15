@@ -1,22 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="YOUTUBE EN VIVO" ,  HIPODROMO DE PALERMO
-https://www.youtube.com/@palermoturf/live
 
-#EXTINF:-1 group-title="YOUTUBE EN VIVO" , SAN GUILLERMO (STA FE)
-https://www.youtube.com/@CooperativaTelefonicaSanGuille/live
-
-#EXTINF:-1 group-title="YOUTUBE EN VIVO" , EL TRECE 
-https://www.youtube.com/@eltrece/live
 
 ---poker-----
 -------------
 
-#EXTINF:-1 group-title="POKER TOUR" , POKER TOUR esp
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="POKER TOUR" , POKER TOUR esp
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="POKER TOUR" , POKER TOUR ing
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="POKER TOUR" , POKER TOUR ing
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
    
