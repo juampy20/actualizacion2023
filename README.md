@@ -2909,58 +2909,58 @@ sd--------------
 #EXTINF:-1  group-title="SD", COMEDY CENTRAL
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
  
-#EXTINF:-1  group-title="SD",  TOONCAST
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="SD",  TOONCAST
 http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", SPACE
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/space.webp" group-title="SD", SPACE
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", PARAMOUNT
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", TYC SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="SD", TYC SPORTS
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", DISCOVERY
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/discovery.webp" group-title="SD", DISCOVERY
 http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", ANTENA 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="SD", ANTENA 3
 http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", FOX SPORTS mx
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SD", FOX SPORTS mx
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", NICK JR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" group-title="SD", NICK JR
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", HOLA TV
+#EXTINF:-1 tvg-logo="https://image.pitchbook.com/5dSZGkokRkvpzWs5cAr2597YVuX1594151049473_200x200" group-title="SD", HOLA TV
 http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", PASIONES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="SD", PASIONES
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", CINE CANAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="SD", CINECANAL
 http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", MULTIPREMIER
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="SD", STUDIO UNIVERSAL
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="SD", CARTOON NETWORK
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", WB TV
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", FOX SPORTS 2 mx
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SD", FOX SPORTS 2 mx
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", ESPN mx
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SD", ESPN mx
 http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", ESPN 2 mx
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SD", ESPN 2 mx
 http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", SONY CHANEL
@@ -3050,7 +3050,7 @@ http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
 #EXTINF:-1  group-title="SD", NICK
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", ESPN 3 mx
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SD", ESPN 3 mx
 http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", FOX
