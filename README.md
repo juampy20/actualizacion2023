@@ -2969,22 +2969,22 @@ http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1  group-title="SD", NICK MUSIC
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", TELEMUNDO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="SD", TELEMUNDO
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", TRU TV
 http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", AXN
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/axn.webp" group-title="SD", AXN
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", CARTOONITO
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="SD", CARTOONITO
 http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/star.webp" group-title="SD", STAR CHANNEL
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", HISTORY
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history.webp" group-title="SD", HISTORY
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", SYFY
@@ -2996,7 +2996,7 @@ http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1  group-title="SD", CNN
 http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", MTV
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtv.webp" group-title="SD", MTV
 http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", UNIVERSAL TV
@@ -3041,7 +3041,7 @@ http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
 #EXTINF:-1  group-title="SD", H&H
 http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", FOX SPORTS 3 mx
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SD", FOX SPORTS 3 mx
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", TURBO
@@ -3092,7 +3092,7 @@ http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
 #EXTINF:-1  group-title="SD", E
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", HISTORY 2
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history.webp" group-title="SD", HISTORY 2
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", A&E
