@@ -2915,7 +2915,7 @@ http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/space.webp" group-title="SD", SPACE
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", PARAMOUNT
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/paramount-logo-D0604AF7D3-seeklogo.com.png" group-title="SD", PARAMOUNT
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="SD", TYC SPORTS
@@ -2942,7 +2942,7 @@ http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="SD", CINECANAL
 http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", MULTIPREMIER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="SD", MULTIPREMIER
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="SD", STUDIO UNIVERSAL
@@ -2951,7 +2951,7 @@ http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="SD", CARTOON NETWORK
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", WB TV
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/warner-tv4266.logowik.com.webp" group-title="SD", WB TV
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SD", FOX SPORTS 2 mx
@@ -2963,10 +2963,10 @@ http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SD", ESPN 2 mx
 http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", SONY CHANEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SD", SONY CHANEL
 http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", NICK MUSIC
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/NickMusicSplat-SocMed-2023.svg/revision/latest/scale-to-width-down/250?cb=20230922085441" group-title="SD", NICK MUSIC
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="SD", TELEMUNDO
