@@ -2972,7 +2972,7 @@ http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="SD", TELEMUNDO
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", TRU TV
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tru-tv7414.jpg" group-title="SD", TRU TV
 http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/axn.webp" group-title="SD", AXN
@@ -2987,10 +2987,10 @@ http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history.webp" group-title="SD", HISTORY
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", SYFY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjydhtnkX4B3WSirkJpTWvRD_gRp2ADdagohqNtnbKw&s" group-title="SD", SYFY
 http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", BABY TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/c/ca/Baby_TV.png/revision/latest/scale-to-width-down/228?cb=20220927013159" group-title="SD", BABY TV
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", CNN
