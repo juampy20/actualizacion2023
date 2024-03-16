@@ -2993,28 +2993,28 @@ http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/c/ca/Baby_TV.png/revision/latest/scale-to-width-down/228?cb=20220927013159" group-title="SD", BABY TV
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", CNN
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" group-title="SD", CNN
 http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtv.webp" group-title="SD", MTV
 http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", UNIVERSAL TV
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universal.webp" group-title="SD", UNIVERSAL TV
 http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", UNIVERSO
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universal.webp" group-title="SD", UNIVERSO
 http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", ENI
 http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="SD", ANIMAL PLANET
 http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", ZOO MOO
 http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", TNT
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tnt.webp" group-title="SD", TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
  
 #EXTINF:-1  group-title="SD", AMC
