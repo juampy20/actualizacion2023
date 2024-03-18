@@ -1014,6 +1014,8 @@ https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://co.radio.net/images/broadcasts/a2/00/21869/1/c300.png" group-title="MUSICA",102 RECUERDOS RETRO (🇦🇷) m3u
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1062_Canal_VM_Latino.png" group-title="MUSICA",103 VM LATINO (🇦🇷) m3u
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?WebM3UCL
 
 
 ------------------ -------------------CINE -----------------------------------------------
