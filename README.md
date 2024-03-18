@@ -992,15 +992,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
 
 flow
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=981576de24909fe105ae84f5faf21d18:113e8d2808c1d3da48ad37bdc7a27a9b
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/flowmusic.webp" group-title="MUSICA",10 FLOW 99 (🇦🇷) fw
-https://edge-live01-cte.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -1009,10 +1001,15 @@ https://edge-live01-cte.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/flowmusic.webp" group-title="MUSICA",11 FLOW 100 (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/flowmusic.webp" group-title="MUSICA",99 FLOW 1 (🇦🇷) fw
 https://edge-vod04-hr.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="MUSICA",100 RETROPLUS 1 (🇦🇷) m3u
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="MUSICA",100 RETROPLUS 2 (🇦🇷) m3u
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 
 ------------------ -------------------CINE -----------------------------------------------
