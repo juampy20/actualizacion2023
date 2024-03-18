@@ -1017,7 +1017,7 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1062_Canal_VM_Latino.png" group-title="MUSICA",103 VM LATINO (🇨🇱) m3u
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1062_Canal_VM_Latino.png" group-title="MUSICA",104 TOP MUSIC (🇧🇷) m3u
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png" group-title="MUSICA",104 TOP MUSIC (🇧🇷) m3u
 https://isaocorp.cloudecast.com/toptv/index.m3u8?WebM3UCL
 
 
