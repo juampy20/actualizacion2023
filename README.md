@@ -13,6 +13,11 @@ https://webhdrus.onlinehdhls.ru/lb/premium537/index.m3u8|Origin=https://webliveh
 #EXTINF:-1 group-title="FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,320 DAZN FORMULA 1 OPCION 2 (🇪🇸) m3u
 http://tv.nousiptv.com:8080/sam76/981265/1143419
 
+#EXTINF:-1 group-title="FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,320 DAZN FORMULA 1 OPCION 3 (🇪🇸) ts
+http://693980327834165257.of1030ok.xyz:80/play/lamanion382/2939838483/165257.ts
+
+
+
 
 ---poker-----
 -------------
