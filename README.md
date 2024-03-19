@@ -3010,7 +3010,7 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 
 sd--------------
 -------------------
-#EXTINF:-1  group-title="SD",500 COMEDY CENTRAL
+#EXTINF:-1tvg-logo="https://televisionlibre.futbol/logos/optimized/comedy.webp" group-title="SD",500 COMEDY CENTRAL
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="SD",501  TOONCAST
@@ -3121,7 +3121,7 @@ http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tnt.webp" group-title="SD",536 TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
  
-#EXTINF:-1  group-title="SD",537 AMC
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/amc.webp" group-title="SD",537 AMC
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
  
 #EXTINF:-1  group-title="SD",538 CANAL 12 SV
