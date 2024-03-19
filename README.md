@@ -3169,7 +3169,7 @@ http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
 #EXTINF:-1  group-title="SD",552 MODO CINE
 http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
  
-#EXTINF:-1  group-title="SD",553 GOLDEN
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/golden-tv-logo-92B1EAA401-seeklogo.com.png" group-title="SD",553 GOLDEN
 http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
  
 #EXTINF:-1  group-title="SD",554 FILM & ART
@@ -3178,13 +3178,13 @@ http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 #EXTINF:-1  group-title="SD",555 TNT SPORTS CHI
 http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
  
-#EXTINF:-1  group-title="SD",556 ENLACE
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png" group-title="SD",556 ENLACE
 http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
  
-#EXTINF:-1  group-title="SD",557 HINSPAN TV
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/40/63/8f/40638fe8-9174-bc3e-fa9a-1e1371d416a2/source/512x512bb.jpg" group-title="SD",557 HINSPAN TV
 http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
  
-#EXTINF:-1  group-title="SD",558 TELEMUNDO INTER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="SD",558 TELEMUNDO INTER
 http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
  
 #EXTINF:-1  group-title="SD",559 IVC
