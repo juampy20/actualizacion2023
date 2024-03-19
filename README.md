@@ -1067,6 +1067,16 @@ HBO FAMILY
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbofam.webp" group-title="CINE", 112 HBO FAMILY (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbofam.webp" group-title="CINE", 112 HBO FAMILY (🇦🇷) fw
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd
+
 
 
 HBO PLUS
@@ -1082,6 +1092,16 @@ HBO PLUS
 https://csc-ptn-edge01.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hboplus.webp" group-title="CINE", 113 HBO PLUS (🇦🇷) fw
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd
+
 
 HBO XTREME
 
@@ -1095,6 +1115,15 @@ HBO XTREME
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hboxtreme.webp" group-title="CINE", 114 HBO XTREME (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/MAXPrime/live_dash_cld/MAXPrime.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hboxtreme.webp" group-title="CINE", 114 HBO XTREME (🇦🇷) fw
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd
 
 
 HBO SIGNATURE
