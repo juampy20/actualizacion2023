@@ -19,8 +19,13 @@ http://693980327834165257.of1030ok.xyz:80/play/lamanion382/2939838483/165257.ts
 #EXTINF:-1 group-title="FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,703 SKY FORMULA 1 OPCION 4 (🏴󠁧󠁢󠁥󠁮󠁧󠁿) ts
 http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275663&extension=ts&play_token=EFJ3bLhj3c
 
-#EXTINF:-1 group-title="FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,704 INSIDE FORMULA 1 OPCION 4 (🏴󠁧󠁢󠁥󠁮󠁧󠁿) 
+#EXTINF:-1 group-title="FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,704 INSIDE FORMULA 1 OPCION 5 (🏴󠁧󠁢󠁥󠁮󠁧󠁿) 
 http://capivara.top:80/play/-AxnMT-LfOWNircTyayIwZqH0wk32JB16gtDPAvar0H0JJRNwdi78uvsn0VbD5re
+
+#EXTINF:-1 group-title="FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,701 DAZN FORMULA 1 OPCION 6 (🇪🇸) m3u EN ESPAÑOL
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317783&extension=ts&play_token=TYKonw6ivi&sn2=
+
+
 
 
 ---poker-----
