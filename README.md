@@ -3130,7 +3130,7 @@ http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
 #EXTINF:-1  group-title="SD",539 NAT GEO
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
  
-#EXTINF:-1  group-title="SD",540 HBO 2
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo2.webp" group-title="SD",540 HBO 2
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
  
 #EXTINF:-1  group-title="SD",541 KANAL D
@@ -3151,7 +3151,7 @@ http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1  group-title="SD",546 TURBO
 http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
  
-#EXTINF:-1  group-title="SD",547 NICK
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nick.webp" group-title="SD",547 NICK
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SD",548 ESPN 3 mx
@@ -3190,16 +3190,16 @@ http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1  group-title="SD",559 IVC
 http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
  
-#EXTINF:-1  group-title="SD",560 LIFETIME
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/lifetime.webp" group-title="SD",560 LIFETIME
 http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
  
-#EXTINF:-1  group-title="SD",561 E
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/e.webp" group-title="SD",561 E
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history.webp" group-title="SD",562 HISTORY 2
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history2.webp" group-title="SD",562 HISTORY 2
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
  
-#EXTINF:-1  group-title="SD",563 A&E
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/ae.webp" group-title="SD",563 A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 
 
