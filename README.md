@@ -1,7 +1,10 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 group-title="test",611 RIVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://1stream.buzz/
+https://abolishstand.net/embed/lbr3etluqsw
 
 ---poker-----
 -------------
