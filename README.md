@@ -1,6 +1,16 @@
 #EXTM3U
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21da5f1324dc9092ef03357a946395bb:30498b78915ada47208d5db72f0119c9
+#EXTINF:-1 group-title="test" tvg-logo="-" ,directv test
+https://1276-vos-da-mt.dtvott.com/DASH/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cpix.tbxdrm.com/v1/license/dtvgo/widevine?contentId=Live_1276
@@ -8,8 +18,7 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 group-title="test" tvg-logo="-" ,directv test
-https://1276-vos-da-mt.dtvott.com/DASH/manifest.mpd
-
+https://dtvott-abc.akamaized.net/dash_live_1262/manifest.mpd?hdnts=exp%3D1710973095%7Eacl%3D%2F*%7Eid%3De9338915-d950-53e7-a161-a711a342d232%7Ehmac%3De9188f93f35b64e656ca66c7108a8d32b207c005f315c893b09990f789a82cb0&tokenization=true&da=0&country=CL&accountType=OTT&accountId=e9338915-d950-53e7-a161-a711a342d232&deviceType=web&channelId=CH0100000000313&deviceId=31fcf5a5-7814-44a5-a299-d4ef190c8c51
 
 
 formula 1----
