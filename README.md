@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cpix.tbxdrm.com/v1/license/dtvgo/widevine?contentId=Live_1276
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:http-referrer=https://www.directvgo.com/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 group-title="test" tvg-logo="-" ,directv test
