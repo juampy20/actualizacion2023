@@ -8,7 +8,8 @@
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nueve.webp" group-title="test",test 1
-https://dtvott-abc.akamaized.net/dash_live_1262/manifest.mpd
+https://1276-vos-da-mt.dtvott.com/DASH/manifest.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
