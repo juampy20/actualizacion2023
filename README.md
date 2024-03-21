@@ -46,6 +46,15 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55568&extension
 
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55577&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930 liga de campeones
 
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55578&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930 liga de campeones 2
+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55587&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  movistar +
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55586&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  movistar +
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55588&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  movistar +
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55589&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  movistar  +
+
+
+
 
 ---poker-----
 -------------
@@ -1677,10 +1686,8 @@ https://tastemade-es16tm-samsung.amagi.tv/playlist480p.m3u8
 
 
 #EXTINF:-1 group-title="COCINA Y MODA" , tvg-logo="https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052",168 CANAL COCINA (🇲🇽)
-#EXTVLCOPT:network-caching=2500
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
-https://cache4.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55595&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930
+
 
 ----------------------------------------- INFANTILES ------------------------------------------
 -----------------------------------------------------------------------------------------------
