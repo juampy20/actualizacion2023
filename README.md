@@ -68,7 +68,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
    
-star plus--------
+inter miami--------
 --------------------
 
 
@@ -414,16 +414,6 @@ https://hls.streambtw.com/live/stream_13.m3u8
 
 
 
------------------------------messi----------------
-----------------------------------------------------
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="MLS INTER MIAMI",800 INTER 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://lovesomecommunity.com/
-https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=fOoO6xh3UTbwdljCtv_Tdw&expires=1710380318
 
 
 
