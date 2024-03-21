@@ -36,7 +36,15 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55552&extension
 
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55557&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930   dazn 2
 
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55559&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55559&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  la liga tv bar
+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55560&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  daz f1
+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55563&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  f1 play
+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55568&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930 copa del rey
+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55577&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930 liga de campeones
 
 
 ---poker-----
