@@ -33,6 +33,12 @@ http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=31778
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55552&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930
 
 
+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55557&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930   dazn 2
+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55559&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930
+
+
 ---poker-----
 -------------
 
