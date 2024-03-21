@@ -74,15 +74,15 @@ star plus--------
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/210px-MLS_crest_logo_RGB_gradient.svg.png" group-title="STAR +",610 INTER miami en vivo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://lovesomecommunity.com/
-https://po1.ainakwalajeen.com:999/hls/mlspasshd1.m3u8?md5=fOoO6xh3UTbwdljCtv_Tdw&expires=1710380318
+
+#EXTINF:-1 group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",MLS• INTER MIAMI MESSI (HD) »1«
+http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/71130.ts
+#EXTINF:-1 group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »2«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",MLS• INTER MIAMI MESSI (HD) »2«
+http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/71131.ts
+#EXTINF:-1 group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »3«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",MLS• INTER MIAMI MESSI (HD) »3«
+http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/71132.ts
 
 
-#EXTINF:-1 group-title="STAR +",611 RIVER
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CskFz5nX107FJUmGCVujg5nWmEmM-DZ_lyl30T2UmiMheZuuv28u9RLlwH_ZvP9eLipo04piZza4S5vPJhX8mAH5boMZ3k8CfIsYyNQUVAK2YlJZhU8f7fL1OP_ZGMyVPa2_FcKVgrGJrQXUQl0WhPcBjL75M7BS-hGvv38KkZ4t7ZRXHkRKHk7YtGW2I__EBrr4mfQTzRCwUzsPUb9HSpakbKrpnRhubxATntdB3EMzJFN36kJiCxBM_XA683Fjvu3fAbZ1ZUj2cn4TfInuxdAJtiMmKfHYweEvnhZln5snytdQ9T_os0iYX-xi3zrVH-hgtO6bjMlX9Mjnt2cvZi_1Fh3pga8hq3pa2I8IlFPLXEU38JU23x7HHQ0rrzrWS8BZzxN3dz8H1SnVEhIP-pmKSOc7d4bHivewOY0vpDx3UruGVaRUvqY0RxeB-d44kkybhgRx2-LIVsbsd_HWhpBQKFhE064ka1BCfFpR_eztu1_GSnruAhIebbht-9JeGjlMss3R08ZkxBWNrdrShRAaOhlIFCkeAw46Aw-XjokYQKWFngzqqzY_Oj4ZSyghNKWyKuSWzJemeD0SchPQe4HERKpSIpTBfQFehtNDhEwFlWNMdOH8VoUQgURxuh2CC6NADWIL2MuqXwIuIvlwWjlUW6FHpHSJXmOY-rzwxtD13rAj9HJ4MEcZ-nBauxmR1jFe0e4iqZoWPnE8uIF2Y63E73x85wxnPlshu88Q0z9rMJzRtUSNucIEGkCDzm1Mszgbd-epzvPlCAn423pNPs8l6fw9mY2dGGepaTH5rmfJlLzyMho13pBQlGGYPknh8uW0oQH84eJUQ1hJgpfGjoviHQYmjO55rtGceo-NLLek8WZt1HGEkhVCyrwupIIjhZxQKPrnA0VjL4bBPEqkW7B3Ba9fVakLDGfR0PlQTxrtShy5rPa_3ghkJbUaDLaDgmhonPaXg1q5TSABKgl1cy1lYXN0LTEwrgc.m3u8
 
 
 
