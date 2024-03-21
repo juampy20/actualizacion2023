@@ -53,7 +53,9 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55586&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55588&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  movistar +
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55589&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  movistar  +
 
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55548&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  golf +
 
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55550&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  gol play
 
 
 ---poker-----
