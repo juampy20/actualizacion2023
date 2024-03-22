@@ -5,6 +5,13 @@ vix deportes----
 ----------------
 
 #EXTINF:-1 group-title=" VIX DEPORTES" tvg-logo="",ViX Deportes 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-360.frequency.stream/dist/studio/360/hls/master/playlist_1024x576.m3u8
+
+
+
+#EXTINF:-1 group-title=" VIX DEPORTES" tvg-logo="",ViX Deportes 1
 https://linear-360.frequency.stream/dist/studio/360/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 2
