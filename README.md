@@ -2522,24 +2522,31 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 #EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="SPORTS DEPORTES VARIOS",314 UNIVISION (🇲🇽) m3u
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" tvg-logo="",TUDN
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" ,TUDN (🇲🇽)
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" tvg-logo="",Zona TUDN (México)
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" ,Zona TUDN (🇲🇽)
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/afizzionados-tv8326.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" tvg-logo="",Afizzionados
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/afizzionados-tv8326.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" ,Afizzionados (🇲🇽)
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="SPORTS DEPORTES VARIOS" tvg-logo="",Zona TUDN (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="SPORTS DEPORTES VARIOS" ,Zona TUDN (Estados Unidos)
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/AdrenalinaSportsNetwork.png" group-title="SPORTS DEPORTES VARIOS" tvg-logo="",Adrenalina Sports Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/AdrenalinaSportsNetwork.png" group-title="SPORTS DEPORTES VARIOS" ,Adrenalina Sports Network
 https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="SPORTS DEPORTES VARIOS" tvg-logo="",Tigo Sports Latino
+#EXTINF:-1 tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="SPORTS DEPORTES VARIOS" ,Tigo Sports Latino
 https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS DEPORTES VARIOS" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png",Red Bull TV (English; CC)
+https://linear-641.frequency.stream/mt/studio/641/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS DEPORTES VARIOS" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png",Red Bull TV (Español)
+https://linear-535.frequency.stream/mt/studio/535/hls/master/playlist.m3u8
+
 
 
 --------------------------------------- DEPORTES DAZN --------------------------------------------
