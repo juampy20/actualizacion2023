@@ -5,42 +5,59 @@
 vix deportes----
 ----------------
 
-#EXTINF:-1 group-title=" VIX DEPORTES" tvg-logo="",ViX Deportes 0
+
+
+#EXTINF:-1 group-title=" VIX DEPORTES" tvg-logo="",ViX Deportes 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1500
 https://linear-360.frequency.stream/dist/studio/360/hls/master/playlist_1024x576.m3u8
 
-
-
-#EXTINF:-1 group-title=" VIX DEPORTES" tvg-logo="",ViX Deportes 1
-https://linear-360.frequency.stream/dist/studio/360/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 2
-https://linear-361.frequency.stream/dist/studio/361/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-361.frequency.stream/dist/studio/361/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 3
-https://linear-362.frequency.stream/dist/studio/362/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-362.frequency.stream/dist/studio/362/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 4
-https://linear-363.frequency.stream/dist/studio/363/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-363.frequency.stream/dist/studio/363/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 5
-https://linear-364.frequency.stream/dist/studio/364/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-364.frequency.stream/dist/studio/364/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 6
-https://linear-365.frequency.stream/dist/studio/365/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-365.frequency.stream/dist/studio/365/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 7
-https://linear-366.frequency.stream/dist/studio/366/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-366.frequency.stream/dist/studio/366/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 8
-https://linear-367.frequency.stream/dist/studio/367/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-367.frequency.stream/dist/studio/367/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 9
-https://linear-368.frequency.stream/dist/studio/368/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-368.frequency.stream/dist/studio/368/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 10
-https://linear-369.frequency.stream/dist/studio/369/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-369.frequency.stream/dist/studio/369/hls/master/playlist_1024x576.m3u8
+
+
 
 #EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 11
 https://linear-370.frequency.stream/dist/studio/370/hls/master/playlist.m3u8
