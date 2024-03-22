@@ -2528,53 +2528,77 @@ CLARO SPORTS
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
 
 
-
-
-TRACE SPORTS 
+ 
 
 #EXTINF:-1 group-title="SPORTS DEPORTES VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" ,310 TRACE SPORTS (🇺🇸) m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
 https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
 
 
  
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/FIFA-logo-png-large-800x263.png" group-title="SPORTS DEPORTES VARIOS",311 FIFA (🏴󠁧󠁢󠁥󠁮󠁧󠁿) m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/FIFA-logo-png-large-800x263.png" group-title="SPORTS DEPORTES VARIOS",312 FIFA 2 (🏴󠁧󠁢󠁥󠁮󠁧󠁿) m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 
 
 #EXTINF:-1 tvg-chno="11" tvg-id="TNTSports3.cl" tvg-name="TNTSports3.cl" tvg-logo="https://i.imgur.com/XgjZPy3.png" group-title="SPORTS DEPORTES VARIOS",313 TNT Sports 3 (🇨🇱) m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 
 #EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="SPORTS DEPORTES VARIOS",314 UNIVISION (🇲🇽) m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" ,TUDN (🇲🇽)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" ,Zona TUDN (🇲🇽)
-https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/afizzionados-tv8326.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" ,Afizzionados (🇲🇽)
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="SPORTS DEPORTES VARIOS" ,Zona TUDN (Estados Unidos)
-https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/AdrenalinaSportsNetwork.png" group-title="SPORTS DEPORTES VARIOS" ,Adrenalina Sports Network
-https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="SPORTS DEPORTES VARIOS" ,Tigo Sports Latino
-https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="SPORTS DEPORTES VARIOS" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png",Red Bull TV (English; CC)
-https://linear-641.frequency.stream/mt/studio/641/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-641.frequency.stream/mt/studio/641/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="SPORTS DEPORTES VARIOS" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png",Red Bull TV (Español)
-https://linear-535.frequency.stream/mt/studio/535/hls/master/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1500
+https://linear-535.frequency.stream/mt/studio/535/hls/master/playlist_1024x576.m3u8
 
 
 
