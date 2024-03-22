@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="STAR MAS" tvg-logo="-" ,river
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/527442.ts
 
 
 formula 1----
