@@ -140,28 +140,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55552&extension
 
 
 
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55557&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930   dazn 2
-
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55559&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  la liga tv bar
-
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55560&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  daz f1
-
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55563&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  f1 play
-
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55568&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930 copa del rey
-
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55577&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930 liga de campeones
-
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55578&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930 liga de campeones 2
-
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55587&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  movistar +
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55586&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  movistar +
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55588&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  movistar +
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55589&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  movistar  +
-
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55548&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  golf +
-
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55550&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930  gol play
 
 
 ---poker-----
@@ -176,7 +154,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b
    
 inter miami--------
 --------------------
-
 
 
 
