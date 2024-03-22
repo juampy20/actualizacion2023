@@ -2,137 +2,7 @@
 
 
 
-vix deportes----
-----------------
 
-
-
-#EXTINF:-1 group-title=" VIX DEPORTES" tvg-logo="",ViX Deportes 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-360.frequency.stream/dist/studio/360/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-361.frequency.stream/dist/studio/361/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-362.frequency.stream/dist/studio/362/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-363.frequency.stream/dist/studio/363/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-364.frequency.stream/dist/studio/364/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-365.frequency.stream/dist/studio/365/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-366.frequency.stream/dist/studio/366/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-367.frequency.stream/dist/studio/367/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-368.frequency.stream/dist/studio/368/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-369.frequency.stream/dist/studio/369/hls/master/playlist_1024x576.m3u8
-
-
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 11
-https://linear-370.frequency.stream/dist/studio/370/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 12
-https://linear-371.frequency.stream/dist/studio/371/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 13
-https://linear-372.frequency.stream/dist/studio/372/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 14
-https://linear-373.frequency.stream/dist/studio/373/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 15
-https://linear-374.frequency.stream/dist/studio/374/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 16
-https://linear-375.frequency.stream/dist/studio/375/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 17
-https://linear-376.frequency.stream/dist/studio/376/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 18
-https://linear-377.frequency.stream/dist/studio/377/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 19
-https://linear-378.frequency.stream/dist/studio/378/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 20
-https://linear-379.frequency.stream/dist/studio/379/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 21
-https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 22
-https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 23
-https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 31
-https://linear-380.frequency.stream/dist/studio/380/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 32
-https://linear-381.frequency.stream/dist/studio/381/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 33
-https://linear-383.frequency.stream/dist/studio/383/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 34
-https://linear-384.frequency.stream/dist/studio/384/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 35
-https://linear-385.frequency.stream/dist/studio/385/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 36
-https://linear-386.frequency.stream/dist/studio/386/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 37
-https://linear-440.frequency.stream/mt/studio/440/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX Deportes 38
-https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX La Liga Contigo 1
-https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX La Liga Contigo 2
-https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX La Liga Contigo 3
-https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX DEPORTES" tvg-logo="",ViX La Liga Contigo 4
-https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
 
 
 formula 1----
@@ -1174,17 +1044,7 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png" group-title="MUSICA",104 TOP MUSIC (🇧🇷) m3u
 https://isaocorp.cloudecast.com/toptv/index.m3u8?WebM3UCL
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png" group-title="MUSICA" tvg-logo="",Bandamax
-https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Telehit_PLUS_Logo_Black_2017.png" group-title="MUSICA" tvg-logo="",Telehit
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Telehit_PLUS_Logo_Black_2017.png" group-title="MUSICA" tvg-logo="",Telehit Música
-https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Telehit_PLUS_Logo_Black_2017.png" group-title="MUSICA" tvg-logo="",Telehit Música Plus
-https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
 
 
 
@@ -2559,46 +2419,7 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 #EXTVLCOPT:network-caching=1500
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" ,TUDN (🇲🇽)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" ,Zona TUDN (🇲🇽)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/afizzionados-tv8326.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS" ,Afizzionados (🇲🇽)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="SPORTS DEPORTES VARIOS" ,Zona TUDN (Estados Unidos)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/AdrenalinaSportsNetwork.png" group-title="SPORTS DEPORTES VARIOS" ,Adrenalina Sports Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="SPORTS DEPORTES VARIOS" ,Tigo Sports Latino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="SPORTS DEPORTES VARIOS" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png",Red Bull TV (English; CC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-641.frequency.stream/mt/studio/641/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="SPORTS DEPORTES VARIOS" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png",Red Bull TV (Español)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://linear-535.frequency.stream/mt/studio/535/hls/master/playlist_1024x576.m3u8
 
 
 
