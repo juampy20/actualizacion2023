@@ -935,9 +935,6 @@ QUIERO
 #EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/quiero.webp" group-title="MUSICA", 90 QUIERO MUSICA (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
 
-CM
-
-
 
 
 MI MUSICA HIT
@@ -1063,6 +1060,18 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png" group-title="MUSICA",104 TOP MUSIC (🇧🇷) m3u
 https://isaocorp.cloudecast.com/toptv/index.m3u8?WebM3UCL
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png" group-title="MUSICA" tvg-logo="",Bandamax
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Telehit_PLUS_Logo_Black_2017.png" group-title="MUSICA" tvg-logo="",Telehit
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Telehit_PLUS_Logo_Black_2017.png" group-title="MUSICA" tvg-logo="",Telehit Música
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Telehit_PLUS_Logo_Black_2017.png" group-title="MUSICA" tvg-logo="",Telehit Música Plus
+https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
 
 
 
