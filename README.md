@@ -3954,6 +3954,56 @@ https://ss87.dabeu.com/stream/9/9A/22Mt6qAzPOcss3MSL42vQbFkNPIZHt5l2UE/master.m3
 https://ss346.skyofile.com/stream/6/99/9Rr3q60FG347liklVy2mbY7KTfHPHKMrXam/master.m3u8
 
 
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss376.hugebil.com/stream/7/79/4xOJyWKjPPywMabCnmprTBHiSw15HP7BXEW/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss456.henesu.com/stream/1/85/xwQlOjjOdZIHqqoClCqAiBizs9ZdgkBRfPl/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss154.quibinet.com/stream/F/DE/URArxoOoKt47GcQx0P8vWl2y2zMHy04v9KR/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss345.mauobzw.com/stream/7/B0/hiowAjIQ5tqlcAL3hHe0FWWLOSmUkLYrjWK/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss40.subwte.com/stream/5/B0/Xz24rbMMchydhQczRH5vbZkI7rz6b3XpqUZ/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss90.talefile.com/stream/B/D7/8zXp7ffuAzLMrYiXSldES7UJEzUSrH7cQKH/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss95.queende.com/stream/5/D4/fbpWMdgyl8w4jvz4znJb0csDInS6QpPx3vU/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss95.queende.com/stream/1/D3/0xvslGgmuiZrpN7sXysj4YkaQ0Nr5XpQCRb/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss310.gigafilez.com/stream/A/5F/JlCNod7WbQk0VZz6VrXNRlDy7d7QwkAJq1y/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss236.quedoda.com/stream/B/98/L5klfgyCdwUKrBfUB0XXLxPxKGmrPbO6BjG/master.m3u8
+
 
 #EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
