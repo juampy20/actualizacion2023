@@ -2,11 +2,6 @@
 
 
 
-#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://aporodiko.com/
-https://ss39.uptshare.com/stream/0/08/vafb2eTYLwcaGDKLZhx990zlWbgtiA6oqnP/master.m3u8
-
 
 
 
@@ -3894,42 +3889,51 @@ http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv
 #EXTINF:-1  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",Llaman a la puerta (2023)
 http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
 
+novelas turcas-----
+--------------------
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss333.gomutrain.com/stream/3/AE/7XfATexyHrmMzBJKJRXix1BGfzcauLIIgoY/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss236.quedoda.com/stream/C/87/Fhk1DGQr4Mgg4ldrhssrq5chbx4lVfETBCP/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss336.binsuliv.com/stream/C/1F/NhPwjeqnsyNaWB5nhqorQzVQfzdUS6rWH4O/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss347.sofarfile.com/stream/7/A1/mwVd4R4KM2VgWDbuSQxb0Ud05Z3RZOoRG3s/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss317.letsharez.com/stream/B/72/CpaanOYTlr7P8KxQYzlNvSqxkzzi1Q8tcb1/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss423.titkiand.com/stream/0/16/U2wG8hFww0EAvYFxRVwhILFYVP60AE9XZad/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss281.techmacz.com/stream/2/F0/gxeCvIFzlpcOpDtXPO6EuCaZrJs5IxD8P0r/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="-" group-title="Series", El encargado S01E01
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdCZhge8X7VxpiMCoq1Rb7iL
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E02
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdAgIfHTfLDPYNkSnJhU1kK0
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E03
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdDjCxi_jkz8vi8OpLY9oVVN
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E04
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdDo517fWsuX4tS-bGTR7yre
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E05
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdCHuxDz2pHzArQMvUhXDwwz
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E06
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdAf8MH5_DvzRzuSJNSr2P8p
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E07
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdBNgsOgOwWpvUp2Oce2bLHi
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E08
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdAyZXJv6N-vJOKBWNZko3uT
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E09
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdAQHRZMg9_ACOYdoFLRnJEo
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E10
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdCPbAS_C7NDyD-mRfCD9RjR
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S01E11
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHe3jHdh2KsYDjo8RMNXihdBlln3lO3AyfPNsYtt3KgbH
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E01
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmWB8fy9FtJ8elUT51iByqr3
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E02
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmXRC7LsokO9AJKNewQlS3m9
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E03
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmXA9HI52rs1PoNWJupb5kY9
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E04
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmWSTGKCzZDfH6uXaatidjCe
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E05
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmU8nt89hpiJkX9SMv1VSWdc
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E06
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmVPlJaZIQamBQ06NDXKecpd
-#EXTINF:-1 tvg-logo="-" group-title="Series",El encargado S02E07
-http://totalplay.site:80/play/78nEB6hBbImShmcREticHf2rOxACXzLAN4_mCj7yqmVDsRfDaFU5_X-SFmHjRKJH
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss39.uptshare.com/stream/0/08/vafb2eTYLwcaGDKLZhx990zlWbgtiA6oqnP/master.m3u8
+
+
+
 
