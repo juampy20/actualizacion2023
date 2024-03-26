@@ -3892,10 +3892,15 @@ http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
 novelas turcas-----
 --------------------
 
-#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 10
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://aporodiko.com/
 https://ss333.gomutrain.com/stream/3/AE/7XfATexyHrmMzBJKJRXix1BGfzcauLIIgoY/master.m3u8
+
+#EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aporodiko.com/
+https://ss192.siduwan.com/stream/C/25/CjkJJJ0aSPkwtlA24dcfNHGnWFtZCzKSj2t/master.m3u8
 
 #EXTINF:-1 group-title="Novelas turcas" tvg-logo="-" ,Cap 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
