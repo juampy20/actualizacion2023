@@ -2,7 +2,11 @@
 
 
 
-
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=CCCCC
+#EXTINF:-1  group-title="test",  MOVISTAR LIGA DE CAMPEONES
+https://vivo.lamtv.tv:8081/a/0207/playlist.m3u8
 
 
 canal excclusivo----
