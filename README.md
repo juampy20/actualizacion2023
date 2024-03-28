@@ -2851,6 +2851,11 @@ https://e3wx7wloxn.zoeweb.tv/pmu7/stream/chunklist.m3u8
 https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.lefilmfrancais.com/images/com_papyrus/contenus/30f74c3b7eb63e36b246ecd06c8dad51.jpg"  group-title="TURF CARRERAS DE CABALLOS", EQUIDIA 1
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-racing1-b31-cdn.hexaglobe.net/dbf904cef126c1c798c267ea184442ce/660561f0/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_audio_french.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080,AUDIO="group_aud"
+https://equidia-racing1-b31-cdn.hexaglobe.net/dbf904cef126c1c798c267ea184442ce/660561f0/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_1080p.m3u8
 
 
 
