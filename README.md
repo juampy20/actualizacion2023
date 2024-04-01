@@ -2810,35 +2810,7 @@ https://e3wx7wloxn.zoeweb.tv/pmu7/stream/chunklist.m3u8
 https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lefilmfrancais.com/images/com_papyrus/contenus/30f74c3b7eb63e36b246ecd06c8dad51.jpg"  group-title="TURF CARRERAS DE CABALLOS",424 EQUIDIA 1
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-racing1-b31-cdn.hexaglobe.net/dbf904cef126c1c798c267ea184442ce/660561f0/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_audio_french.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080,AUDIO="group_aud"
-https://equidia-racing1-b31-cdn.hexaglobe.net/dbf904cef126c1c798c267ea184442ce/660561f0/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lefilmfrancais.com/images/com_papyrus/contenus/30f74c3b7eb63e36b246ecd06c8dad51.jpg"  group-title="TURF CARRERAS DE CABALLOS",425 EQUIDIA 2
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-racing2-b31-cdn.hexaglobe.net/75ec2d754faa3362c8f3018d1ee2b2dc/660561d0/equidia/equidia-mobileapp-ios-1/eqdracing2pri_fre.smil//slot02_audio_french.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080,AUDIO="group_aud"
-https://equidia-racing2-b31-cdn.hexaglobe.net/75ec2d754faa3362c8f3018d1ee2b2dc/660561d0/equidia/equidia-mobileapp-ios-1/eqdracing2pri_fre.smil//slot02_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lefilmfrancais.com/images/com_papyrus/contenus/30f74c3b7eb63e36b246ecd06c8dad51.jpg"  group-title="TURF CARRERAS DE CABALLOS",426 EQUIDIA 3
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-racing3-p32-cdn.hexaglobe.net/536acfb6e084d41dcbf510da40a8d92e/660561da/equidia/equidia-mobileapp-ios-1/eqdracing3pri_fre.smil//slot03_audio_french.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080,AUDIO="group_aud"
-https://equidia-racing3-p32-cdn.hexaglobe.net/536acfb6e084d41dcbf510da40a8d92e/660561da/equidia/equidia-mobileapp-ios-1/eqdracing3pri_fre.smil//slot03_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lefilmfrancais.com/images/com_papyrus/contenus/30f74c3b7eb63e36b246ecd06c8dad51.jpg"  group-title="TURF CARRERAS DE CABALLOS",427 EQUIDIA 4
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-racing4-b32-cdn.hexaglobe.net/711d7ff898a99f9fdddd097a76742074/660561f8/equidia/equidia-mobileapp-ios-1/eqdracing4pri_fre.smil//slot04_audio_french.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080,AUDIO="group_aud"
-https://equidia-racing4-b32-cdn.hexaglobe.net/711d7ff898a99f9fdddd097a76742074/660561f8/equidia/equidia-mobileapp-ios-1/eqdracing4pri_fre.smil//slot04_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lefilmfrancais.com/images/com_papyrus/contenus/30f74c3b7eb63e36b246ecd06c8dad51.jpg"  group-title="TURF CARRERAS DE CABALLOS",428 EQUIDIA 5
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-racing5-p32-cdn.hexaglobe.net/71d2cc79685a85efc07cb449f1a860c6/660561fa/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil//slot05_audio_french.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080,AUDIO="group_aud"
-https://equidia-racing5-p32-cdn.hexaglobe.net/71d2cc79685a85efc07cb449f1a860c6/660561fa/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil//slot05_1080p.m3u8
 
 
 ------------------------------------- ESPAÑA ---------------------------------------------
