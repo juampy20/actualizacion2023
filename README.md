@@ -2431,8 +2431,8 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 #EXTVLCOPT:network-caching=1500
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS",315 TUDN (🇲🇽) m3u
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 
 --------------------------------------- DEPORTES DAZN --------------------------------------------
