@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-
-
 canal excclusivo----
 ---------------------
 
