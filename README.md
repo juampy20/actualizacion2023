@@ -2733,7 +2733,7 @@ https://ythls.armelin.one/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://hipodromosanisidro.com/wp-content/uploads/2019/05/logo_hsi_home_Mesa-de-trabajo-1.png"  group-title="TURF CARRERAS DE CABALLOS",400 Hipodromo de San Isidro (🇦🇷)
-https://ythls.armelin.one/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8 
+https://ythls.armelin.one/channel/UC3M7efaO9uxT0LTl3BSKvGg.m3u8 
 
 #EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="TURF CARRERAS DE CABALLOS",401 Teletrak TV (🇨🇱)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
