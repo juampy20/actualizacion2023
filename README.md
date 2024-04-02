@@ -1216,7 +1216,7 @@ STAR CHANELL
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/star.webp" group-title="CINE", 116 STAR CHANELL (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://www.marketersbyadlatina.com/uploads/-5774-Star-Channel.jpg" group-title="CINE", 116 STAR CHANELL (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd
 
 
@@ -1230,7 +1230,7 @@ UNIVERSAL
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universal.webp" group-title="CINE", 117 UNIVERSAL (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png" group-title="CINE", 117 UNIVERSAL (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd
 
 
@@ -1284,7 +1284,7 @@ SPACE
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/space.webp" group-title="CINE", 122 SPACE (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="CINE", 122 SPACE (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 
 
@@ -1297,7 +1297,7 @@ AMC
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/amc.webp" group-title="CINE", 123 AMC (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="CINE", 123 AMC (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
 
 
@@ -1336,7 +1336,7 @@ TNT
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tnt.webp" group-title="CINE", 126 TNT (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="CINE", 126 TNT (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
 
 
@@ -1349,7 +1349,7 @@ FX
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/fx.webp" group-title="CINE", 127 FX (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="CINE", 127 FX (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
 
 
@@ -1364,7 +1364,7 @@ TBS
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tbs.webp" group-title="CINE", 128 TBS (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/tbs.png" group-title="CINE", 128 TBS (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 
@@ -1377,7 +1377,7 @@ AXN
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/axn.webp" group-title="CINE", 129 AXN (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="CINE", 129 AXN (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 DE PELICULA
@@ -1415,7 +1415,7 @@ HISTORY
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history.webp" group-title="DOCUMENTALES Y CULTURA", 141 HISTORY (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/90194224071499.png" group-title="DOCUMENTALES Y CULTURA", 141 HISTORY (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd
 
 
@@ -1430,7 +1430,7 @@ H 2
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history2.webp" group-title="DOCUMENTALES Y CULTURA", 142 H2 (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/160/160/0/0/16627153073621.png" group-title="DOCUMENTALES Y CULTURA", 142 H2 (🇦🇷) fw
 https://edge-live02-mun.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
 
 
@@ -1444,7 +1444,7 @@ DISCOVERY CIENSE
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/disscience.webp" group-title="DOCUMENTALES Y CULTURA", 143 DISCOVERY SCIENCE (🇦🇷) fw 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/60/60/0/0/24981309071389.png" group-title="DOCUMENTALES Y CULTURA", 143 DISCOVERY SCIENCE (🇦🇷) fw 
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd
 
 
@@ -1458,7 +1458,7 @@ DISCOVERY
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/discovery.webp" group-title="DOCUMENTALES Y CULTURA", 144 DISCOVERY (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" group-title="DOCUMENTALES Y CULTURA", 144 DISCOVERY (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
 
 
@@ -1471,7 +1471,7 @@ DISCOVERY TURBO
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/turbo.webp" group-title="DOCUMENTALES Y CULTURA", 145 DISCOVERY TURBO (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180704/hty/kisspng-discovery-turbo-television-channel-discovery-chann-rua-gabriel-oeschler-5b3cb4edd44231.0893172215307051338694.jpg" group-title="DOCUMENTALES Y CULTURA", 145 DISCOVERY TURBO (🇦🇷) fw
 https://edge-mix01-cte.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd
 
 
@@ -1486,7 +1486,7 @@ DISCOVERY WORLD
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/disworld.webp" group-title="DOCUMENTALES Y CULTURA",146 DISCOVERY WORLD (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/60/60/0/0/24981309071389.png" group-title="DOCUMENTALES Y CULTURA",146 DISCOVERY WORLD (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd
 
 
@@ -1512,7 +1512,7 @@ A & E
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/ae.webp" group-title="DOCUMENTALES Y CULTURA",148 A&E (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/60/60/0/0/95118087071584.png" group-title="DOCUMENTALES Y CULTURA",148 A&E (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 
 
@@ -1571,7 +1571,7 @@ FOOD NETWORK
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/food.webp" group-title="COCINA Y MODA", 160 FOOD NETWORK (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/86/CH_LOGO/60/60/0/0/90527363073450.png" group-title="COCINA Y MODA", 160 FOOD NETWORK (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd
 
 
@@ -1584,7 +1584,7 @@ EL GOURMET
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/gourmet.webp" group-title="COCINA Y MODA", 161 EL GOURMET (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/60/60/0/0/15069203073244.png" group-title="COCINA Y MODA", 161 EL GOURMET (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
 
