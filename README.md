@@ -11,6 +11,12 @@ canal excclusivo----
 https://cdnhd.iblups.com/hls/mPkyt6ZMC6.m3u8
 
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,CANAL EXCLUSIVO 2 (🇦🇷) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://po2.ainakwalajeen.com:999/hls/dsportshd.m3u8?md5=af-uK8-ZWY1d5b91aZaaoA&expires=1712193993
+
+
 
 formula 1----
 -------------
