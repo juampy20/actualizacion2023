@@ -71,8 +71,7 @@ inter miami--------
 #EXTINF:-1 group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",MLS• INTER MIAMI MESSI (HD) »1«
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://jan-4.totototorina.com:999/hls/mlspasshd2.m3u8?md5=_VvT5OPLn81Yrx-BVSbQIQ&expires=1711226481
-
+https://po2.ainakwalajeen.com:999/hls/mlspasshd2.m3u8?md5=TP5nlmmr4wpz0I8KrSgJVA&expires=1712196266
 
 
 
