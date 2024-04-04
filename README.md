@@ -1,24 +1,6 @@
 #EXTM3U
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9338915d95053e7a161a711a342d232:31fcf5a5781444a5a299d4ef190c8c51
-#EXTINF:-1 tvg-logo="-" group-title="test",test
-https://1276-vos-da-mt.dtvott.com/DASH/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31fcf5a5781444a5a299d4ef190c8c51:e9338915d95053e7a161a711a342d232
-#EXTINF:-1 tvg-logo="-" group-title="test",test
-https://1276-vos-da-mt.dtvott.com/DASH/manifest.mpd
 
 
 
@@ -1920,14 +1902,6 @@ ESPN CLARO
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
 
 
-
-#EXTINF:-1  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SPORTS ESPN"  ,210 ESPN  (🇨🇴)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rwdtYt_mSoKh8gWxbC9f9w","k":"jXHeSMr94CJGWvR_djmyQQ"},{"kty":"oct","kid":"gldi_vZnRN--8IUsRlGULA","k":"OoZM1ZUt5xFogJ0ctbFw4A"}]}
-https://1279247418.rsc.cdn77.org/bpk-tv/QFENPU/dash/manifest.mpd
- 
- 
-
  
 #EXTINF:-1  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SPORTS ESPN"  ,211 ESPN 3  (🇨🇴)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1935,29 +1909,15 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QFENPU/dash/manifest.mpd
 https://1279247418.rsc.cdn77.org/bpk-tv/QESPNTTV/dash/manifest.mpd
 
 
-
- 
  
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  group-title="SPORTS ESPN"  ,212 ESPN 4 (🇨🇴)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Kvr0mIrYRLeiYrjfW3BeMw","k":"BxcsilCNo766bwXJBh249Q"},{"kty":"oct","kid":"609HIwWzQr6buX7ZIou6pg","k":"ZXy64rS2DGpK7mlJnIuIcQ"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QESPNETV/dash/manifest.mpd
  
-#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SPORTS ESPN"  ,213 ESPN 5 (🇨🇴)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"c6MypyKjLWjbn2PyHLBzwQ","k":"HNFATP5qA3U1PxASfrHhEw"},{"kty":"oct","kid":"RajYaqD_n3PFqQk4SNQLHg","k":"fG2-cmP3TTnUm3j1OCrSbw"}]}
-https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTUTV/dash/manifest.mpd
+
  
-#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png"  group-title="SPORTS ESPN"  ,214 ESPN 6 (🇨🇴)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PprYdgvURfGRnYLq9kfB_g","k":"8MGO-YMkXMHtLsUkHdaNig"},{"kty":"oct","kid":"PnoSPvDdT-aYZGSRh2dYTw","k":"DmWJOEQIs9zZkXc8QEf30w"}]}
-https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTTTV/dash/manifest.mpd
- 
- 
-#EXTINF:-1  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SPORTS ESPN"  ,215 ESPN 7 (🇨🇴)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IqiiAReaSMGecLzO-1UuTA","k":"gdwZo50wB3QJo18fDY60gw"},{"kty":"oct","kid":"HyyT3Ym7T1W9Xa0EHF1rgw","k":"rRJ_kUsRm5Fik6UARSPFwg"}]}
-https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTDTV/dash/manifest.mpd
+
 
 ------------------------------------------ DEPORTES FOX SPORTS ----------------------------------------
 -------------------------------------------------------------------------------------------------------
