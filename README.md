@@ -51,6 +51,16 @@ http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=31778
 #EXTINF:-1 group-title="FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,706 DAZN FORMULA 1 OPCION 7 (🇪🇸) m3u EN ESPAÑOL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55552&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
+#EXTINF:-1 group-title="FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,706 DAZN FORMULA 1 OPCION 8 (🇪🇸) m3u EN portugues
+https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd
+
 
 
 ---poker-----
