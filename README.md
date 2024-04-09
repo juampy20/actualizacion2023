@@ -10,6 +10,15 @@
 #EXTINF:-1 tvg-logo="-" group-title="DIRECTV SPORTS",800 DIRECTV +
 https://1264-abc.dtvott.com/dash_live_1071/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36b2c6b7736a5901bf408916a454abf9:9bd7ec1ba802a7164edacaa493c2347c
+#EXTINF:-1 tvg-logo="-" group-title="DIRECTV SPORTS",801 DIRECTV FIGHT
+https://1259-abc-da-bpk.dtvott.com/dash_live_1259/manifest.mpd
 
 
 canal excclusivo----
