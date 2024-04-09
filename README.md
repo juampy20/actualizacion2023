@@ -1,5 +1,15 @@
 #EXTM3U
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
+#EXTINF:-1 tvg-logo="-" group-title="DIRECTV SPORTS",800 DIRECTV +
+https://1264-abc.dtvott.com/dash_live_1071/manifest.mpd
+
 
 
 canal excclusivo----
