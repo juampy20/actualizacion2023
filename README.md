@@ -20,6 +20,16 @@ https://1264-abc.dtvott.com/dash_live_1071/manifest.mpd
 #EXTINF:-1 tvg-logo="-" group-title="DIRECTV SPORTS",801 DIRECTV FIGHT
 https://1259-abc-da-bpk.dtvott.com/dash_live_1259/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86531a9305d65cb78b18b2c14024320e:0070dbc490f3b5edfe1f68503fb6402c
+#EXTINF:-1 tvg-logo="-" group-title="DIRECTV SPORTS",802 DIRECTV MOTOR
+https://1279-abc-da-bpk.dtvott.com/dash_live_1279/manifest.mpd
+
 
 canal excclusivo----
 ---------------------
