@@ -40,6 +40,21 @@ https://webhdrus.onlinehdhls.ru/lb/premium6/index.m3u8|Origin=https://weblivehdp
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium7/index.m3u8|Origin=https://weblivehdplay.ru/
 
+#EXTINF:-1 group-title="PACK USA SPORTS" tvg-logo="-" ,1000  Pack USA sports 8 php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium8/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="PACK USA SPORTS" tvg-logo="-" ,1000  Pack USA sports 9 php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium9/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="PACK USA SPORTS" tvg-logo="-" ,1000  Pack USA sports 10 php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium10/index.m3u8|Origin=https://weblivehdplay.ru/
+
 
 
 -----DIRECTV-----
