@@ -15,6 +15,19 @@ https://salamus2023.onlinehdhls.ru/ddh2/premium36/playlist.m3u8|Origin=https://w
 https://salamus2023.onlinehdhls.ru/ddy4/premium30/playlist.m3u8|Origin=https://weblivehdplay.ru/
 
 
+#EXTINF:-1 group-title="PACK USA SPORTS" tvg-logo="-" ,1000  Pack USA sports 30 v 1 php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy4/premium30/tracks-v1a1/mono.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="PACK USA SPORTS" tvg-logo="-" ,1000  Pack USA sports 30 v 2 php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy4/premium30/tracks-v2a1/mono.m3u8|Origin=https://weblivehdplay.ru/
+
+
+
+
 -----DIRECTV-----
 ------------------
 
