@@ -15,8 +15,15 @@ https://salamus2023.onlinehdhls.ru/ddh2/premium524/playlist.m3u8|Origin=https://
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://salamus2023.onlinehdhls.ru/ddy3/premium525/playlist.m3u8|Origin=https://weblivehdplay.ru/
 
+#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="-" ,1001  v 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh2/premium524/tracks-v1a1/mono.m3u8|Origin=https://weblivehdplay.ru/
 
-
+#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="-" ,1001  v 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh2/premium524/tracks-v2a1/mono.m3u8|Origin=https://weblivehdplay.ru/
 
 -----DIRECTV-----
 ------------------
