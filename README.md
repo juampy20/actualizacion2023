@@ -18,17 +18,41 @@ https://salamus2023.onlinehdhls.ru/ddy1/premium437/playlist.m3u8|Origin=https://
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://salamus2023.onlinehdhls.ru/ddy1/premium438/playlist.m3u8|Origin=https://weblivehdplay.ru/
 
-#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR 2 Adaptative
+#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR 3 Adaptative
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://salamus2023.onlinehdhls.ru/ddy1/premium526/playlist.m3u8|Origin=https://weblivehdplay.ru/
 
-#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR 2 Adaptative
+#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR 4 Adaptative
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://salamus2023.onlinehdhls.ru/ddy1/premium527/playlist.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR GOLF Adaptative
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy1/premium528/playlist.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR LA LIGA Adaptative
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy1/premium538/playlist.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR LA LIGA 2 Adaptative
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy1/premium539/playlist.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR LA LIGA 3 Adaptative
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy1/premium540/playlist.m3u8|Origin=https://weblivehdplay.ru/
 
 -----pHP----
 ----------------------
