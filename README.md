@@ -23,7 +23,17 @@ https://salamus2023.onlinehdhls.ru/ddh2/premium524/tracks-v1a1/mono.m3u8|Origin=
 #EXTINF:-1 group-title="EUROSPORTS" tvg-logo="-" ,1001  v 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh2/premium524/tracks-v2a1/mono.m3u8|Origin=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh2/premium524/tracks-v2a2/mono.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="-" ,1001  v 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh2/premium524/tracks-v3a3/mono.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="-" ,1001  v 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh2/premium524/tracks-v4a4/mono.m3u8|Origin=https://weblivehdplay.ru/
 
 -----DIRECTV-----
 ------------------
