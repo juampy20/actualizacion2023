@@ -1,20 +1,53 @@
 #EXTM3U
 
+
+
+-----movistar-----------------
+-----------------------------
+
+
+#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR 1 Adaptative
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy1/premium437/playlist.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR 2 Adaptative
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy1/premium438/playlist.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR 2 Adaptative
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy1/premium526/playlist.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR 2 Adaptative
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy1/premium527/playlist.m3u8|Origin=https://weblivehdplay.ru/
+
 -----pHP----
 ----------------------
 
 
 #EXTINF:-1 group-title="EUROSPORTS" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" ,1000  EUROSPORTS 1 Adaptative
+#EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://salamus2023.onlinehdhls.ru/ddh2/premium524/playlist.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-title="EUROSPORTS" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" ,1001  EUROSPORTS 2 Adaptative
+#EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://salamus2023.onlinehdhls.ru/ddy3/premium525/playlist.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-title="EUROSPORTS" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" ,1002  EUROSPORTS 1 FHD
+#EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://salamus2023.onlinehdhls.ru/ddh2/premium524/tracks-v1a1/mono.m3u8|Origin=https://weblivehdplay.ru/
