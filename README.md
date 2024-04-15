@@ -4,7 +4,6 @@
 ----------------------
 
 
-
 #EXTINF:-1 group-title="EUROSPORTS" tvg-logo="-" ,1000  EUROSPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
