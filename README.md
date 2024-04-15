@@ -2,63 +2,7 @@
 
 
 
------movistar-----------------
------------------------------
 
-#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1100  MOVISTAR DEPORTES Adaptative
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy1/premium436/playlist.m3u8|Origin=https://weblivehdplay.ru/
-
-
-#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1101  MOVISTAR 1 Adaptative
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy1/premium437/playlist.m3u8|Origin=https://weblivehdplay.ru/
-
-#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1102  MOVISTAR 2 Adaptative
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy1/premium438/playlist.m3u8|Origin=https://weblivehdplay.ru/
-
-#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1103  MOVISTAR 3 Adaptative
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy1/premium526/playlist.m3u8|Origin=https://weblivehdplay.ru/
-
-#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1104  MOVISTAR 4 Adaptative
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy1/premium527/playlist.m3u8|Origin=https://weblivehdplay.ru/
-
-#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1105  MOVISTAR GOLF Adaptative
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy1/premium528/playlist.m3u8|Origin=https://weblivehdplay.ru/
-
-#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1106  MOVISTAR LA LIGA Adaptative
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy1/premium538/playlist.m3u8|Origin=https://weblivehdplay.ru/
-
-#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1107  MOVISTAR LA LIGA 2 Adaptative
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy1/premium539/playlist.m3u8|Origin=https://weblivehdplay.ru/
-
-#EXTINF:-1 group-title="MOVISTAR PACK SPORTS" tvg-logo="https://w7.pngwing.com/pngs/1003/184/png-transparent-movistar-logo-movistar-mobile-phones-mobile-telephony-telephone-logo-movistar-logo-text-service-logo.png" ,1108  MOVISTAR LA LIGA 3 Adaptative
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy1/premium540/playlist.m3u8|Origin=https://weblivehdplay.ru/
 
 -----pHP----
 ----------------------
@@ -2501,28 +2445,27 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 --------------------------------------------------------------------------------------------------
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="SPORTS DAZN",321 DAZN 1 (🇪🇸) mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="SPORTS DAZN",321 DAZN LA LIGA (🇪🇸) mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-037/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="SPORTS DAZN",322 DAZN 2 (🇪🇸) mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="SPORTS DAZN",322 DAZN LA LIGA OPC 2 (🇪🇸) mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-038/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+
 
 
 DAZN 1 
