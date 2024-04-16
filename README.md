@@ -530,7 +530,7 @@ EL TRECE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27965a5e47515c52af970def8230142c:fbe3bc448126a05697b4750ab0d294bb
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="ARGENTINA", 5 EL TRECE (🇦🇷) dtv
-*https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
+https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
