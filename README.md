@@ -492,7 +492,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="ARGENTINA", 2 EL NUEVE (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
 
 
 
@@ -516,7 +516,7 @@ https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="ARGENTINA", 4 AMERICA (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 
 
 
@@ -541,7 +541,7 @@ https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="ARGENTINA", 5 EL TRECE (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
 
 
 
@@ -600,7 +600,7 @@ TV PUBLICA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="ARGENTINA",11 TV PUBLICA (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -652,7 +652,7 @@ VOLVER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/160/160/0/0/371516250745.png" group-title="ARGENTINA",17 CANAL VOLVER (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -818,7 +818,7 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="NOTICIAS",  61 CANAL 26 (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 
 
 
@@ -836,7 +836,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="NOTICIAS", 63 TODO NOTICIAS (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
 
 
 
@@ -872,7 +872,7 @@ https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="NOTICIAS",66 A 24 (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
 
 
 C5N 
@@ -894,7 +894,7 @@ https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="NOTICIAS", 68 C5N (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 
 
 CRONICA TV
@@ -907,7 +907,7 @@ CRONICA TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="NOTICIAS",69 CRONICA TV (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 
 
 
@@ -932,7 +932,7 @@ LA NACION
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="NOTICIAS", 71 LA NACION (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
 
 
 
@@ -955,7 +955,7 @@ https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png" group-title="NOTICIAS", 73 CNN (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd
 
 
 
@@ -966,7 +966,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" group-title="NOTICIAS", 74 CNN ESPAÑOL (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd
 
 
 TELESUR
@@ -1002,7 +1002,7 @@ MI MUSICA HIT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png" group-title="MUSICA", 91 MI MUSICA HITS (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
 
 
 
@@ -1013,7 +1013,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusic
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png" group-title="MUSICA", 92 MI MUSICA ROMANTICA (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1023,7 +1023,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/M
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png" group-title="MUSICA",93 MI MUSICA REGGAETON (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1033,7 +1033,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/M
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png" group-title="MUSICA", 94 MI MUSICA POP (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
 
 
 MTV
@@ -1045,7 +1045,7 @@ MTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="MUSICA", 95 MTV (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd
 
 
 
@@ -1164,7 +1164,7 @@ HBO FAMILY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="CINE", 112 HBO FAMILY (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -1188,7 +1188,7 @@ HBO PLUS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="CINE", 113 HBO PLUS (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1212,7 +1212,7 @@ HBO XTREME
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="CINE", 114 HBO XTREME (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/MAXPrime/live_dash_cld/MAXPrime.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/MAXPrime/live_dash_cld/MAXPrime.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -1235,7 +1235,7 @@ HBO SIGNATURE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png" group-title="CINE", 115 HBO SIGNATURE (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
@@ -1285,7 +1285,7 @@ STAR CHANELL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://www.marketersbyadlatina.com/uploads/-5774-Star-Channel.jpg" group-title="CINE", 116 STAR CHANELL (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd
 
 
 
@@ -1310,7 +1310,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_das
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="CINE", 118 UNIVERSAL PREMIERE (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1320,7 +1320,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="CINE", 119 UNIVERSAL CRIME (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1329,7 +1329,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="CINE", 120 UNIVERSAL CINEMA (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1338,7 +1338,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="CINE", 121 UNIVERSAL REALITY (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd
 
 
 
@@ -1773,7 +1773,7 @@ DISNEY JR
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/9696199307756.png" group-title="INFANTILES",182 DISNEY JUNIOR (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd
 
 
 
@@ -1800,7 +1800,7 @@ CARTOON NETWORK
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="INFANTILES",184 CARTOON NETWORK (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd
 
 
 
@@ -1814,7 +1814,7 @@ BOOMERANG
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/481/CH_LOGO/160/160/0/0/1490409807453.png" group-title="INFANTILES",185 BOOMERANG (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd
+*https://csc-ptn-edge01.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd
 
 
 
