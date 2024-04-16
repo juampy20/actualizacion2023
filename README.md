@@ -130,9 +130,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 https://csc-ptn-edge01.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="ARGENTINA", 10 TELEFE iphone (🇦🇷) 
-#EXTVLCOPT:http-user-agent=iPhone
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/telefe_hls.m3u8
+
 
 
 TV PUBLICA
