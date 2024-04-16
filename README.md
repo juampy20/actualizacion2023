@@ -42,9 +42,14 @@ AMERICA
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="ARGENTINA", 3 AMERICA (🇦🇷) fw
-https://qn-01282-mun-1-01-2.flow-live.qwilted-cds.cqloud.com/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
+*https://qn-01282-mun-1-01-2.flow-live.qwilted-cds.cqloud.com/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
 
 
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="ARGENTINA", 3 AMERICA (🇦🇷) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/ac23571a-55d6-4af2-b0cd-d4a235737b9c:SCL/master.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -55,6 +60,8 @@ https://qn-01282-mun-1-01-2.flow-live.qwilted-cds.cqloud.com/live/c3eds/AmericaT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="ARGENTINA", 4 AMERICA (🇦🇷) ss
 *https://csc-ptn-edge01.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
+
+
 
 
 
