@@ -532,7 +532,7 @@ EL TRECE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27965a5e47515c52af970def8230142c:fbe3bc448126a05697b4750ab0d294bb
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="ARGENTINA", 5 EL TRECE (🇦🇷) dtv
-https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
+*https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -612,7 +612,7 @@ TV PUBLICA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="ARGENTINA",12 TV PUBLICA (🇦🇷) fw
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
+https://qn-01282-mun-1-02-1.flow-live.qwilted-cds.cqloud.com/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 
 EL GARAGE 
@@ -664,7 +664,7 @@ VOLVER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/160/160/0/0/371516250745.png" group-title="ARGENTINA",17 CANAL VOLVER (🇦🇷) fw
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd
+https://qn-01282-mun-1-02-1.flow-live.qwilted-cds.cqloud.com/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd
 
 
 
