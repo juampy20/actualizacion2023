@@ -371,6 +371,8 @@ TN TODO NOTICIAS
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="NOTICIAS", 62 TODO NOTICIAS (🇦🇷) app
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="NOTICIAS", 62 TODO NOTICIAS (🇦🇷) ytb
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -391,7 +393,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="NOTICIAS", 64 TODO NOTICIAS (🇦🇷) fw
-https://edge-mix05-coe.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
+*https://edge-mix05-coe.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
 
 
 A 24
