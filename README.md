@@ -1346,7 +1346,7 @@ nick jr
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES",183 NICK JR (🇦🇷) fw
-https://edge-live17-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd
+https://edge-live15-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd
 
 
 
@@ -1387,7 +1387,7 @@ TOONCAST
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="INFANTILES",186 TOONCAST (🇦🇷) fw
-https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
+https://edge-live15-hr.cvattv.com.ar/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
 
 
