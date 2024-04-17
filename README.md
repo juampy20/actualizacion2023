@@ -477,9 +477,6 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 LA NACION
 
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="NOTICIAS", 72 LA NACION (🇦🇷) ytb
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -491,6 +488,9 @@ https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="NOTICIAS", 71 LA NACION (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
 
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="NOTICIAS", 71 LA NACION (🇦🇷) ytb
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
