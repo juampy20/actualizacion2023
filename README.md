@@ -431,7 +431,7 @@ C5N
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="NOTICIAS", 67 C5N (🇦🇷) fw
-https://edge-mix05-coe.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
+*https://edge-mix05-coe.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -441,6 +441,9 @@ https://edge-mix05-coe.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="NOTICIAS", 68 C5N (🇦🇷) ss
 *https://csc-ptn-edge01.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="NOTICIAS", 68 C5N (🇦🇷) ytb
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 
 CRONICA TV
