@@ -659,6 +659,35 @@ flow
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/flowmusic.webp" group-title="MUSICA",99 FLOW 1 (🇦🇷) fw
 https://edge-vod04-hr.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd
 
+#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQMM Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:173_HD.smil/manifest.mpd
+
+#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Latin
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:174_HD.smil/manifest.mpd
+
+#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:175_HD.smil/manifest.mpd
+
+#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Gym
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:176_HD.smil/manifest.mpd
+
+#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Pop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:183_HD.smil/manifest.mpd
+
+#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Rock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:185_HD.smil/manifest.mpd
+
+#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Remember
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:212_HD.smil/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="MUSICA",100 RETROPLUS 1 (🇦🇷) m3u
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
