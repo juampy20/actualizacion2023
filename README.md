@@ -363,7 +363,8 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="NOTICIAS",  61 CANAL 26 (🇦🇷) ss
 *https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 
-
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="NOTICIAS",  61 CANAL 26 (🇦🇷) m3u
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 TN TODO NOTICIAS
 
