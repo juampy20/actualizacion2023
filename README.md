@@ -59,8 +59,7 @@ AMERICA
 
 
 
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="ARGENTINA", 4 AMERICA iphone(🇦🇷) 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="ARGENTINA", 4 AMERICA iphone(🇦🇷)
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
