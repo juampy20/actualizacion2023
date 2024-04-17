@@ -42,7 +42,7 @@ AMERICA
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="ARGENTINA", 3 AMERICA (🇦🇷) fw
-*https://qn-01282-mun-1-01-2.flow-live.qwilted-cds.cqloud.com/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
 
 
 
