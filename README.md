@@ -545,7 +545,7 @@ QUIERO
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/quiero.webp" group-title="MUSICA", 90 QUIERO MUSICA (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_Lz1m2g0Wh4/X4zqmxnB9jI/AAAAAAAA7Gk/xGsoiBNfcTIXpUh_NaOilLOjY8MVKeu1wCLcBGAsYHQ/s350/quiero.png" group-title="MUSICA", 90 QUIERO MUSICA (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
 
 
@@ -658,31 +658,34 @@ flow
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/flowmusic.webp" group-title="MUSICA",99 FLOW 1 (🇦🇷) fw
 https://edge-vod04-hr.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd
 
-#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQMM Hits
+
+
+
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/hits-hqm-logo.png"  group-title="MUSICA", HQMM Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:173_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Latin
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/latin-hqm-logo.png"  group-title="MUSICA", HQM Latin
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:174_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Kids
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/kids-hqm-logo.png"  group-title="MUSICA", HQM Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:175_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Gym
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/gym-hqm-logo.png"  group-title="MUSICA", HQM Gym
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:176_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Pop
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA", HQM Pop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:183_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Rock
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png"  group-title="MUSICA", HQM Rock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:185_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://t4.ftcdn.net/jpg/05/19/00/27/360_F_519002714_AYaTcYZed9CDd78CsAPgBgCxuM8BxIEZ.jpg"  group-title="MUSICA", HQM Remember
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/remember-hqm-logo.png"  group-title="MUSICA", HQM Remember
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:212_HD.smil/manifest.mpd
 
