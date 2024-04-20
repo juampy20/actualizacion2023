@@ -1414,7 +1414,7 @@ TOONCAST
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="INFANTILES",186 TOONCAST (🇦🇷) fw
-https://edge-live15-hr.cvattv.com.ar/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
 
 
