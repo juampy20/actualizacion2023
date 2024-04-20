@@ -713,21 +713,9 @@ https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:181_HD.smil/manifest
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:182_HD.smil/manifest.mpd
 
-
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="MUSICA",110 RETROPLUS 1 (🇦🇷) m3u
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://co.radio.net/images/broadcasts/a2/00/21869/1/c300.png" group-title="MUSICA",112 RECUERDOS RETRO (🇨🇱) m3u
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1062_Canal_VM_Latino.png" group-title="MUSICA",113 VM LATINO (🇨🇱) m3u
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png" group-title="MUSICA",114 TOP MUSIC (🇧🇷) m3u
-https://isaocorp.cloudecast.com/toptv/index.m3u8?WebM3UCL
-
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",test 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:184_HD.smil/manifest.mpd
 
 
 
