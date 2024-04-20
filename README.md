@@ -689,35 +689,49 @@ https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:185_HD.smil/manifest
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:212_HD.smil/manifest.mpd
 
+
+
+
+
 #EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",test 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:177_HD.smil/manifest.mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:186_HD.smil/manifest.mpd
 
 #EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",test 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:178_HD.smil/manifest.mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:187_HD.smil/manifest.mpd
 
 #EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",test 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:179_HD.smil/manifest.mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:188_HD.smil/manifest.mpd
 
 #EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",test 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:180_HD.smil/manifest.mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:189_HD.smil/manifest.mpd
 
 #EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",test 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:181_HD.smil/manifest.mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:190_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",test 6
+
+
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",tv kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:182_HD.smil/manifest.mpd
 
+
+
 #EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",test 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:184_HD.smil/manifest.mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:191_HD.smil/manifest.mpd
 
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",test 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:192_HD.smil/manifest.mpd
 
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",test 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:193_HD.smil/manifest.mpd
 
 
 ------------------ -------------------CINE -----------------------------------------------
