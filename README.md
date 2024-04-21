@@ -1228,7 +1228,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/160/160/0/0/32909050074718.png" group-title="DOCUMENTALES Y CULTURA", 151 LOVE NATURE (🇦🇷) ss
-https://cdn.sensa.com.ar/live/eds/LoveNature/live_dash_cld/LoveNature.mpd
+https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd
 
 
 
