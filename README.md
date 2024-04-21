@@ -357,7 +357,7 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="NOTICIAS",  61 CANAL 26 (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/Canal26/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 
 
 
@@ -377,7 +377,8 @@ https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="NOTICIAS", 63 TODO NOTICIAS (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/TN/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
+
 
 
 
@@ -413,7 +414,8 @@ https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="NOTICIAS",66 A 24 (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/A24/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
+
 
 
 C5N 
@@ -439,7 +441,8 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="NOTICIAS", 68 C5N (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/C5N/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
+
 
 
 
@@ -457,7 +460,8 @@ https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="NOTICIAS",69 CRONICA TV (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/Cronica/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
+
 
 
 
@@ -487,7 +491,8 @@ LA NACION
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="NOTICIAS", 71 LA NACION (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/LaNacionMas/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/LaNacion/live_dash_cld/LaNacion.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="NOTICIAS", 71 LA NACION (🇦🇷) ytb
@@ -515,7 +520,8 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Na
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png" group-title="NOTICIAS", 73 CNN (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/CnnINT/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd
+
 
 
 
@@ -526,7 +532,8 @@ https://cdn.sensa.com.ar/bpk-tv/CnnINT/default/index.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" group-title="NOTICIAS", 74 CNN ESPAÑOL (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/CnnEspanol/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd
+
 
 
 TELESUR
