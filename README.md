@@ -556,7 +556,7 @@ QUIERO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_Lz1m2g0Wh4/X4zqmxnB9jI/AAAAAAAA7Gk/xGsoiBNfcTIXpUh_NaOilLOjY8MVKeu1wCLcBGAsYHQ/s350/quiero.png" group-title="MUSICA", 90 QUIERO MUSICA (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/QuieroMusica/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
 
 
 
@@ -569,7 +569,7 @@ MI MUSICA HIT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png" group-title="MUSICA", 91 MI MUSICA HITS (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/MiMusicaHit/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/MiMusicaHits/live_dash_cld/MiMusicaHits.mpd
 
 
 
@@ -580,7 +580,8 @@ https://cdn.sensa.com.ar/bpk-tv/MiMusicaHit/default/index.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png" group-title="MUSICA", 92 MI MUSICA ROMANTICA (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/MiMusicaRomantica/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -590,7 +591,8 @@ https://cdn.sensa.com.ar/bpk-tv/MiMusicaRomantica/default/index.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png" group-title="MUSICA",93 MI MUSICA REGGAETON (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/MiMusicaReggaeton/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/MiMusicaRegaeton/live_dash_cld/MiMusicaRegaeton.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -600,7 +602,8 @@ https://cdn.sensa.com.ar/bpk-tv/MiMusicaReggaeton/default/index.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png" group-title="MUSICA", 94 MI MUSICA POP (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/MiMusicaKPOP/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
+
 
 
 MTV
@@ -612,7 +615,8 @@ MTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="MUSICA", 95 MTV (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/MTV/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd
+
 
 
 
