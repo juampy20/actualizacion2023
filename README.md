@@ -1669,7 +1669,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
+https://cdn.sensa.com.ar/bpk-tv/FoxSports2/default/index.mpd
 
 
 FOX SPORTS 3 
@@ -1746,7 +1746,7 @@ ESPN PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
+https://cdn.sensa.com.ar/bpk-tv/FoxSportsPremium/default/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="SPORTS FUTBOL ARGENTINA",251 ESPN PREMIUM (🇦🇷) fw
@@ -1791,7 +1791,7 @@ TNT SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://csc-ptn-edge01.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1829,7 +1829,7 @@ https://edge-mix02-ird.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/T
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://csc-ptn-edge01.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+https://cdn.sensa.com.ar/bpk-tv/TYCSports/default/index.mpd
 
 
 
@@ -2551,7 +2551,7 @@ NOVELISIMA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/160/160/0/0/68355397076898.png" group-title="MEXICO",452 NOVELISIMA (🇲🇽) ss
-https://csc-ptn-edge01.sensa.com.ar/bpk-tv/Novelis/default/index.mpd
+https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd
 
 
 TELENOVELAS
@@ -2564,7 +2564,9 @@ TELENOVELAS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png" group-title="MEXICO",453 TELENOVELAS (🇲🇽) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd
+https://cdn.sensa.com.ar/bpk-tv/Tlnovelas/default/index.mpd
+
+
 
 TELEMUNDO
 
@@ -2575,7 +2577,7 @@ TELEMUNDO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093074301.png" group-title="MEXICO",454 TELEMUNDO (🇲🇽) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
+https://cdn.sensa.com.ar/bpk-tv/Telemundo/default/index.mpd
 
 
 
