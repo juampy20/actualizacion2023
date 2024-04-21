@@ -569,7 +569,8 @@ MI MUSICA HIT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png" group-title="MUSICA", 91 MI MUSICA HITS (🇦🇷) ss
-https://cdn.sensa.com.ar/live/eds/MiMusicaHits/live_dash_cld/MiMusicaHits.mpd
+https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
+
 
 
 
@@ -580,7 +581,7 @@ https://cdn.sensa.com.ar/live/eds/MiMusicaHits/live_dash_cld/MiMusicaHits.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png" group-title="MUSICA", 92 MI MUSICA ROMANTICA (🇦🇷) ss
-https://cdn.sensa.com.ar/live/eds/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
+https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
 
 
 
@@ -591,7 +592,8 @@ https://cdn.sensa.com.ar/live/eds/MiMusicaRomantica/live_dash_cld/MiMusicaRomant
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png" group-title="MUSICA",93 MI MUSICA REGGAETON (🇦🇷) ss
-https://cdn.sensa.com.ar/live/eds/MiMusicaRegaeton/live_dash_cld/MiMusicaRegaeton.mpd
+https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd
+
 
 
 
@@ -603,6 +605,7 @@ https://cdn.sensa.com.ar/live/eds/MiMusicaRegaeton/live_dash_cld/MiMusicaRegaeto
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png" group-title="MUSICA", 94 MI MUSICA POP (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
+
 
 
 
@@ -1652,7 +1655,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/Fo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSportes1.mpd
+https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
 
 
 
