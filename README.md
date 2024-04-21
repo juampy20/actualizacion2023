@@ -8,7 +8,6 @@
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
 
-
 EL NUEVE
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -29,7 +28,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="ARGENTINA", 2 EL NUEVE (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/Canal9/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
 
 
 
@@ -55,7 +54,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/Ameri
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="ARGENTINA", 4 AMERICA (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/America/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 
 
 
@@ -82,7 +81,7 @@ https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="ARGENTINA", 5 EL TRECE (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/Canal13/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
 
 
 
@@ -126,7 +125,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://cdn.sensa.com.ar/bpk-tv/Telefe/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 
 
@@ -141,7 +140,7 @@ TV PUBLICA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="ARGENTINA",11 TV PUBLICA (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/TVPublica/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -193,7 +192,7 @@ VOLVER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/160/160/0/0/371516250745.png" group-title="ARGENTINA",17 CANAL VOLVER (🇦🇷) ss
-https://cdn.sensa.com.ar/bpk-tv/Volver/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -285,7 +284,6 @@ NET TV
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
 #EXTINF:-1 tvg-logo="https://canalnet.tv/_templates/mobile/includes/img/_logo-alt.png" group-title="ARGENTINA",23 NET TV (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd
-
 
 
 ----------------------------------URUGUAY----------------------------------------
