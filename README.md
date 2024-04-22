@@ -3,8 +3,6 @@
 
 
 
-
-
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
 
@@ -1964,7 +1962,7 @@ AMERICA SPORTS
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.1778388779_AmericaSports(LogoversinYouTube).png.411cff340122cc92171a6af830c0243e.png" group-title="SPORTS DEPORTES VARIOS",303 AMERICA SPORTS (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_01/large_55.png.b16840144f7c170cb9dc31bff9cb1369.png" group-title="SPORTS DEPORTES VARIOS",303 AMERICA SPORTS (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd
 
 
