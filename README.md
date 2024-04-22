@@ -2587,7 +2587,7 @@ NOVELISIMA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/160/160/0/0/68355397076898.png" group-title="MEXICO",452 NOVELISIMA (🇲🇽) ss
-https://cdn.sensa.com.ar/bpk-tv/Novelis/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/Novelis/live_dash_cld/Novelis.mpd
 
 
 TELENOVELAS
@@ -2600,7 +2600,7 @@ TELENOVELAS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png" group-title="MEXICO",453 TELENOVELAS (🇲🇽) ss
-https://cdn.sensa.com.ar/bpk-tv/Tlnovelas/default/index.mpd
+https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd
 
 
 
@@ -2613,8 +2613,7 @@ TELEMUNDO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093074301.png" group-title="MEXICO",454 TELEMUNDO (🇲🇽) ss
-https://cdn.sensa.com.ar/bpk-tv/Telemundo/default/index.mpd
-
+https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
 
 
 
