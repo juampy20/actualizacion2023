@@ -2529,7 +2529,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_antena3_antes.jpg" group-title="ESPAÑA", 431 ANTENA TRES (🇪🇸) mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1vEZ3ojfn7N3-tM8pCS1E9lHJzx22SZfpOv3oofWatGJr4d7jo_ybF-VtM__6vMl2qFg&usqp=CAU" group-title="ESPAÑA", 431 ANTENA TRES (🇪🇸) m3U8
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_premium.smil/manifest.m3u8
 
 
