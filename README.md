@@ -1345,6 +1345,12 @@ https://tastemade-es16tm-samsung.amagi.tv/playlist480p.m3u8
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55595&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930
 
 
+#EXTINF:-1 group-title="COCINA Y MODA" , tvg-logo="https://w7.pngwing.com/pngs/801/875/png-transparent-television-channel-television-show-playlist-fashionbox-hd-fashion-search-box-purple-television-text.png",169 Fashion Box
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:223_HD.smil/manifest.m3u8
+
+
+
+
 ----------------------------------------- INFANTILES ------------------------------------------
 -----------------------------------------------------------------------------------------------
 
@@ -2212,6 +2218,11 @@ VENUS
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "Bdlz2YeRUSDlZ4gPUKQirw","kid": "NCN9KuZoTuegEfW5x8Q+bQ"}],"type": "temporary"}
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0ZZ2hw/venus.png" group-title="ADULTOS", 342 VENUS (🇺🇸) fw
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
+
+#EXTINF:-1 tvg-logo="https://www.altice.com.do/assets/imgs/premium-channels/adults/Eroxxx_HD.png" group-title="ADULTOS", 343 ERO XXX  
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/manifest.m3u8
+
+
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/943_Live_Cams.png",343 Live Cams  | US (🇺🇸)
 http://cdn.adultiptv.net/livecams.m3u8
