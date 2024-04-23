@@ -2519,9 +2519,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_antena3_antes.jpg" group-title="ESPAÑA", 431 ANTENA TRES (🇪🇸) mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a9e74b80c7cefa177926fc90eb05988:54e2cb64384e73b37b19d8c50e9479a4
-https://ott.zapitv.com/live/eds_c2/test/dash_live_enc/test.mpd
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_premium.smil/manifest.m3u8
 
 
  
