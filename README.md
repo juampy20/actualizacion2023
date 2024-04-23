@@ -1342,7 +1342,7 @@ https://tastemade-es16tm-samsung.amagi.tv/playlist480p.m3u8
 
 
 #EXTINF:-1 group-title="COCINA Y MODA" , tvg-logo="https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052",168 CANAL COCINA (🇲🇽)
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55595&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.m3u8
 
 
 #EXTINF:-1 group-title="COCINA Y MODA" , tvg-logo="https://w7.pngwing.com/pngs/801/875/png-transparent-television-channel-television-show-playlist-fashionbox-hd-fashion-search-box-purple-television-text.png",169 Fashion Box
