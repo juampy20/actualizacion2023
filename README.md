@@ -2793,9 +2793,20 @@ https://n4.dramaticreadings.com:999/hls/mlspasshd2.m3u8?md5=cGTYxltij5W370wTUgWY
 
 
 
+------------CAZA Y PEZCA -------------
+--------------------------
 
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://contenidostv.es/images/iberaliaPesca-512.png" group-title="CAZA Y PEZCA",620 IBERALIA 100% PEZCA
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_premium.smil/manifest.m3u8
 
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://contenidostv.es/images/iberaliaCaza-512.png" group-title="CAZA Y PEZCA",620 IBERALIA 100% CAZA
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_premium.smil/manifest.m3u8
 
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2017/07/iberalia_tv_logo.jpg" group-title="CAZA Y PEZCA",620 IBERALIA ORIGINAL
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:38_premium.smil/manifest.m3u8
+
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://www.gofishingbcn.com/wp-content/uploads/2020/01/caza-y-pesca-logo-ok.png" group-title="CAZA Y PEZCA",620 CAZA-PEZCA
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:39_premium.smil/manifest.m3u8
 
 
 
