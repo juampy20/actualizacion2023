@@ -6,6 +6,12 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:47_HD.smil/mani
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="test", 1 mpd
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:47_HD.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="test", 2 mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:46_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="test",2
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:46_HD.smil/manifest.m3u8
+
 
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
