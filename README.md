@@ -2225,51 +2225,58 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/man
 #EXTINF:-1 tvg-logo="https://www.altice.com.do/assets/imgs/premium-channels/adults/erox_hd.png" group-title="ADULTOS", 344 ERO X
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.m3u8
 
+#EXTINF:-1 ,tvg-logo="https://www.pinpng.com/pngs/m/6-66178_hustler-hustler-tv-logo-png-transparent-png.png" group-title="ADULTOS", 345 HUSTLER TV
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_premium.smil/manifest.m3u8
 
+#EXTINF:-1 , tvg-logo="https://logowik.com/content/uploads/images/private3963.logowik.com.webp" group-title="ADULTOS", 346 PRIVATE
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_premium.smil/manifest.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/943_Live_Cams.png",345 Live Cams  | US (🇺🇸)
+#EXTINF:-1 , tvg-logo="https://www.egesat.de/media/image/product/10918/md/redlight-elite-hd-9-sender-viaccess-12-monate-redlighthd-hustlerhd-auf-hotbird-in-viaccess.jpg" group-title="ADULTOS", 347 RED LIGHT HD
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_premium.smil/manifest.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/943_Live_Cams.png",348 Live Cams  | US (🇺🇸)
 http://cdn.adultiptv.net/livecams.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/942_Gangbang.png",346 Gangbang  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/942_Gangbang.png",349 Gangbang  | US (🇺🇸)
 http://cdn.adultiptv.net/gangbang.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/923_Big_Tits.png",347 Big Tits  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/923_Big_Tits.png",350 Big Tits  | US (🇺🇸)
 http://cdn.adultiptv.net/bigtits.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/930_Big_Dick.png",348 Big Dick  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/930_Big_Dick.png",351 Big Dick  | US (🇺🇸)
 http://cdn.adultiptv.net/bigdick.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/931_Big_Ass.png",349 Big Ass  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/931_Big_Ass.png",352 Big Ass  | US (🇺🇸)
 http://cdn.adultiptv.net/bigass.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/932_Anal.png",350 Anal  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/932_Anal.png",353 Anal  | US (🇺🇸)
 http://cdn.adultiptv.net/anal.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/933_Teen.png",351 Teen  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/933_Teen.png",354 Teen  | US (🇺🇸)
 http://cdn.adultiptv.net/teen.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/934_Latina.png",352 Latina  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/934_Latina.png",355 Latina  | US (🇺🇸)
 http://cdn.adultiptv.net/latina.m3u8
  
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/935_Blonde.png",353 Blonde  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/935_Blonde.png",356 Blonde  | US (🇺🇸)
 http://cdn.adultiptv.net/blonde.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/936_Brunette.png",354 Brunette  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/936_Brunette.png",357 Brunette  | US (🇺🇸)
 http://cdn.adultiptv.net/brunette.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/937_Interracial.png",355 Interracial  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/937_Interracial.png",358 Interracial  | US (🇺🇸)
 http://cdn.adultiptv.net/interracial.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/938_POV.png",356 POV  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/938_POV.png",359 POV  | US (🇺🇸)
 http://cdn.adultiptv.net/pov.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/939_Blowjob.png",357 Blowjob  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/939_Blowjob.png",360 Blowjob  | US (🇺🇸)
 http://cdn.adultiptv.net/blowjob.m3u8
 
-#EXTINF:-1  group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/940_Threesome.png",358 Threesome  | US (🇺🇸)
+#EXTINF:-1  group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/940_Threesome.png",361 Threesome  | US (🇺🇸)
 http://cdn.adultiptv.net/threesome.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/941_Rough.png",359 Rough  | US (🇺🇸)
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.m3u.cl/logo/941_Rough.png",362 Rough  | US (🇺🇸)
 http://cdn.adultiptv.net/rough.m3u8
 
 
