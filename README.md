@@ -2081,6 +2081,10 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/laliga6363.logowik.com.webp" group-title="SPORTS DEPORTES VARIOS",315 LA LIGA
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:62_premium.smil/manifest.m3u8
+
+
 --------------------------------------- DEPORTES DAZN --------------------------------------------
 --------------------------------------------------------------------------------------------------
 
