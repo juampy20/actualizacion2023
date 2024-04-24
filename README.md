@@ -2229,7 +2229,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/man
 #EXTINF:-1 tvg-logo="https://www.altice.com.do/assets/imgs/premium-channels/adults/erox_hd.png" group-title="ADULTOS", 344 ERO X
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.m3u8
 
-#EXTINF:-1 ,tvg-logo="https://www.pinpng.com/pngs/m/6-66178_hustler-hustler-tv-logo-png-transparent-png.png" group-title="ADULTOS", 345 HUSTLER TV
+#EXTINF:-1 ,tvg-logo="https://admin.worldlivetv.stream/upload/files/thumbnail/vuth_1673716884_74755_60326.png" group-title="ADULTOS", 345 HUSTLER TV
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_premium.smil/manifest.m3u8
 
 #EXTINF:-1 , tvg-logo="https://logowik.com/content/uploads/images/private3963.logowik.com.webp" group-title="ADULTOS", 346 PRIVATE
