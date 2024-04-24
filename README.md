@@ -293,7 +293,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/canal4uy.webp" group-title="URUGUAY",40 CANAL 4  (🇺🇾) fw
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/canal4uy.webp" group-title="🇺🇾 URUGUAY",40 CANAL 4  (🇺🇾) fw
 https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -303,7 +303,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7baf323b4717329ca4db5c9eca6fa396:85eb3ccdd825b8cfbb18e07ef22cd111
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/canal10.webp" group-title="URUGUAY",41 CANAL 10 (🇺🇾) dtv
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/canal10.webp" group-title="🇺🇾 URUGUAY",41 CANAL 10 (🇺🇾) dtv
 https://1187-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -313,7 +313,7 @@ https://1187-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/teledoce.webp" group-title="URUGUAY",42 TELEDOCE (🇺🇾) dtv
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/teledoce.webp" group-title="🇺🇾 URUGUAY",42 TELEDOCE (🇺🇾) dtv
 https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -323,7 +323,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/tvc.png" group-title="URUGUAY",43 TV CIUDAD (🇺🇾) dtv
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/tvc.png" group-title="🇺🇾 URUGUAY",43 TV CIUDAD (🇺🇾) dtv
 https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd
 
 
