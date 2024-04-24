@@ -550,7 +550,7 @@ QUIERO
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_Lz1m2g0Wh4/X4zqmxnB9jI/AAAAAAAA7Gk/xGsoiBNfcTIXpUh_NaOilLOjY8MVKeu1wCLcBGAsYHQ/s350/quiero.png" group-title="MUSICA", 90 QUIERO MUSICA (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_Lz1m2g0Wh4/X4zqmxnB9jI/AAAAAAAA7Gk/xGsoiBNfcTIXpUh_NaOilLOjY8MVKeu1wCLcBGAsYHQ/s350/quiero.png" group-title="🎵 MUSICA", 90 QUIERO MUSICA (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
 
 
@@ -563,7 +563,7 @@ MI MUSICA HIT
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png" group-title="MUSICA", 91 MI MUSICA HITS (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png" group-title="🎵 MUSICA", 91 MI MUSICA HITS (🇦🇷) ss
 https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
 
 
@@ -575,7 +575,7 @@ https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png" group-title="MUSICA", 92 MI MUSICA ROMANTICA (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png" group-title="🎵 MUSICA", 92 MI MUSICA ROMANTICA (🇦🇷) ss
 https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
 
 
@@ -586,7 +586,7 @@ https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRoma
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png" group-title="MUSICA",93 MI MUSICA REGGAETON (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/160/160/0/0/11385912076761.png" group-title="🎵 MUSICA",93 MI MUSICA REGGAETON (🇦🇷) ss
 https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd
 
 
@@ -598,7 +598,7 @@ https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaRegg
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png" group-title="MUSICA", 94 MI MUSICA POP (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png" group-title="🎵 MUSICA", 94 MI MUSICA POP (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
 
 
@@ -612,7 +612,7 @@ MTV
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="MUSICA", 95 MTV (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="🎵 MUSICA", 95 MTV (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd
 
 
@@ -628,7 +628,7 @@ MTV HITS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/2011_MTV_Hits_Logo.png" group-title="MUSICA", 96 MTV HITS (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/2011_MTV_Hits_Logo.png" group-title="🎵 MUSICA", 96 MTV HITS (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd
 
 
@@ -641,7 +641,7 @@ MTV 00
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA",97 MTV 00  (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="🎵 MUSICA",97 MTV 00  (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd
 
 HTV
@@ -654,7 +654,7 @@ HTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="MUSICA",98 HTV (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="🎵 MUSICA",98 HTV (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
 
 flow
@@ -668,41 +668,41 @@ flow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/flowmusic.webp" group-title="MUSICA",99 FLOW 1 (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/flowmusic.webp" group-title="🎵 MUSICA",99 FLOW 1 (🇦🇷) fw
 https://edge-vod04-hr.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd
 
 
 
 
-#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/hits-hqm-logo.png"  group-title="MUSICA", 100 HQMM Hits
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/hits-hqm-logo.png"  group-title="🎵 MUSICA", 100 HQMM Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:173_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/latin-hqm-logo.png"  group-title="MUSICA",101 HQM Latin
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/latin-hqm-logo.png"  group-title="🎵 MUSICA",101 HQM Latin
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:174_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/kids-hqm-logo.png"  group-title="MUSICA",102 HQM Kids
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/kids-hqm-logo.png"  group-title="🎵 MUSICA",102 HQM Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:175_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/gym-hqm-logo.png"  group-title="MUSICA",103 HQM Gym
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/gym-hqm-logo.png"  group-title="🎵 MUSICA",103 HQM Gym
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:176_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="MUSICA",104 HQM Pop
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png"  group-title="🎵 MUSICA",104 HQM Pop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:183_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png"  group-title="MUSICA",105 HQM Rock
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png"  group-title="🎵 MUSICA",105 HQM Rock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:185_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/remember-hqm-logo.png"  group-title="MUSICA",106 HQM Remember
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/remember-hqm-logo.png"  group-title="🎵 MUSICA",106 HQM Remember
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:212_HD.smil/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/chill-out-hqm-logo.png"  group-title="MUSICA",107 HQM Chill Out
+#EXTINF:-1, tvg-logo="https://hqm.es/wp-content/uploads/chill-out-hqm-logo.png"  group-title="🎵 MUSICA",107 HQM Chill Out
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:186_HD.smil/manifest.mpd
 
