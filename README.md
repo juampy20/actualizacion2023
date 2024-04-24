@@ -2420,91 +2420,91 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="TURF CARRERAS DE CABALLOS",398 Hipodromo de la plata (🇦🇷)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png/v1/fill/w_90,h_90/34a0d2_c025222decd2404a92f7ee0f50998ad8~mv2.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",398 Hipodromo de la plata (🇦🇷)
 https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9KO7jPKrhxuAmnfrzw8b-Uv53dPcc_NwE9c7c7wpAw&s"  group-title="TURF CARRERAS DE CABALLOS",399 Hipodromo de PALERMO (🇦🇷)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9KO7jPKrhxuAmnfrzw8b-Uv53dPcc_NwE9c7c7wpAw&s"  group-title="🐎 TURF CARRERAS DE CABALLOS",399 Hipodromo de PALERMO (🇦🇷)
 https://ythls.armelin.one/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8   
 
 
-#EXTINF:-1 tvg-logo="https://hipodromosanisidro.com/wp-content/uploads/2019/05/logo_hsi_home_Mesa-de-trabajo-1.png"  group-title="TURF CARRERAS DE CABALLOS",400 Hipodromo de San Isidro (🇦🇷)
+#EXTINF:-1 tvg-logo="https://hipodromosanisidro.com/wp-content/uploads/2019/05/logo_hsi_home_Mesa-de-trabajo-1.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",400 Hipodromo de San Isidro (🇦🇷)
 https://ythls.armelin.one/channel/UC3M7efaO9uxT0LTl3BSKvGg.m3u8 
 
-#EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="TURF CARRERAS DE CABALLOS",401 Teletrak TV (🇨🇱)
+#EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",401 Teletrak TV (🇨🇱)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.atg.se/services/cms/img/e1647ee6a70df5933c8130e6f6ba8f3a465f11fe6002c4814721d9149b0348c9/1a758aa7-9716-42ce-b1d1-63e3812eb4b8/atg-logo-campaign-site-logo.png"  group-title="TURF CARRERAS DE CABALLOS", 402 ATG Live (🇦🇺)
+#EXTINF:-1 tvg-logo="https://www.atg.se/services/cms/img/e1647ee6a70df5933c8130e6f6ba8f3a465f11fe6002c4814721d9149b0348c9/1a758aa7-9716-42ce-b1d1-63e3812eb4b8/atg-logo-campaign-site-logo.png"  group-title="🐎 TURF CARRERAS DE CABALLOS", 402 ATG Live (🇦🇺)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png"  group-title="TURF CARRERAS DE CABALLOS", 403 RACING CH (🇦🇺)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png"  group-title="🐎 TURF CARRERAS DE CABALLOS", 403 RACING CH (🇦🇺)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Equidia.png"  group-title="TURF CARRERAS DE CABALLOS",404 Equidia Pro (🇦🇺)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Equidia.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",404 Equidia Pro (🇦🇺)
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.stoixima.com.gr/wp-content/uploads/2019/10/stoixima-logo-330px-v2-inv.png"  group-title="TURF CARRERAS DE CABALLOS",405 Estoixima (🇺🇸)
+#EXTINF:-1 tvg-logo="https://www.stoixima.com.gr/wp-content/uploads/2019/10/stoixima-logo-330px-v2-inv.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",405 Estoixima (🇺🇸)
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie_1000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",406 Dubai Racing (🇸🇦)
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",406 Dubai Racing (🇸🇦)
 https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="TURF CARRERAS DE CABALLOS",407 Dubai Racing 2 (🇸🇦)
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/66/782/png-clipart-cape-thoroughbred-sales-cape-thoroughbred-sales-farm-horse-racing-others-horse-miscellaneous-thumbnail.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",407 Dubai Racing 2 (🇸🇦)
 https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 408 SAT 1 (🇺🇸)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="🐎 TURF CARRERAS DE CABALLOS", 408 SAT 1 (🇺🇸)
 https://5.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",409 SAT 2 (🇺🇸)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",409 SAT 2 (🇺🇸)
 https://5.trstream01.xyz/canal3/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",410 SAT 3 (🇺🇸)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",410 SAT 3 (🇺🇸)
 https://2.trstream01.xyz/canal4/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",411 SAT 4 (🇺🇸)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",411 SAT 4 (🇺🇸)
 https://3.trstream01.xyz/canal2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",412 SAT 5 (🇺🇸)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",412 SAT 5 (🇺🇸)
 https://2.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS",413 SAT 6 (🇺🇸)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",413 SAT 6 (🇺🇸)
 https://3.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 414 SAT 7 (🇺🇸)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="🐎 TURF CARRERAS DE CABALLOS", 414 SAT 7 (🇺🇸)
 https://1.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="TURF CARRERAS DE CABALLOS", 415 SAT 8 (🇺🇸)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Roberts_logo.png"  group-title="🐎 TURF CARRERAS DE CABALLOS", 415 SAT 8 (🇺🇸)
 https://4.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",416 Jockey C BR 1 (🇧🇷)
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",416 Jockey C BR 1 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu1/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",417 Jockey C BR 2 (🇧🇷)
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",417 Jockey C BR 2 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu2/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",418 Jockey C BR 3 (🇧🇷)
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",418 Jockey C BR 3 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu3/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",419 Jockey C BR 4 (🇧🇷)
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",419 Jockey C BR 4 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu4/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",420 Jockey C BR 5 (🇧🇷)
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",420 Jockey C BR 5 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu5/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",421 Jockey C BR 6 (🇧🇷)
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",421 Jockey C BR 6 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu6/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",422 Jockey C BR 7 (🇧🇷)
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",422 Jockey C BR 7 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu7/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="TURF CARRERAS DE CABALLOS",423 Jockey C BR 8 (🇧🇷)
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2019/06/jockey-logo-2.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",423 Jockey C BR 8 (🇧🇷)
 https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 
 
@@ -2521,39 +2521,39 @@ https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="ESPAÑA", 430 ANTENA 3 INT (🇪🇸) fw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="🇪🇸 ESPAÑA", 430 ANTENA 3 INT (🇪🇸) fw
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1vEZ3ojfn7N3-tM8pCS1E9lHJzx22SZfpOv3oofWatGJr4d7jo_ybF-VtM__6vMl2qFg&usqp=CAU" group-title="ESPAÑA", 431 ANTENA TRES (🇪🇸) m3U8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1vEZ3ojfn7N3-tM8pCS1E9lHJzx22SZfpOv3oofWatGJr4d7jo_ybF-VtM__6vMl2qFg&usqp=CAU" group-title="🇪🇸 ESPAÑA", 431 ANTENA TRES (🇪🇸) m3U8
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_premium.smil/manifest.m3u8
 
 
-#EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA",433 LA SEXTA HD (🇪🇸) mpd
+#EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="🇪🇸 ESPAÑA",433 LA SEXTA HD (🇪🇸) mpd
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="ESPAÑA",434 CAZA & PESCA (🇪🇸) mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="🇪🇸 ESPAÑA",434 CAZA & PESCA (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
 https://cache4.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/500px-DMax_Espa%C3%B1a.svg.png" group-title="ESPAÑA", 435 DMAX (🇪🇸) mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/500px-DMax_Espa%C3%B1a.svg.png" group-title="🇪🇸 ESPAÑA", 435 DMAX (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73e55164b719d1210351f86093bc3ec3:792ffb4e6ebbe2aae394061f01948e40
 https://ott.zapitv.com/live/eds_c2/dmax/dash_live_enc/dmax.mpd
 
-#EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="ESPAÑA",436 CUATRO (🇪🇸) mpd
+#EXTINF:-1 tvg-logo="https://www.telefonodirecto.es/wp-content/uploads/2017/07/Tel%C3%A9fono-de-Cuatro.jpg" group-title="🇪🇸 ESPAÑA",436 CUATRO (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
 https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
 
-#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" group-title="ESPAÑA",437 LA UNO (🇪🇸) mpd
+#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" group-title="🇪🇸 ESPAÑA",437 LA UNO (🇪🇸) mpd
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_premium.smil/manifest.m3u8
  
-#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/250px-Logo_TVE-2.svg.png" group-title="ESPAÑA",438 LA DOS (🇪🇸) mpd
+#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/250px-Logo_TVE-2.svg.png" group-title="🇪🇸 ESPAÑA",438 LA DOS (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
 https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
@@ -2573,7 +2573,7 @@ EL CANAL DE LAS ESTRELLAS
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/120px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="MEXICO", 450 LAS ESTRELLAS (🇲🇽) fw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/120px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="🇲🇽 MEXICO", 450 LAS ESTRELLAS (🇲🇽) fw
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd
 
 
@@ -2586,7 +2586,7 @@ PASIONES
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="MEXICO",451 PASIONES (🇲🇽) fw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="🇲🇽 MEXICO",451 PASIONES (🇲🇽) fw
 https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
 
 
@@ -2598,7 +2598,7 @@ NOVELISIMA
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/160/160/0/0/68355397076898.png" group-title="MEXICO",452 NOVELISIMA (🇲🇽) ss
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/160/160/0/0/68355397076898.png" group-title="🇲🇽 MEXICO",452 NOVELISIMA (🇲🇽) ss
 https://cdn.sensa.com.ar/live/eds/Novelis/live_dash_cld/Novelis.mpd
 
 
@@ -2611,7 +2611,7 @@ TELENOVELAS
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png" group-title="MEXICO",453 TELENOVELAS (🇲🇽) ss
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png" group-title="🇲🇽 MEXICO",453 TELENOVELAS (🇲🇽) ss
 https://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd
 
 
@@ -2624,20 +2624,20 @@ TELEMUNDO
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093074301.png" group-title="MEXICO",454 TELEMUNDO (🇲🇽) ss
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093074301.png" group-title="🇲🇽 MEXICO",454 TELEMUNDO (🇲🇽) ss
 https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
 
 
 
 AZTECA INTERNACIONAL
 
-#EXTINF:-1 tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" group-title="MEXICO", 455 AZTECA INTERNACIONAL (🇲🇽)
+#EXTINF:-1 tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" group-title="🇲🇽 MEXICO", 455 AZTECA INTERNACIONAL (🇲🇽)
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
 TELEMUNDO
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="MEXICO", 456 TELEMUNDO CA (🇲🇽)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="🇲🇽 MEXICO", 456 TELEMUNDO CA (🇲🇽)
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
