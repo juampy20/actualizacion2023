@@ -2528,7 +2528,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_premium.smil/manifest.m3u8
 
 
-#EXTINF:-1 tvg-id="la1.es"  tvg-id="lasexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="🇪🇸 ESPAÑA",433 LA SEXTA HD (🇪🇸) mpd
+#EXTINF:-1 tvg-id="lasexta.es" tvg-id="lasexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="🇪🇸 ESPAÑA",433 LA SEXTA HD (🇪🇸) mpd
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
 
 
@@ -2548,7 +2548,7 @@ https://ott.zapitv.com/live/eds_c2/dmax/dash_live_enc/dmax.mpd
 #KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
 https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
 
-#EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" group-title="🇪🇸 ESPAÑA",437 LA UNO (🇪🇸) mpd
+#EXTINF:-1 tvg-id="la1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" group-title="🇪🇸 ESPAÑA",437 LA UNO (🇪🇸) mpd
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_premium.smil/manifest.m3u8
  
 #EXTINF:-1 tvg-id="la2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/250px-Logo_TVE-2.svg.png" group-title="🇪🇸 ESPAÑA",438 LA DOS (🇪🇸) mpd
