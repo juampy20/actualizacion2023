@@ -44,7 +44,6 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/Ameri
 
 
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
