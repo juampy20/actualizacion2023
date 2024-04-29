@@ -55,6 +55,13 @@ https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 9 LITORAL(🇦🇷)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNURpai.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL DE LA CIUDAD(🇦🇷)
+https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL TDC(🇦🇷)
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
+
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
 
