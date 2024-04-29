@@ -46,8 +46,14 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 7 NEUQUEN(🇦🇷)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 7 TV(🇦🇷)
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPYspga…hthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 8 SAN JUAN(🇦🇷)
+https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 9 LITORAL(🇦🇷)
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
