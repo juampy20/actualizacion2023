@@ -49,7 +49,7 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 7 TV(🇦🇷)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPYspga…hthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 8 SAN JUAN(🇦🇷)
+#EXTINF:-1 tvg-logo="https://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8-2.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 8 SAN JUAN(🇦🇷)
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 9 LITORAL(🇦🇷)
@@ -60,6 +60,12 @@ https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL TDC(🇦🇷)
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="	https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL U ARGENTTINA(🇦🇷)
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="	https://i.imgur.com/b6RerDw.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL CHACO TV(🇦🇷)
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 
 ---------------------ARGENTINAS --------------------------
