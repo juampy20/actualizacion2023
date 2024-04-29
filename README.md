@@ -28,6 +28,17 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 4 ESQUEL(🇦🇷)
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 4 POSADAS(🇦🇷)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 5 PICO TRUNCADO(🇦🇷)
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 5 SANTA FE(🇦🇷)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+
+
 
 
 
