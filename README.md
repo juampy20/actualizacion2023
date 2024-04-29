@@ -16,9 +16,17 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 LAS HERAS(🇦🇷)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 PINAMAR(🇦🇷)
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xUiQvk8.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 40 CAUCETE(🇦🇷)
+https://canalsj.kozow.com/canal40/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xYbED7.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 4 BALCARCE(🇦🇷)
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 4 ESQUEL(🇦🇷)
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
 
 
