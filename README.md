@@ -76,6 +76,10 @@ https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sm2oUGF.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL EL ONCE(🇦🇷)
 https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PqmBSqp.jpg" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL EL PALOMAR(🇦🇷)
+https://stream.trixserver.com:3249/live/uv038live.m3u8
+
+
 
 
 ---------------------ARGENTINAS --------------------------
