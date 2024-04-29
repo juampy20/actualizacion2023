@@ -61,11 +61,14 @@ https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL TDC(🇦🇷)
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="	https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL U ARGENTTINA(🇦🇷)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL U ARGENTTINA(🇦🇷)
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="	https://i.imgur.com/b6RerDw.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL CHACO TV(🇦🇷)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL CHACO TV(🇦🇷)
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL COSMOS(🇦🇷)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
 ---------------------ARGENTINAS --------------------------
