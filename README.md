@@ -25,7 +25,8 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="🇦🇷 ARGENTINA", 2 EL NUEVE (🇦🇷) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
+https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
+
 
 
 
