@@ -3295,8 +3295,7 @@ http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/701.ts
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/702.ts
 #EXTINF:-1 group-title="→ 24/7 ←" tvg-number="725" tvg-name="24/7: MR BEAN" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: MR BEAN
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/703.ts
-#EXTINF:-1 group-title="→ 24/7 ←" tvg-number="726" tvg-name="24/7: CHAPULIN COLORADO" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: CHAPULIN COLORADO
-http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/704.ts
+
 #EXTINF:-1 group-title="→ 24/7 ←" tvg-number="727" tvg-name="24/7: EL CHAVO DEL 8" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: EL CHAVO DEL 8
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/705.ts
 #EXTINF:-1 group-title="→ 24/7 ←" tvg-number="728" tvg-name="24/7: ALF" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: ALF
@@ -3427,8 +3426,7 @@ http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/767.ts
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/768.ts
 #EXTINF:-1 group-title="→ 24/7 ←" tvg-number="791" tvg-name="24/7: LOS SIMPSON" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: LOS SIMPSON
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/769.ts
-#EXTINF:-1 group-title="→ 24/7 ←" tvg-number="792" tvg-name="24/7: INFANTILES" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: INFANTILES
-http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/770.ts
+
 #EXTINF:-1 group-title="→ 24/7 ←" tvg-number="793" tvg-name="24/7: CANTINFLAS" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: CANTINFLAS
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/771.ts
 #EXTINF:-1 group-title="→ 24/7 ←" tvg-number="794" tvg-name="24/7: THE BIG BANG THEORY" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: THE BIG BANG THEORY
@@ -3479,14 +3477,11 @@ http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/793.ts
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/794.ts
 #EXTINF:-1 group-title="→ 24/7 ←" tvg-number="817" tvg-name="24/7: ANIMANIACS" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: ANIMANIACS
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/795.ts
-#EXTINF:-1 group-title="→ 24/7 ←" tvg-number="818" tvg-name="24/7: BREAKING BAD" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: BREAKING BAD
-http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/796.ts
-#EXTINF:-1 group-title="→ 24/7 ←" tvg-number="819" tvg-name="24/7: CSI MIAMI" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: CSI MIAMI
-http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/797.ts
+
+
 #EXTINF:-1 group-title="→ 24/7 ←" tvg-number="820" tvg-name="24/7: EL GALLO CLAUDIO" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: EL GALLO CLAUDIO
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/798.ts
-#EXTINF:-1 group-title="→ 24/7 ←" tvg-number="821" tvg-name="24/7: JORGE EL CURIOSO" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: JORGE EL CURIOSO
-http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/799.ts
+
 #EXTINF:-1 group-title="→ 24/7 ←" tvg-number="822" tvg-name="24/7: LA FAMILIA MONSTER" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: LA FAMILIA MONSTER
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/800.ts
 #EXTINF:-1 group-title="→ 24/7 ←" tvg-number="823" tvg-name="24/7: LA HORA PICO" tvg-id="None" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png",24/7: LA HORA PICO
