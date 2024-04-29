@@ -1,5 +1,26 @@
 #EXTM3U
 
+-----------canales del interior argentina---------
+---------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="	https://i.imgur.com/bZMEiYe.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 34 SAN JUAN (🇦🇷)
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 FORMOSA (🇦🇷)
+https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 LA PAMPA(🇦🇷)
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 LAS HERAS(🇦🇷)
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+
+
+
+
+
+
 
 
 ---------------------ARGENTINAS --------------------------
