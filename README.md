@@ -40,6 +40,13 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 6 POSADAS(🇦🇷)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 7 JUJUY(🇦🇷)
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 7 NEUQUEN(🇦🇷)
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+
 
 
 ---------------------ARGENTINAS --------------------------
