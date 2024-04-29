@@ -70,6 +70,13 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL COSMOS(🇦🇷)
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL ECO TV(🇦🇷)
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sm2oUGF.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL EL ONCE(🇦🇷)
+https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
+
+
 
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
