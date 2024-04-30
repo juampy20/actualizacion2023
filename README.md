@@ -1,84 +1,5 @@
 #EXTM3U
 
------------canales del interior argentina---------
----------------------------------------------------
-
-
-#EXTINF:-1 tvg-logo="	https://i.imgur.com/bZMEiYe.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 34 SAN JUAN (🇦🇷)
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 FORMOSA (🇦🇷)
-https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 LA PAMPA(🇦🇷)
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 LAS HERAS(🇦🇷)
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 PINAMAR(🇦🇷)
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xUiQvk8.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 40 CAUCETE(🇦🇷)
-https://canalsj.kozow.com/canal40/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xYbED7.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 4 BALCARCE(🇦🇷)
-https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 4 ESQUEL(🇦🇷)
-https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 4 POSADAS(🇦🇷)
-https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 5 PICO TRUNCADO(🇦🇷)
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 5 SANTA FE(🇦🇷)
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 6 POSADAS(🇦🇷)
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 7 JUJUY(🇦🇷)
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 7 NEUQUEN(🇦🇷)
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 7 TV(🇦🇷)
-https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8-2.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 8 SAN JUAN(🇦🇷)
-https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 9 LITORAL(🇦🇷)
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fNURpai.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL DE LA CIUDAD(🇦🇷)
-https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL TDC(🇦🇷)
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL U ARGENTTINA(🇦🇷)
-https://stream.arcast.live/canalu/canalu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL CHACO TV(🇦🇷)
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL COSMOS(🇦🇷)
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL ECO TV(🇦🇷)
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sm2oUGF.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL EL ONCE(🇦🇷)
-https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PqmBSqp.jpg" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL EL PALOMAR(🇦🇷)
-https://stream.trixserver.com:3249/live/uv038live.m3u8
-
 
 
 
@@ -3341,6 +3262,85 @@ https://servidor2.hostradios.com/proxy/sc_larad?mp=/stream
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 1050 SAN FRANCISCO (🇦🇷)
 https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
+
+-----------canales del interior argentina---------
+---------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="	https://i.imgur.com/bZMEiYe.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 34 SAN JUAN (🇦🇷)
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 FORMOSA (🇦🇷)
+https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 LA PAMPA(🇦🇷)
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 LAS HERAS(🇦🇷)
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 3 PINAMAR(🇦🇷)
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xUiQvk8.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 40 CAUCETE(🇦🇷)
+https://canalsj.kozow.com/canal40/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xYbED7.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 4 BALCARCE(🇦🇷)
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 4 ESQUEL(🇦🇷)
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 4 POSADAS(🇦🇷)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 5 PICO TRUNCADO(🇦🇷)
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 5 SANTA FE(🇦🇷)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 6 POSADAS(🇦🇷)
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 7 JUJUY(🇦🇷)
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 7 NEUQUEN(🇦🇷)
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 7 TV(🇦🇷)
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8-2.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 8 SAN JUAN(🇦🇷)
+https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL 9 LITORAL(🇦🇷)
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNURpai.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL DE LA CIUDAD(🇦🇷)
+https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL TDC(🇦🇷)
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL U ARGENTTINA(🇦🇷)
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL CHACO TV(🇦🇷)
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL COSMOS(🇦🇷)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL ECO TV(🇦🇷)
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sm2oUGF.png" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL EL ONCE(🇦🇷)
+https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PqmBSqp.jpg" group-title="🇦🇷 INTERIOR DEL PAIS", CANAL EL PALOMAR(🇦🇷)
+https://stream.trixserver.com:3249/live/uv038live.m3u8
 
 
 
