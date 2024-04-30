@@ -1469,8 +1469,6 @@ PAKAPAKA
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/160/160/0/0/46888977071492.png" group-title="🧸 INFANTILES", 187 PAKA PAKA (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
 
-#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/magic-kids.png" group-title="🧸 INFANTILES", 188 MAGIC KIDS (🇦🇷) 
-https://magicstream.ddns.net/magicstream/stream.m3u8
 
 
 
