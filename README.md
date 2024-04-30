@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="test"   tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",test (HD) »1«
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://ad20171t.onlinehdhls.ru/fls/cdn/myfeed81/playlist.m3u8
+
 
 
 ---------------------ARGENTINAS --------------------------
@@ -2211,7 +2208,10 @@ https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8|Origin=https://webliveh
 https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="⚽ DAZN",329 DAZN 1  (🇪🇸) m3u8 sd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://ad20171t.onlinehdhls.ru/fls/cdn/myfeed81/playlist.m3u8
 
 
 -------------------------------------------- ADULTOS ----------------------------------------------
