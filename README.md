@@ -1,7 +1,9 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 group-title="test"   tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",test (HD) »1«
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvfutbol.info/
+https://c97b18de54a4e.choosingnothing.com/hls/d14fe44bfbfe047d-3f49a564fbfa3f4f58f132b03581bbeb8652026743fe9a012ceaa09ddd1628ca/live.m3u8
 
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
