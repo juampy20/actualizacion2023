@@ -2362,8 +2362,6 @@ https://csc-ptn-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
 
 EL DOCE DE CORDOBA
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_Doce_C%C3%B3rdoba_%28Logo_2005%29.png/revision/latest/scale-to-width-down/200?cb=20200418035603" group-title="🌐 REGIONAL",376 EL DOCE Cordoba (🇦🇷)
-https://csc-ptn-edge01.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_Doce_C%C3%B3rdoba_%28Logo_2005%29.png/revision/latest/scale-to-width-down/200?cb=20200418035603" group-title="🌐 REGIONAL",376 EL DOCE Cordoba opcion 2(🇦🇷)
 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
