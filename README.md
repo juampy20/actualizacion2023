@@ -1973,6 +1973,8 @@ https://edge-vod04-hr.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="⚽ DEPORTES VARIOS", 301 DEPORTV (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="⚽ DEPORTES VARIOS", 301.1 DEPORTV (🇦🇷) m3u8
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w607596883.m3u8
 
 
 
