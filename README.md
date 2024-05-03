@@ -1576,11 +1576,13 @@ ESPN 3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ ESPN",206 ESPN 3 (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
 
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="⚽ ESPN",207 ESPN 4 (🇦🇷) ss
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="⚽ ESPN",207 ESPN 4 (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
 
 
