@@ -2,8 +2,6 @@
 
 
 
-
-
 #EXTINF:-1,PPV 05 | BOXING | CANELO VS MUNGUIA PRE SHOW
 http://totalplay.site:80/familiaaimar/R99GqEEA9C/218966.ts
 #EXTINF:-1,PPV 06 | BOXING | CANELO VS MUNGUIA | PRELIMS | 5.30 PM ET | SAT
@@ -14,8 +12,6 @@ http://totalplay.site:80/familiaaimar/R99GqEEA9C/218968.ts
 http://totalplay.site:80/familiaaimar/R99GqEEA9C/218969.ts
 #EXTINF:-1,PPV 09 | BOXING | CANELO VS MUNGUIA | MAIN | 8.00 PM ET | SAT  | ESPANOL
 http://totalplay.site:80/familiaaimar/R99GqEEA9C/218970.ts
-
-
 
 
 
