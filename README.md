@@ -2,16 +2,7 @@
 
 
 
-#EXTINF:-1,#EXTINF:-1 tvg-logo="-" group-title="🇦🇷 boxeo",  CANELO VS MUNGUIA PRE SHOW
-http://totalplay.site:80/familiaaimar/R99GqEEA9C/218966.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-logo="-" group-title="🇦🇷 boxeo" CANELO VS MUNGUIA | PRELIMS | 5.30 PM ET | SAT
-http://totalplay.site:80/familiaaimar/R99GqEEA9C/218967.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-logo="-" group-title="🇦🇷 boxeo" CANELO VS MUNGUIA | MAIN | 8.00 PM ET | SAT
-http://totalplay.site:80/familiaaimar/R99GqEEA9C/218968.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-logo="-" group-title="🇦🇷 boxeo"CANELO VS MUNGUIA | PRELIMS | 5.30 PM ET | SAT  | ESPANOL
-http://totalplay.site:80/familiaaimar/R99GqEEA9C/218969.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-logo="-" group-title="🇦🇷 boxeo" CANELO VS MUNGUIA | MAIN | 8.00 PM ET | SAT  | ESPANOL
-http://totalplay.site:80/familiaaimar/R99GqEEA9C/218970.m3u8
+
 
 
 
