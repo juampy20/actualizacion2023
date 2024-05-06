@@ -241,6 +241,14 @@ https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
 https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/368/CH_LOGO/160/160/0/0/446218910784.png" group-title="📲 4g lista",26 AMERICA SPORTS (🇦🇷) ss
+https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd
 
 
 
