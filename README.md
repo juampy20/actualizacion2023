@@ -2269,6 +2269,10 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 ----------------------------------DEPORTES VARIOS---------------------------------------
 -----------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/extreme-vector-logo-design-600w-589652018.jpg" group-title="⚽ DEPORTES VARIOS", 299 DEPORTES EXTREMOS (🇺🇸) 
+#EXTINF:-1 tvg-id="-" tvg-name="-" tvg-logo="-" group-title="test",dibujos animados 2
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
