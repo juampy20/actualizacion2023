@@ -1730,6 +1730,36 @@ https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
 
 
 
+#EXTINF:-1 group-title="🧸 INFANTILES",  Baby TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"O9i01I5JViOCFXTnl6F9Xg","k":"IX0w8RdgMYOqf3V8NgIvaA"},{"kty":"oct","kid":"7dlhwIg/UP2MDZFan+e1Jw","k":"Dm604osDJkb2xt+2JcwLUg"},{"kty":"oct","kid":"RWIhX2SSUoCKyL+tYRkKRw","k":"h2ABMMywKqypwdBhc4ky9w"}]}
+https://tvup-gra-livegeo.secure2.footprint.net/babytv/babytv.mpd
+
+#EXTINF:-1 group-title="🧸 INFANTILES", Disney Junior
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:264_HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="🧸 INFANTILES", Nick JR
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:261_HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="🧸 INFANTILES", Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b383c9207bf4e178200126b3e67df30:e42f4fc0a0250da87a36c0372d908904
+https://mad01.cdn.avatel.tv/live/eds/nick/MPEG-DASH_Scrambled_High/nick.mpd
+
+#EXTINF:-1 group-title="🧸 INFANTILES", Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"3LyS06dfUweh7EL8hYf9Pw","k":"uBusleW2XPfRatKj/kT0zA"},{"kty":"oct","kid":"iU3epGIaV/+l2MeImAFQpg","k":"4KDb67D6nEJO3brUZOigrA"},{"kty":"oct","kid":"YGGL2SaNW8KI1eZxEGkZZg","k":"SmqO3qfEwWYOfDbpJ3+7Rw"}]}
+https://tvup-gra-livegeo.secure2.footprint.net/disneychannel6/disneychannel6.mpd
+
+#EXTINF:-1 group-title="🧸 INFANTILES", Boing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97c3e5f52bf51efe706c221930bc2b5b:b9473af4e52eaa9c9def9f8a5c54333c
+https://ott.zapitv.com/live/eds_c2/boing/dash_live_enc/boing.mpd
+
+
+
+
+
 
 ---------------------------------------- DEPORTES ESPN ------------------------------------------
 -------------------------------------------------------------------------------------------------
