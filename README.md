@@ -3029,9 +3029,9 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_premium.smil
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
+#KODIPROP:inputstream.adaptive.license_key=533de0c3a6fd523bbcdd1d450ef0ed21:b5a645df77c37e24ae3fc40231472770
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="⚽ DIRECTV SPORTS",800 DIRECTV +
-https://1264-abc.dtvott.com/dash_live_1071/manifest.mpd
+https://0135-jbc-da-bpk.dtvott.com/dash_live_0135/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
