@@ -1943,6 +1943,9 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QESPNETV/dash/manifest.mpd
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/espn5.webp" group-title="⚽ ESPN",214 ESPN 5 COLOMBIA (🇨🇴) cl
 https://clbpktstvdash-2.clarovideo.com/bpk-tv/FOXSPORTSHD/dash_fk/index.mpd
 
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
