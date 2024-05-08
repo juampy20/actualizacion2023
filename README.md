@@ -3020,13 +3020,16 @@ https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.m
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddh2/premium524/playlist.m3u8|Origin=https://weblivehdplay.ru/
+https://ddy2.onlinehdhls.ru/ddy2/premium524/playlist.m3u8|Origin=https://weblivehdplay.ru/
+
 
 #EXTINF:-1 group-title="🚴 EUROSPORTS" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" ,1003  EUROSPORTS 2 Adaptative
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://salamus2023.onlinehdhls.ru/ddy3/premium525/playlist.m3u8|Origin=https://weblivehdplay.ru/
+https://ddy3.onlinehdhls.ru/ddy3/premium525/playlist.m3u8|Origin=https://weblivehdplay.ru/
+
+
 
 #EXTINF:-1 group-title="🚴 EUROSPORTS" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" ,1004  EUROSPORTS 1 FHD
 #EXTVLCOPT:network-caching=1500
