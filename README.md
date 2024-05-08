@@ -2,7 +2,6 @@
 
 
 
-
 ----------------4g----------
 --------------------------
 
@@ -3110,8 +3109,17 @@ canal excclusivo----
 #EXTINF:-1 group-title="📀 EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO (🇦🇷) 
 https://cdnhd.iblups.com/hls/mPkyt6ZMC6.m3u8
 
+#EXTINF:-1 group-title="📀 EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,801 CANAL EXCLUSIVO 2 (🇦🇷) 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://abolishstand.net/
+https://bkqye8ar5mwd3utvnj7x4c.cdnstrength.net:8443/hls/vndxx07b0.m3u8?s=5QHu6ldowTRSKxW_8ZBc_Q&e=1715229726
 
-
+#EXTINF:-1 group-title="📀 EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,802 CANAL EXCLUSIVO 3 (🇦🇷) 
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n4.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=2bDnSfjTBMuQ6rT0rlX0yg&expires=1715214956
 
 
 
