@@ -28,6 +28,11 @@ https://3.tutl24.xyz/live/ST18b4985ca2e5b53.m3u8|referer=https://tutlehd4.xyz/
 #EXTVLCOPT:http-referrer=https://choosingnothing.com/
 https://5c8w7bahdedizw.choosingnothing.com/hls/6f7a0278c300de3a-d260c41ed5d8dc3160414e51f2c82005372ab18c51dc60fb43610635883704e5/live.m3u8
 
+
+----------------4g----------
+--------------------------
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
