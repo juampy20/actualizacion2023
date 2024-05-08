@@ -2270,7 +2270,7 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 -----------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/extreme-vector-logo-design-600w-589652018.jpg" group-title="⚽ DEPORTES VARIOS", 299 DEPORTES EXTREMOS (🇺🇸) 
-#EXTINF:-1 tvg-id="-" tvg-name="-" tvg-logo="-" group-title="test",dibujos animados 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=860
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3385,134 +3385,9 @@ https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/
 
 
 
--------------------eventos------------
---------------------------------------
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",650 Eventos 1  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",651 Eventos 2  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",652 Eventos 3  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",653 Eventos 4  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",654 Eventos 5  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",655 Eventos 6  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",656 Eventos 7  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_7.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",657 Eventos 8  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_8.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",658 Eventos 9  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_9.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",659 Eventos 10  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_10.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",660 Eventos 11  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_11.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",661 Eventos 12  m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://sportsleading.online/live/stream_12.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",662 Eventos 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",663 Eventos 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",664 Eventos 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",665 Eventos 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",666 Eventos 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",667 Eventos 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",668 Eventos 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_7.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",669 Eventos 20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_8.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",670 Eventos 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_9.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",671 Eventos 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_10.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",672 Eventos 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_11.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",673 Eventos 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_12.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0.bodas.com.mx/vendor/6366/3_2/960/jpg/eventos-chanel-logo.jpeg" group-title="🥏 EVENTOS SPORTS",674 Eventos 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_13.m3u8
 
 
 
