@@ -2148,15 +2148,6 @@ https://edge-mix02-ird.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_da
 
 
 
-#EXTINF:-1  tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="⚽ FUTBOL ARGENTINA", 253 ESPN PREMIUM (🇦🇷) php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium387/index.m3u8|Origin=https://weblivehdplay.ru/
-
-
-
-
-
 TNT SPORTS
 
 
