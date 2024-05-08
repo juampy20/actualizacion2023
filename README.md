@@ -3039,6 +3039,14 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_premium.smil
 -----DIRECTV-----
 ------------------
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="⚽ DIRECTV SPORTS",799 DIRECTV ARGETNIA (Solo Eventos)
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n5.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=sK5E3BpbatwoZU3Z3Jn5zg&expires=1715184671
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
