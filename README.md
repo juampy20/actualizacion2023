@@ -3048,7 +3048,7 @@ http://46.240.143.86/Eurosport2/video.m3u8?token=test
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n5.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=sK5E3BpbatwoZU3Z3Jn5zg&expires=1715184671
+https://n4.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=2bDnSfjTBMuQ6rT0rlX0yg&expires=1715214956
 
 
 
