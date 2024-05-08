@@ -1,7 +1,9 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 tvg-logo="-" group-title="test", 1  (🇪🇸) m3u8 sd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choosingnothing.com/
+https://5c8w7bahdedizw.choosingnothing.com/hls/6f7a0278c300de3a-d260c41ed5d8dc3160414e51f2c82005372ab18c51dc60fb43610635883704e5/live.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
