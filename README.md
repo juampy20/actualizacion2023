@@ -11,10 +11,16 @@ https://3.tutl24.xyz/live/ST18b4985ca2e5b53.m3u8
 #EXTVLCOPT:http-referrer=https://tutlehd4.xyz/epro3.php
 https://3.tutl24.xyz/live/ST18b4985ca2e5b53.m3u8
 
-#EXTINF:-1 tvg-logo="-" group-title="test", DIRECTV 2 (🇪🇸) m3u8 sd
+#EXTINF:-1 tvg-logo="-" group-title="test", DIRECTV 3 (🇪🇸) m3u8 sd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tutlehd4.xyz/
 https://3.tutl24.xyz/live/ST18b4985ca2e5b53.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="test", DIRECTV 4 (🇪🇸) m3u8 sd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tutlehd4.xyz/
+https://3.tutl24.xyz/live/ST18b4985ca2e5b53.m3u8|referer=https://tutlehd4.xyz/
+
 
 
 #EXTINF:-1 tvg-logo="-" group-title="test", 1  (🇪🇸) m3u8 sd
