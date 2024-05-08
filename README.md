@@ -1,32 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="-" group-title="test", DIRECTV (🇪🇸) m3u8 sd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tutlehd4.xyz/epro3.php?&a=7&s=9uiouvpap3lpngm822fqmcobos&ip=45.7.209.199&useragent=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F124.0.0.0+Safari%2F537.36&referer=https%3A%2F%2Fjac-tv.com%2F
-https://3.tutl24.xyz/live/ST18b4985ca2e5b53.m3u8
 
-#EXTINF:-1 tvg-logo="-" group-title="test", DIRECTV 2 (🇪🇸) m3u8 sd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tutlehd4.xyz/epro3.php
-https://3.tutl24.xyz/live/ST18b4985ca2e5b53.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="test", DIRECTV 3 (🇪🇸) m3u8 sd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tutlehd4.xyz/
-https://3.tutl24.xyz/live/ST18b4985ca2e5b53.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="test", DIRECTV 4 (🇪🇸) m3u8 sd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tutlehd4.xyz/
-https://3.tutl24.xyz/live/ST18b4985ca2e5b53.m3u8|referer=https://tutlehd4.xyz/
-
-
-
-#EXTINF:-1 tvg-logo="-" group-title="test", 1  (🇪🇸) m3u8 sd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choosingnothing.com/
-https://5c8w7bahdedizw.choosingnothing.com/hls/6f7a0278c300de3a-d260c41ed5d8dc3160414e51f2c82005372ab18c51dc60fb43610635883704e5/live.m3u8
 
 
 ----------------4g----------
