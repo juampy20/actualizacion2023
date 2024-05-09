@@ -3117,9 +3117,7 @@ https://bkqye8ar5mwd3utvnj7x4c.cdnstrength.net:8443/hls/vndxx07b0.m3u8?s=5QHu6ld
 
 #EXTINF:-1 group-title="📀 EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,802 CANAL EXCLUSIVO 3 (🇦🇷) 
 #EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n9.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=6rGLe1UhXQiNt275q60OIA&expires=1715219282
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/eLAdyJE98-utmLMIeL3HVzAkoZFbgtVrVfTOA_oDqhYsNjyJ6MoVSl2GzcbV_NGS6b1f5VnTFdgiF2vpACdxaw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
 
 
