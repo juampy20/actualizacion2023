@@ -1937,7 +1937,7 @@ https://clbpktstvdash-3.clarovideo.com/bpk-tv/FOXSPORTS1HD/dash_fk/index.mpd
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="⚽ ESPN"  ,212 ESPN 5 Chile (🇨🇴)
+#EXTINF:-1  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="⚽ ESPN"  ,214 ESPN 5 Chile (🇨🇱)
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
 
 
