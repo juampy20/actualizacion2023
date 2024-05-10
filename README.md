@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="-" group-title="GUIA DE PROGRAMACION", 09/05/2024
-https://sendeyo.com/updownload/file/script/1a09a000a8e5440d0605cc053040e8c7.mp4
+https://anyconv.com/api/action/download/fcb8c3aef2bef87fa91fafeb3589f389/?name=2024-05-10%2012-27-07.m3u8
 
 ----------------4g----------
 --------------------------
