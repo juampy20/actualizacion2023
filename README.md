@@ -2352,10 +2352,7 @@ GOLF  CHANNEL
 https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
 
 
-TIGO SPORTS CENTROAMERICA
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="⚽ DEPORTES VARIOS",306 TIGO SPORTS (🇵🇪)
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 
 VTV
@@ -2491,30 +2488,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 
-DAZN 1 
-
-
-#EXTINF:-1 group-title="⚽ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,323 DAZN 1 (🇪🇸) php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium445/index.m3u8|Origin=https://weblivehdplay.ru/
-
-
-#EXTINF:-1 group-title="⚽ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,324 DAZN 2 (🇪🇸) php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium446/index.m3u8|Origin=https://weblivehdplay.ru/
-
-#EXTINF:-1 group-title="⚽ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,325 DAZN 3 (🇪🇸) php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium447/index.m3u8|Origin=https://weblivehdplay.ru/
-
-
-#EXTINF:-1 group-title="⚽ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,326 DAZN 4 (🇪🇸) php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium448/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
 DAZN 2
@@ -2525,16 +2498,7 @@ DAZN 2
 https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
-#EXTINF:-1 group-title="⚽ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" ,328 DAZN LA LIGA (🇪🇸) php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8|Origin=https://weblivehdplay.ru/
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="⚽ DAZN",329 DAZN 1  (🇪🇸) m3u8 sd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://ad20171t.onlinehdhls.ru/fls/cdn/myfeed81/playlist.m3u8
 
 
 -------------------------------------------- ADULTOS ----------------------------------------------
@@ -2951,17 +2915,6 @@ PASIONES
 https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
 
 
-NOVELISIMA
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/160/160/0/0/68355397076898.png" group-title="🇲🇽 MEXICO",452 NOVELISIMA (🇲🇽) ss
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Novelis/live_dash_cld/Novelis.mpd
-
 
 TELENOVELAS
 
@@ -3109,41 +3062,11 @@ https://cdnhd.iblups.com/hls/mPkyt6ZMC6.m3u8
 formula 1----
 -------------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="🏁 FORMULA 1",699 DAZN FORMULA 1 (🇪🇸) mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="FORMULA 1",320 DAZN FORMULA 1 (🇪🇸) mpd
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
-
-#EXTINF:-1 group-title="🏁 FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,700 DAZN FORMULA 1 (🇪🇸) php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium537/index.m3u8|Origin=https://weblivehdplay.ru/
-
-
-#EXTINF:-1 group-title="🏁 FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,701 SKY FORMULA 1 OPCION 4 (🏴󠁧󠁢󠁥󠁮󠁧󠁿) ts
-http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275663&extension=ts&play_token=EFJ3bLhj3c
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
-#EXTINF:-1 group-title="🏁 FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,702 DAZN FORMULA 1 OPCION 8 (🇪🇸) m3u EN portugues
-https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005b57b9b4712e29641ac981ba8d3c2:ca13cdd1b96bf1877d2c7ad9ee37d52e
-#EXTINF:-1 group-title="🏁 FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,703 DAZN FORMULA 1 OPCION 9 (🇪🇸) sky sports
-https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportsf1)/manifest_720.mpd
 
 
 ---poker-----
