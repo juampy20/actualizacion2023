@@ -424,8 +424,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.m
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="🇦🇷 ARGENTINA",12 TV PUBLICA (🇦🇷) fw
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="🇦🇷 ARGENTINA",12.1 TV PUBLICA (🇦🇷) m3u8
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+
 
 
 
@@ -434,10 +433,7 @@ EL RURAL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es" group-title="🇦🇷 ARGENTINA",14 EL RURAL (🇦🇷)
 https://streamlovcd1.alsolnet.com/elrural/live/chunklist_w1205483771.m3u8
 
-CHACRA
 
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2017/03/58de3e4a33307__838x390.jpg" group-title="🇦🇷 ARGENTINA",15 CHACRA TV 
-https://s8.stweb.tv/chacra/live/chunks.m3u8 (🇦🇷)
  
 METRO
 
@@ -1877,17 +1873,7 @@ ESPN 2 MEXICO
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="⚽ ESPN",208 ESPN 2 MEXICO (🇲🇽) clr
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
 
-ESPN 2 CHILE
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=46bb4145fdcdef2bd9c94786a44c73b3:85edb7f2113ec0f9bada174c196d8e2d
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="⚽ ESPN",209 ESPN 2 CHILE (🇨🇱) clr
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN2HD/dash_fk/index.mpd
 
 
 ESPN 3 ARGENTINA
@@ -1943,17 +1929,7 @@ ESPN 4 COLOMBIA
 https://1279247418.rsc.cdn77.org/bpk-tv/QESPNETV/dash/manifest.mpd
 
 
-ESPN 5 COLOMBIA
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00435d5fd5c08ad2c363c586ee65e844:e0c911e62697db0880dd5c388aae6598
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espn5.webp" group-title="⚽ ESPN",215 ESPN 5 COLOMBIA (🇨🇴) cl
-https://clbpktstvdash-2.clarovideo.com/bpk-tv/FOXSPORTSHD/dash_fk/index.mpd
 
 
 ESPN 5 CHILE
