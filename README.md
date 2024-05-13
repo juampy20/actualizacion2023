@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="-" group-title="🏀⚽⚾🏈🥎GUIA DE PROGRAMACION🏀⚽⚾🏈🥎",GUIA
-https://video.wixstatic.com/video/34a0d2_d900618967a54909a7dfe34c175d28c6/360p/mp4/file.mp4
+https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/13/23/20/DDyWXTiG6pcu/media/hls/720p30/playlist.m3u8
+
 
 
 ----------------4g----------
