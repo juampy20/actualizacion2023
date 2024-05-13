@@ -3111,10 +3111,12 @@ canal excclusivo----
 ---------------------
 
 
-#EXTINF:-1 group-title="📀 EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO (🇦🇷) 
+#EXTINF:-1 group-title="📀 EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO opcion 1 (🇦🇷) 
 https://cdnhd.iblups.com/hls/mPkyt6ZMC6.m3u8
 
 
+#EXTINF:-1 group-title="📀 EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,801 CANAL EXCLUSIVO opcion 2 (🇦🇷) 
+https://cdnhd.iblups.com/hls/wCdPAY5bmT.m3u8
 
 
 formula 1----
