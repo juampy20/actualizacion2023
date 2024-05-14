@@ -12,6 +12,9 @@ https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15b
 #EXTINF:-1 tvg-logo="-" group-title="GUIA DE EVENTOS",GUIA 3
 https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15bf3f/media/hls/360p30/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="GUIA DE EVENTOS",GUIA 4
+https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15bf3f/media/hls/720p30/1.ts
+
 
 
 ----------------4g----------
