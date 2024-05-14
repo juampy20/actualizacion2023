@@ -3,16 +3,20 @@
 
 
 #EXTINF:-1 tvg-logo="-" group-title="✅✅✅ GUIA DE EVENTOS",✅✅✅ GUIA  1
-https://stream.kick.com/ivs/v1/196233775518/U6sx3O8ZodqQ/2024/5/14/15/40/JaKQQsH7stHU/media/hls/360p30/0.ts
-
+https://stream.kick.com/ivs/v1/196233775518/U6sx3O8ZodqQ/2024/5/14/15/51/sl2RlLmrTYIz/media/hls/720p30/1.ts
 
 
 #EXTINF:-1 tvg-logo="-" group-title="✅✅✅ GUIA DE EVENTOS",✅✅✅ GUIA  2
-https://stream.kick.com/ivs/v1/196233775518/U6sx3O8ZodqQ/2024/5/14/15/40/JaKQQsH7stHU/media/hls/360p30/1.ts
+https://stream.kick.com/ivs/v1/196233775518/U6sx3O8ZodqQ/2024/5/14/15/51/sl2RlLmrTYIz/media/hls/720p30/2.ts
+
 
 
 #EXTINF:-1 tvg-logo="-" group-title="✅✅✅ GUIA DE EVENTOS",✅✅✅ GUIA  3
-https://stream.kick.com/ivs/v1/196233775518/U6sx3O8ZodqQ/2024/5/14/15/40/JaKQQsH7stHU/media/hls/360p30/2.ts
+https://stream.kick.com/ivs/v1/196233775518/U6sx3O8ZodqQ/2024/5/14/15/51/sl2RlLmrTYIz/media/hls/720p30/3.ts
+
+#EXTINF:-1 tvg-logo="-" group-title="✅✅✅ GUIA DE EVENTOS",✅✅✅ GUIA  4
+https://stream.kick.com/ivs/v1/196233775518/U6sx3O8ZodqQ/2024/5/14/15/51/sl2RlLmrTYIz/media/hls/720p30/4.ts
+
 
 ----------------4g----------
 --------------------------
