@@ -2079,7 +2079,7 @@ FOX SPORTS 2
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/180/597/png-transparent-fox-sports-networks-fox-sports-sun-television-channel-fox-sports-2-civilization-network-television-text-trademark-thumbnail.png" group-title="⚽ FOX SPORTS",222 FOX SPORTS 2 (🇦🇷) fw
+#EXTINF:-1 tvg-logo="https://nebula-net.qvixsolutions.com/img/channels/fox-sports-2_c9ab9461980b46758729e229603ebaf7.png" group-title="⚽ FOX SPORTS",222 FOX SPORTS 2 (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
 
@@ -2090,7 +2090,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/180/597/png-transparent-fox-sports-networks-fox-sports-sun-television-channel-fox-sports-2-civilization-network-television-text-trademark-thumbnail.png" group-title="⚽ FOX SPORTS",223 FOX SPORTS 2 (🇲🇽) clr
+#EXTINF:-1 tvg-logo="https://nebula-net.qvixsolutions.com/img/channels/fox-sports-2_c9ab9461980b46758729e229603ebaf7.png" group-title="⚽ FOX SPORTS",223 FOX SPORTS 2 (🇲🇽) clr
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSP2MXHD)/manifest.mpd
 
 
@@ -2099,7 +2099,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/180/597/png-transparent-fox-sports-networks-fox-sports-sun-television-channel-fox-sports-2-civilization-network-television-text-trademark-thumbnail.png" group-title="⚽ FOX SPORTS",224 FOX SPORTS 2 (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://nebula-net.qvixsolutions.com/img/channels/fox-sports-2_c9ab9461980b46758729e229603ebaf7.png" group-title="⚽ FOX SPORTS",224 FOX SPORTS 2 (🇦🇷) ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
