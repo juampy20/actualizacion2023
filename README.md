@@ -1,6 +1,10 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="-" group-title="✅✅✅ GUIA DE EVENTOS",GUIA MASTER
+#EXTVLCOPT:http-referrer=https://kick.com/video/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15bf3f/media/hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="-" group-title="✅✅✅ GUIA DE EVENTOS",✅✅✅ GUIA  1
 https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15bf3f/media/hls/720p30/1.ts
