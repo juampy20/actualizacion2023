@@ -2062,7 +2062,7 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/Fo
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/180/597/png-transparent-fox-sports-networks-fox-sports-sun-television-channel-fox-sports-2-civilization-network-television-text-trademark-thumbnail.png" group-title="⚽ FOX SPORTS",221 FOX SPORTS (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="⚽ FOX SPORTS",221 FOX SPORTS (🇦🇷) ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
