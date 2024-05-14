@@ -2954,17 +2954,6 @@ https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_premium.smil/
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="🇪🇸 ESPAÑA",434 PESCA (🇪🇸) mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
-https://cache4.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="🇪🇸 ESPAÑA",434 CAZA (🇪🇸) mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
-https://cache4.zapitv.com/live/eds_c2/iberalia_caza/dash_live_enc/iberalia_caza.mpd
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/500px-DMax_Espa%C3%B1a.svg.png" group-title="🇪🇸 ESPAÑA", 435 DMAX (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3204,22 +3193,25 @@ https://n7.dramaticreadings.com:999/hls/mlspasshd2.m3u8?md5=aJs9kiqEogH3xjO1Odvw
 ------------CAZA Y PEZCA -------------
 --------------------------
 
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://contenidostv.es/images/iberaliaPesca-512.png" group-title="🎣 CAZA , PEZCA y MOTOR",620 IBERALIA 100% PEZCA
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://contenidostv.es/images/iberaliaPesca-512.png" group-title="🎣 CAZA , PESCA y MOTOR",620 IBERALIA 100% PEZCA
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://contenidostv.es/images/iberaliaCaza-512.png" group-title="🎣 CAZA , PEZCA y MOTOR",620 IBERALIA 100% CAZA
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://contenidostv.es/images/iberaliaCaza-512.png" group-title="🎣 CAZA , PESCA y MOTOR",620 IBERALIA 100% CAZA
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2017/07/iberalia_tv_logo.jpg" group-title="🎣 CAZA , PEZCA y MOTOR",620 IBERALIA ORIGINAL
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2017/07/iberalia_tv_logo.jpg" group-title="🎣 CAZA , PESCA y MOTOR",620 IBERALIA ORIGINAL
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:38_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://www.gofishingbcn.com/wp-content/uploads/2020/01/caza-y-pesca-logo-ok.png" group-title="🎣 CAZA , PEZCA y MOTOR",620 CAZA-PEZCA
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://www.gofishingbcn.com/wp-content/uploads/2020/01/caza-y-pesca-logo-ok.png" group-title="🎣 CAZA , PESCA y MOTOR",620 CAZA-PEZCA
 https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:39_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://mplay.es/images/panoramaMotorNegro512.png" group-title="🎣 CAZA , PEZCA y MOTOR",621 PANORAMA MOTOR
+#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://mplay.es/images/panoramaMotorNegro512.png" group-title="🎣 CAZA , PESCA y MOTOR",621 PANORAMA MOTOR
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket01/smil:124_HD.smil/manifest.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="🎣 CAZA , PESCA y MOTOR",434 PESCA (🇪🇸) mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
+https://cache4.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd
 
 
 -----------------------super deportes----------------
