@@ -2,21 +2,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="-" group-title="GUIA DE EVENTOS",GUIA
-https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15bf3f/media/hls/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="-" group-title="GUIA DE EVENTOS",GUIA 2
-https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15bf3f/media/hls/720p30/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="GUIA DE EVENTOS",GUIA 3
-https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15bf3f/media/hls/360p30/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="GUIA DE EVENTOS",GUIA 4
+#EXTINF:-1 tvg-logo="-" group-title="GUIA DE EVENTOS",GUIA DIARIA
+https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15bf3f/media/hls/720p30/0.ts
 https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15bf3f/media/hls/720p30/1.ts
+https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/14/0/8/gL6rzp15bf3f/media/hls/720p30/2.ts
 
-#EXTINF:-1 tvg-logo="-" group-title="GUIA DE EVENTOS",GUIA 5
-https://stream.kick.com/ivs/v1/196233775518/iQ63N98btHWQ/2024/5/4/14/12/F90jMwPuZjpV/media/hls/master.m3u8
+
 
 
 ----------------4g----------
