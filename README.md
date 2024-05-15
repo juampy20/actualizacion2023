@@ -3095,8 +3095,7 @@ https://n8.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=GlLEWS5TEqpxnlEQscoEP
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n8.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=ozw6o_fm9WgfCbHoqqIplQ&expires=1715793548
-
+https://n2.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=XJvxTNsYJ3XdpSQCW2if5Q&expires=1715793668
 
 
 
