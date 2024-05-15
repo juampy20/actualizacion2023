@@ -1676,7 +1676,8 @@ https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/carastv/livestream0
 #EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://pbs.twimg.com/profile_images/460798109979664384/GXeGjD-I_400x400.png",172 Andalucia Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
-
+#EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina Familiar España
+https://cloud.fastchannel.es/mic/manifiest/hls/cocinafamiliar/cocinafamiliar.m3u8
 
 ----------------------------------------- INFANTILES ------------------------------------------
 -----------------------------------------------------------------------------------------------
