@@ -3089,13 +3089,13 @@ http://46.240.143.86/Eurosport2/video.m3u8?token=test
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n9.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=6rGLe1UhXQiNt275q60OIA&expires=1715219282
+https://n8.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=GlLEWS5TEqpxnlEQscoEPA&expires=1715793518
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="⚽ DIRECTV SPORTS",799 DIRECTV ARGENTINA 2 (Solo Eventos)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n9.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=KSPN6__SbN3rFxtyDY6WpQ&expires=1715219312
+https://n8.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=ozw6o_fm9WgfCbHoqqIplQ&expires=1715793548
 
 
 
