@@ -2,7 +2,8 @@
 
 
 #EXTINF:-1 tvg-logo="-" group-title="✅✅✅ GUIA DE EVENTOS",✅✅✅ GUIA  1
-https://stream.kick.com/ivs/v1/196233775518/U6sx3O8ZodqQ/2024/5/14/16/3/Yl0gtZ87EhyQ/media/hls/720p30/1.ts
+https://stream.kick.com/ivs/v1/196233775518/U6sx3O8ZodqQ/2024/5/15/12/24/51jE2uGPKFMr/media/hls/720p30/1.ts
+
 
 
 
