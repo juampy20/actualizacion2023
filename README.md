@@ -3109,7 +3109,11 @@ https://techstreams.pro:8089/hls/RTu6HvH31rd/index.m3u8?st=aAJkvWPyEp1Dvo3MOo7iB
 https://n1.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=W0I2jNAW9YjPiZFY_kNlLQ&expires=1715825104
 
 
-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="⚽ DIRECTV SPORTS",799 DIRECTV ARGENTINA 3 (Solo Eventos)
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fiveyardlab.com/
+https://n8.dramaticreadings.com:999/hls/w03.m3u8?md5=9B06b2XUSH5VC26MMzU6jA&expires=1715829624
 
 
 
