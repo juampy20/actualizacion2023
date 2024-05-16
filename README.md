@@ -3096,8 +3096,8 @@ http://46.240.143.86/Eurosport2/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="⚽ DIRECTV SPORTS",799 DIRECTV ARGENTINA (Solo Eventos)
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://anceprov.best/embed/reproductor.html?id=api_v3
-https://live-ak2.vimeocdn.com/a6551c92-bbf6-4df7-8870-822622e15b04/hdntl=exp=1715906228~acl=%2f*~data=hdntl~hmac=2eff456c1638da22ad362a064b2891f6845300917c8bc8ffe9471b76def808d6/chunklist_b416000.m3u8
+#EXTVLCOPT:http-referrer=https://instream.pro/
+https://techstreams.pro:8089/hls/RTu6HvH31rd/index.m3u8?st=aAJkvWPyEp1Dvo3MOo7iBA&e=1715832022
 
 
 
