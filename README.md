@@ -2800,7 +2800,10 @@ https://csc-ptn-edge01.sensa.com.ar/output/SMT4/BRKD/output.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/160/160/0/0/86198033078075.png" group-title="🌐 REGIONAL", 375 SUARDI (🇦🇷)
 https://csc-ptn-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
 
+EL 8 CORDOBA
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_canal_8_cordoba.png" group-title="🌐 REGIONAL", 375 EL 8 CORDOBA (🇦🇷)
+https://csc-ptn-edge01.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
 
 EL DOCE DE CORDOBA
 
