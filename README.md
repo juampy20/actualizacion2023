@@ -2808,6 +2808,12 @@ EL DOCE DE CORDOBA
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_Doce_C%C3%B3rdoba_%28Logo_2005%29.png/revision/latest/scale-to-width-down/200?cb=20200418035603" group-title="🌐 REGIONAL",376 EL DOCE Cordoba opcion 2(🇦🇷)
 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="🌐 REGIONAL",376 EL 10 DE CORDOBA (🇦🇷)
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w534905177_b2486272.m3u8
+
+
+
 SRLP
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/941/CH_LOGO/160/160/0/0/12926473072353.png" group-title="🌐 REGIONAL",377 SRLP (🇦🇷)
