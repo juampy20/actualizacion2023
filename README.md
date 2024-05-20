@@ -1,9 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="-" group-title="✅✅✅ GUIA DE EVENTOS",✅✅✅ GUIA  1
-prueba de cambios
-
 
 ----------------4g----------
 --------------------------
