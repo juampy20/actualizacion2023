@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="DEPORTES",Directv Sports
