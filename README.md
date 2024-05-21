@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="test",1 test
+https://txt2.pelotalibre.lat/star_jwp.html?get=https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/05/21/Premier_Padel_Mar_del_Pla_20240521_1716287435070/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/771E0DCF8FABD4848396B7C6DB584DEEFF29286A99D30DCA8C40856A9871B525/scale?width=1920&aspectRatio=1.78&format=jpeg&key=9c5eb825592249afbee950724749cae3&key2=65f7d82038df7afba4dc4db09512e099&title=Mar%20del%20Plata%20-%20Secondary%20Court%20(Primera%20Ronda)
 
 ----------------4g----------
 --------------------------
