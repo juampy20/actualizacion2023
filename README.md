@@ -1,6 +1,17 @@
 #EXTM3U
 
-
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="DEPORTES",Directv Sports
+http://bgtv.xyz/play/play-557.php?tlat=20&token=safasdgs
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="DEPORTES",Directv Sports 2
+http://bgtv.xyz/play/play-557.php?tlat=21&token=safasdgs
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="DEPORTES",Directv Sports Plus
+http://bgtv.xyz/play/play-557.php?tlat=22&token=safasdgs
 
 ----------------4g----------
 --------------------------
