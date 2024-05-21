@@ -1,7 +1,154 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="test",1 test
-https://txt2.pelotalibre.lat/star_jwp.html?get=https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/05/21/Premier_Padel_Mar_del_Pla_20240521_1716287435070/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/771E0DCF8FABD4848396B7C6DB584DEEFF29286A99D30DCA8C40856A9871B525/scale?width=1920&aspectRatio=1.78&format=jpeg&key=9c5eb825592249afbee950724749cae3&key2=65f7d82038df7afba4dc4db09512e099&title=Mar%20del%20Plata%20-%20Secondary%20Court%20(Primera%20Ronda)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c69d2c8393d5423b1ee1a610d8bbb89:0a7cdf8676115a2cd69d0b10e610d80d
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 3
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra3/xtra3.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3c26e9626cf5574b4a52bf320b9d19c:ad521a843382c2066349e7e78047347c
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 4
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra4/xtra4.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bda165496be50abb5bcc361a452085a:d982fdac32682f84ac1345a03f6a00d9
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 5
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra5/xtra5.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d5eb1d7dc0f5c98b30d5a3fad22ba5e:3396da5899df4fec8cc3b64172e2e9ab
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 6
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra6/xtra6.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e8a461ecb258478d2d70f7effd4f3c:f223220e718764a76b1eaf9ac32c79d1
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 7
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra7/xtra7.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=442e6fc210d952b99c7a79c3a4f746d7:dfb52b483d5d7723e42cabb7f26e46c9
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 8
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra8/xtra8.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23e573863ee15c428f7ef5710f72b4af:cf566f654fabf06aba93a1f951bbb898
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 9
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra9/xtra9.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e91d19964156580e91b946ff5c9fb1b5:ef7313f5de55624fce2a2d8dae77ed4c
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 10
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra10/xtra10.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff2fd7a4b6e5c12b129d7a7648306b6:1f7d14d8479afeeaaf7493e82241ec0b
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 11
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra11/xtra11.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed4086de5e445f9bac5c093362a0f549:599aa72e49e4736f58e947ea0c34f235
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 12
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra12/xtra12.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16a2d39eb1ab526491cb75bbcdd36c11:d4ac894a6f201ae733bbd49bc205c523
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 13
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra13/xtra13.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2639c53b83ab569ea7604f6d7254cf07:b71453d8ac148772851f075812cc4ff2
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 14
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra14/xtra14.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5069ccd6e77d5f09918744ab2a1e59bd:79afa7c076f08438d951b2b50655a633
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 15
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra15/xtra15.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50bc507cbe9659beabcf6dcc66101337:e2e7f3b7f6754778ebbd5946915ba2f4
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 16
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra16/xtra16.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e482d02225d05cb68d8a0cd66bacee8b:f77b436d0893db1f70627c0ceac0553d
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 17
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra17/xtra17.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82e7f7bb461a57b9b1f83ec4cf9760c6:24aff08822e2632f25eaeb80178499b7
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 18
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra18/xtra18.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc2fcb3779458d9a8789c54ee1bc7b0:6faead88837a154db20fddab0358a32f
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 19
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra19/xtra19.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5277738f1ea154ca9bd43e4e448f3951:8391d0701a3a7b724d48cb5a3f7c3e4a
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 20
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra20/xtra20.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5238eceaf0655fc8af760cdd636c7426:1176ce340c82b3f07299e9abff731b85
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 21
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra21/xtra21.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd58d2619a9057d3a48fcc0a0f271549:d3ad44278dc2cf752e49a3ba26b69c4f
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 22
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra22/xtra22.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6a3dbc917815dc7b6072a68d5a4f97d:547e9756fbf8ccccdc64b1302c606f48
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 23
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra23/xtra23.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fde4b0dd77895f818b4a2d6eec75291c:91a7a8f680428ff44a5b9bfeb036d22f
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 25
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra25/xtra25.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91a4e93ee9595b2395539d06dc5fd6a9:ef4fbcb241952789028248c0feda01cf
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 26
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra26/xtra26.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=add43ccef90456cca64ead05b18aab4f:8b0d794123e3a35821716cd3bc7e6668
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 40
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra40/xtra40.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6565b9a95bee5ccfbfee3f248df59610:79f596efb730cdb51ff5a83f04e94ba4
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 43
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra43/xtra43.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f9f46fc5ccb58db8d85b963c4af0b17:5de15709c503b9e2881613e5d1c4871a
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 44
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra44/xtra44.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38e9d5c816f65e148a5ffe61fb9d3c7d:266cc12b3e98d48a15f8ffaefc0cc18c
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 45
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra45/xtra45.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e138256f98c5e628fe2a90225b93d91:478e7143e331fa4284c6373ffae3fb21
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 46
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra46/xtra46.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fde4b0dd77895f818b4a2d6eec75291c:91a7a8f680428ff44a5b9bfeb036d22f
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 47
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra47/xtra47.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91a4e93ee9595b2395539d06dc5fd6a9:ef4fbcb241952789028248c0feda01cf
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 48
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra48/xtra48.isml/index.mpd
 
 ----------------4g----------
 --------------------------
