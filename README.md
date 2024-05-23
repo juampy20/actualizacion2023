@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+--------------peru--------
+-------------------------
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",LATINA
+https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+
+
+
 ----------directv sports-----------
 -------------------------------------
 
