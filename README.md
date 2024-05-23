@@ -7,6 +7,11 @@
 #EXTINF:-1 tvg-logo="-" group-title="PERU",LATINA
 https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="PERU",AMERICA TV
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",TV PERU
+https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 
 
 ----------directv sports-----------
