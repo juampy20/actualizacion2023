@@ -13,6 +13,12 @@ https://live-evg4.tv360.bitel.com.pe/bitel/americatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="PERU",TV PERU
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="PERU",ATV
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",EXITOSA TV
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
+
 
 ----------directv sports-----------
 -------------------------------------
