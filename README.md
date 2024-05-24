@@ -1,22 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="STAR +",1
-https://txt2.pelotalibre.lat/star_jwp.html?get=https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/05/24/Premier_Padel_Mar_del_Pla_20240524_1716546649023/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/69F54EF558E63417EE5502FA646BA3C8BFE734DAC84053E75AF300D5D0E495F6/scale?width=1920&aspectRatio=1.78&format=jpeg&key=6be15aee26b043958fe0717f4d0fe14e&key2=bab3dc35c9939f97d1f6673b0ca686a1&title=Mar%20del%20Plata%20-%20Centre%20Court%20(Cuartos%20de%20Final)
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="STAR +",2
-https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/05/24/Premier_Padel_Mar_del_Pla_20240524_1716546649023/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/69F54EF558E63417EE5502FA646BA3C8BFE734DAC84053E75AF300D5D0E495F6/scale?width=1920&aspectRatio=1.78&format=jpeg&key=6be15aee26b043958fe0717f4d0fe14e&key2=bab3dc35c9939f97d1f6673b0ca686a1&title=Mar%20del%20Plata%20-%20Centre%20Court%20(Cuartos%20de%20Final)
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="STAR +",3
-#EXT-X-VERSION:6
-#EXT-X-TARGETDURATION:6
-#EXT-X-PLAYLIST-TYPE:EVENT
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PROGRAM-DATE-TIME:2024-05-24T10:59:55.892Z
-#EXT-X-KEY:METHOD=SAMPLE-AES-CTR,KEYFORMAT="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed",KEYFORMATVERSIONS="1",URI="data:text/plain;base64,AAAAMnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABISEGvhWu4msEOVj+Bxf00P4U4="
-#EXT-X-KEY:METHOD=SAMPLE-AES-CTR,KEYFORMAT="com.microsoft.playready",KEYFORMATVERSIONS="1",URI="data:text/plain;charset=UTF-16;base64,xAEAAAEAAQC6ATwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4ANwBsAHIAaABhADcAQQBtAGwAVQBPAFAANABIAEYALwBUAFEALwBoAFQAZwA9AD0APAAvAEsASQBEAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA="
-#EXT-X-KEY:METHOD=SAMPLE-AES-CTR,KEYFORMAT="PRMNAGRA",KEYFORMATVERSIONS="1",URI="data:text/plain;base64,eyJrZXktaWQiOiI2YmUxNWFlZS0yNmIwLTQzOTUtOGZlMC03MTdmNGQwZmUxNGUiLCJlbWkiOiJjdHIiLCJwcm0iOiJleUpqYjI1MFpXNTBTV1FpT2lKamRISWlMQ0pyWlhsSlpDSTZJalppWlRFMVlXVmxMVEkyWWpBdE5ETTVOUzA0Wm1Vd0xUY3hOMlkwWkRCbVpURTBaU0o5In0="
-https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/05/24/Premier_Padel_Mar_del_Pla_20240524_1716546649023/cmaf-cenc-ctr-5600K/5600_complete.m3u8
 
 
 
