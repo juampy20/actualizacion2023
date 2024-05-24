@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="STAR +",1
 https://txt2.pelotalibre.lat/star_jwp.html?get=https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/05/24/Premier_Padel_Mar_del_Pla_20240524_1716546649023/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/69F54EF558E63417EE5502FA646BA3C8BFE734DAC84053E75AF300D5D0E495F6/scale?width=1920&aspectRatio=1.78&format=jpeg&key=6be15aee26b043958fe0717f4d0fe14e&key2=bab3dc35c9939f97d1f6673b0ca686a1&title=Mar%20del%20Plata%20-%20Centre%20Court%20(Cuartos%20de%20Final)
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="STAR +",2
+https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/05/24/Premier_Padel_Mar_del_Pla_20240524_1716546649023/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/69F54EF558E63417EE5502FA646BA3C8BFE734DAC84053E75AF300D5D0E495F6/scale?width=1920&aspectRatio=1.78&format=jpeg&key=6be15aee26b043958fe0717f4d0fe14e&key2=bab3dc35c9939f97d1f6673b0ca686a1&title=Mar%20del%20Plata%20-%20Centre%20Court%20(Cuartos%20de%20Final)
+
 
 --------------peru--------
 -------------------------
