@@ -2,28 +2,34 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="sports m3u8 widevine",1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="sports m3u8 widevine",primax sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=?|referer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium779/index.m3u8?|referer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=?|referer=https://viwlivehdplay.ru/
+https://esx1.onlinehdhls.ru/esx1/primamaxsport1/playlist.m3u8?|referer=https://viwlivehdplay.ru/
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="sports m3u8 widevine",2
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="sports m3u8 widevine",primax spórts 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=?|referer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium387/index.m3u8?|referer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-referrer=?|referer=https://viwlivehdplay.ru/
+https://esx1.onlinehdhls.ru/esx1/primamaxsport2/playlist.m3u8?|referer=https://viwlivehdplay.ru/
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="sports m3u8 widevine",3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="sports m3u8 widevine",primax spors 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=?|referer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium64/index.m3u8?|referer=https://claplivehdplay.ru/
-
+#EXTVLCOPT:http-referrer=?|referer=https://viwlivehdplay.ru/
+https://esx1.onlinehdhls.ru/esx1/primamaxsport3/playlist.m3u8?|referer=https://viwlivehdplay.ru/
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="sports m3u8 widevine",t
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=?|referer=https://viwlivehdplay.ru/
-https://esx1.onlinehdhls.ru/esx1/primamaxsport1/playlist.m3u8?|referer=https://viwlivehdplay.ru/
+https://esx1.onlinehdhls.ru/esx1/eurosports2/playlist.m3u8?|referer=https://viwlivehdplay.ru/
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="sports m3u8 widevine",t
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=?|referer=https://viwlivehdplay.ru/
+https://esx1.onlinehdhls.ru/esx1/eurosport2/playlist.m3u8?|referer=https://viwlivehdplay.ru/
 
 
 --------------peru--------
