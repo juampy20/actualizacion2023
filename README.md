@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-
+https://webhdrunns.onlinehdhls.ru/lb/premium779/index.m3u8
 
 
 --------------peru--------
