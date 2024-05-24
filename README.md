@@ -1,6 +1,19 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="test"  tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://claplivehdplay.ru/
+https://ad20171t.onlinehdhls.ru/fls/cdn/myfeed10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="test"  tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",dos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://claplivehdplay.ru/
+https://ad20171t.onlinehdhls.ru/fls/cdn/myfeed9/tracks-v1a1/mono.m3u8
+
+
 
 --------------peru--------
 -------------------------
