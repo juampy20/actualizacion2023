@@ -2,20 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="sports m3u8 widevine",primax sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=?|referer=https://viwlivehdplay.ru/
-https://esx1.onlinehdhls.ru/esx1/primamaxsport1/playlist.m3u8?|referer=https://viwlivehdplay.ru/
-
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJsp6AOvdWs_tEDVxwoDa1A0exFDpKahp8EA&usqp=CAU" group-title="3. SPORTS",TSN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-KEY:METHOD=AES-128,IV=0x3030303030303030303030306650d0ae,URI="https://key.onlinehdhls.ru/wmsxx.php?name=premium78&number=1",KEYFORMAT="identity"
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://ddy3.onlinehdhls.ru/ddy3/premium78/tracks-v1a1/mono.m3u8
-
-
-
-
 --------------peru--------
 -------------------------
 
