@@ -21,7 +21,18 @@ https://cf.live.us.prd.media.max.com/live/use1/23f_CixjYjNlM2M2Ni0xMjZmLTRiZGEtO
 #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01013f3eda57104ae2c1a6b2fe7e62ce:402969a8e670d74ce307d0989a92e3e9              https://cf.live.us.prd.media.max.com/live/use1/23f_CixjYjNlM2M2Ni0xMjZmLTRiZGEtODhjNi1lNTBhNTI4MjFjYzctdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFjZW5jLWVhc3QtcHJpbWFyeQ/main.mpd
+
+
+#EXTINF:-1 group-title="test"  tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",tres
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0100ba85d214f8a57ba2d27c1cd986f4:d2b348175073e288dace98ffccb4b820                     https://cf.live.us.prd.media.max.com/live/use1/23f_CixjYjNlM2M2Ni0xMjZmLTRiZGEtODhjNi1lNTBhNTI4MjFjYzctdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFjZW5jLWVhc3QtcHJpbWFyeQ/main.mpd
+
 
 
 --------------peru--------
