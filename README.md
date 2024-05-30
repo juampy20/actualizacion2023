@@ -2109,12 +2109,15 @@ ESPN 5 CHILE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e
+#KODIPROP:inputstream.adaptive.license_key=539facbfedc252240ad59ff4b1b38ec6:febaabe54f1c01a09de86035b7db2c54
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  tvg-logo="https://television-libre.online/img/espn5.webp" group-title="⚽ ESPN"  ,216 ESPN 5 Chile (🇨🇱)
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
+#EXTINF:-1  tvg-logo="https://television-libre.online/img/espn5.webp" group-title="⚽ ESPN"  ,216 ESPN 5 
+https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(FOX_SP_ANDINA)/manifest.mpd
+
+
+
 
 ESPN 6 COLOMBIA
 
