@@ -241,7 +241,9 @@ https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="📲 4g lista",19 ESPN PREMIUM (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
 
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="📲 4g lista",20 ESPN PREMIUM (🇦🇷) ss 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -260,6 +262,9 @@ https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="📲 4g lista",22 TNT SPORTS (🇦🇷) ss 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -2311,7 +2316,9 @@ ESPN PREMIUM
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="⚽ FUTBOL ARGENTINA",250 ESPN PREMIUM (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
 
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="⚽ FUTBOL ARGENTINA",250 ESPN PREMIUM (🇦🇷) ss 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -2365,6 +2372,10 @@ TNT SPORTS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="⚽ FUTBOL ARGENTINA",255 TNT SPORTS (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="⚽ FUTBOL ARGENTINA",255 TNT SPORTS (🇦🇷) ss 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
