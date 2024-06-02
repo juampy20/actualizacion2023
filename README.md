@@ -2475,8 +2475,8 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 ----------------------------------DEPORTES VARIOS---------------------------------------
 -----------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/extreme-vector-logo-design-600w-589652018.jpg" group-title="⚽ DEPORTES VARIOS", 299 DEPORTES EXTREMOS (🇺🇸) 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=860
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/extreme-vector-logo-design-600w-589652018.jpg" group-title="⚽ DEPORTES VARIOS", 299 red bull(🇺🇸) 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
