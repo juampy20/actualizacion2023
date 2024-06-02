@@ -3277,20 +3277,7 @@ http://176.97.113.132/auth/9084.m3u8?token=ngSc4V1ozn0dMnrtnHpZiOneW-pxLX_aOWpa2
 ------------CAZA Y PEZCA -------------
 --------------------------
 
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://contenidostv.es/images/iberaliaPesca-512.png" group-title="🎣 CAZA , PESCA y MOTOR",620 IBERALIA 100% PEZCA
-https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_premium.smil/manifest.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://contenidostv.es/images/iberaliaCaza-512.png" group-title="🎣 CAZA , PESCA y MOTOR",620 IBERALIA 100% CAZA
-https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_premium.smil/manifest.m3u8
-
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2017/07/iberalia_tv_logo.jpg" group-title="🎣 CAZA , PESCA y MOTOR",620 IBERALIA ORIGINAL
-https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:38_premium.smil/manifest.m3u8
-
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://www.gofishingbcn.com/wp-content/uploads/2020/01/caza-y-pesca-logo-ok.png" group-title="🎣 CAZA , PESCA y MOTOR",620 CAZA-PEZCA
-https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:39_premium.smil/manifest.m3u8
-
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://mplay.es/images/panoramaMotorNegro512.png" group-title="🎣 CAZA , PESCA y MOTOR",621 PANORAMA MOTOR
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket01/smil:124_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/500px-Caza-pesca_m%2B.png" group-title="🎣 CAZA , PESCA y MOTOR",434 PESCA (🇪🇸) mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
