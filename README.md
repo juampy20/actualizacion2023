@@ -1,19 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="-" group-title="test",1 php
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=c2VydmVyX3RpbWU9MTcxNDMyNzU2MyZoYXNoX3ZhbHVlPU5EQmlObUV3TldZek1tUmhNemMwWkRJM09URXdaREU0TTJZMU9EQmhNR
-https://ddh1.onlinehdhls.ru/ddh1/premium387/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="test",2 php
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-https://ddh1.onlinehdhls.ru/ddh1/premium387/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcxNDMyNzU2MyZoYXNoX3ZhbHVlPU5EQmlObUV3TldZek1tUmhNemMwWkRJM09URXdaREU0TTJZMU9EQmhNR
-
 --------------peru--------
 -------------------------
 
