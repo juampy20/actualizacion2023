@@ -55,7 +55,8 @@ https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfg
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="📲 4g lista", 1 EL TRECE (🇦🇷) ss
-https://sites.google.com/view/iptvtxt/p%C3%A1gina-principal
+https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
