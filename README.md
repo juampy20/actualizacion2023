@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="-" group-title="test kik",365
+https://kick.com/365turf1
 
 --------------peru--------
 -------------------------
