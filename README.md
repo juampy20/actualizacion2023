@@ -2,9 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="-" group-title="test kik",365
-https://kick.com/365turf1
-
 --------------peru--------
 -------------------------
 
@@ -2957,10 +2954,9 @@ https://g2.mc-slo.transport.edge-access.net/b16/xcds-7684-gfhd-bcns-473_456p.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9KO7jPKrhxuAmnfrzw8b-Uv53dPcc_NwE9c7c7wpAw&s"  group-title="🐎 TURF CARRERAS DE CABALLOS",399 Hipodromo de PALERMO opcion 1 (🇦🇷)
 https://www.youtube.com/@palermoturf/streams
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9KO7jPKrhxuAmnfrzw8b-Uv53dPcc_NwE9c7c7wpAw&s"  group-title="🐎 TURF CARRERAS DE CABALLOS",399 Hipodromo de PALERMO opcion 2 (🇦🇷)
-https://www.youtube.com/watch?v=k2mrYCUFYEw&ab_channel=Hip%C3%B3dromodePalermo
 
 
+https://raw.githubusercontent.com/juampy20/bsas/main/README.md#:~:text=%23EXTINF%3A%2D1%20tvg%2Dlogo%3D%22https%3A//hipodromosanisidro.com/wp%2Dcontent/uploads/2019/05/logo_hsi_home_Mesa%2Dde%2Dtrabajo%2D1.png%22%20%20group%2Dtitle%3D%22%F0%9F%90%8E%20TURF%20CARRERAS%20DE%20CABALLOS%22%2C400%20TURFPREMIUM%20(%F0%9F%87%A6%F0%9F%87%B7)%0Ahttps%3A//www.youtube.com/%40carlosturf/streams
 
 #EXTINF:-1 tvg-logo="https://hipodromosanisidro.com/wp-content/uploads/2019/05/logo_hsi_home_Mesa-de-trabajo-1.png"  group-title="🐎 TURF CARRERAS DE CABALLOS",400 Hipodromo de San Isidro (🇦🇷)
 https://www.youtube.com/@hipodromosanisidro/streams
