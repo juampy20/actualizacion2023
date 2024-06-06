@@ -1703,6 +1703,18 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina Familiar España
 https://cloud.fastchannel.es/mic/manifiest/hls/cocinafamiliar/cocinafamiliar.m3u8
 
+
+
+#EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina españa
+https://is.gd/butkg9
+
+#EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina mexico
+https://is.gd/QQEKMn
+
+#EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina venezuela
+https://is.gd/IAExLJ
+
+
 ----------------------------------------- INFANTILES ------------------------------------------
 -----------------------------------------------------------------------------------------------
 
