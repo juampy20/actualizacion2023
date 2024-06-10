@@ -8,8 +8,9 @@
 #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys"[{"kty":"oct","k":"C2uGIpiRBPabLbkWMO0Orw","kid":"ZXXiy4SbWBSAqyYLcMz6tg"}],"type": "temporary"} 
-https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=6575e2cb849b581480ab260b70ccfab6:8f1fae1b2c3bcf678f8c0f5b3f4642a8
+https://1038-abc-da-bpk.dtvott.com/dash_live_1038/manifesta.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", 13 Chile
