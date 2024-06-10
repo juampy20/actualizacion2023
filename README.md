@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="-" group-title="Canales Copa America", 13 Chile
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", 13 Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -11,7 +11,7 @@
 https://1030-vos.dtvott.com/DASH/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="-" group-title="Canales Copa America", America Peru
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", America Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -25,7 +25,7 @@ https://1011-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="Canales Copa America", Directv Sports 1 SD
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", Directv Sports 1 SD
 https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfgvhgfjjcxbbQdfdgyhjjkhfxfg/874.m3u8
 
 
@@ -36,7 +36,7 @@ https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfg
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="Canales Copa America", TV PUBLICA 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", TV PUBLICA 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 
@@ -47,11 +47,11 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Canales Copa America", TELEFE (🇦🇷) 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", TELEFE (🇦🇷) 
 https://edge-live34-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", RCN Colombia
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", RCN Colombia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -62,25 +62,25 @@ https://edge-live34-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/Tel
 https://1185-vos.dtvott.com/DASH/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", TUDN Mexico
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", TUDN Mexico
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", TV max Peru
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", TV max Peru
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", Mega Chile
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", Mega Chile
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", WIN +
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", WIN +
 https://78549.pricesaskeloadsc.com/winplus/tracks-v1a1/mono.m3u8?token=f94307dc0c837f6ab98e3c5b4f7832a5a4a110b4-bd-1718034146-1718023346
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", Canal 6 Honduras
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", Canal 6 Honduras
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", 4 en vivo Salvador
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", 4 en vivo Salvador
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
 
