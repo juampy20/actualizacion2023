@@ -1,17 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="-" group-title="Canales Copa America",ECDF
-#EXTVLCOPT:network-caching=1000 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=6575e2cb849b581480ab260b70ccfab6:8f1fae1b2c3bcf678f8c0f5b3f4642a8
-https://1038-abc-da-bpk.dtvott.com/dash_live_1038/manifesta.mpd
-
-
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", 13 Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
