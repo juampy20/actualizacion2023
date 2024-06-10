@@ -72,6 +72,9 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", Mega Chile
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", WIN +
+https://78549.pricesaskeloadsc.com/winplus/tracks-v1a1/mono.m3u8?token=f94307dc0c837f6ab98e3c5b4f7832a5a4a110b4-bd-1718034146-1718023346
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", Canal 6 Honduras
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
