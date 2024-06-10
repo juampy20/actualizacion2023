@@ -61,6 +61,9 @@ https://edge-live34-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/Tel
 #EXTVLCOPT--http-reconnect=true
 https://1185-vos.dtvott.com/DASH/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", Viva Nicaragua
+https://www.dailymotion.com/cdn/live/video/x7u200z.m3u8?sec=65UI6evjgZYI_aTPFsxnh6loTym2T6ToFfSk-Tzo6AxS87FFUSeE_LnvIwBczNj5&dmTs=938647&dmV1st=19eea3cd-4f41-491e-8f13-9982682d66ba
+
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", TUDN Mexico
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
