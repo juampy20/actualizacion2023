@@ -1687,7 +1687,7 @@ FOOD NETWORK
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/86/CH_LOGO/60/60/0/0/90527363073450.png" group-title="🧑‍🍳 COCINA Y MODA", 160 FOOD NETWORK (🇦🇷) fw
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/86/CH_LOGO/60/60/0/0/90527363073450.png" group-title="COCINA Y MODA", 160 FOOD NETWORK (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd
 
 
@@ -1700,7 +1700,7 @@ EL GOURMET
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/60/60/0/0/15069203073244.png" group-title="🧑‍🍳 COCINA Y MODA", 161 EL GOURMET (🇦🇷) fw
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/60/60/0/0/15069203073244.png" group-title="COCINA Y MODA", 161 EL GOURMET (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
 
@@ -1713,7 +1713,7 @@ HOLA TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
-#EXTINF:-1 tvg-logo="https://image.pitchbook.com/5dSZGkokRkvpzWs5cAr2597YVuX1594151049473_200x200" group-title="🧑‍🍳 COCINA Y MODA", 162 HOLA TV (🇦🇷) fw
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png"  tvg-logo="https://image.pitchbook.com/5dSZGkokRkvpzWs5cAr2597YVuX1594151049473_200x200" group-title="COCINA Y MODA", 162 HOLA TV (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd
 
 
@@ -1726,7 +1726,7 @@ TV 5 MONDE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62034ff5988b4787b17cdf6f751a3142:b3938f0af28b4c0c082b0d4210e389a0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" group-title="🧑‍🍳 COCINA Y MODA", 163 TV 5 MONDE (🇦🇷) fw
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" group-title="COCINA Y MODA", 163 TV 5 MONDE (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd
 
 
@@ -1739,7 +1739,7 @@ WOBI
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2e44a719947ebfe37de527a9d6df71e:029bddeb08909dd66a80276fc338d692
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Wobi.png/revision/latest?cb=20220412231141" group-title="🧑‍🍳 COCINA Y MODA", 164 WOBI (🇦🇷) fw
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Wobi.png/revision/latest?cb=20220412231141" group-title="COCINA Y MODA", 164 WOBI (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd
 
 
@@ -1752,7 +1752,7 @@ LIFETIME
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae51b1d67ff47adac7b6bd3a4b1120a:b4d6bb47193f33ffc12379cdc447455d
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/806-8065614_lifetime-logo-lifetime-tv.png" group-title="🧑‍🍳 COCINA Y MODA", 165 LIFETIME (🇦🇷) fw
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png"  tvg-logo="https://www.pngkit.com/png/full/806-8065614_lifetime-logo-lifetime-tv.png" group-title="COCINA Y MODA", 165 LIFETIME (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd
 
 
@@ -1765,38 +1765,38 @@ MAS CHIC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac8ff1688994efd898222acdd05cafc:22fdf97c7233667518258ed16ccb2545
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-yIuiaw5RAOY/VZA9CnEF_2I/AAAAAAAAAHk/a_ycmDi9gCY/s1600/maschic-2015.png" group-title="🧑‍🍳 COCINA Y MODA", 166 MAS CHIC (🇦🇷) fw
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" tvg-logo="https://4.bp.blogspot.com/-yIuiaw5RAOY/VZA9CnEF_2I/AAAAAAAAAHk/a_ycmDi9gCY/s1600/maschic-2015.png" group-title="COCINA Y MODA", 166 MAS CHIC (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc/Mas_Chic.mpd
 
 
 GUSTO TV CANAGA (ENG)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv_gusto_Logo.svg/1280px-Tv_gusto_Logo.svg.png" group-title="🧑‍🍳 COCINA Y MODA", 167 GUSTO TV (🇨🇦)
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tv_gusto_Logo.svg/1280px-Tv_gusto_Logo.svg.png" group-title="COCINA Y MODA", 167 GUSTO TV (🇨🇦)
 #EXTVLCOPT:network-caching=2500
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/4542d9ab-6fc4-40da-bdf0-8ea8ad573c3c/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="🧑‍🍳 COCINA Y MODA", 9 TASTEMADE (🇲🇽)
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" tvg-logo="https://banner2.cleanpng.com/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="COCINA Y MODA", 9 TASTEMADE (🇲🇽)
 https://tastemade-es16tm-samsung.amagi.tv/playlist480p.m3u8
 
 
-#EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/caras-tv.png",171 Caras
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" group-title="COCINA Y MODA" , tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/caras-tv.png",171 Caras
 https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
 
-#EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://pbs.twimg.com/profile_images/460798109979664384/GXeGjD-I_400x400.png",172 Andalucia Cocina
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" group-title="COCINA Y MODA" , tvg-logo="https://pbs.twimg.com/profile_images/460798109979664384/GXeGjD-I_400x400.png",172 Andalucia Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
-#EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina Familiar España
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" group-title="COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina Familiar España
 https://cloud.fastchannel.es/mic/manifiest/hls/cocinafamiliar/cocinafamiliar.m3u8
 
 
 
-#EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina españa
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" group-title="COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina españa
 https://is.gd/butkg9
 
-#EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina mexico
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png" group-title="COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina mexico
 https://is.gd/QQEKMn
 
-#EXTINF:-1 group-title="🧑‍🍳 COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina venezuela
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2718/2718279.png"  group-title="COCINA Y MODA" , tvg-logo="https://vivaespaña.tv/user/upload/source/logocf.png",173 Cocina venezuela
 https://is.gd/IAExLJ
 
 
