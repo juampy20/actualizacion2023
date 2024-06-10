@@ -152,8 +152,8 @@ http://pe.shortgod.com/temporal/play.php?id=22
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg"
- tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="📲 4g lista", 1 EL TRECE (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png"
+ tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="4g lista", 1 EL TRECE (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
 
 
@@ -163,7 +163,7 @@ https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="📲 4g lista", 2 EL NUEVE (🇦🇷) ss
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="4g lista", 2 EL NUEVE (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
 
 
@@ -173,7 +173,7 @@ https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="📲 4g lista", 3 AMERICA (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="4g lista", 3 AMERICA (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -182,7 +182,7 @@ https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="📲 4g lista", 4 TELEFE  (🇦🇷) ss
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png"tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="4g lista", 4 TELEFE  (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 
@@ -192,7 +192,7 @@ https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="📲 4g lista",5 TV PUBLICA (🇦🇷) ss
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png"tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="4g lista",5 TV PUBLICA (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 
 
@@ -202,7 +202,7 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="📲 4g lista",  6 CANAL 26 (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="4g lista",  6 CANAL 26 (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 
 
@@ -212,7 +212,7 @@ https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-id="TodoNoticias.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="📲 4g lista", 7 TODO NOTICIAS (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-id="TodoNoticias.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="4g lista", 7 TODO NOTICIAS (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
 
 
@@ -222,7 +222,7 @@ https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="📲 4g lista",8 A 24 (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="4g lista",8 A 24 (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
 
 
@@ -232,7 +232,7 @@ https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="📲 4g lista", 9 C5N (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="4g lista", 9 C5N (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 
 
@@ -242,7 +242,7 @@ https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-id="CronicaTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="📲 4g lista",10 CRONICA TV (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-id="CronicaTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="4g lista",10 CRONICA TV (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 
 
@@ -252,7 +252,7 @@ https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="📲 4g lista", 11 LA NACION (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="4g lista", 11 LA NACION (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
 
 
@@ -262,7 +262,7 @@ https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="📲 4g lista",12 ESPN (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="4g lista",12 ESPN (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
 
 
@@ -272,7 +272,7 @@ https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="📲 4g lista",13 ESPN 2 (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="4g lista",13 ESPN 2 (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -281,7 +281,7 @@ https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png" group-title="📲 4g lista",14 ESPN 3 (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png" group-title="4g lista",14 ESPN 3 (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
 
 
@@ -292,7 +292,7 @@ https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="📲 4g lista",15 ESPN 4 (🇦🇷) ss
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="4g lista",15 ESPN 4 (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
 
 
@@ -301,7 +301,7 @@ https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="📲 4g lista",16 FOX SPORTS (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="4g lista",16 FOX SPORTS (🇦🇷) ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
@@ -313,14 +313,14 @@ https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1  group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="📲 4g lista",17 FOX SPORTS 2 (🇦🇷) ss
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="4g lista",17 FOX SPORTS 2 (🇦🇷) ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
 
 
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="📲 4g lista",18 FOX SPORTS 3 (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="4g lista",18 FOX SPORTS 3 (🇦🇷) ss
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
@@ -336,13 +336,13 @@ https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="📲 4g lista",19 ESPN PREMIUM (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="4g lista",19 ESPN PREMIUM (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="📲 4g lista",20 ESPN PREMIUM (🇦🇷) ss 2
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="4g lista",20 ESPN PREMIUM (🇦🇷) ss 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
@@ -356,14 +356,14 @@ https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="📲 4g lista",21 TNT SPORTS (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="4g lista",21 TNT SPORTS (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="📲 4g lista",22 TNT SPORTS (🇦🇷) ss 2
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="4g lista",22 TNT SPORTS (🇦🇷) ss 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
@@ -376,7 +376,7 @@ https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="📲 4g lista",23 TYC SPORTS (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="4g lista",23 TYC SPORTS (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
 
 
@@ -387,7 +387,7 @@ https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="📲 4g lista",24 DEPORTV (🇦🇷) ss
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="4g lista",24 DEPORTV (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
 
 
@@ -397,7 +397,7 @@ https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png" group-title="📲 4g lista",25 GOLF (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png" group-title="4g lista",25 GOLF (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd
 
 
@@ -407,7 +407,7 @@ https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/4g-lte-icon-vector-logo-260nw-1677229075.jpg" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/368/CH_LOGO/160/160/0/0/446218910784.png" group-title="📲 4g lista",26 AMERICA SPORTS (🇦🇷) ss
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/368/CH_LOGO/160/160/0/0/446218910784.png" group-title="4g lista",26 AMERICA SPORTS (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd
 
 
