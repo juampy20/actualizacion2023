@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="-" group-title="Canales Copa America", 13 Chile
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af1d38723d0c3c8e8cb7d4453ba47d3e:b6f78e54681b209ceae4ed382bbe20fc
+https://1030-vos.dtvott.com/DASH/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="-" group-title="Canales Copa America", America Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
