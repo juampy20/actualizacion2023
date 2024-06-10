@@ -1,22 +1,55 @@
 #EXTM3U
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="Canales Copa America", TV PUBLICA 
+https://edge-live15-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", TV max
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Canales Copa America", TELEFE (🇦🇷) 
+https://edge-live34-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", RCN Colombia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e86599387e4313a8e57a2732f5af261:8a9df0eee927df1a70814755566f3410
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://1185-vos.dtvott.com/DASH/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", TUDN Mexico
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", TV max Peru
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", Mega Chile
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", Canal 6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", Canal 6 Honduras
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", Concacaaf
-https://fonz03.dlive.click/C6kuDjLeS0aaYb38ApQ4-Q/1717999254/34352e372e3230392e313939/ff545/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", 4 en vivo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es" group-title="Canales Copa America", 4 en vivo Salvador
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
 
@@ -2561,10 +2594,6 @@ https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 
-#EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="⚽ DEPORTES VARIOS",314 UNIVISION (🇲🇽) m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp" group-title="⚽ DEPORTES VARIOS",315 TUDN (🇲🇽) m3u
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
