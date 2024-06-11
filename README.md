@@ -3232,13 +3232,13 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 ---poker-----
 -------------
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="♣️ POKER TOUR" , 600 POKER TOUR esp
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5537/5537635.png" tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="POKER TOUR" , 600 POKER TOUR esp
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="♣️ POKER TOUR" , 601 POKER TOUR ing
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5537/5537635.png" tvg-logo="https://image.roku.com/developer_channels/prod/27b05cc60a5abb162cf8af100d030154f00015a942703223fbf079993a6a9f45.png" group-title="POKER TOUR" , 601 POKER TOUR ing
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="♣️ POKER TOUR" ,Poker Go 
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5537/5537635.png" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="POKER TOUR" ,Poker Go 
 https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8
 
    
