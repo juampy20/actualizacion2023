@@ -2811,19 +2811,19 @@ http://cdn.adultiptv.net/rough.m3u8
 
 PORTEÑA COOPLUS
 
-#EXTINF:-1 tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" group-title="🌐 REGIONAL",370 PORTEÑA COOPLUS (🇦🇷) 
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" group-title="REGIONAL",370 PORTEÑA COOPLUS (🇦🇷) 
 https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
 
 MORTEROS
 
-#EXTINF:-1 tvg-logo="https://canal50.tv/public/images/logos/CANAL50_HDBLANCO.png" group-title="🌐 REGIONAL",371 MORTEROS (🇦🇷)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://canal50.tv/public/images/logos/CANAL50_HDBLANCO.png" group-title="REGIONAL",371 MORTEROS (🇦🇷)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://canal50.tv/
 https://online.coopmorteros.coop/canal50/vivo.m3u8
 
 FREYRE
 
-#EXTINF:-1 tvg-logo="https://freyre.gob.ar/wp-content/uploads/2016/01/logoWebretina.jpg" group-title="🌐 REGIONAL",372 FREYRE (🇦🇷)
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://freyre.gob.ar/wp-content/uploads/2016/01/logoWebretina.jpg" group-title="REGIONAL",372 FREYRE (🇦🇷)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=http://streaming.freyre.com.ar/
 https://online.coopmorteros.coop/freyre/freyre.m3u8
@@ -2831,23 +2831,23 @@ https://online.coopmorteros.coop/freyre/freyre.m3u8
 
 SAN FRANCISCO
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-4-San-Francisco-Cordoba-en-vivo-Online.png" group-title="🌐 REGIONAL",373 SAN FRANCISCO (🇦🇷)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-4-San-Francisco-Cordoba-en-vivo-Online.png" group-title="REGIONAL",373 SAN FRANCISCO (🇦🇷)
 http://204.199.3.2/.m3u8
 
 
 BRINKMAN
 
-#EXTINF:-1 tvg-logo="https://coonet.com.ar/public/assets/images/coonet-logo-icono.png" group-title="🌐 REGIONAL",374 BRINKMAN (🇦🇷)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://coonet.com.ar/public/assets/images/coonet-logo-icono.png" group-title="REGIONAL",374 BRINKMAN (🇦🇷)
 https://csc-ptn-edge01.sensa.com.ar/output/SMT4/BRKD/output.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/160/160/0/0/86198033078075.png" group-title="🌐 REGIONAL", 375 SUARDI (🇦🇷)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/160/160/0/0/86198033078075.png" group-title="REGIONAL", 375 SUARDI (🇦🇷)
 https://csc-ptn-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
 
 EL 8 CORDOBA
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_canal_8_cordoba.png" group-title="🌐 REGIONAL", 375 EL 8 CORDOBA (🇦🇷)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_canal_8_cordoba.png" group-title="REGIONAL", 375 EL 8 CORDOBA (🇦🇷)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
@@ -2857,7 +2857,7 @@ https://csc-ptn-edge01.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
 
 EL DOCE DE CORDOBA
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_Doce_C%C3%B3rdoba_%28Logo_2005%29.png/revision/latest/scale-to-width-down/200?cb=20200418035603" group-title="🌐 REGIONAL",376 EL DOCE Cordoba opcion 1(🇦🇷)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_Doce_C%C3%B3rdoba_%28Logo_2005%29.png/revision/latest/scale-to-width-down/200?cb=20200418035603" group-title="REGIONAL",376 EL DOCE Cordoba opcion 1(🇦🇷)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
@@ -2866,7 +2866,7 @@ EL DOCE DE CORDOBA
 https://csc-ptn-edge01.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_Doce_C%C3%B3rdoba_%28Logo_2005%29.png/revision/latest/scale-to-width-down/200?cb=20200418035603" group-title="🌐 REGIONAL",376 EL DOCE Cordoba opcion 2(🇦🇷)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_Doce_C%C3%B3rdoba_%28Logo_2005%29.png/revision/latest/scale-to-width-down/200?cb=20200418035603" group-title="REGIONAL",376 EL DOCE Cordoba opcion 2(🇦🇷)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
@@ -2874,7 +2874,7 @@ https://csc-ptn-edge01.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd
 #EXTVLCOPT:network-caching=1000
 https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_Doce_C%C3%B3rdoba_%28Logo_2005%29.png/revision/latest/scale-to-width-down/200?cb=20200418035603" group-title="🌐 REGIONAL",376 EL DOCE Cordoba youtube
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal_Doce_C%C3%B3rdoba_%28Logo_2005%29.png/revision/latest/scale-to-width-down/200?cb=20200418035603" group-title="REGIONAL",376 EL DOCE Cordoba youtube
 https://www.youtube.com/live/sFZe_RPnNSo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="🌐 REGIONAL",376 EL 10 DE CORDOBA (🇦🇷)
@@ -2884,39 +2884,39 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w534905177_b24
 
 SRLP
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/941/CH_LOGO/160/160/0/0/12926473072353.png" group-title="🌐 REGIONAL",377 SRLP (🇦🇷)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/941/CH_LOGO/160/160/0/0/12926473072353.png" group-title="REGIONAL",377 SRLP (🇦🇷)
 https://csc-ptn-edge01.sensa.com.ar/output/ARR/SRLPD/output.mpd
 
 TELEVICE
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1601/CH_LOGO/160/160/0/0/87441261073156.png" group-title="🌐 REGIONAL",378 TELEVICE TV (🇦🇷)
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1601/CH_LOGO/160/160/0/0/87441261073156.png" group-title="REGIONAL",378 TELEVICE TV (🇦🇷)
 https://csc-ptn-edge01.sensa.com.ar/output/SMT2/TELD/output.mpd
 
 MUNDO AGRO
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/866/CH_LOGO/160/160/0/0/88623159076702.png" group-title="🌐 REGIONAL",379 MUNDO AGRO (🇦🇷) 
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/866/CH_LOGO/160/160/0/0/88623159076702.png" group-title="REGIONAL",379 MUNDO AGRO (🇦🇷) 
 https://csc-ptn-edge01.sensa.com.ar/output/ARR/DehezaD/output.mpd
 
 NEXOCOSMOS
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1321/CH_LOGO/160/160/0/0/46132478077122.png" group-title="🌐 REGIONAL",380 NEXO COSMOS (🇦🇷)
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1321/CH_LOGO/160/160/0/0/46132478077122.png" group-title="REGIONAL",380 NEXO COSMOS (🇦🇷)
 https://csc-ptn-edge01.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
 
 RIO PRIMERO
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1361/CH_LOGO/160/160/0/0/30214768077125.png" group-title="🌐 REGIONAL",381 RIO PRIMERO TV (🇦🇷)
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1361/CH_LOGO/160/160/0/0/30214768077125.png" group-title="REGIONAL",381 RIO PRIMERO TV (🇦🇷)
 https://csc-ptn-edge01.sensa.com.ar/output/STAROSA/RIO1TVD/output.mpd
 
 
 
 VENADO  TUERTO
 
-#EXTINF:-1 tvg-logo="https://venadotuerto.gob.ar/wp-content/uploads/2021/01/MVT-Logo-ColorPNG-1-e1610489973787.png" group-title="🌐 REGIONAL",382 VENADO TUERTO (🇦🇷)
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://venadotuerto.gob.ar/wp-content/uploads/2021/01/MVT-Logo-ColorPNG-1-e1610489973787.png" group-title="REGIONAL",382 VENADO TUERTO (🇦🇷)
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1363/CH_LOGO/160/160/0/0/89469456077129.png" group-title="🌐 REGIONAL",383 SANTA ROSA (🇦🇷)
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1363/CH_LOGO/160/160/0/0/89469456077129.png" group-title="REGIONAL",383 SANTA ROSA (🇦🇷)
 https://csc-ptn-edge01.sensa.com.ar/output/STAROSA/COVISARD/output.mpd
 
 
@@ -2931,7 +2931,7 @@ CANAL 8 TUCUMAN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="🌐 REGIONAL", 384 CANAL 8 TUCUMAN (🇦🇷) fw
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 384 CANAL 8 TUCUMAN (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd
 
 
@@ -2944,7 +2944,7 @@ TELEFE NEUQUEN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55828b728b8affe6d1d57d050025645d:8ac11ed6d0ccaeac3f8218419f65bb94
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="🌐 REGIONAL", 385 TELEFE NEUQUEN (🇦🇷) fw
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 385 TELEFE NEUQUEN (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd
 
 
@@ -2957,13 +2957,13 @@ TELEFE SALTA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="🌐 REGIONAL", 386 TELEFE SALTA (🇦🇷) fw
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 386 TELEFE SALTA (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd
 
 
 TELEFE APLICACION
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="🌐 REGIONAL", 387 TELEFE APLICACION (🇦🇷) app
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="REGIONAL", 387 TELEFE APLICACION (🇦🇷) app
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
