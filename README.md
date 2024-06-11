@@ -3821,79 +3821,97 @@ https://stream.trixserver.com:3249/live/uv038live.m3u8
 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Extrema TV
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png"  group-title="24/7",Extrema TV
 http://pe.shortgod.com/temporal/play.php?id=319
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Los Simpson 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Los Simpson 24/7
 http://pe.shortgod.com/temporal/play.php?id=329
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",RCN MAS
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",RCN MAS
 http://pe.shortgod.com/temporal/play.php?id=351
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Ben 10 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Ben 10 24/7
 http://pe.shortgod.com/temporal/play.php?id=354
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Chespirito 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Chespirito 24/7
 http://pe.shortgod.com/temporal/play.php?id=355
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Dinosaurios 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Dinosaurios 24/7
 http://pe.shortgod.com/temporal/play.php?id=356
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Coyote Y Corre Caminos 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Coyote Y Corre Caminos 24/7
 http://pe.shortgod.com/temporal/play.php?id=357
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",El Principe del rap 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",El Principe del rap 24/7
 http://pe.shortgod.com/temporal/play.php?id=358
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Alerta Aeropuerto 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Alerta Aeropuerto 24/7
 http://pe.shortgod.com/temporal/play.php?id=347
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Dragon Ball Super 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Dragon Ball Super 24/7
 http://pe.shortgod.com/temporal/play.php?id=191
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Futurama 24/7
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Futurama 24/7
 http://pe.shortgod.com/temporal/play.php?id=166
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Chavo 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Chavo 24/7
 http://pe.shortgod.com/temporal/play.php?id=150
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",South Park 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",South Park 24/7
 http://pe.shortgod.com/temporal/play.php?id=146
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Alf 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Alf 24/7
 http://pe.shortgod.com/temporal/play.php?id=128
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Digimon 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Digimon 24/7
 http://pe.shortgod.com/temporal/play.php?id=129
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",El Chapulin Colorado 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",El Chapulin Colorado 24/7
 http://pe.shortgod.com/temporal/play.php?id=113
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",La Familia Peluche 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",La Familia Peluche 24/7
 http://pe.shortgod.com/temporal/play.php?id=108
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Mi bella Genio 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Mi bella Genio 24/7
 http://pe.shortgod.com/temporal/play.php?id=93
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="24/7",Don Gato y su pandilla 24/7
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/2020/2020773.png" group-title="24/7",Don Gato y su pandilla 24/7
 http://pe.shortgod.com/temporal/play.php?id=71
 
 
