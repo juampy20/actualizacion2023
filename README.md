@@ -3222,7 +3222,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtUFK56xOcHX2bVQmRVwVoiJyQl
 formula 1----
 -------------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="🏁 FORMULA 1",320 DAZN FORMULA 1 (🏁) mpd
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/179/179246.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="FORMULA 1",320 DAZN FORMULA 1  mpd
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
