@@ -3278,7 +3278,7 @@ https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS", TNT 4 GBRTÑ
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"   tvg-logo="-" group-title="SUPERDEPORTES SPORTS", TNT 4 GBRTÑ
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTVLCOPT:network-caching=1000
@@ -3287,7 +3287,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS", TNT 3 GBRTÑ
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"  tvg-logo="-" group-title="SUPERDEPORTES SPORTS", TNT 3 GBRTÑ
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 
@@ -3297,7 +3297,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS", TNT 2 GBRTÑ
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="-" group-title="SUPERDEPORTES SPORTS", TNT 2 GBRTÑ
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 
@@ -3308,7 +3308,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS", TNT 1 GBRTÑ
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="-" group-title="SUPERDEPORTES SPORTS", TNT 1 GBRTÑ
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTVLCOPT:network-caching=1000
@@ -3317,7 +3317,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS", ZIGO TENNIS
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="-" group-title="SUPERDEPORTES SPORTS", ZIGO TENNIS
 https://da-d436236320010b88000103030000000000000005.id.cdn.upcbroadband.com/wp/wp6-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/_shared_cc010062b17300c4504b6ab5681b5417/NL_000099_019256.mpd
 
 
@@ -3327,7 +3327,7 @@ https://da-d436236320010b88000103030000000000000005.id.cdn.upcbroadband.com/wp/w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS", ZIGO SPORTS
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="-" group-title="SUPERDEPORTES SPORTS", ZIGO SPORTS
 https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp7-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd
 
 
@@ -3337,7 +3337,7 @@ https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS", ZIGO DOCU
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="-" group-title="SUPERDEPORTES SPORTS", ZIGO DOCU
 https://da-d436234820010b8800010302000000000000000a.id.cdn.upcbroadband.com/wp/wp5-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/_shared_cc010062b17300c4504b6ab5681b5417/NL_000098_019255.mpd
 
 #EXTVLCOPT:network-caching=1000
@@ -3346,7 +3346,7 @@ https://da-d436234820010b8800010302000000000000000a.id.cdn.upcbroadband.com/wp/w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS",ZIGO VOETBALL
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="-" group-title="SUPERDEPORTES SPORTS",ZIGO VOETBALL
 https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd
 
 #EXTVLCOPT:network-caching=1000
@@ -3355,7 +3355,7 @@ https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS",ZIGO SELECT
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"  tvg-logo="-" group-title="SUPERDEPORTES SPORTS",ZIGO SELECT
 https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
 
 
@@ -3365,7 +3365,7 @@ https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00051940357f91714b419a79af5a5f9a:f4e7d0c43db524393ba85fd240d9cd6e
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS",SKY SPORTS FOOTTBALL
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="-" group-title="SUPERDEPORTES SPORTS",SKY SPORTS FOOTTBALL
 https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd
 
 #EXTVLCOPT:network-caching=1000
@@ -3374,7 +3374,7 @@ https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS",ESPN 1 USA
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"  tvg-logo="-" group-title="SUPERDEPORTES SPORTS",ESPN 1 USA
 https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp1-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000107_019441.mpd
 
 
@@ -3384,7 +3384,7 @@ https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS",ESPN 2 USA
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="-" group-title="SUPERDEPORTES SPORTS",ESPN 2 USA
 https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp2-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000108_019561.mpd
 
 
@@ -3394,7 +3394,7 @@ https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS",ESPN 3 USA
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="-" group-title="SUPERDEPORTES SPORTS",ESPN 3 USA
 https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd
 
 #EXTVLCOPT:network-caching=1000
@@ -3403,7 +3403,7 @@ https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-#EXTINF:-1 tvg-logo="-" group-title="🥏 SUPERDEPORTES SPORTS",ESPN 4 USA
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"  tvg-logo="-" group-title="SUPERDEPORTES SPORTS",ESPN 4 USA
 https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp4-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000110_019562.mpd
 
 
@@ -3417,7 +3417,7 @@ https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJr_D94iWwvXSxUBp-ecSjxxeaQhj7SrK2gNZjJsT2yGIQRk6XeHE8-jFhW9_gBzcid5U&usqp=CAU" group-title="🥏 SUPERDEPORTES SPORTS",620 INFINITI CHAMPIONS
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJr_D94iWwvXSxUBp-ecSjxxeaQhj7SrK2gNZjJsT2yGIQRk6XeHE8-jFhW9_gBzcid5U&usqp=CAU" group-title="SUPERDEPORTES SPORTS",620 INFINITI CHAMPIONS
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
 
 
@@ -3428,7 +3428,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="🥏 SUPERDEPORTES SPORTS",621 BEIN SPORTS
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SUPERDEPORTES SPORTS",621 BEIN SPORTS
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3438,7 +3438,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="🥏 SUPERDEPORTES SPORTS",622 BEIN SPORTS 3
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SUPERDEPORTES SPORTS",622 BEIN SPORTS 3
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 
@@ -3449,7 +3449,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="🥏 SUPERDEPORTES SPORTS",623 BEIN SPORTS 1 TH
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"  tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="SUPERDEPORTES SPORTS",623 BEIN SPORTS 1 TH
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
 
@@ -3460,7 +3460,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="🥏 SUPERDEPORTES SPORTS",624 BEIN SPORTS 2 TH
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"  tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="SUPERDEPORTES SPORTS",624 BEIN SPORTS 2 TH
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3470,7 +3470,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="🥏 SUPERDEPORTES SPORTS",625 BEIN SPORTS 3 TH
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"  tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="SUPERDEPORTES SPORTS",625 BEIN SPORTS 3 TH
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
 
@@ -3484,7 +3484,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="🥏 SUPERDEPORTES SPORTS",626 ARENA SPORTS 1
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",626 ARENA SPORTS 1
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 
@@ -3495,7 +3495,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="🥏 SUPERDEPORTES SPORTS",627 ARENA SPORTS 2
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",627 ARENA SPORTS 2
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3505,7 +3505,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="🥏 SUPERDEPORTES SPORTS",628 ARENA SPORTS 3
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",628 ARENA SPORTS 3
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3515,7 +3515,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="🥏 SUPERDEPORTES SPORTS",629 ARENA SPORTS 4
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",629 ARENA SPORTS 4
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 
@@ -3526,7 +3526,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="🥏 SUPERDEPORTES SPORTS",630 ARENA SPORTS 5
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",630 ARENA SPORTS 5
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3536,7 +3536,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="🥏 SUPERDEPORTES SPORTS",631 ARENA SPORTS 6
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98bc4a8715797.560c22c664184.jpg" group-title="SUPERDEPORTES SPORTS",631 ARENA SPORTS 6
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 
@@ -3548,7 +3548,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="🥏 SUPERDEPORTES SPORTS",632 SSC1
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"  tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS",632 SSC1
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3558,7 +3558,7 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="🥏 SUPERDEPORTES SPORTS",633 SSC2
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS",633 SSC2
 https://ssc-2-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3568,7 +3568,7 @@ https://ssc-2-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="🥏 SUPERDEPORTES SPORTS",634 SSC3
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS",634 SSC3
 https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3578,7 +3578,7 @@ https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="🥏 SUPERDEPORTES SPORTS",635 SSC4
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS",635 SSC4
 https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3588,7 +3588,7 @@ https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="🥏 SUPERDEPORTES SPORTS",636 SSC4
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png"  tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="SUPERDEPORTES SPORTS",636 SSC4
 https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
 
@@ -3599,7 +3599,7 @@ https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltf067295452c6f475/5f5f463021ecf947895d945a/Sky_Sports_Logo_September_2020.jpg" group-title="🥏 SUPERDEPORTES SPORTS",637 SKY SPORTS 1 ITALIA
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5564/5564938.png" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltf067295452c6f475/5f5f463021ecf947895d945a/Sky_Sports_Logo_September_2020.jpg" group-title="SUPERDEPORTES SPORTS",637 SKY SPORTS 1 ITALIA
 https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
 
 
