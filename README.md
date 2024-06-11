@@ -1998,7 +1998,7 @@ ESPN ARGENTINA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="⚽ ESPN",200 ESPN (🇦🇷) fw
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="ESPN",200 ESPN (🇦🇷) fw
 https://edge-live02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2008,7 +2008,7 @@ https://edge-live02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2H
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="⚽ ESPN",200 ESPN opc 2 (🇦🇷) fw
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png"  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="ESPN",200 ESPN opc 2 (🇦🇷) fw
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
 ESPN ARGENTINA
@@ -2019,7 +2019,7 @@ ESPN ARGENTINA
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="⚽ ESPN",201 ESPN (🇦🇷) ss
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="ESPN",201 ESPN (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
 
 
@@ -2034,7 +2034,7 @@ ESPN 2 ARGENTINA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="⚽ ESPN",205 ESPN 2 (🇦🇷) fw
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="ESPN",205 ESPN 2 (🇦🇷) fw
 https://edge-live17-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
 
 
@@ -2046,7 +2046,7 @@ ESPN 2 ARGENTINA
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="⚽ ESPN",206 ESPN 2 (🇦🇷) ss
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="ESPN",206 ESPN 2 (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
 
 
@@ -2061,7 +2061,7 @@ ESPN 2 PY
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="⚽ ESPN",208 ESPN 2 PY
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png"  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="ESPN",208 ESPN 2 PY
 https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(ESPN2_ANDINA)/manifest.mpd
 
 
@@ -2077,7 +2077,7 @@ ESPN 3 ARGENTINA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ ESPN",210 ESPN 3 (🇦🇷) fw
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPN",210 ESPN 3 (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
 
 ESPN 3 ARGENTINA
@@ -2094,7 +2094,7 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
 
 ESPN 3 COLOMBIA
  
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ ESPN"  ,212 ESPN 3 COLOMBIA (🇨🇴)
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPN"  ,212 ESPN 3 COLOMBIA (🇨🇴)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"R-4TwhHiTa21iZC20JwTUg","k":"qw7ETmsI2f0gXpKmaMdiNw"},{"kty":"oct","kid":"ksS3olwFTt29Y-Nx6iCXpw","k":"4-IqPjgoLeAuOgC39zzWvA"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QESPNTTV/dash/manifest.mpd
@@ -2108,14 +2108,14 @@ ESPN 4 ARGENTINA
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espn4.webp" group-title="⚽ ESPN",213 ESPN 4 (🇦🇷) ss
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png" tvg-logo="https://television-libre.online/img/espn4.webp" group-title="ESPN",213 ESPN 4 (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
 
 
 
 ESPN 4 COLOMBIA
  
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espn4.webp"  group-title="⚽ ESPN"  ,214 ESPN 4 COLOMBIA (🇨🇴)
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png" tvg-logo="https://television-libre.online/img/espn4.webp"  group-title="ESPN"  ,214 ESPN 4 COLOMBIA (🇨🇴)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Kvr0mIrYRLeiYrjfW3BeMw","k":"BxcsilCNo766bwXJBh249Q"},{"kty":"oct","kid":"609HIwWzQr6buX7ZIou6pg","k":"ZXy64rS2DGpK7mlJnIuIcQ"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QESPNETV/dash/manifest.mpd
@@ -2133,7 +2133,7 @@ ESPN 5 PY
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  tvg-logo="https://television-libre.online/img/espn5.webp" group-title="⚽ ESPN"  ,216 ESPN 5 PY
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png"  tvg-logo="https://television-libre.online/img/espn5.webp" group-title="ESPN"  ,216 ESPN 5 PY
 https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(FOX_SP_ANDINA)/manifest.mpd
 
 
@@ -2148,7 +2148,7 @@ ESPN 6 COLOMBIA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espn6.webp" group-title="⚽ ESPN",217 ESPN 6 COLOMBIA (🇨🇴) cl
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png"  tvg-logo="https://television-libre.online/img/espn6.webp" group-title="ESPN",217 ESPN 6 COLOMBIA (🇨🇴) cl
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
 
 ESPN 7 COLOMBIA
@@ -2160,7 +2160,7 @@ ESPN 7 COLOMBIA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espn7.png" group-title="⚽ ESPN",218 ESPN 7 COLOMBIA (🇨🇴) cl
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/16574/16574426.png" tvg-logo="https://television-libre.online/img/espn7.png" group-title="ESPN",218 ESPN 7 COLOMBIA (🇨🇴) cl
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
 
 
