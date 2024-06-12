@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", FIXTURE COMPLETO 1
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", FIXTURE COMPLETO EUROCOPA
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/12/22/4/CvOvpYAjwLpo/media/hls/master.m3u8
+
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", FIXTURE COMPLETO COPA AMERICA
 https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/12/21/59/JEVOEe171n52/media/hls/master.m3u8
 
 
