@@ -1,8 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LOS PALMERAS
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/19/24/Qtfa04LcVrWr/media/hls/master.m3u8
 
-#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", ENGANCHADOS CUMBIA SANTAFESINA 1
-https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/16/41/2rvqupfgKzrI/media/hls/master.m3u8
+
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LA NUEVA LUNA
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/20/7/OHu86dL4Cn3l/media/hls/master.m3u8
+
 
 
 
