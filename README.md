@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1  group-logo="-"  tvg-logo="-" group-title="MUSICA PARA BAILAR", ENGANCHADOS CUMBIA SANTAFESINA 1
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/15/42/VCuVwlncoMhq/media/hls/master.m3u8
 
 
 
