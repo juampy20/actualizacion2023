@@ -13,8 +13,8 @@ https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/23/31/nN2bC9Y
 #EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", SABROSO
 https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/0/12/Bne2yymiFwR7/media/hls/master.m3u8
 
-
-
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", KARINA
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/0/39/qH6rChcwhP3U/media/hls/master.m3u8
 
 
 
