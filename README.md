@@ -631,7 +631,14 @@ https://csc-ptn-edge01.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.m
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344436.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="ARGENTINA",12 TV PUBLICA (🇦🇷) fw
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
-
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344436.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="ARGENTINA",12 TV PUBLICA (🇦🇷) fw 2
+https://edge-mix01-mus.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
 
 
