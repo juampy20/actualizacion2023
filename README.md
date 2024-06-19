@@ -1553,6 +1553,19 @@ https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 ------------------------------------ DOCUMENTALES/CIENCIA/CULTURA--------------------------------------
 -------------------------------------------------------------------------------------------------------
 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/1598/1598431.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="DOCUMENTALES Y CULTURA", HGTV (🇦🇷) ss
+https://csc-ptn-edge01.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd
+
+
+
+
 NAT GEO
 
 
