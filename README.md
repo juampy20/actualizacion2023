@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1  group-logo="https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg"  tvg-logo="https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg" group-title="YouTube", youtube acceso directo
+https://www.youtube.com/
+
+
 #EXTINF:-1  group-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
