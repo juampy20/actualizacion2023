@@ -1,6 +1,19 @@
 #EXTM3U
 
 
+#EXTINF:-1   tvg-logo="-" group-title="Brasilerao liga ", br 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
+
+
+
+
 #EXTINF:-1  group-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5b3ef5178266173.653c678f16ee5.png"  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5b3ef5178266173.653c678f16ee5.png" group-title="INTENSAMENTE 2 "LA PELICULA"", INTENSAMENTE 2
 https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/17/20/58/63r8Yesx8sg6/media/hls/master.m3u8
 
