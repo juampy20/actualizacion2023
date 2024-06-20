@@ -3282,7 +3282,8 @@ inter miami--------
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",MLS• INTER MIAMI MESSI (HD) »1«
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n8.dramaticreadings.com:999/hls/mlspasshd2.m3u8?md5=0MOhRGwhkrh95PUR6JEiZw&expires=1717285038
+https://n1.dramaticreadings.com:7066/hls/mlspasshd3.m3u8?md5=N7JaErcijU0uxo1Bf-D2PA&expires=1718850659
+
 
 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png" group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",MLS• test weib (HD) »1«
