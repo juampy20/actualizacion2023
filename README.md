@@ -1,11 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1  group-logo="https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg"  tvg-logo="https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg" group-title="YouTube", youtube acceso directo
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1384/1384060.png"  tvg-logo="https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg" group-title="YouTube", youtube acceso directo
 https://www.youtube.com/
 
 
-#EXTINF:-1  group-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -15,7 +15,7 @@ https://www.youtube.com/
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
 
-#EXTINF:-1   group-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 2
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"   tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -28,7 +28,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/o
 
 
 
-#EXTINF:-1   group-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 3
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -40,7 +40,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/o
 
 
 
-#EXTINF:-1   group-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 4
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -53,7 +53,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/o
 
 
 
-#EXTINF:-1   group-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 5
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"   tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -66,7 +66,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/o
 
 
 
-#EXTINF:-1   group-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 6
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
