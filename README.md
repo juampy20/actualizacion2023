@@ -3286,10 +3286,12 @@ https://n1.dramaticreadings.com:7066/hls/mlspasshd3.m3u8?md5=N7JaErcijU0uxo1Bf-D
 
 
 
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png" group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",MLS• test weib (HD) »1«
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/12675/12675653.png"  group-title="MLS INTER MIAMI"  tvg-name="MLS• INTER MIAMI MESSI (HD) »1«" tvg-id="None" tvg-logo="https://i.postimg.cc/cCnVGKvT/Inter-miami-cf-logo-1.png",MLS• INTER MIAMI MESSI 2 (HD) »1«
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://webtv.iptvsmarters.com/
-http://176.97.113.132/auth/9084.m3u8?token=ngSc4V1ozn0dMnrtnHpZiOneW-pxLX_aOWpa22VYY87RNmf0shB8SexKFtau2Wltee6AmLu4vT97MC-BOGOZfVEbHmMfHPiblKIAP74RNOXZ5h5Euzu35zV7rNm2NJKJn3ovgHfA54zTZss3fWAPLDsOYbRrF2XHYjQSHfG7AjCiLEkyT9yJL7PZHif1AijzGLehFyOwxx90azy87MlL0WVWNUzWOBDG5tO4ndT6dSbHB_92xZ0G9yG6QxTbCnRNzRFjTaeklNw1-t5i4QSuXntScTUizoVlFCnOnKfbSKfH4jrRWGVr8KQKjwN0_GPz7eokzWe2os-OLvTRif2IiFdq0Eo2rkTnka8GtF-o6dRN3A3fVARyYBvuFNr1TO1ZKEMWt_BKcVAiVtoUmYVM6AiOeimax31GXkDfnow2B0dFsCEz6eL35sXA4fzKV8dZenbA-AC7qgWqy4DuC0L7hNth1Pqp1PGcuOkbbTjgUhMLrUPxhsoaCA5qa0K5Im0muEB8RGueprs4NOnVKuoU7wnXQ0t500Dc2boHYWpPdHc6gdPcGE4DvYXas6epgdkj-ifaB_bV6D0hioBMzrzZu8KVeTu_-vKo9G2txpAqbQYUKc_zq5EHuyvZ-qWqjerx5o-c6nuBwnx44_yoNEXPRg
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n2.dramaticreadings.com:7066/hls/mlspasshd3.m3u8?md5=seEVspzaavWb97S1UP5-ww&expires=1718850852
+
+
 
 
 
