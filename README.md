@@ -2561,7 +2561,8 @@ https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_S
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/TyC_Sports_%282003%29.png/revision/latest?cb=20190620182054&path-prefix=es" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="TYC SPORTS PLAY",278 TYC SPORTS (🇦🇷) ss
 https://csc-ptn-edge01.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
 
-
+#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/TyC_Sports_%282003%29.png/revision/latest?cb=20190620182054&path-prefix=es" tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="TYC SPORTS PLAY",278 TYC SPORTS (🇦🇷) m3u8
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 
 T Y C SPORTS
