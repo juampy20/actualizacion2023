@@ -90,6 +90,10 @@ https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/17/20/58/63r8Yes
 
 
 
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LOS DEL FUEGO
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/21/16/7/A4iOBesHMMN9/media/hls/master.m3u8
+
+
 #EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LOS PIBES CHORROS
 https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/21/15/22/73ewHtp28pHc/media/hls/master.m3u8
 
