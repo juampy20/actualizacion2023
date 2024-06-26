@@ -587,6 +587,8 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
 https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
 
 
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344436.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="ARGENTINA", 2 EL NUEVE (🇦🇷) mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 AMERICA
 
@@ -664,7 +666,8 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/Artear
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344436.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="ARGENTINA", 7 EL TRECE (🇦🇷) app
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344436.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="ARGENTINA", 7 EL TRECE (🇦🇷) mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 
 TELEFE
@@ -950,6 +953,8 @@ TN TODO NOTICIAS
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1042/1042680.png"  tvg-id="TodoNoticias.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="NOTICIAS", 62 TODO NOTICIAS (🇦🇷) mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/tn/output.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
