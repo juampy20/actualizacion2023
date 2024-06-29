@@ -1,15 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", referreer 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n1.dramaticreadings.com:1686/hls/espn1.m3u8?md5=mDteWeb7NxUQo6a73Xh06g&expires=1719700953
 
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", referreer
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://new1.tvroncdn9.shop/fls/cdn/myfeed60/tracks-v1a1/2024/06/29/20/41/47-04000.apk?token=c2VydmVyX3RpbWU9MTcxNDMyNzU2MyZoYXNoX3ZhbHVlPU5EQmlObUV3TldZek1tUmhNemMwWkRJM09URXdaREU0TTJZMU9EQmhNR
 
 
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO 1
