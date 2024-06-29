@@ -2,6 +2,13 @@
 
 
 
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO 1
+https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO 2
+https://cdnhd.iblups.com/hls/wCdPAY5bmT.m3u8
+
+
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1384/1384060.png"  tvg-logo="https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg" group-title="YouTube", youtube acceso directo
 https://www.youtube.com/
 
