@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", referreer 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n1.dramaticreadings.com:1686/hls/espn1.m3u8?md5=mDteWeb7NxUQo6a73Xh06g&expires=1719700953
 
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", referreer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
