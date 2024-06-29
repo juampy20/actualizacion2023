@@ -161,6 +161,10 @@ https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 #EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", EXCLUSIVO 2 365 
 https://cdnhd.iblups.com/hls/wCdPAY5bmT.m3u8
 
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", ingles
+https://goozp.flkof9jk8ujjjs.shop/playlist/23464/goozr.dmnkfui8jjd3h2.shop/caxi.m3u8
+
+
 
 --------------peru--------
 -------------------------
