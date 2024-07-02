@@ -163,6 +163,18 @@ https://edge-live31-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Even
 https://edge-live32-hr.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", LA1 españa (toda la eurocopa)
+https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
+
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
