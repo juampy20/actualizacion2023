@@ -2927,8 +2927,10 @@ http://cdn.adultiptv.net/rough.m3u8
 
 PORTEÑA COOPLUS
 
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" group-title="REGIONAL",370 PORTEÑA COOPLUS (🇦🇷) 
-https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9747/9747001.png"  tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" group-title="REGIONAL",370 PORTEÑA COOPLUS (🇦🇷) https://csc-ptn-edge01.sensa.com.ar/output/SMT1/PORD/output.mpd
+https://cdn.sensa.com.ar/output/SMT5/PORD/output.mpd
+
+
 
 MORTEROS
 
